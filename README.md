@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# We are on the air!
 
-You can use the [editor on GitHub](https://github.com/RadioNinjaPirata/radioninjapirata.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We launch the official website of the Radio Ninja Pirata project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Radio Ninja Pirata** hosts music radio stations on Spotify. We are sick and tired of radios playing always the "best songs", "the most popular" from the about 10 most known artists, Spotify standard radios are no exception to this. Here we are developing a radio project where every artist has the same change to be played and ALL songs from their discography are considered, no privileges given, an egalitarian radio.
 
-### Markdown
+It is time to explore more music!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How does it work?
 
-```markdown
-Syntax highlighted code block
+To listen to our radios is very easy, you just need a Spotify account. Why Spotify? We are not supported by Spotify whatsoever, simply is the platform we have been using personally for many years and so, why not continue with it?
 
-# Header 1
-## Header 2
-### Header 3
+**Lets explain the project:** first, our radios are technically playlists on Spotify, you can follow and organize them as any other playlist. Actually, if you listen to our stations, following our playlist is a great way to show that you like the project and keep us motivated :-)
 
-- Bulleted
-- List
+**How do these playlists work as radios then?** These are dynamic playlists that self regenerate with 70 new songs every 3 hours; previous songs disappear, new come in. When listening to our radios (playlists), this regeneration process results in an infinite playing loop, 24/7, providing to the user the experience of a radio. You just have to play it and it will go non-stop, think really about it as pure radios!
 
-1. Numbered
-2. List
+**Which kind of stations there are?** We are developing stations based on a theme, so that listening to station hours long provides a seamless experience. The authors that play on each radio are selected based on the radio theme and we try to gather as much artists as possible, not only those most famous but also those not under the lights of big fame. Our aim is to get people to know more music.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RadioNinjaPirata/radioninjapirata.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**How are songs selected?** Firstly, an author is selected randomly from the catalogue of authors that make up the radio, than we select a track from all author's tracks registered on Spotify - this process is repeated for every song added to the radio station. Therefore, all artists have the same probability to be played at each song selection. And, believe us, some times random creates very nice musical conections ;-)
