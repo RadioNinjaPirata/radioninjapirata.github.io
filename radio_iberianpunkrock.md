@@ -6,168 +6,169 @@ Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**!
 
 ## Artistas que suenan:
 
-#. A Palo Seko
-#. Agua Bendita
-#. Akabu Taldea
-#. Albert Pla
-#. Albertucho
-#. Anarchicks
-#. Animales Muertos
-#. Anticuerpos
-#. Arpaviejas
-#. Artigo 21
-#. Ataque De Pánico
-#. Barricada
-#. Benito Kamelas
-#. Berri Txarrak
-#. Bestia Parda
-#. Betagarri
-#. Blokeo
-#. Bocanada
-#. Boikot
-#. Brutus' Daughters
-#. Celtas Cortos
-#. Censurados
-#. Chamizo
-#. Chicharrica
-#. Cicatriz
-#. Commando 9Mm
-#. Dakidarria
-#. Def Con Dos
-#. Desakato
-#. Desechables
-#. Disidencia
-#. Ebri Knight
-#. El Drogas
-#. El Sobrino Del Diablo
-#. El Último Ke Zierre
-#. Elektroduendes
-#. Envidia Kotxina
-#. Escuela De Odio
-#. Eskorbuto
-#. Estrogenuinas
-#. Extrechinato Y Tu
-#. Fe De Ratas
-#. Fi-Asko
-#. Fito Y Fitipaldis
-#. Forraje
-#. Gatillazo
-#. Guerrilla Urbana
-#. Gérmenes
-#. Habeas Corpus
-#. Hamlet
-#. Hora Zulú
-#. Ignotus
-#. Ilegales
-#. Inadaptados
-#. Inconscientes
-#. Insolenzia
-#. Kamikazes
-#. Kaos Etíliko
-#. Kaotiko
-#. Karbunko
-#. Karkoma
-#. Karne Cruda
-#. Kasparrata
-#. Kolico
-#. Koma
-#. Konsumo Respeto
-#. Kop
-#. Kortatu
-#. Ktulu
-#. Kutxi Romero
-#. La Excepcion
-#. La Madre
-#. La Polla Records
-#. La Raíz
-#. Las Perras Del Infierno
-#. Lendakaris Muertos
-#. Leño
-#. Lilith
-#. Loquillo
-#. Los Chikos Del Maiz
-#. Los Enemigos
-#. Los Milicianos
-#. Los Muertos De Cristo
-#. Los Suaves
-#. Los Tronchos
-#. Los Webelos
-#. Luz Casal
-#. M.C.D.
-#. Macarrada
-#. Mafalda
-#. Mala Reputación
-#. Malos Vicios
-#. Mama Ladilla
-#. Manifa
-#. Manolo Kabezabolo
-#. Marea
-#. Mata Ratos
-#. Miss Octubre
-#. Mojinos Escozios
-#. Narco
-#. Nativa
-#. Ni Por Favor Ni Ostias
-#. No Konforme
-#. Non Servium
-#. Nuevos Héroes Del Rock
-#. Oferta Especial
-#. Oferta Especial
-#. Ostia Puta
-#. Pan De Higo
-#. Pandehigo
-#. Parabellum
-#. Penadas Por La Ley
-#. Peste & Sida
-#. Petra De Fenetra
-#. Piperrak
-#. Platero Y Tu
-#. Poncho K
-#. Porco Bravo
-#. Porretas
-#. Puagh
-#. Punk Panther
-#. Punk Sinatra
-#. Putakaska
-#. Radiocrimen
-#. Rat-Zinger
-#. Reincidentes
-#. Riot Propaganda
-#. Rip
-#. Robe
-#. Rosendo
-#. Salida Nula
-#. Salvate Si Puedes
-#. Sara Hebe
-#. Segismundo Toxicómano
-#. Seiskafes
-#. Sfdk
-#. Silencio Absoluto
-#. Siniestro Total
-#. Sinkope
-#. Ska-P
-#. Sons Of Aguirre
-#. Soziedad Alkoholika
-#. Strawberry Hardcore
-#. Su Ta Gar
-#. Suburbano
-#. Sugarless
-#. Síndrome De Abstinencia
-#. Tahúres Zúrdos
-#. Talco
-#. Tara Perdida
-#. The Birra’S Terror
-#. The Locos
-#. The Meas
-#. Toreros After Olé
-#. Trashtucada
-#. Tremenda Jauría
-#. Trinta & Um
-#. Txarrena
-#. Vagos Permanentes
-#. Viralata
-#. Vulpes
-#. Vómito
-#. Zer Bizio?
-#. Zirrosis
-#. Zoo
+1. A Palo Seko
+1. Agua Bendita
+1. Akabu Taldea
+1. Albert Pla
+1. Albertucho
+1. Anarchicks
+1. Animales Muertos
+1. Anticuerpos
+1. Arpaviejas
+1. Artigo 21
+1. Ataque De Pánico
+1. Barricada
+1. Benito Kamelas
+1. Berri Txarrak
+1. Bestia Parda
+1. Betagarri
+1. Blokeo
+1. Bocanada
+1. Boikot
+1. Brutus' Daughters
+1. Celtas Cortos
+1. Censurados
+1. Chamizo
+1. Chicharrica
+1. Cicatriz
+1. Commando 9Mm
+1. Dakidarria
+1. Def Con Dos
+1. Desakato
+1. Desechables
+1. Disidencia
+1. Ebri Knight
+1. El Drogas
+1. El Sobrino Del Diablo
+1. El Último Ke Zierre
+1. Elektroduendes
+1. Envidia Kotxina
+1. Escuela De Odio
+1. Eskorbuto
+1. Estrogenuinas
+1. Extrechinato Y Tu
+1. Fe De Ratas
+1. Fi-Asko
+1. Fito Y Fitipaldis
+1. Forraje
+1. Gatillazo
+1. Guerrilla Urbana
+1. Gérmenes
+1. Habeas Corpus
+1. Hamlet
+1. Hora Zulú
+1. Ignotus
+1. Ilegales
+1. Inadaptados
+1. Inconscientes
+1. Insolenzia
+1. Kamikazes
+1. Kaos Etíliko
+1. Kaotiko
+1. Karbunko
+1. Karkoma
+1. Karne Cruda
+1. Kasparrata
+1. Kolico
+1. Koma
+1. Konsumo Respeto
+1. Kop
+1. Kortatu
+1. Ktulu
+1. Kutxi Romero
+1. La Excepcion
+1. La Madre
+1. La Polla Records
+1. La Raíz
+1. Las Perras Del Infierno
+1. Lendakaris Muertos
+1. Leño
+1. Lilith
+1. Loquillo
+1. Los Chikos Del Maiz
+1. Los Enemigos
+1. Los Milicianos
+1. Los Muertos De Cristo
+1. Los Suaves
+1. Los Tronchos
+1. Los Webelos
+1. Luz Casal
+1. M.C.D.
+1. Macarrada
+1. Mafalda
+1. Mala Reputación
+1. Malos Vicios
+1. Mama Ladilla
+1. Manifa
+1. Manolo Kabezabolo
+1. Marea
+1. Mata Ratos
+1. Miss Octubre
+1. Mojinos Escozios
+1. Narco
+1. Nativa
+1. Ni Por Favor Ni Ostias
+1. No Konforme
+1. Non Servium
+1. Nuevos Héroes Del Rock
+1. Oferta Especial
+1. Oferta Especial
+1. Ostia Puta
+1. Pan De Higo
+1. Pandehigo
+1. Parabellum
+1. Penadas Por La Ley
+1. Peste & Sida
+1. Petra De Fenetra
+1. Piperrak
+1. Platero Y Tu
+1. Poncho K
+1. Porco Bravo
+1. Porretas
+1. Puagh
+1. Punk Panther
+1. Punk Sinatra
+1. Putakaska
+1. Radiocrimen
+1. Rat-Zinger
+1. Reincidentes
+1. Riot Propaganda
+1. Rip
+1. Robe
+1. Rosendo
+1. Salida Nula
+1. Salvate Si Puedes
+1. Sara Hebe
+1. Segismundo Toxicómano
+1. Seiskafes
+1. Sfdk
+1. Silencio Absoluto
+1. Siniestro Total
+1. Sinkope
+1. Ska-P
+1. Sons Of Aguirre
+1. Soziedad Alkoholika
+1. Strawberry Hardcore
+1. Su Ta Gar
+1. Suburbano
+1. Sugarless
+1. Síndrome De Abstinencia
+1. Tahúres Zúrdos
+1. Talco
+1. Tara Perdida
+1. The Birra’S Terror
+1. The Locos
+1. The Meas
+1. Toreros After Olé
+1. Trashtucada
+1. Tremenda Jauría
+1. Trinta & Um
+1. Txarrena
+1. Vagos Permanentes
+1. Viralata
+1. Vulpes
+1. Vómito
+1. Zer Bizio?
+1. Zirrosis
+1. Zoo
+
