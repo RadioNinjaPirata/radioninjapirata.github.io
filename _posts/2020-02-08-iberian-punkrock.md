@@ -1,6 +1,7 @@
 ---
+layout: default
 title:  "Iberian PunkRock"
-categories: [radios]
+categories: radios
 tags: [radios, punk, punkrock, iberia, iberian, rock, revolucion, portugal, españa]
 author: "RadioNinjaPirata"
 ---
