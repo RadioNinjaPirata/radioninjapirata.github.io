@@ -4,6 +4,8 @@ We have gathered the 100 best albums of the 80s as selected by the [Rolling Ston
 
 Two of the albums were not available on Spotify, so we had to left them out. Did we miss something? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new)!
 
+Listen bellow or [click here to go directly to Spotify](https://open.spotify.com/playlist/4bfEV2wUpFbp0dmsf8aKAu?si=H7ZWIARrQ5SESl6ZiGqHvQ)!
+
 {% include spotifyPlaylist.html id="4bfEV2wUpFbp0dmsf8aKAu" %}
 
 <br>
