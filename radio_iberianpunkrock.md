@@ -1,6 +1,6 @@
 # Punk Rock Iberico
 
-Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**, 167 artistas de Portugal y España sonando 24/7 ¡Qué prolifero es en Punk Iberico! :metal: :skull_and_crossbones:
+Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**, 167 artistas de Portugal y España sonando 24/7 ¡Qué prolifero es en Punk Iberico!
 
 Escucha la radio abajo o [pincha en este enlace directo para Spotify](https://open.spotify.com/playlist/04E9cCSXOVWfWt0eGYqXr2?si=YAv2rUwnQIeuDJ5bQoQO3w)!
 
