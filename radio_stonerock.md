@@ -10,7 +10,7 @@ Listen to the radio bellow or [click here its direct link for Spotify](https://o
 
 <br>
 
-Do you like it? Let us know, give that radio a :heart:.
+Do you like it? Let us know, give that radio a like.
 
 # Featured artists
 
