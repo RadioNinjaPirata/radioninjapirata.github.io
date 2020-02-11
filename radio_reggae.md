@@ -1,6 +1,8 @@
 # Reggae
 
-Welcome to the **Reggae** radio station from **Radio Ninja Pirata**!
+Welcome to the **Reggae** radio station from **Radio Ninja Pirata**, great music from the very great roots!
+
+Listen bellow or [click to the direct link to Spotify](https://open.spotify.com/playlist/0R0N8vd7LKaZ7oNdIWEa2j?si=qN9T_GvmQre8vCx5GlE4Eg).
 
 {% include spotifyPlaylist.html id="0R0N8vd7LKaZ7oNdIWEa2j" %}
 
