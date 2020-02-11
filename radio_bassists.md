@@ -6,6 +6,8 @@ One of our members is a bass player himself, so **BASS**!
 
 Here's a radio where we gathered the best and all the Bass players projects we found on Spotify. Did we miss someone? [Let us know!](https://github.com/RadioNinjaPirata/commentsENG/issues/new)
 
+Listen bellow or [click to the direct link for Spotify](https://open.spotify.com/playlist/4qmnYRwFIllMCBWDZp0oww?si=v6OqlVOTRhiXJMtis_0oWw)! :notes:
+
 {% include spotifyPlaylist.html id="4qmnYRwFIllMCBWDZp0oww" %}
 
 <br>
