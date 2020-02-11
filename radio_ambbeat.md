@@ -1,9 +1,11 @@
 # Ambient Beat
 
-This is one of the first radio stations we aired, the amazing low frequencies of these AmbBeat musicians.
-Inifinite chillout and relax in our radio 24/7, we really like it at night or during the long hours focusing at work.
+This is one of the first radio stations we aired, the amazing low frequencies of these **AmbBeat** musicians.
+Inifinite chillout and relax in our radio 24/7, we really like it at night or during the long hours focusing at work. What about you?
 
-Did we miss someone? Surely yes, [let us know!](https://github.com/RadioNinjaPirata/commentsENG/issues/new)
+Did we miss someone? Surely yes, [let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) and we will add him/her/they!
+
+Listen to the radio bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=VxTOQsr_Q8eQoQDdpHoDVA).
 
 {% include spotifyPlaylist.html id="1t7HZQodmcD3jHAH6GjuuL" %}
 
