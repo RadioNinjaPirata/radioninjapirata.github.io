@@ -2,7 +2,9 @@
 
 Aren't you yet trashed enough? Trash yourself our with our **Trash Metal Radio**, it's aired, 24/7!
 
-Did we miss someone? Is you band not featured in our radio? [Let us know!](https://github.com/RadioNinjaPirata/commentsENG/issues/new)
+Did we miss someone? Is your band not featured in our radio? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) we will add him/her/you/they!
+
+Listen bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=Pv9tHMweQSKizA0ZDrxGvw). :metal:
 
 {% include spotifyPlaylist.html id="6i6Sjf3DZjHfxbmj9VMtbS" %}
 
