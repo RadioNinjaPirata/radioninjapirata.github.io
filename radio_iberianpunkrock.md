@@ -1,6 +1,8 @@
 # Punk Rock Iberico
 
-Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**!
+Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**, 167 artistas de Portugal y España sonando 24/7 ¡Qué prolifero es en Punk Iberico! :metal: :skull_and_crossbones:
+
+Escucha la radio abajo o [pincha en este enlace directo para Spotify](https://open.spotify.com/playlist/04E9cCSXOVWfWt0eGYqXr2?si=YAv2rUwnQIeuDJ5bQoQO3w)!
 
 {% include spotifyPlaylist.html id="04E9cCSXOVWfWt0eGYqXr2" %}
 
@@ -38,6 +40,7 @@ Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**!
 1. Def Con Dos
 1. Desakato
 1. Desechables
+1. Dikers
 1. Disidencia
 1. Ebri Knight
 1. El Drogas
@@ -119,6 +122,7 @@ Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**!
 1. Pan De Higo
 1. Pandehigo
 1. Parabellum
+1. Paralisis Permanente
 1. Penadas Por La Ley
 1. Peste & Sida
 1. Petra De Fenetra
@@ -173,4 +177,6 @@ Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**!
 1. Zer Bizio?
 1. Zirrosis
 1. Zoo
+
+
 
