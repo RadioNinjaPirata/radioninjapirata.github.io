@@ -20,26 +20,36 @@ Listen bellow or [click to the direct link for Spotify](https://open.spotify.com
 1. Alain Caron
 1. Andre Berry
 1. Andy Salvanos
+1. Anthony Crawford
 1. Aram Bedrosian
+1. Barry Likumahuwa
 1. Bernhard Lackner
 1. Bill Clements
 1. Billy Sheehan
+1. Blair Bryant
 1. Brett Garsed
 1. Brian Bromberg
 1. Byron Miller
+1. Béla Fleck And The Flecktones
+1. Charles Berthoud
 1. Charles Glenn
 1. Charlie Moreno
 1. Christian Mcbride
 1. Chyco Siméon
 1. Couple Coffee
 1. Cristiano Parato
+1. Darryl Williams
 1. David Dyson
 1. Davie504
+1. Derrick Hodge
 1. Distant Fires Burning
 1. Doug Johns
 1. Evan Brewer
+1. Evan Marien
 1. Fuji Fujimoto
 1. Gary Willis
+1. Gerald Veasley
+1. Ida Nielsen
 1. Jaco Pastorius
 1. Janek Gwizdala
 1. Japhlet Bire Attias
@@ -48,16 +58,26 @@ Listen bellow or [click to the direct link for Spotify](https://open.spotify.com
 1. Jermaine Morgan
 1. Jo Sallins
 1. John Patitucci
+1. Julian Vaughn
 1. Kai Eckhardt
+1. Kinga Glyk
 1. Larry Tuttle
 1. Lp Septet
 1. Marcus Miller
 1. Mark Egan
+1. Markus Setzer
 1. Melvin Lee Davis
 1. Michael Manring
+1. Michael Manson
+1. Mitchell Coleman Jr
+1. Nathan East
+1. Nathan Navarro
+1. Nicole Badila
 1. Norm Stockton
+1. Ollie Collins
 1. Ray Riendeau
 1. Redtenbacher'S Funkestra
+1. Ric Alexander & Levi Seacer Jr.
 1. Rodrigo Serrao
 1. Rothko
 1. Rozzano Zamorano
@@ -65,10 +85,14 @@ Listen bellow or [click to the direct link for Spotify](https://open.spotify.com
 1. Simon Little
 1. Stanley Clarke
 1. Steve Bailey
+1. Steve Jenkins
 1. Stevie Williams
 1. Tal Wilkenfeld
+1. The Stanley Clarke Band
 1. Tommy Loose
+1. Tony Grey
 1. Vail Johnson
 1. Victor Bailey
 1. Victor Wooten
+1. Wayman Tisdale
 1. Yves Carbonne
