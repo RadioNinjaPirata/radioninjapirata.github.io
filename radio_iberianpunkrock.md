@@ -30,6 +30,7 @@ Escucha la radio abajo o [pincha en este enlace directo para Spotify](https://op
 1. Bocanada
 1. Boikot
 1. Brutus' Daughters
+1. Calentón
 1. Celtas Cortos
 1. Censurados
 1. Chamizo
@@ -177,6 +178,3 @@ Escucha la radio abajo o [pincha en este enlace directo para Spotify](https://op
 1. Zer Bizio?
 1. Zirrosis
 1. Zoo
-
-
-
