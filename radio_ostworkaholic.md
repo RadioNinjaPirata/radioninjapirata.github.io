@@ -19,9 +19,9 @@ No. | Band | links
 5  | Commandos 2 Men of Courage |   
 6  | Commandos Soundtrack Collection (Original Game Soundtrack) |   
 9  | Diablo II Original Soundtrack |   
-7  | Diablo III Reaper of Souls Soundtrack |   
+7  | Diablo III Reaper of Souls Soundtrack | <a href="https://www.blizzard.com/en-sg/games/music/diablo3-reaper-of-souls.html" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0NsSIxEDXugMRsN8l4d1sA?si=yriwvNKkSmqaNqEI_74iUQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Blizzard_Ent" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
 8  | Diablo III Soundtrack |   
-10  | Doom (Original Game Soundtrack) |   
+10  | Doom (Original Game Soundtrack) | <a href="https://mick-gordon.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp?si=DFGpymriTj2QNPXvPYBHQQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Mick_Gordon" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
 11  | Heroes of the Storm (Original Game Soundtrack) |   
 12  | Impression: Samurai Champloo OST |   
 43  | John Wick (Original Motion Picture Soundtrack) |   
@@ -33,7 +33,7 @@ No. | Band | links
 18  | Spartacus: Vengeance (Music From The Starz Original Series) |   
 19  | Spartacus: Vengeance (Music From The Starz Original Series) |   
 20  | Spartacus: War Of The Damned (Music From The Starz Original Series) |   
-21  | StarCraft 2: Legacy of the Void Soundtrack |   
+21  | StarCraft 2: Legacy of the Void Soundtrack | <a href="https://www.blizzard.com/en-sg/games/music/sc2-legacy-of-the-void.html" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0NIw6CSJ7BKAdvEWAwkjng?si=IwxgG8MsSa6s-clqUbhqBg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Blizzard_Ent" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
 22  | StarCraft II: Heart of the Swarm Soundtrack |   
 23  | StarCraft II: Original Soundtrack |   
 24  | StarCraft Original Soundtrack |   
@@ -54,6 +54,5 @@ No. | Band | links
 37  | World of Warcraft: Mists of Pandaria Soundtrack |   
 39  | World of Warcraft: Taverns of Azeroth Original Soundtrack |   
 40  | World of Warcraft: The Burning Crusade Original Soundtrack |   
-41  | World of Warcraft: Warlords of Draenor Original Game Soundtrack |   
+41  | World of Warcraft: Warlords of Draenor Original Game Soundtrack | <a href="https://www.blizzard.com/en-sg/games/music/wow-warlords-of-draenor.html" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0MsAQN2gxLmzmIzXzva1BD?si=7YPODltGTEyanTII8rcIng" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Blizzard_Ent" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
 42  | World of Warcraft: Wrath of the Lich King Original Soundtrack |   
-
