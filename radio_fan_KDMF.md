@@ -1,4 +1,4 @@
-No. | Band | web | spotify | twitter
---- | ---- | --- | ------- | -------
-1  | King Diamond |  |  | 
-2  | Mercyful Fate |  |  | 
+No. | Band | links
+--- | ---- | -----
+1  | King Diamond | <a href="https://www.kingdiamondcoven.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa?si=2FdmWgeKQKWmA8dWdGYDpA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/kingdiamond" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
+2  | Mercyful Fate | <a href="https://mercyfulfatecoven.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9?si=WKlPdpaDQeOaIM5Z23QF8Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/MercyfulFate_HQ" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
