@@ -10,6 +10,10 @@ We have many other metal stations to satisfy the darkest desires of our listener
 
 Listen to the radio bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/4n3FlNr15ys3639iV7J2jC?si=uwk4jmRgTS-8WpDrqA6FhQ).
 
+This is a dynamic playlist that regenerates every 2h with 40 new songs! We consider full discographies from the featured artists. ^.^
+
+Did you want us to add someone else? Surely, [let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) and we will add hum/her/you/they!
+
 {% include spotifyPlaylist.html id="4n3FlNr15ys3639iV7J2jC" %}
 
 <br>
