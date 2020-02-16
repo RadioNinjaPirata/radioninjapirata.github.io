@@ -9,6 +9,7 @@ Listen to the radio bellow or [click in this direct link to Spotify](https://ope
 <br>
 
 # Featured Artists
+
 No. | Band | links
 --- | ---- | -----
 1 | Animals as Leaders | <a href="https://www.facebook.com/animalsasleaders" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8?si=kNeDXKVbRcak7pr2ASYEPQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/AnimalAsLeader" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
