@@ -14,35 +14,38 @@ Listen ot it bellow or [click in this direct link to Spotify](https://open.spoti
 
 # Featured Artists
 
-We still have few artists here, but more on the way ;-)
+We still have few artists here, but more on the way ;-) And we are currently working on adding the links for every band. Stay tuned!
 
-1. Abbadon
-1. Apofenia
-1. Bolt Thrower
-1. Cannibal Corpse
-1. Cattle Decapitation
-1. Damnation Defaced
-1. Death
-1. Decapitated
-1. Deicide
-1. Dracena
-1. Farasu
-1. Fleshgod Apocalypse
-1. Immolation
-1. Krisiun
-1. Metalocalypse: Dethklok
-1. Morbid Angel
-1. Napalm Death
-1. Necrophagia
-1. Nile
-1. Obituary
-1. Strapping Young Lad
-1. Suffocation
-1. The Faceless
-1. Vader
-1. Vale Of Pnath
-1. Vital Remains
-1. Vomitory
+No. | Band | links
+--- | ---- | -----
+1 | Abbadon |   
+2 | Abysmal Dawn | <a href="https://www.facebook.com/AbysmalDawn" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2h7HrMDoZpWxx3uAuJxyj9?si=twtOOU4VQ6-AVyJc8PGFyg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/AbysmalDawn" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
+3 | Apofenia |   
+4 | Bolt Thrower |   
+5 | Cannibal Corpse |   
+6 | Cattle Decapitation |   
+7 | Damnation Defaced |   
+8 | Death |   
+9 | Decapitated |   
+10 | Deicide |   
+11 | Dracena |   
+12 | Farasu |   
+13 | Fleshgod Apocalypse |   
+14 | Immolation |   
+15 | Krisiun |   
+16 | Metalocalypse: Dethklok |   
+17 | Morbid Angel |   
+18 | Napalm Death |   
+19 | Necrophagia |   
+20 | Nile |   
+21 | Obituary |   
+22 | Strapping Young Lad |   
+23 | Suffocation |   
+24 | The Faceless |   
+25 | Vader |   
+26 | Vale Of Pnath |   
+27 | Vital Remains |   
+28 | Vomitory |   
 
 
 Did we miss someone? Is your band not featured in our radio? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) we will add him/her/you/they!
