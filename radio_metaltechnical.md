@@ -1,6 +1,8 @@
 # Metal Technical
 
-**Highly technical** instrumental madness! An outter space outter body experience .::.
+Welcome to our **Highly technical** instrumental madness radio station on **Spotify**! An outter space outter body experience .::.
+
+Our radios are dynamic playlists that regenerate with 40 new songs every 2h. Play it and you will live a non-stop seamless music experience!
 
 Listen to the radio bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/1WsT43p9i7ktcndqMrucy7?si=6k4YZPvaRu6OhyX5lDu59w).
 
