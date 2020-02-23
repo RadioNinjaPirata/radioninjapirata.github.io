@@ -1,7 +1,7 @@
 # Pirate Metal
 
 
-Oh-Hoy!!! How couldn't we have a **Pirate Metal** radio station? Set sail!
+Ahoy!!! How couldn't we have a **Pirate Metal** radio station? Set sail!
 
 Our radio is a dynamic playlist on Spotfy which regenerates every 2h with 40 new songs, sampling random songs from the featured Pirates, full discographies considered!
 
