@@ -126,63 +126,62 @@ No. | Grupo | Enlaces
 108 | Non Servium |     
 109 | Nuevos Héroes del Rock | <a href="https://es.wikipedia.org/wiki/The_Kagas" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/1YPt2UE3GWYLPyhpzUe8eI?si=qMkOhzgITkeuDU_DUgQG_w" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
 110 | Oferta Especial |     
-111 | Oferta Especial |     
-112 | Ostia Puta |     
-113 | Pan De Higo |     
-114 | Pandehigo |     
-115 | Parabellum |     
-116 | Paralisis Permanente |     
-117 | Penadas Por La Ley |     
-118 | Peste & Sida |     
-119 | Petra De Fenetra |     
-120 | Piperrak |     
-121 | Platero Y Tu |     
-122 | Poncho K |     
-123 | Porco Bravo |     
-124 | Porretas |     
-125 | Puagh |     
-126 | Punk Panther |     
-127 | Punk Sinatra |     
-128 | Putakaska |     
-129 | Radiocrimen |     
-130 | Rat-Zinger |     
-131 | Reincidentes |     
-132 | Riot Propaganda |     
-133 | Rip |     
-134 | Robe |     
-135 | Rosendo |     
-136 | Salida Nula |     
-137 | Salvate Si Puedes |     
-138 | Sara Hebe |     
-139 | Segismundo Toxicómano |     
-140 | Seiskafes |     
-141 | Sfdk |     
-142 | Silencio Absoluto |     
-143 | Siniestro Total |     
-144 | Sinkope |     
-145 | Ska-P |     
-146 | Sons Of Aguirre |     
-147 | Soziedad Alkoholika |     
-148 | Strawberry Hardcore |     
-149 | Su Ta Gar |     
-150 | Suburbano |     
-151 | Sugarless |     
-152 | Síndrome De Abstinencia |     
-153 | Tahúres Zúrdos |     
-154 | Talco |     
-155 | Tara Perdida |     
-156 | The Birra’S Terror |     
-157 | The Locos |     
-158 | The Meas |     
-159 | Toreros After Olé |     
-160 | Trashtucada |     
-161 | Tremenda Jauría |     
-162 | Trinta & Um |     
-163 | Txarrena |     
-164 | Vagos Permanentes |     
-165 | Viralata |     
-166 | Vulpes |     
-167 | Vómito |     
-168 | Zer Bizio? |     
-169 | Zirrosis |     
-170 | Zoo |     
+111 | Ostia Puta |     
+112 | Pan De Higo |     
+113 | Pandehigo |     
+114 | Parabellum |     
+115 | Paralisis Permanente |     
+116 | Penadas Por La Ley |     
+117 | Peste & Sida |     
+118 | Petra De Fenetra |     
+119 | Piperrak |     
+120 | Platero Y Tu |     
+121 | Poncho K |     
+122 | Porco Bravo |     
+123 | Porretas |     
+124 | Puagh |     
+125 | Punk Panther |     
+126 | Punk Sinatra |     
+127 | Putakaska |     
+128 | Radiocrimen |     
+129 | Rat-Zinger |     
+130 | Reincidentes |     
+131 | Riot Propaganda |     
+132 | Rip |     
+133 | Robe |     
+134 | Rosendo |     
+135 | Salida Nula |     
+136 | Salvate Si Puedes |     
+137 | Sara Hebe |     
+138 | Segismundo Toxicómano |     
+139 | Seiskafes |     
+140 | Sfdk |     
+141 | Silencio Absoluto |     
+142 | Siniestro Total |     
+143 | Sinkope |     
+144 | Ska-P |     
+145 | Sons Of Aguirre |     
+146 | Soziedad Alkoholika |     
+147 | Strawberry Hardcore |     
+148 | Su Ta Gar |     
+149 | Suburbano |     
+150 | Sugarless |     
+151 | Síndrome De Abstinencia |     
+152 | Tahúres Zúrdos |     
+153 | Talco |     
+154 | Tara Perdida |     
+155 | The Birra’S Terror |     
+156 | The Locos |     
+157 | The Meas |     
+158 | Toreros After Olé |     
+159 | Trashtucada |     
+160 | Tremenda Jauría |     
+161 | Trinta & Um |     
+162 | Txarrena |     
+163 | Vagos Permanentes |     
+164 | Viralata |     
+165 | Vulpes |     
+166 | Vómito |     
+167 | Zer Bizio? |     
+168 | Zirrosis |     
+169 | Zoo |     
