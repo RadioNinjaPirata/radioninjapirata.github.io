@@ -1,6 +1,8 @@
 # S.O.A.D. Family
 
-This is our radio station for **System of a Down** fans, featuring S.O.A.D. and their member's solo projects! And thriving for more additions ;-)
+This is our radio station for **System of a Down** fans, featuring S.O.A.D. and their member's solo projects!
+
+This radio flows like all our other radios, with 40 new songs every 2h. ;) Want to tell us something? Leave us a [comment](https://github.com/RadioNinjaPirata/commentsENG/issues/1). 
 
 Listen to the radio bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/2r3T5Jt72Jpcnia2rKtjDI?si=Q9Uv3I2dQjyesexyztrB-A).
 
