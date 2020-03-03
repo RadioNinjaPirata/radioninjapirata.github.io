@@ -1,4 +1,4 @@
-# S.O.A.D. Family
+# S.O.A.D. Fan radio
 
 This is our radio station for **System of a Down** fans, featuring S.O.A.D. and their member's solo projects!
 
