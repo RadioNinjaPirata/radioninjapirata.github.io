@@ -1,6 +1,6 @@
-# Stone Rock
+# Stoner Rock
 
-Crazzy high crazzy low, from light to the darkest, go high with our **Stone Rock** radio station!
+Crazzy high crazzy low, from light to the darkest, go high with our **Stoner Rock** radio station!
 
 Did we miss someone? Is you band not featured in our radio? [Let us know!](https://github.com/RadioNinjaPirata/commentsENG/issues/new)
 
