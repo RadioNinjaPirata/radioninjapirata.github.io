@@ -2,9 +2,9 @@
 
 Crazy high crazy low, from light to the darkest, go high with our **Stoner Rock** radio station! Our stations are dynamic playlists on Spotify. How are they dynamic? Because they regenerate fully every 2h with 40 new songs! Songs are selected randomly from the catalogue of artist :-) Discover more about [our project in our home page](https://radioninjapirata.github.io).
 
-Did we miss someone? Is you band not featured in our radio? [Let us know!](https://github.com/RadioNinjaPirata/commentsENG/issues/new)
+Did we miss someone? Is your band not featured in our radio? [Let us know!](https://github.com/RadioNinjaPirata/commentsENG/issues/new)
 
-Listen to the radio bellow or [click here its direct link for Spotify](https://open.spotify.com/playlist/14WTPSQvlxT1eHfF2SlWlr?si=E23WcLz_QHS6lUNL4XIJfQ)!
+Listen to the radio below or [click here a direct link to Spotify](https://open.spotify.com/playlist/14WTPSQvlxT1eHfF2SlWlr?si=E23WcLz_QHS6lUNL4XIJfQ)!
 
 {% include spotifyPlaylist.html id="14WTPSQvlxT1eHfF2SlWlr" %}
 
