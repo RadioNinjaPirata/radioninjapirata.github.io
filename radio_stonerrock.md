@@ -70,19 +70,21 @@ No. | Band | links
 50 | Rishloo |     
 51 | Saint Vitus |     
 52 | Sleep |     
-53 | Spirit Caravan |     
-54 | The Black Keys |     
-55 | The Dead Weather |     
-56 | The Killers |     
-57 | The Obsessed |     
-58 | The Raconteurs |     
-59 | The Sword |     
-60 | The Von Bondies |     
-61 | The White Stripes |     
-62 | Them Crooked Vultures |     
-63 | Tool |     
-64 | Travis |     
-65 | Uncle Acid & The Deadbeats |     
-66 | Weedeater |     
-67 | Windhand |     
-68 | Witch |     
+53 | Somali Yacht Club |  <a href="https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV?si=Lsuw0d9LTSqoMiqxf2t0HA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/somaliyachtclub" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/Somaliyachtclub" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://somaliyachtclub.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+54 | Spirit Caravan |     
+55 | Stoned Jesus | <a href="https://stonedjesus.woolheads.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR?si=KTSiSw1aSsqCemdAz7bqJw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/StonedJesusBand" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/stonedjesusband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+56 | The Black Keys |     
+57 | The Dead Weather |     
+58 | The Killers |     
+59 | The Obsessed |     
+60 | The Raconteurs |     
+61 | The Sword |     
+62 | The Von Bondies |     
+63 | The White Stripes |     
+64 | Them Crooked Vultures |     
+65 | Tool |     
+66 | Travis |     
+67 | Uncle Acid & The Deadbeats |     
+68 | Weedeater |     
+69 | Windhand |     
+70 | Witch |     
