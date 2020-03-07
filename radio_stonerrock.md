@@ -1,6 +1,6 @@
 # Stoner Rock
 
-Crazzy high crazzy low, from light to the darkest, go high with our **Stoner Rock** radio station! Our stations are dynamic playlists on Spotify. How are they dynamic? Because they regenerate fully every 2h with 40 new songs! Songs are selected randomly from the catalogue of artist :-) Discover more about [our project in our home page](https://radioninjapirata.github.io).
+Crazy high crazy low, from light to the darkest, go high with our **Stoner Rock** radio station! Our stations are dynamic playlists on Spotify. How are they dynamic? Because they regenerate fully every 2h with 40 new songs! Songs are selected randomly from the catalogue of artist :-) Discover more about [our project in our home page](https://radioninjapirata.github.io).
 
 Did we miss someone? Is you band not featured in our radio? [Let us know!](https://github.com/RadioNinjaPirata/commentsENG/issues/new)
 
@@ -14,7 +14,7 @@ Do you like it? Let us know, give that radio a like.
 
 # Featured artists
 
-We are a new and building daily. We are adding the links for all the artists featured and adding more artists. Stay tuned! :-)
+We are a new project and building daily. We are adding the links for all the artists featured and adding more artists. Stay tuned! :-)
 
 No. | Band | links
 --- | ---- | -----
