@@ -2,9 +2,9 @@
 
 Metaaaaaaaaaaaaaaaaaaaalll!!
 
-Pure **Power Metal** screaming 24/7, on our radio on Spotify!
+Pure **Power Metal** screaming 24/7, on our radio on Spotify! Our radios are dynamic playlists that self regenerate every 2h with 40 new songs. Songs are selected randomly from the featured artists; full discographies are considered! [Read more about our project](https://radioninjapirata.github.io/).
 
-Listen bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=V_UZ42fwTnePTci37LNuYQ).
+Listen to the radio bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=V_UZ42fwTnePTci37LNuYQ).
 
 {% include spotifyPlaylist.html id="6DSEGEYJ8INKWqPsCC1UGU" %}
 
@@ -12,74 +12,82 @@ Listen bellow or [click in this direct link to Spotify](https://open.spotify.com
 
 # Featured Artists
 
-1. A Sound Of Thunder
-1. Aetherna
-1. Aldious
-1. Alhambra
-1. Amaranthe
-1. Ancient Bards
-1. Aquaria
-1. At Vance
-1. Avantasia
-1. Axenstar
-1. Battle Beast
-1. Black Majesty
-1. Blind Guardian
-1. Celesty
-1. Cryonic Temple
-1. Crystal Eyes
-1. Dark Moor
-1. Demons & Wizards
-1. Derdian
-1. Dionysus
-1. Dragonforce
-1. Dragonhammer
-1. Dragonland
-1. Dream Evil
-1. Dreamtale
-1. Edguy
-1. Emerald Sun
-1. Excalion
-1. Fairyland
-1. Firewind
-1. Forgotten Tales
-1. Freedom Call
-1. Hammerfall
-1. Heavy Metal Perse
-1. Helloween
-1. Highland Glory
-1. Highlord
-1. Human Fortress
-1. Iced Earth
-1. Iron Fire
-1. Iron Mask
-1. Iron Savior
-1. Kaledon
-1. Kamelot
-1. Lost Horizon
-1. Lovebites
-1. Luca Turilli
-1. Magic Kingdom
-1. Majesty
-1. Mardelas
-1. Masterplan
-1. Metalium
-1. Nocturnal Rites
-1. Power Quest
-1. Rhapsody
-1. Rhapsody Of Fire
-1. Sabaton
-1. Sacred Steel
-1. Savage Circus
-1. Silent Force
-1. Sonata Arctica
-1. Steel Attack
-1. Stratovarius
-1. Symphony X
-1. Timeless Miracle
-1. Twilight Force
-1. Visions Of Atlantis
-1. Yngwie Malmsteen
-1. Zonata
+We are currently adding more artists and the links to their social media. Stay tuned!
 
-Did we miss someone? Is your band not featured in our radio? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) we will add him/her/you/they!
+No. | Band | links
+--- | ---- | -----
+1 | A Sound Of Thunder |     
+2 | Aetherna |     
+3 | Aldious |     
+4 | Alhambra |     
+5 | Almanac | <a href="https://www.almanac.band/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2YaA3jgeB9GHTMtzfFZfRc?si=okxVgj0QQsu1p36sm4V5jw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/almanacvsband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+6 | Amaranthe |     
+7 | Ancient Bards |     
+8 | Aquaria |     
+9 | At Vance |     
+10 | Avantasia |     
+11 | Axenstar |     
+12 | Battle Beast |     
+13 | Black Majesty |     
+14 | Blind Guardian |     
+15 | Burning Witches | <a href="https://www.burningwitches.ch/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8?si=eIU6sIazS-eAFnoHzOt_kg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/burningwitches_" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/burningwitches666" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+16 | Celesty |     
+17 | Cryonic Temple |     
+18 | Crystal Eyes |     
+19 | Dark Moor |     
+20 | Demons & Wizards |     
+21 | Derdian |     
+22 | Dionysus |     
+23 | Dragonforce |     
+24 | Dragonhammer |     
+25 | Dragonland |     
+26 | Dream Evil |     
+27 | Dreamtale |     
+28 | Edguy |     
+29 | Emerald Sun |     
+30 | Excalion |     
+31 | Fairyland |     
+32 | Firewind |     
+33 | Forgotten Tales |     
+34 | Freedom Call |     
+35 | Hammerfall |     
+36 | Heavy Metal Perse |     
+37 | Helloween |     
+38 | Highland Glory |     
+39 | Highlord |     
+40 | Human Fortress |     
+41 | Iced Earth |     
+42 | Iron Fire |     
+43 | Iron Mask |     
+44 | Iron Savior |     
+45 | Kaledon |     
+46 | Kamelot |     
+47 | Lost Horizon |     
+48 | Lovebites |     
+49 | Luca Turilli |     
+50 | Magic Kingdom |     
+51 | Majesty |     
+52 | Mardelas |     
+53 | Masterplan |     
+54 | Metalium |     
+55 | Nocturnal Rites |     
+56 | Power Quest |     
+57 | Rhapsody |     
+58 | Rhapsody Of Fire |     
+59 | Ross The Boss | <a href="https://www.ross-the-boss.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7iOaIkOG63D70TyWiqfn45?si=64EzfxadQMOr_ntLZsRvZQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/officialrtb" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/RossTheBoss" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+60 | Sabaton |     
+61 | Sacred Steel |     
+62 | Savage Circus |     
+63 | Serious Black | <a href="https://www.facebook.com/seriousblackofficial/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/27UjipLlCeXegs8PLpcJPV?si=hJ-0DZlGTGG55n5o4BTMwQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/SERIOUS_BLACK_1" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+64 | Silent Force |     
+65 | Sonata Arctica |     
+66 | Steel Attack |     
+67 | Stratovarius |     
+68 | Symphony X |     
+69 | Timeless Miracle |     
+70 | Twilight Force |     
+71 | Visions Of Atlantis |     
+72 | Yngwie Malmsteen |     
+73 | Zonata |     
+
+Did we miss anyone? Is your band not featured in our radio? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) we will add him/her/you/they!
