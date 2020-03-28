@@ -50,44 +50,46 @@ No. | Band | links
 32 | Firewind |     
 33 | Forgotten Tales |     
 34 | Freedom Call |     
-35 | Hammerfall |     
-36 | Heavy Metal Perse |     
-37 | Helloween |     
-38 | Highland Glory |     
-39 | Highlord |     
-40 | Human Fortress |     
-41 | Iced Earth |     
-42 | Iron Fire |     
-43 | Iron Mask |     
-44 | Iron Savior |     
-45 | Kaledon |     
-46 | Kamelot |     
-47 | Lost Horizon |     
-48 | Lovebites |     
-49 | Luca Turilli |     
-50 | Magic Kingdom |     
-51 | Majesty |     
-52 | Mardelas |     
-53 | Masterplan |     
-54 | Metalium |     
-55 | Nocturnal Rites |     
-56 | Power Quest |     
-57 | Rhapsody |     
-58 | Rhapsody Of Fire |     
-59 | Ross The Boss | <a href="https://www.ross-the-boss.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7iOaIkOG63D70TyWiqfn45?si=64EzfxadQMOr_ntLZsRvZQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/officialrtb" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/RossTheBoss" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-60 | Sabaton |     
-61 | Sacred Steel |     
-62 | Savage Circus |     
-63 | Serious Black | <a href="https://www.facebook.com/seriousblackofficial/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/27UjipLlCeXegs8PLpcJPV?si=hJ-0DZlGTGG55n5o4BTMwQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/SERIOUS_BLACK_1" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-64 | Silent Force |     
-65 | Sonata Arctica |     
-66 | Steel Attack |     
-67 | Stratovarius |     
-68 | Symphony X |     
-69 | Timeless Miracle |     
-70 | Twilight Force |     
-71 | Visions Of Atlantis |     
-72 | Yngwie Malmsteen |     
-73 | Zonata |     
+35 | Frozen Crown | <a href="https://frozencrown.bigcartel.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E?si=cXYZBrl7RZOtqeBPRfsoBQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/FrozenCrownBand" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/frozencrownofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+36 | Hammerfall |     
+37 | Heavy Metal Perse |     
+38 | Helloween |     
+39 | Highland Glory |     
+40 | Highlord |     
+41 | Human Fortress |     
+42 | Iced Earth |     
+43 | Iron Fire |     
+44 | Iron Mask |     
+45 | Iron Savior |     
+46 | Kaledon |     
+47 | Kamelot |     
+48 | Lost Horizon |     
+49 | Lovebites |     
+50 | Luca Turilli |     
+51 | Magic Kingdom |     
+52 | Majesty |     
+53 | Mardelas |     
+54 | Masterplan |     
+55 | Metalium |     
+56 | Nocturnal Rites |     
+57 | Power Quest |     
+58 | Rhapsody |     
+59 | Rhapsody Of Fire |     
+60 | Ross The Boss | <a href="https://www.ross-the-boss.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7iOaIkOG63D70TyWiqfn45?si=64EzfxadQMOr_ntLZsRvZQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/officialrtb" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/RossTheBoss" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+61 | Sabaton |     
+62 | Sacred Steel |     
+63 | Savage Circus |     
+64 | Serious Black | <a href="https://www.facebook.com/seriousblackofficial/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/27UjipLlCeXegs8PLpcJPV?si=hJ-0DZlGTGG55n5o4BTMwQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/SERIOUS_BLACK_1" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+65 | Silent Force |     
+66 | Sonata Arctica |     
+67 | Steel Attack |     
+68 | Stratovarius |     
+69 | Symphony X |     
+70 | Timeless Miracle |     
+71 | Twilight Force |     
+72 | Unisonic |  <a href="https://open.spotify.com/artist/3DDcmHnwKjM4sQ8qm34JMU?si=ipnz998hS7aI1afENHIlEw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/unisonicofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+73 | Visions Of Atlantis |     
+74 | Yngwie Malmsteen |     
+75 | Zonata |     
 
 Did we miss anyone? Is your band not featured in our radio? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) we will add him/her/you/they!
