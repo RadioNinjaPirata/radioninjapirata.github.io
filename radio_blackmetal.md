@@ -1,6 +1,6 @@
 # Black Metal
 
-Dive straight to the **depths** of **Hell** never to return with our **Black Metal** radio conjuring 24/7 on Spotify!
+Pure **Black Metal** radio conjuring 24/7 on Spotify!
 
 Our radios are dynamic playlists on Spotify that regenerate every 2h with 40 new songs; full discographies are considered! <a href="/">Check out our project!</a>
 
