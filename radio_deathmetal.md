@@ -1,10 +1,8 @@
 # Death Metal
 
-OOOORRRORORORORORORORrrrRRRRRRRRRRRRRRRRRRRR
+Check out our **Death Metal** dynamic playlist on Spotify!
 
-All our radios sound really cool, but his one is definitively one of our favourites by the way it so seamlessly goes!
-
-Check out our **Death Metal** radio on Spotify!
+Our dynamic playlists self-regenerate every 2h with 40 new songs selected randomly from the catalog of artists. Each artists have the same probability to be selected and we feature full discographies.
 
 Listen ot it bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/16OtLNSO3sKbXDtrQhSJk7?si=AKDQW-SjR4urrXY-zjKyHQ).
 
