@@ -4,6 +4,8 @@ Check out our **Death Metal** dynamic playlist on Spotify!
 
 Our dynamic playlists self-regenerate every 2h with 40 new songs selected randomly from the catalog of artists. Each artists have the same probability to be selected and we feature full discographies.
 
+Also, give us a chat on [Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/ienof7/death_metal/) or [Patreon](https://www.patreon.com/radioninjapirata).
+
 Listen ot it bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/16OtLNSO3sKbXDtrQhSJk7?si=AKDQW-SjR4urrXY-zjKyHQ).
 
 {% include spotifyPlaylist.html id="16OtLNSO3sKbXDtrQhSJk7" %}
@@ -41,10 +43,10 @@ No. | Band | links
 23 | Strapping Young Lad |     
 24 | Suffocation |     
 25 | The Faceless |     
-26 | Vader |     
-27 | Vale Of Pnath |     
-28 | Vital Remains |     
-29 | Vomitory |     
-
+26 | The Fallen Prophets | <a href="https://www.thefallenprophets.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5ZW7xLlj4bsIfjvUpNGEcs?si=90CPX_77SLmrSuN9pN0Muw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/tfpdeathmetal" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/the.fallen.prophets.band" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://thefallenprophets.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+27 | Vader |     
+28 | Vale Of Pnath |     
+29 | Vital Remains |     
+30 | Vomitory |     
 
 Did we miss someone? Is your band not featured in our radio? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) we will add him/her/you/they!
