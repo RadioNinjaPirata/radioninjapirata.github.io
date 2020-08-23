@@ -34,12 +34,6 @@ To listen to our radios is very easy, you just need a [Spotify account](https://
 
 We are in active development, some radios are experimental, others are nicely established. Have a look, and stay tuned! ;-)
 
-You can find our complete catalog on our webpage here:
-
-<a href="radios.html"><img src="assets/radios_button.png" alt="radiobutton" /></a>
-
-Or on our Spotify profile: <a href="https://open.spotify.com/user/pagbz485dhfowwiza5wc9cwh8?si=XVuH5a3NQ8Ohft-yPC5XBA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="50" width="50" /></a>
-
 Hey, we are under construction :-) we will continue creating more and more.
 
 Stay tuned!
