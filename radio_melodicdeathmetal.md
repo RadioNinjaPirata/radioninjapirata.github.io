@@ -8,7 +8,7 @@ Also, give us a chat on [Reddit](https://www.reddit.com/r/RadioNinjaPirata/comme
 
 Listen ot it bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=l2HH0wybTD6IdItZpwW75Q).
 
-{% include spotifyPlaylist.html id="spotify:playlist:3pTBorAd7ZzZleo4997Eki" %}
+{% include spotifyPlaylist.html id="3pTBorAd7ZzZleo4997Eki" %}
 
 <br>
 
