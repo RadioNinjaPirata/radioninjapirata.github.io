@@ -22,29 +22,34 @@ Did you want us to add someone else? Surely, [let us know](https://github.com/Ra
 
 No. | Band | links
 --- | ---- | -----
-1 | Amon Amarth |   
-2 | Arch Enemy |   
-3 | Black Label Society |   
-4 | Cavalera Conspiracy |   
-5 | Chimaira |   
-6 | DevilDriver |   
-7 | Entombed |   
-8 | Fear Factory |   
-9 | In Flames |   
-10 | Kingdom Of Sorrow |   
-11 | Korn |   
-12 | Lamb of God | <a href="https://www.lamb-of-god.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2?si=JMKDxZecR-GSqKv2o6MCNw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/lambofgod" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-13 | Machine Head |   
-14 | Moonspell |   
-15 | Motörhead |   
-16 | Pantera |   
-17 | Rage |   
-18 | Rage Against The Machine | <a href="https://tour.ratm.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj?si=TMktArSEQSmeHP0IN_u1XQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/RATM" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-19 | Rammstein |   
-20 | Roadrunner United |   
-21 | Rob Zombie |   
-22 | Sepultura |   
-23 | Soil |   
-24 | Soilwork |   
-25 | Soulfly |   
-26 | Threat Signal |   
+1 | Amon Amarth |     
+2 | Arch Enemy |     
+3 | Black Label Society |     
+4 | Blaze Out | <a href="http://blaze-out.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1CRRJ0h1GV8il3Omz74YrI?si=dfHbBkINSuWyv5jxKHt76w" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/blazeoutband" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/blaze.out.band" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+5 | Cavalera Conspiracy |     
+6 | Chimaira |     
+7 | Damageplan |  <a href="https://open.spotify.com/artist/4fE4Bf0MM6lMJpHiHniPuW?si=88wgQ2ciSX-bCttK6WTFYA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+8 | Devildriver |     
+9 | Down |  <a href="https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu?si=gTj72itqR9GrDNqMUd8v8g" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+10 | Entombed |     
+11 | Fear Factory |     
+12 | God Forbid |  <a href="https://open.spotify.com/artist/2OgQ0tvf2ldbdlm8sXyx3M?si=vrs_pwJjRO6vOG37DA0S2w" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+13 | In Flames |     
+14 | Kingdom Of Sorrow |     
+15 | Korn |     
+16 | Lamb of God | <a href="https://www.lamb-of-god.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2?si=JMKDxZecR-GSqKv2o6MCNw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/lambofgod" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+17 | Machine Head |     
+18 | Moonspell | <a href="https://www.moonspell.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6?si=I4lyBY8pTNOPu3RottUdrw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/moonspell" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/moonspellband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+19 | Motörhead |     
+20 | Nightfall | <a href="www.nightfallofficial.com" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/4W0Vom1cl6o3UCq8tTfRHV?si=QdECvVshSZSoxZaRYxhtdA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/nightfallbandofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+21 | Pantera |     
+22 | Rage |     
+23 | Rage Against The Machine | <a href="https://tour.ratm.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj?si=TMktArSEQSmeHP0IN_u1XQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/RATM" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+24 | Rammstein |     
+25 | Roadrunner United |     
+26 | Rob Zombie |     
+27 | Sepultura |     
+28 | Soil |     
+29 | Soilwork |     
+30 | Soulfly |     
+31 | Threat Signal |     
