@@ -10,7 +10,7 @@ Tune it bellow or [directly on Spotify](https://open.spotify.com/playlist/6i6Sjf
 
 We have also a [Reddit thread for fans out there](https://www.reddit.com/r/RadioNinjaPirata/comments/ieo2fn/trash_metal/).
 
-If you like our project, consider supporting us [with a 1€/month donation on Patreon](www.patreon.com/radioninjapirata). \m/ Thanks!
+If you like our project, consider supporting us [with a 1€/month donation on Patreon](https://www.patreon.com/radioninjapirata). \m/ Thanks!
 
 {% include spotifyPlaylist.html id="6i6Sjf3DZjHfxbmj9VMtbS" %}
 
