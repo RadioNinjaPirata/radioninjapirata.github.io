@@ -70,38 +70,47 @@ No. | Band | links
 46 | Epidemic | <a href="https://en.wikipedia.org/wiki/Epidemic_(band)" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1gz2EQF9uczRqCWLWmk54R?si=Rk6kcyi0Qkmt7IZubvVBcQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
 47 | Evildead |  <a href="https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl?si=aR6tx4DyRX-JUzoB0-AAHA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/evildead1" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/Evildead.Official" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
 48 | Evile | <a href="http://evile.co.uk/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo?si=siWgsiJYQv2ImQkOdJ8rNA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/evileuk" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-49 | Exciter |     
-50 | Exodus |     
-51 | Flotsam & Jetsam |     
-52 | Forbidden |     
-53 | Fueled By Fire |     
-54 | Hatchet |     
-55 | Hirax |     
-56 | Holy Moses |     
-57 | Judas Priest |     
-58 | Kreator |     
-59 | Lich King |     
-60 | Manilla Road |     
-61 | Megadeth |     
-62 | Mercyful Fate | <a href="https://mercyfulfatecoven.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9?si=WKlPdpaDQeOaIM5Z23QF8Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/MercyfulFate_HQ" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-63 | Metal Church |     
-64 | Metallica |     
-65 | Misanthropy | <a href="https://www.facebook.com/misanthropymetal" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1UyetN5SWFbeToXl9IWAUn?si=wnBNpb6QTX-4CkPtfORWDQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/MisanthropyZGZ" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-66 | Motörhead |     
-67 | Municipal Waste |     
-68 | Nervosa |     
-69 | Nuclear Assault |     
-70 | Obituary |     
-71 | Omen |     
-72 | Overkill |     
-73 | Pantera |     
-74 | Possessed |     
-75 | Sadus |     
-76 | Sepultura |     
-77 | Slayer |     
-78 | Sodom |     
-79 | Tankard |     
-80 | Testament |     
-81 | Vektor |     
-82 | Venom |     
-83 | Whiplash |     
+49 | Exciter | <a href="http://www.longlivetheloud.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd?si=5HlZH-9UQeeE8uY46vvPpQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/ExciterBand" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+50 | Exhorder | <a href="https://www.exhorder.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl?si=KxArDWTQQuWTZdeJXty3qQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/ExhorderNOLA" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/ExhorderNOLA" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+51 | Exodus | <a href="https://exodusattack.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH?si=dWuGrsozTFmoEKe2mTQRaw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/ExodusAttack" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/exodusattack" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+52 | Exumer | <a href="http://www.exumer.de/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde?si=djZ9O38BTpi8p-CH-2yH3A" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/exumerofficial" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/exumerofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+53 | Flotsam & Jetsam | <a href="https://www.flotstildeath.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz?si=nnCT3OkMS-y46_myzF3YHQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/flotztildeath" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/flotsamandjetsam.official" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+54 | Forbidden | <a href="https://officialforbidden.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN?si=rdnXTpsSReKnvM8-8S40cg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+55 | Fueled By Fire |     
+56 | Gama Bomb | <a href="http://www.gamabomb.net/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN?si=vDqSRgSgQaG31ZEzbZzGXw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/gamabomb" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+57 | Grinder |  <a href="https://open.spotify.com/artist/36rwTYegRyU3F7RO3vjk57?si=i9tng3N2S8yEwWaaVJmuQQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+58 | Grip Inc. | <a href="https://itunes.apple.com/us/artist/grip-inc./id268652236?at=&ct=&ign-mpt=uo%3D6" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1P2DRfEZ7OPvTKXxUxxuRc?si=_nXbxeI_QoWx11dHZ8EDRg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/Gripincofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+59 | Hatchet |  <a href="https://open.spotify.com/artist/1VhsM93s5cZmM6dd9DRbga?si=8NgENzdLSdWXsvH5rjHLKw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/HatchetThrash" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/hatchetofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+60 | Hatriot | <a href="https://www.hatriotofficial.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh?si=ojjraoI8SbO6QVz9798LCg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/hatriotmetal" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/hatriot" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+61 | Havok | <a href="http://havokband.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq?si=OHVmxl5sRYiBZ7fd1PSOmQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/HAVOKthrash" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/HavokOfficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+62 | Heathen |  <a href="https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF?si=PjO9CGhpQFCh0pJp2BHAmg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/HEATHENMETAL" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/heathen.official" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+63 | Hirax | <a href="http://www.hirax.org/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm?si=NP_mZadPSO--Jtbg4IhQrg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/HIRAXOfficial" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/HIRAXOfficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+64 | Hobbs' Angel Of Death |  <a href="https://open.spotify.com/artist/0lZPfJ4u0Kya50n6MKbuX4?si=Di_Gzw7pT6mxfFlZrv66gA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/HobbsOfficial" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/HobbsAngelOfDeathOfficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+65 | Holy Moses |     
+66 | Judas Priest |     
+67 | Kreator |     
+68 | Lich King |     
+69 | Manilla Road |     
+70 | Megadeth |     
+71 | Mercyful Fate | <a href="https://mercyfulfatecoven.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9?si=WKlPdpaDQeOaIM5Z23QF8Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/MercyfulFate_HQ" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+72 | Metal Church |     
+73 | Metallica |     
+74 | Misanthropy | <a href="https://www.facebook.com/misanthropymetal" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1UyetN5SWFbeToXl9IWAUn?si=wnBNpb6QTX-4CkPtfORWDQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/MisanthropyZGZ" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+75 | Motörhead |     
+76 | Municipal Waste |     
+77 | Nervosa |     
+78 | Nuclear Assault |     
+79 | Obituary |     
+80 | Omen |     
+81 | Overkill |     
+82 | Pantera |     
+83 | Possessed |     
+84 | Sadus |     
+85 | Sepultura |     
+86 | Slayer |     
+87 | Sodom |     
+88 | Tankard |     
+89 | Testament |     
+90 | Vektor |     
+91 | Venom |     
+92 | Whiplash |     
