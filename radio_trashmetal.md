@@ -1,6 +1,6 @@
-# Trash Metal
+# Thrash Metal
 
-Aren't you yet trashed enough? Trash yourself our with our **Trash Metal Radio**, it's aired, 24/7!
+Aren't you yet thrashed enough? Thrash yourself our with our **Thrash Metal Radio**, it's aired, 24/7!
 
 Our radios are dynamic playlists on Spotify that regenerate every 2h with 40 new songs; full discographies featured! <a href="/">Check out our project!</a>
 
@@ -8,7 +8,7 @@ Did we miss someone? Is your band not featured in our radio? [Let us know](https
 
 Tune it bellow or [directly on Spotify](https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=Pv9tHMweQSKizA0ZDrxGvw).
 
-We have also a [Reddit thread for fans out there](https://www.reddit.com/r/RadioNinjaPirata/comments/ieo2fn/trash_metal/).
+We have also a [Reddit thread for fans out there](https://www.reddit.com/r/RadioNinjaPirata/comments/ieo2fn/thrash_metal/).
 
 If you like our project, consider supporting us [with a 1€/month donation on Patreon](https://www.patreon.com/radioninjapirata). \m/ Thanks!
 
