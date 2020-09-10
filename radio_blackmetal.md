@@ -32,7 +32,7 @@ No. | Band | links
 8 | Archgoat |     
 9 | Arcturus | <a href="www.arcturus.no" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z?si=HcmguPebTNO7NqPWyXGJ_g" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
 10 | Astarte |     
-11 | Aura Noir |     
+11 | Aura Noir | <a href="https://en.wikipedia.org/wiki/Aura_Noir" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6?si=_niRK5EQSvy4LNsnTKxh_w" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/auranoirofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://auranoir.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
 12 | Azaghal |     
 13 | Bal-Sagoth |     
 14 | Bathory |     
@@ -47,55 +47,60 @@ No. | Band | links
 23 | Carpathian Forest |     
 24 | Corpus Christii |     
 25 | Cradle Of Filth |     
-26 | Daemonarch |     
-27 | Dark Fortress |     
-28 | Dark Funeral |     
-29 | Darkthrone |     
-30 | Deströyer 666 |     
-31 | Dimmu Borgir |     
-32 | Dominion Caligula |     
-33 | Emperor |     
-34 | Enthroned |     
-35 | Frozen Shadows | <a href="http://home.total.net/~frozen/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7mVrZuFJFWTfAM0kiIWTkC?si=da3T9UIKRmaogZeDqfRIww" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-36 | Gorgoroth |     
-37 | Gospel Of The Horns |     
-38 | Graupel |  <a href="https://open.spotify.com/artist/3kPLXPP573p0RHgMMxXGdZ?si=q2UfwAZjSli-WaHOMOBlsQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   <a href="https://graupel-germany.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-39 | Hecate Enthroned |     
-40 | Horna |     
-41 | I |     
-42 | Immortal |     
-43 | Judas Iscariot |     
-44 | Kampfar |     
-45 | Limbonic Art |     
-46 | Lord Belial |     
-47 | Marduk |     
-48 | Mayhem |     
-49 | Misanthropy | <a href="https://www.facebook.com/misanthropymetal" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1UyetN5SWFbeToXl9IWAUn?si=wnBNpb6QTX-4CkPtfORWDQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/MisanthropyZGZ" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-50 | Moonspell | <a href="https://www.moonspell.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6?si=I4lyBY8pTNOPu3RottUdrw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/moonspell" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/moonspellband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-51 | Naglfar |     
-52 | Nahemah |  <a href="https://open.spotify.com/artist/3ncx8IRTf1fHtrOiIs8lKG?si=qsw4llamQlOgi8um2cLjNg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-53 | Nattefrost |     
-54 | Negator |  <a href="https://open.spotify.com/artist/7iVyDUjFXrtG17nZeQvn1Y?si=_iXGFp4fRiOd1gvXg4WqVw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/NegatorOfficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://negator.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-55 | Nocturnal Graves |     
-56 | Odal | <a href="http://www.odal-horde.de/content/index.php" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/71nUSqRWaFZFOO15z9L7MV?si=oO0JKcvCTkeg99pA9y3n1Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/OdalHorde-615696808599097" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://odal-horde.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-57 | Old Man'S Child |     
-58 | Ov Hell |     
-59 | Rotting Christ |     
-60 | Samael |     
-61 | Sargeist |     
-62 | Satyricon |     
-63 | Septicflesh | <a href="https://www.septicflesh.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b?si=tSavy5mJRYuHk5tpvvNdOg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/septicfleshband" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/septicfleshband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-64 | Setherial |     
-65 | Shade Empire | <a href="http://www.shadeempire.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH?si=7XEw3CvbR7W36D8Dn8DyJA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/shade_empire" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-66 | Taake |     
-67 | Tiamat |     
-68 | Tormentor |  <a href="https://open.spotify.com/artist/3MkoLr1zlZNu0Fz0M0oQHj?si=HzMWIqhnTmO8Az2thrabdQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-69 | Tsjuder |     
-70 | Ulver |     
-71 | Urgehal |     
-72 | Velho |     
-73 | Venom |     
-74 | Vintersorg |     
-75 | Watain |     
-76 | Whipstriker |     
-77 | Wolves In The Throne Room |     
+26 | Cult Burial | <a href="https://www.cultburial.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/6OXAFCILnZJLxFE23w46my?si=1gZZXaXpSVG8du51Vr4pbg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/CultBurial" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/cultburial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://cultburial.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+27 | Daemonarch |     
+28 | Dark Fortress |     
+29 | Dark Funeral |     
+30 | Darkthrone |     
+31 | Deathspell Omega |  <a href="https://open.spotify.com/artist/4pP3Gtdmwp2cHtz736pyGI?si=TCrHyJqwQ7uvvQ-kAzHkhw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   <a href="https://deathspellomega.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+32 | Deströyer 666 | <a href="http://www.destroyer666.uk/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK?si=BUk0-PZvSiKlqX7dVrAfMw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+33 | Dimmu Borgir |     
+34 | Dominion Caligula |     
+35 | Emperor |     
+36 | Enthroned |     
+37 | Frozen Shadows | <a href="http://home.total.net/~frozen/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7mVrZuFJFWTfAM0kiIWTkC?si=da3T9UIKRmaogZeDqfRIww" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+38 | Gaerea |  <a href="https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw?si=ClbbQrcDQli1UVnO3w_zfA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/gaerea" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://gaerea.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+39 | Gorgoroth |     
+40 | Gospel Of The Horns |     
+41 | Graupel |  <a href="https://open.spotify.com/artist/3kPLXPP573p0RHgMMxXGdZ?si=q2UfwAZjSli-WaHOMOBlsQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   <a href="https://graupel-germany.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+42 | Hecate Enthroned |     
+43 | Horna |     
+44 | I |     
+45 | Immortal |     
+46 | Judas Iscariot |     
+47 | Kampfar |     
+48 | Limbonic Art |     
+49 | Lord Belial |     
+50 | Marduk |     
+51 | Mayhem |     
+52 | Miasthenia | <a href="https://www.miasthenia.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2gXm7lnTjOVGhSDBA0e7kW?si=hOISznpnTFeUmWn5yaUedg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/miasthenia" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+53 | Misanthropy | <a href="https://www.facebook.com/misanthropymetal" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1UyetN5SWFbeToXl9IWAUn?si=wnBNpb6QTX-4CkPtfORWDQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/MisanthropyZGZ" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+54 | Moonspell | <a href="https://www.moonspell.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6?si=I4lyBY8pTNOPu3RottUdrw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/moonspell" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/moonspellband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+55 | Naglfar |     
+56 | Nahemah |  <a href="https://open.spotify.com/artist/3ncx8IRTf1fHtrOiIs8lKG?si=qsw4llamQlOgi8um2cLjNg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+57 | Nattefrost |     
+58 | Negator |  <a href="https://open.spotify.com/artist/7iVyDUjFXrtG17nZeQvn1Y?si=_iXGFp4fRiOd1gvXg4WqVw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/NegatorOfficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://negator.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+59 | Nocturnal Graves |     
+60 | Odal | <a href="http://www.odal-horde.de/content/index.php" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/71nUSqRWaFZFOO15z9L7MV?si=oO0JKcvCTkeg99pA9y3n1Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/OdalHorde-615696808599097" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://odal-horde.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+61 | Old Man'S Child |     
+62 | Order Of The Wolf |  <a href="https://open.spotify.com/artist/4i5yMf3pMi3fimSqUdffzN?si=uPXPsXdkRoi2-LkDoBdyUQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/orderofthewoIf" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/orderofthewolfofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://orderofthewolf.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+63 | Ov Hell |     
+64 | Rotting Christ |     
+65 | Samael |     
+66 | Sargeist |     
+67 | Satyricon |     
+68 | Septicflesh | <a href="https://www.septicflesh.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b?si=tSavy5mJRYuHk5tpvvNdOg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/septicfleshband" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/septicfleshband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+69 | Setherial |     
+70 | Shade Empire | <a href="http://www.shadeempire.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH?si=7XEw3CvbR7W36D8Dn8DyJA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/shade_empire" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+71 | Taake |     
+72 | Tiamat |     
+73 | Tormentor |  <a href="https://open.spotify.com/artist/3MkoLr1zlZNu0Fz0M0oQHj?si=HzMWIqhnTmO8Az2thrabdQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+74 | Tsjuder |     
+75 | Ulver |     
+76 | Urgehal |     
+77 | Velho |     
+78 | Venom | <a href="http://www.venomslegions.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe?si=9cBISxY1RvOvHjwVsYM-sw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/officialvenomband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+79 | Vintersorg |     
+80 | Watain |     
+81 | Whipstriker |     
+82 | Wolves In The Throne Room |     
