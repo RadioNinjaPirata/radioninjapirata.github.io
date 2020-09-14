@@ -12,7 +12,7 @@ If you like Radio Ninja Pirata project, [consider supporting us on Patreon](www.
 
 Listen to the radio bellow or [click in this direct link to Spotify](https://spoti.fi/2FAx4Nw).
 
-{% include spotifyPlaylist.html id="spotify:playlist:0tLZbuMt8NUXyNYR4NVkrJ" %}
+{% include spotifyPlaylist.html id="0tLZbuMt8NUXyNYR4NVkrJ" %}
 
 <br>
 
