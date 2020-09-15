@@ -12,15 +12,15 @@ If you like the Radio Ninja Pirata project, [consider supporting us on Patreon](
 
 <p><a href="https://www.patreon.com/bePatron?u=41040968" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> </p>
 
+We are currently adding more artists and the links to their social media. Stay tuned!
+
+Did we miss anyone? Is your band not featured? [Let us know, we have a thread on Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/ieo3r6/power_metal/) we will add you/him/her/they!
+
 {% include spotifyPlaylist.html id="6DSEGEYJ8INKWqPsCC1UGU" %}
 
 <br>
 
 # Featured Artists
-
-We are currently adding more artists and the links to their social media. Stay tuned!
-
-Did we miss anyone? Is your band not featured? [Let us know, we have a thread on Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/ieo3r6/power_metal/) we will add you/him/her/they!
 
 No. | Band | links
 --- | ---- | -----
