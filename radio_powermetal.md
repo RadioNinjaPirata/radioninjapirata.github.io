@@ -1,10 +1,16 @@
 # Power Metal
 
-Metaaaaaaaaaaaaaaaaaaaalll!!
+Metaaaaaaaaaaaaaaaaaaaalll!! :-D \m/
 
-Pure **Power Metal** screaming 24/7, on our radio on Spotify! Our radios are dynamic playlists that self regenerate every 2h with 40 new songs. Songs are selected randomly from the featured artists; full discographies are considered! [Read more about our project](https://radioninjapirata.github.io/).
+Get pure **Power Metal** screaming 24/7 with our radio-playlist on Spotify!
 
-Listen to the radio bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=V_UZ42fwTnePTci37LNuYQ).
+**¡Remember!** Our radios are actually dynamic playlists which self regenerate every 2h with 40 new songs. Songs are selected randomly from the featured artists and we consider full discographies! [Read all about our project](https://radioninjapirata.github.io/).
+
+Tune in our radio-playlist bellow or [click in this direct link to Spotify](https://spoti.fi/3kjAOC2).
+
+If you like the Radio Ninja Pirata project, [consider supporting us on Patreon](www.patreon.com/radioninjapirata), we are giving our best to keep it running!
+
+<p><a href="https://www.patreon.com/bePatron?u=41040968" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> </p>
 
 {% include spotifyPlaylist.html id="6DSEGEYJ8INKWqPsCC1UGU" %}
 
@@ -13,7 +19,8 @@ Listen to the radio bellow or [click in this direct link to Spotify](https://ope
 # Featured Artists
 
 We are currently adding more artists and the links to their social media. Stay tuned!
-Did we miss anyone? Is your band not featured in our radio? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) we will add him/her/you/they!
+
+Did we miss anyone? Is your band not featured? [Let us know, we have a thread on Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/ieo3r6/power_metal/) we will add you/him/her/they!
 
 No. | Band | links
 --- | ---- | -----
