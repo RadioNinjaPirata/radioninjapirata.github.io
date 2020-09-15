@@ -8,7 +8,18 @@ Get pure **Power Metal** screaming 24/7 with our radio-playlist on Spotify!
 
 Tune in our radio-playlist bellow or [click in this direct link to Spotify](https://spoti.fi/3kjAOC2).
 
-If you like the Radio Ninja Pirata project, [consider supporting us on Patreon](www.patreon.com/radioninjapirata), we are giving our best to keep it running!
+If you like the Radio Ninja Pirata project, consider supporting us with a small monthly or unique donation, we are giving our best to keep it running! Choose your favorite platform bellow:
+
+<p>
+    <a href="https://www.patreon.com/bePatron?u=41040968" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> 
+    <script src="https://liberapay.com/RadioNinjaPirata/widgets/button.js"></script><noscript><a href="https://liberapay.com/RadioNinjaPirata/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick" />
+    <input type="hidden" name="hosted_button_id" value="TWGZ3KKDLEDUE" />
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    <img alt="" border="0" src="https://www.paypal.com/en_ES/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+</p>
 
 <p><a href="https://www.patreon.com/bePatron?u=41040968" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> </p>
 
