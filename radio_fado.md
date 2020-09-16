@@ -4,7 +4,12 @@ A nossa radio de Fado.
 
 Our Portuguese Fado radio station. Enjoy centuries of culture!
 
-Se gostas do nosso projecto, [ajuda-nos no Patreon](www.patreon.com/radioninjapirata). Obrigado :-)
+Se gostas do nosso projecto, ajuda-nos com uma pequena contribuição. Obrigado :-)
+
+ Patreon | LiberaPay | PayPal
+<a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
+
+[Link directo para a nossa radio-playlist.](https://open.spotify.com/playlist/4kJ3sT4A74vTqaPOi6N9ZX?si=BuOGA-PdTFG52LyY3c0IpA)
 
 {% include spotifyPlaylist.html id="4kJ3sT4A74vTqaPOi6N9ZX" %}
 

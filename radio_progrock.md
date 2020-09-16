@@ -4,6 +4,11 @@ Here's our **Prog Rock** radio from contemporary to old school groups and explor
 
 Did you want us to add someone else? Surely, [let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new) and we will add hum/her/you/they!
 
+If you enjoy the Radio Ninja Pirata project, consider supporting us with a small unique or monthly donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
+
+ Patreon | LiberaPay | PayPal
+<a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
+
 Listen bellow or [click to the direct link for Spotify](https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=g4RsTEnfQCOE2idSRVk0bw)!
 
 {% include spotifyPlaylist.html id="7fKNWDYkGCJYf7IC0sQjNT" %}

@@ -1,8 +1,13 @@
 # Punk Rock Iberico
 
-Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**, +160 artistas de Portugal y España sonando 24/7 sin parar ¡Qué prolifero es en Punk Iberico!
+Bienvenidxs a la Radio de **Punk Rock Iberico** de **Radio Ninja Pirata**, +160 artistas de Portugal y España sonando 24/7 sin parar ¡Qué prolífero es el Punk Iberico!
 
 Nuestras radios son playlists dinámicas en Spotify que se regenera cada 2h con 40 nuevas canciones seleccionadas al azar de entre las discografías completas de los artistas. <a href="esp.html">Conoce más sobre nuestro proyecto!</a>
+
+Contribuye a este proyecto con una donación! Nos dejamos unas buenas horas al día aquí y como para todo hay que mantener los servidores. Aupa ahí y Gracias!
+
+ Patreon | LiberaPay | PayPal
+<a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
 
 Escucha la radio abajo o [pincha en este enlace directo para Spotify](https://open.spotify.com/playlist/04E9cCSXOVWfWt0eGYqXr2?si=YAv2rUwnQIeuDJ5bQoQO3w)!
 

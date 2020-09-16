@@ -3,7 +3,10 @@
 This is one of the first radio stations we aired, the amazing low frequencies of these **AmbBeat** musicians.
 Infinite chill out and relax in our radio 24/7, we really like it at night or during the long hours focusing at work. What about you?
 
-If you like Radio Ninja Pirata project, [consider supporting us on Patreon](www.patreon.com/radioninjapirata), we are giving our best to keep it running!
+If you enjoy the Radio Ninja Pirata project, consider supporting us with a small unique or monthly donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
+
+ Patreon | LiberaPay | PayPal
+<a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
 
 Did we miss someone? Surely yes, [let us know, leave us a comment](https://www.patreon.com/posts/41520236) and we will add you/him/her/they!
 

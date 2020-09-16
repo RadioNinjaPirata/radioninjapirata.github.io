@@ -4,6 +4,11 @@ Welcome to our **Highly technical** instrumental madness radio station on **Spot
 
 Our radios are dynamic playlists that regenerate with 40 new songs every 2h. Play it and you will live a non-stop seamless music experience!
 
+If you enjoy the Radio Ninja Pirata project, consider supporting us with a small unique or monthly donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
+
+ Patreon | LiberaPay | PayPal
+<a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
+
 Listen to the radio bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/1WsT43p9i7ktcndqMrucy7?si=6k4YZPvaRu6OhyX5lDu59w).
 
 {% include spotifyPlaylist.html id="1WsT43p9i7ktcndqMrucy7" %}

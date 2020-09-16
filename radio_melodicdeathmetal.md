@@ -4,7 +4,12 @@ Check out our **Melodic Death Metal** dynamic playlist on Spotify!
 
 Our dynamic playlists self-regenerate every 2h with 40 new songs selected randomly from the catalog of artists. Each artists have the same probability to be selected and we feature full discographies.
 
-Also, give us a chat on [Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/if1etd/melodic_death_metal/) or [Patreon](https://www.patreon.com/radioninjapirata).
+Also, give us a chat on [Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/if1etd/melodic_death_metal/).patreon.com/radioninjapirata).
+
+If you enjoy the Radio Ninja Pirata project, consider supporting us with a small unique or monthly donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
+
+ Patreon | LiberaPay | PayPal
+<a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
 
 Listen ot it bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=l2HH0wybTD6IdItZpwW75Q).
 
