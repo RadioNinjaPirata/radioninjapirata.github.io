@@ -4,7 +4,7 @@ We have gathered the 100 best albums of the 80s as selected by the [Rolling Ston
 
 Two of the albums were not available on Spotify, so we had to left them out. Did we miss something? [Let us know](https://github.com/RadioNinjaPirata/commentsENG/issues/new)!
 
-If you enjoy the Radio Ninja Pirata project, consider supporting us with a small unique or monthly donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
+If you enjoy the Radio Ninja Pirata project, consider supporting us with a small donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
 
  Patreon | LiberaPay | PayPal
 <a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
