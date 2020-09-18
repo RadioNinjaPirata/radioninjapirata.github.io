@@ -4,7 +4,7 @@ Check out our **Melodic Death Metal** dynamic playlist on Spotify!
 
 Our dynamic playlists self-regenerate every 2h with 40 new songs selected randomly from the catalog of artists. Each artists have the same probability to be selected and we feature full discographies.
 
-Also, give us a chat on [Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/if1etd/melodic_death_metal/).patreon.com/radioninjapirata).
+Also, give us a chat on [Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/if1etd/melodic_death_metal/).
 
 If you enjoy the Radio Ninja Pirata project, consider supporting us with a small donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
 
