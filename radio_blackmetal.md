@@ -2,7 +2,7 @@
 
 Pure **Black Metal** radio conjuring 24/7 on Spotify!
 
-Our radios are dynamic playlists on Spotify that regenerate every 2h with 40 new songs; full discographies are considered! <a href="/">Check out our project!</a>
+Our radios are dynamic playlists on Spotify that regenerate every 2h with 40 new songs; we sample full discographies! <a href="/">Check out our project!</a>
 
 We have a [Reddit thread for discussions](https://www.reddit.com/r/RadioNinjaPirata/comments/ifr9e8/black_metal/).
 
@@ -82,28 +82,29 @@ No. | Band | links
 55 | Naglfar |     
 56 | Nahemah |  <a href="https://open.spotify.com/artist/3ncx8IRTf1fHtrOiIs8lKG?si=qsw4llamQlOgi8um2cLjNg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
 57 | Nattefrost |     
-58 | Negator |  <a href="https://open.spotify.com/artist/7iVyDUjFXrtG17nZeQvn1Y?si=_iXGFp4fRiOd1gvXg4WqVw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/NegatorOfficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://negator.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-59 | Nocturnal Graves |     
-60 | Odal | <a href="http://www.odal-horde.de/content/index.php" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/71nUSqRWaFZFOO15z9L7MV?si=oO0JKcvCTkeg99pA9y3n1Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/OdalHorde-615696808599097" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://odal-horde.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-61 | Old Man'S Child |     
-62 | Order Of The Wolf |  <a href="https://open.spotify.com/artist/4i5yMf3pMi3fimSqUdffzN?si=uPXPsXdkRoi2-LkDoBdyUQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/orderofthewoIf" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/orderofthewolfofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://orderofthewolf.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-63 | Ov Hell |     
-64 | Rotting Christ |     
-65 | Samael |     
-66 | Sargeist |     
-67 | Satyricon |     
-68 | Septicflesh | <a href="https://www.septicflesh.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b?si=tSavy5mJRYuHk5tpvvNdOg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/septicfleshband" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/septicfleshband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-69 | Setherial |     
-70 | Shade Empire | <a href="http://www.shadeempire.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH?si=7XEw3CvbR7W36D8Dn8DyJA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/shade_empire" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-71 | Taake |     
-72 | Tiamat |     
-73 | Tormentor |  <a href="https://open.spotify.com/artist/3MkoLr1zlZNu0Fz0M0oQHj?si=HzMWIqhnTmO8Az2thrabdQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-74 | Tsjuder |     
-75 | Ulver |     
-76 | Urgehal |     
-77 | Velho |     
-78 | Venom | <a href="http://www.venomslegions.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe?si=9cBISxY1RvOvHjwVsYM-sw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/officialvenomband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-79 | Vintersorg |     
-80 | Watain |     
-81 | Whipstriker |     
-82 | Wolves In The Throne Room |     
+58 | Nebiros |  <a href="https://open.spotify.com/artist/1wPwVvQY6fYSFDCJllLuAE?si=BieS6Y8DSWOB7JxthL1L_Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/blackmetalblasfemo" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+59 | Negator |  <a href="https://open.spotify.com/artist/7iVyDUjFXrtG17nZeQvn1Y?si=_iXGFp4fRiOd1gvXg4WqVw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/NegatorOfficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://negator.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+60 | Nocturnal Graves |     
+61 | Odal | <a href="http://www.odal-horde.de/content/index.php" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/71nUSqRWaFZFOO15z9L7MV?si=oO0JKcvCTkeg99pA9y3n1Q" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/OdalHorde-615696808599097" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://odal-horde.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+62 | Old Man'S Child |     
+63 | Order Of The Wolf |  <a href="https://open.spotify.com/artist/4i5yMf3pMi3fimSqUdffzN?si=uPXPsXdkRoi2-LkDoBdyUQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/orderofthewoIf" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/orderofthewolfofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://orderofthewolf.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+64 | Ov Hell |     
+65 | Rotting Christ |     
+66 | Samael |     
+67 | Sargeist |     
+68 | Satyricon |     
+69 | Septicflesh | <a href="https://www.septicflesh.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b?si=tSavy5mJRYuHk5tpvvNdOg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/septicfleshband" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/septicfleshband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+70 | Setherial |     
+71 | Shade Empire | <a href="http://www.shadeempire.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH?si=7XEw3CvbR7W36D8Dn8DyJA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/shade_empire" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+72 | Taake |     
+73 | Tiamat |     
+74 | Tormentor |  <a href="https://open.spotify.com/artist/3MkoLr1zlZNu0Fz0M0oQHj?si=HzMWIqhnTmO8Az2thrabdQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+75 | Tsjuder |     
+76 | Ulver |     
+77 | Urgehal |     
+78 | Velho |     
+79 | Venom | <a href="http://www.venomslegions.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe?si=9cBISxY1RvOvHjwVsYM-sw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/officialvenomband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+80 | Vintersorg |     
+81 | Watain |     
+82 | Whipstriker |     
+83 | Wolves In The Throne Room |     
