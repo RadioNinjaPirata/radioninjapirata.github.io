@@ -1,6 +1,6 @@
-# Metal Technical
+# Instrumental Madness
 
-Welcome to our **Highly technical** instrumental madness radio station on **Spotify**! An outter space outter body experience .::.
+Welcome to our **Instrumental Madness** radio station on **Spotify**! An outter space outter body experience .::.
 
 Our radios are dynamic playlists that regenerate with 40 new songs every 2h. Play it and you will live a non-stop seamless music experience!
 
