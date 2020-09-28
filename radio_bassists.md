@@ -19,85 +19,97 @@ Listen bellow or [click to the direct link for Spotify](https://open.spotify.com
 
 # Features Artists:
 
-1. Ace Livingston
-1. Adam Nitti
-1. Al Turner
-1. Alain Caron
-1. Andre Berry
-1. Andy Salvanos
-1. Anthony Crawford
-1. Aram Bedrosian
-1. Barry Likumahuwa
-1. Bernhard Lackner
-1. Bill Clements
-1. Billy Sheehan
-1. Blair Bryant
-1. Brett Garsed
-1. Brian Bromberg
-1. Byron Miller
-1. Béla Fleck And The Flecktones
-1. Charles Berthoud
-1. Charles Glenn
-1. Charlie Moreno
-1. Christian Mcbride
-1. Chyco Siméon
-1. Couple Coffee
-1. Cristiano Parato
-1. Darryl Williams
-1. David Dyson
-1. Davie504
-1. Derrick Hodge
-1. Distant Fires Burning
-1. Doug Johns
-1. Evan Brewer
-1. Evan Marien
-1. Fuji Fujimoto
-1. Gary Willis
-1. Gerald Veasley
-1. Ida Nielsen
-1. Jaco Pastorius
-1. Janek Gwizdala
-1. Japhlet Bire Attias
-1. Jeff Berlin
-1. Jeff Schmidt
-1. Jermaine Morgan
-1. Jo Sallins
-1. John Patitucci
-1. Julian Vaughn
-1. Kai Eckhardt
-1. Kinga Glyk
-1. Larry Tuttle
-1. Lp Septet
-1. Marcus Miller
-1. Mark Egan
-1. Markus Setzer
-1. Melvin Lee Davis
-1. Michael Manring
-1. Michael Manson
-1. Mitchell Coleman Jr
-1. Nathan East
-1. Nathan Navarro
-1. Nicole Badila
-1. Norm Stockton
-1. Ollie Collins
-1. Ray Riendeau
-1. Redtenbacher'S Funkestra
-1. Ric Alexander & Levi Seacer Jr.
-1. Rodrigo Serrao
-1. Rothko
-1. Rozzano Zamorano
-1. Scott Kungha Drengsen
-1. Simon Little
-1. Stanley Clarke
-1. Steve Bailey
-1. Steve Jenkins
-1. Stevie Williams
-1. Tal Wilkenfeld
-1. The Stanley Clarke Band
-1. Tommy Loose
-1. Tony Grey
-1. Vail Johnson
-1. Victor Bailey
-1. Victor Wooten
-1. Wayman Tisdale
-1. Yves Carbonne
+No. | Band | links
+--- | ---- | -----
+1 | Abraham Laboriel | <a href="https://en.wikipedia.org/wiki/Abraham_Laboriel" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW?si=uN5XxMLRT467Yp_gSlCGUg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+2 | Ace Livingston |     
+3 | Adam Nitti |     
+4 | Al Turner |     
+5 | Alain Caron |     
+6 | Alex Bershadsky | <a href="https://www.alexbershadsky.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/7sKZkpOCWSuuu78que7dl2?si=CnK-8PqdTU6Y9ZIHuT39uA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/ABershadsky" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/AlexBershadskyBass" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://alexbershadsky.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
+7 | Andre Berry |     
+8 | Andy Salvanos |     
+9 | Anthony Crawford |     
+10 | Aram Bedrosian | <a href="http://arambedrosian.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut?si=kuxzGbIvQYOD47NvQEHUdw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/arambedrosian" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/arammusic" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+11 | Barry Likumahuwa |     
+12 | Bassists Alliance |     
+13 | Bernhard Lackner |  <a href="https://open.spotify.com/artist/3L0KdmJDzzQHDxxI0dnNgx?si=WiZGH7L9QA6xPTrfi8OP6w" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+14 | Bill Clements |     
+15 | Billy Sheehan |     
+16 | Blair Bryant |     
+17 | Brett Garsed |     
+18 | Brian Bromberg |     
+19 | Byron Miller |     
+20 | Béla Fleck And The Flecktones |     
+21 | Charles Berthoud |     
+22 | Charles Glenn |     
+23 | Charlie Moreno |     
+24 | Christian Mcbride |     
+25 | Chyco Siméon |     
+26 | Couple Coffee |     
+27 | Cristiano Parato |  <a href="https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP?si=GikmNSPVQ0mr4F-EuTeDVQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+28 | Darryl Williams |     
+29 | David Dyson |     
+30 | Davie504 |     
+31 | Derrick Hodge |     
+32 | Distant Fires Burning |     
+33 | Dmitry Lisenko |  <a href="https://open.spotify.com/artist/6ZrKOmGXZainOL2lALvmoe?si=-wqBuVofSP-cabOf6Fz7XA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+34 | Doug Johns |     
+35 | Evan Brewer |     
+36 | Evan Marien |     
+37 | Fuji Fujimoto |     
+38 | Gary Willis |     
+39 | Gerald Veasley |     
+40 | Ida Nielsen |     
+41 | Jaco Pastorius |     
+42 | Janek Gwizdala |     
+43 | Japhlet Bire Attias |     
+44 | Jeff Berlin |     
+45 | Jermaine Morgan |     
+46 | Jo Sallins |     
+47 | John Patitucci |     
+48 | Julian Vaughn |     
+49 | Kai Eckhardt |     
+50 | Kenny Weydener |  <a href="https://open.spotify.com/artist/6xNrFS8q8lF1D0y5krR9y8?si=m6umL0FDRt6YOBv3sFstTA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+51 | Kinga Glyk |     
+52 | Larry Tuttle |     
+53 | Les Claypool |     
+54 | Lp Septet |     
+55 | Marcus Miller |     
+56 | Mark Egan |     
+57 | Markus Setzer |     
+58 | Melvin Lee Davis |     
+59 | Michael Manring |     
+60 | Michael Manson |     
+61 | Mitchell Coleman Jr |     
+62 | Nathan East |     
+63 | Nathan Navarro |     
+64 | Nicole Badila |     
+65 | Norm Stockton |     
+66 | Ollie Collins |     
+67 | Outre |  <a href="https://open.spotify.com/album/4IHXUvfd9d2QkCmOpfwoL9?si=LBlKBl-PT4a_9J-r5-UtSg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+68 | Project M |  <a href="https://open.spotify.com/album/6C0KFKM5HSkF0VKVrkkxG1?si=EC2MRLydSf-Eq3LhCHb4TQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+69 | Ray Riendeau |     
+70 | Redtenbacher'S Funkestra |     
+71 | Remco Hendriks |     
+72 | Ric Alexander & Levi Seacer Jr. |     
+73 | Rodrigo Serrao |     
+74 | Rothko |     
+75 | Rozzano Zamorano |     
+76 | Scott Kungha Drengsen |     
+77 | Simon Little |     
+78 | Stanley Clarke |     
+79 | Steve Bailey | <a href="https://stevebaileybass.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/62WqOL2AcdAB3AwfsYMgoP?si=TzvLFarKSCCl1kBtz2J4Pg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+80 | Steve Jenkins |     
+81 | Stevie Williams |     
+82 | Tal Wilkenfeld |     
+83 | The Omnific | <a href="https://theomnific.bandcamp.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR?si=dVksyjQLQ7-ZZZ2sPhi9fA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/theomnificband" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
+84 | The Stanley Clarke Band |     
+85 | Tommy Loose |     
+86 | Tony Grey |     
+87 | Uccello Project |  <a href="https://open.spotify.com/artist/7mYPmdQSIlVrUKcO5quRQ9?si=zdEqda43TwC-zjD1cyfp_A" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
+88 | Vail Johnson |     
+89 | Victor Bailey |     
+90 | Victor Wooten |     
+91 | Wayman Tisdale |     
+92 | Yves Carbonne |     
