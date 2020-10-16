@@ -23,9 +23,10 @@ Do you like it? Let us know, give that radio a like.
 
 We are a new project and building daily. We are adding the links for all the artists featured and adding more artists. Stay tuned! :-)
 
-# 1000Mods
-
+<figure>
  <a href="https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89?si=D0PFIUQwRxapRuOpEuTq1Q"><img src="https://i.scdn.co/image/7a6ea9ac83640afefb996085f48ea4e1cd10cadd" style="border-radius:50%"></a>
+ <figcaption>1000Mods</figcaption>
+<figure>
 
 No. | Band | links
 --- | ---- | -----
