@@ -23,14 +23,9 @@ Do you like it? Let us know, give that radio a like.
 
 We are a new project and building daily. We are adding the links for all the artists featured and adding more artists. Stay tuned! :-)
 
-<figure>
- <a href="https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89?si=D0PFIUQwRxapRuOpEuTq1Q"><img src="https://i.scdn.co/image/7a6ea9ac83640afefb996085f48ea4e1cd10cadd" style="border-radius:50%"></a>
- <figcaption>1000Mods</figcaption>
-</figure>
-
 No. | Band | links
 --- | ---- | -----
-1 | 1000Mods |     
+1 | 1000Mods <img src="https://i.scdn.co/image/7a6ea9ac83640afefb996085f48ea4e1cd10cadd" height="100" width="auto" style="border-radius:50%"> |    
 2 | 35007 |     
 3 | A Perfect Circle |     
 4 | Abramis Brama | <a href="http://www.abramisbrama.com/2009/10/ny-t-shirt-uppsala-o-orebro/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/4u2FEVv8H4ElR9kHQcIoVz?si=VpXsR6qwTku3aotLIoVKHg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/AbramisBrama" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
