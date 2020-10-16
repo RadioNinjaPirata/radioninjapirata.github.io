@@ -25,7 +25,7 @@ We are a new project and building daily. We are adding the links for all the art
 
 No. | Band | links
 --- | ---- | -----
-1 | 1000Mods <img src="https://i.scdn.co/image/7a6ea9ac83640afefb996085f48ea4e1cd10cadd" height="100" width="auto" style="border-radius:50%"> |    
+1 | <figure><img src="https://i.scdn.co/image/7a6ea9ac83640afefb996085f48ea4e1cd10cadd" height="100" width="auto" style="border-radius:50%"><figcaption style="text-align:center">1000Mods</figcaption></figure> |    
 2 | 35007 |     
 3 | A Perfect Circle |     
 4 | Abramis Brama | <a href="http://www.abramisbrama.com/2009/10/ny-t-shirt-uppsala-o-orebro/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/4u2FEVv8H4ElR9kHQcIoVz?si=VpXsR6qwTku3aotLIoVKHg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/AbramisBrama" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
