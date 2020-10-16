@@ -26,7 +26,7 @@ We are a new project and building daily. We are adding the links for all the art
 <figure>
  <a href="https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89?si=D0PFIUQwRxapRuOpEuTq1Q"><img src="https://i.scdn.co/image/7a6ea9ac83640afefb996085f48ea4e1cd10cadd" style="border-radius:50%"></a>
  <figcaption>1000Mods</figcaption>
-<figure>
+</figure>
 
 No. | Band | links
 --- | ---- | -----
