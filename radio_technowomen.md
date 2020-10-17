@@ -13,7 +13,7 @@ If you enjoy the Radio Ninja Pirata project, consider supporting us with a small
 
 Listen to the radio bellow or [click in this direct link to Spotify](https://spoti.fi/2FAx4Nw).
 
-{% include spotifyPlaylist.html id="0tLZbuMt8NUXyNYR4NVkrJ" %}
+{% include spotifyPlaylist.html id="2VOm3bb3WQ02fFpgA3DKaR" %}
 
 <br>
 
