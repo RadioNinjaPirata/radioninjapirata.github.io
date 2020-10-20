@@ -1,11 +1,11 @@
-# Classic Music Albums
+# Folk Iberico
 
 **40 new tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA)
+## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2FGIAY6)
 
-<a href="https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27382ef84ec567b7951e1b4adf4ab67616d0000b273cf7269008bdad4732d9d5a78ab67616d0000b273d5d6957f73be207d4b8e5c27ab67616d0000b273f9d00b3f5a4079b4a88fa5c4" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2FGIAY6" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2738fdf3361f8c613a002292352ab67616d0000b273be90da0b9e6aa6f121ca9fd1ab67616d0000b273c2f449dcb256e97e99953594ab67616d0000b273e9041a90b74aae30e853707b" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,4 +33,8 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Ara Malikian** | <img src="https://i.scdn.co/image/b41d05408b5bd67316487cd625fd5b7a73e7cd44" height="100" width="auto" style="border-radius:50%">
+1 | **Carrion Folk** | <img src="https://i.scdn.co/image/ab67616d00001e02ae03268fc196e1c196db608e" height="100" width="auto" style="border-radius:50%">
+2 | **Carrion** | <img src="https://i.scdn.co/image/f1022e1ab6cea67614bae363e76ad62c9bcae48e" height="100" width="auto" style="border-radius:50%">
+3 | **Entavia** | <img src="https://i.scdn.co/image/ab67616d00001e028fdf3361f8c613a002292352" height="100" width="auto" style="border-radius:50%">
+4 | **Luar Na Lubre** | <img src="https://i.scdn.co/image/cf902c8e35728323c772e8a5c4fc6f11c5ed0181" height="100" width="auto" style="border-radius:50%">
+5 | **Susana Seivane** | <img src="https://i.scdn.co/image/ab67616d00001e0250ae539c803f4132168e65fe" height="100" width="auto" style="border-radius:50%">

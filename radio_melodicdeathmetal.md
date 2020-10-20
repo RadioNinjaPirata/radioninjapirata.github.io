@@ -1,39 +1,51 @@
 # Melodic Death Metal
 
-Check out our **Melodic Death Metal** dynamic playlist on Spotify!
+**40 new tracks every 2 hours!**
 
-Our dynamic playlists self-regenerate every 2h with 40 new songs selected randomly from the catalog of artists. Each artists have the same probability to be selected and we feature full discographies.
 
-Also, give us a chat on [Reddit](https://www.reddit.com/r/RadioNinjaPirata/comments/if1etd/melodic_death_metal/).
+## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
+
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730a5029d033821d27f1884e8aab67616d0000b27367ce1c9cb9a53f1ebc3e9a83ab67616d0000b273dae02364a4f70b1570e652d0ab67616d0000b273ed11278f2d1ee36117e8de41" height="300" width="auto" style="border-radius:50%"></a>
+
+Do you like it? Let us know, give that radio a like. Follow us!
+
+
+Our stations are dynamic playlists on Spotify. Our playlists regenerate every 2h with 40 new tracks. Tracks are selected randomly from the catalog of artists :-) Discover more about [our project in our home page](https://radioninjapirata.github.io).
+
+Did we miss someone? Is your band not featured in our radio? Let us know! Engage with us on social media.
+
+<p>
+    <a href="https://twitter.com/RNinjaPirata" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="50" width="50" /></a>
+    <a href="https://www.reddit.com/r/RadioNinjaPirata/" target="_blank"><img src="assets/reddit_button.png" alt="reddit" height="50" width="50" /></a>
+    <a href="https://open.spotify.com/user/pagbz485dhfowwiza5wc9cwh8?si=XVuH5a3NQ8Ohft-yPC5XBA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="50" width="50" /></a>
+</p>
+
 
 If you enjoy the Radio Ninja Pirata project, consider supporting us with a small donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
 
  Patreon | LiberaPay | PayPal
 <a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
 
-Listen ot it bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=l2HH0wybTD6IdItZpwW75Q).
-
-{% include spotifyPlaylist.html id="3pTBorAd7ZzZleo4997Eki" %}
-
-<br>
 
 # Featured Artists
 
-We still have few artists here, but more on the way ;-) And we are currently working on adding the links for every band. Stay tuned!
+We are building daily! Stay tuned for updates. :-)
 
-No. | Band | links
---- | ---- | -----
-1 | Aeternam | <a href="http://www.aeternamband.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s?si=LayfpOEnTWOtyMdsc8R92A" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/#Aeternam" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/aeternammetal" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://aeternam.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-2 | Amorphis | <a href="http://www.amorphis.net/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD?si=5dOsqFZNSQ6OcfCepXh07g" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/amorphis" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/amorphis" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-3 | Eternal Tears Of Sorrow | <a href="http://eternaltears.fi/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/3rdFnKhyWhTivuBFSH4YT3?si=M60o_rFeQBCBIHSzaRSRQQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/etosofficial" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/etosofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-4 | Fall Of The Leafe |  <a href="https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn?si=TGUER7bBTAiP_I9MO24Mlw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-5 | Foredoomed | <a href="http://foredoomed.net/home/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/0XGMZjc0FWuQm1dzb2yKUi?si=KquoVESISF2ITJWbWDo4Bg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/foredoomedband" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/foredoomedband" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://foredoomed.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-6 | Garden Of Shadows |  <a href="https://open.spotify.com/artist/4iqNfe8W0nP9pEjLjljqEV?si=u6k9E2Z8Qni65IoqEIgmpw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-7 | Incarnia | <a href="https://myspace.com/incarnia" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/4EdX0VsFpAj8iGs3HWbjcO?si=XS2A7DBzTVqhHuZtOZZEPw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Incarnia" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-8 | Intestine Baalism |  <a href="https://open.spotify.com/artist/2Z9z6GKa0UMW8NLx0nER8M?si=AZz71NqgQNOYwYX-s4z5Nw" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/#intestinebaalism" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>  
-9 | Kalmah | <a href="http://www.kalmah.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF?si=zNjaQfrURgWk38vqufmc1A" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/kalmahofficial" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/kalmahofficial" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
-10 | Kaunis Kuolematon | <a href="https://kauniskuolematon.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN?si=Ty3nhkPsQlSG6ljrCw3pbg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/KaunisKuolematon" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://kauniskuolematon.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-11 | Mors Principium Est | <a href="http://www.morsprincipiumest.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi?si=RtVuBKYaR0uFJTZDW1WJrg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-12 | Shylmagoghnar | <a href="http://shylmagoghnar.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA?si=AxtEvhxQRKGtoqKDePfNeg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>  <a href="https://www.facebook.com/Shylmagoghnar" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> <a href="https://shylmagoghnar.bandcamp.com" target="_blank"><img src="assets/bandcamp_button.png" alt="bandcamp" height="15" width="15" /></a>
-13 | Synestesia |  <a href="https://open.spotify.com/artist/2qFjGRQKbV3SZ2uLyfe2rz?si=WkyqyqSqTGCyrj6_p-JifA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a>   
-14 | Words Of Farewell | <a href="https://www.wordsoffarewell.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO?si=Ucx610EKTDKhIIiD5dhxGQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/WordsOfFarewell" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a> <a href="https://www.facebook.com/wordsoffarewell" target="_blank"><img src="assets/facebook_button.png" alt="facebook" height="15" width="15" /></a> 
+No. | Band | Avatar
+--- | ---- | ------
+1 | **Aeternam** | <img src="https://i.scdn.co/image/50cf15ae90350f40b5243d260217616fa1f77251" height="100" width="auto" style="border-radius:50%">
+2 | **Amorphis** | <img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%">
+3 | **Eternal Tears Of Sorrow** | <img src="https://i.scdn.co/image/0ac9cf29916cf4b899a3b6990c3f56f12e22f4cf" height="100" width="auto" style="border-radius:50%">
+4 | **Fall Of The Leafe** | <img src="https://i.scdn.co/image/ab67616d00001e02ed11278f2d1ee36117e8de41" height="100" width="auto" style="border-radius:50%">
+5 | **Foredoomed** | <img src="https://i.scdn.co/image/0da272ffc7e3d95c7d78b3961b2ce7ee9ff8d93e" height="100" width="auto" style="border-radius:50%">
+6 | **Garden Of Shadows** | <img src="https://i.scdn.co/image/ab67616d00001e02122513d73dc3659c8b6626f1" height="100" width="auto" style="border-radius:50%">
+7 | **Incarnia** | <img src="https://i.scdn.co/image/ab67616d00001e02e829355f39b6394a1e4481e5" height="100" width="auto" style="border-radius:50%">
+8 | **Intestine Baalism** | <img src="https://i.scdn.co/image/ab67616d00001e0267ce1c9cb9a53f1ebc3e9a83" height="100" width="auto" style="border-radius:50%">
+9 | **Kalmah** | <img src="https://i.scdn.co/image/91bba9f6fe7794c6aa89748e09266197e18b23b0" height="100" width="auto" style="border-radius:50%">
+10 | **Kaunis Kuolematon** | <img src="https://i.scdn.co/image/05c2aa5b649e09abc45e5afcf246a65b88133a67" height="100" width="auto" style="border-radius:50%">
+11 | **Mors Principium Est** | <img src="https://i.scdn.co/image/c7797ed007932543fb4b972583cb67bf7281febb" height="100" width="auto" style="border-radius:50%">
+12 | **Realm Of Horus** | <img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%">
+13 | **Shylmagoghnar** | <img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%">
+14 | **Stormlord** | <img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%">
+15 | **Synestesia** | <img src="https://i.scdn.co/image/ab67616d00001e023db4d9a26aff5413169a8c4c" height="100" width="auto" style="border-radius:50%">
+16 | **Words Of Farewell** | <img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%">

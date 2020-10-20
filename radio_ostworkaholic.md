@@ -1,63 +1,79 @@
-# Our Workaholic OST selection
+# Workaholic OST
 
-These is our favourite OST selection for long **workaholic** hours. Get focused and motivated to the max!
+**40 new tracks every 2 hours!**
+
+
+## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kcdZk5)
+
+<a href="https://spoti.fi/3kcdZk5" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273017d3065ad9a0f1556a0f826ab67616d0000b27361884853f099aa1e9412e581ab67616d0000b273801dfe041e29b0c02824d6b3ab67616d0000b273d311a629d866da1b2929b525" height="300" width="auto" style="border-radius:50%"></a>
+
+Do you like it? Let us know, give that radio a like. Follow us!
+
+
+Our stations are dynamic playlists on Spotify. Our playlists regenerate every 2h with 40 new tracks. Tracks are selected randomly from the catalog of artists :-) Discover more about [our project in our home page](https://radioninjapirata.github.io).
+
+Did we miss someone? Is your band not featured in our radio? Let us know! Engage with us on social media.
+
+<p>
+    <a href="https://twitter.com/RNinjaPirata" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="50" width="50" /></a>
+    <a href="https://www.reddit.com/r/RadioNinjaPirata/" target="_blank"><img src="assets/reddit_button.png" alt="reddit" height="50" width="50" /></a>
+    <a href="https://open.spotify.com/user/pagbz485dhfowwiza5wc9cwh8?si=XVuH5a3NQ8Ohft-yPC5XBA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="50" width="50" /></a>
+</p>
+
 
 If you enjoy the Radio Ninja Pirata project, consider supporting us with a small donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
 
  Patreon | LiberaPay | PayPal
 <a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
 
-Listen bellow or [click in this direct link to Spotify](https://open.spotify.com/playlist/36kG59PQOswWlhq9ViK0am?si=AiaZzCu3TjykLrnBCYKozQ).
 
-{% include spotifyPlaylist.html id="36kG59PQOswWlhq9ViK0am" %}
+# Featured Artists
 
-<br>
+We are building daily! Stay tuned for updates. :-)
 
-# Featured Albums
-
-No. | Band | links
---- | ---- | -----
-1  | Band of Brothers - Original Motion Picture Soundtrack |   
-2  | Born Legends EX Edition |   
-3  | Born Legends II | <a href="https://sinitustempo.bandcamp.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0eSzO8gUwirFOQEMfkTJRT?si=Vt0gk6oLRo2aZrD2cZhXZQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/SinitusTempo" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-4  | Born Legends III : Final Act |   
-5  | Commandos 2 Men of Courage |   
-6  | Commandos Soundtrack Collection (Original Game Soundtrack) |   
-9  | Diablo II Original Soundtrack |   
-7  | Diablo III Reaper of Souls Soundtrack | <a href="https://www.blizzard.com/en-sg/games/music/diablo3-reaper-of-souls.html" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0NsSIxEDXugMRsN8l4d1sA?si=yriwvNKkSmqaNqEI_74iUQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Blizzard_Ent" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-8  | Diablo III Soundtrack |   
-10  | Doom (Original Game Soundtrack) | <a href="https://mick-gordon.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp?si=DFGpymriTj2QNPXvPYBHQQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Mick_Gordon" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-11  | Heroes of the Storm (Original Game Soundtrack) |   
-12  | Impression: Samurai Champloo OST |   
-43  | John Wick (Original Motion Picture Soundtrack) |   
-13  | Journey (Original Video Game Soundtrack) | <a href="https://www.austinwintory.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0ndOKj9ShVUgDc2UiR8b2M?si=E4GMYF1cQpq8EcjUIhvJNQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/awintory" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-14  | Lord Of The Rings 3-The Return Of The King |   
-15  | Ori and the Blind Forest (Original Soundtrack) |   
-16  | Overwatch Soundtrack |   
-17  | Spartacus: Blood And Sand (Original Television Soundtrack) | <a href="https://loducamusic.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/05hcAdZa1gMVZawJFnIn9o?si=NfczFe4vTkymOKYEyaJwww" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/JLoDucaMUSIC" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-18  | Spartacus: Vengeance (Music From The Starz Original Series) |   
-19  | Spartacus: Vengeance (Music From The Starz Original Series) |   
-20  | Spartacus: War Of The Damned (Music From The Starz Original Series) |   
-21  | StarCraft 2: Legacy of the Void Soundtrack | <a href="https://www.blizzard.com/en-sg/games/music/sc2-legacy-of-the-void.html" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0NIw6CSJ7BKAdvEWAwkjng?si=IwxgG8MsSa6s-clqUbhqBg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Blizzard_Ent" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-22  | StarCraft II: Heart of the Swarm Soundtrack |   
-23  | StarCraft II: Original Soundtrack |   
-24  | StarCraft Original Soundtrack |   
-25  | The Dragonborn Comes (From "The Elder Scrolls V: Skyrim") |   
-26  | The Elder Scrolls Online Original Game Soundtrack |   
-28  | The Lord Of The Rings - The Return Of The King - The Complete Recordings (Limited Edition) |   
-27  | The Lord Of The Rings: The Fellowship Of The Ring - The Complete Recordings |   
-29  | The Lord Of The Rings: The Two Towers-The Complete Recordings |   
-44  | The Witcher 3: Wild Hunt (Original Game Soundtrack) |   
-30  | Titans of War | <a href="https://open.spotify.com/artist/1wOlPrwSTgH4DB4KqWqDAK?si=pMgECxFSTI6k7mrjkY-eHA" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0UksArwk5BJvIc8a4DN2Pa?si=N124mOWAQpW0aJ7zSK2XzQ" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Dan_Heath_Music" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-31  | Warcraft (Original Motion Picture Soundtrack) |   
-32  | Wolfenstein II: The New Colossus (Original Game Soundtrack) |   
-33  | Wolfenstein: The New Order Original Game Soundtrack |   
-34  | World of Warcraft - Battle for Azeroth Soundtrack OST |   
-38  | World of Warcraft Original Soundtrack |   
-35  | World of Warcraft: Cataclysm Original Soundtrack |   
-36  | World of Warcraft: Legion (Original Game Soundtrack) | <a href="https://www.blizzard.com/en-sg/games/music/wow-legion.html" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/02S1126Q5E4gUEtpTI6W38?si=BcfBwnjzRu-f0P6BUbsL9A" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Blizzard_Ent" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-37  | World of Warcraft: Mists of Pandaria Soundtrack |   
-39  | World of Warcraft: Taverns of Azeroth Original Soundtrack | <a href="http://www.davidarkenstone.com/" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/13S74XwQHqT28nOyvwpFKh?si=k8hBhTkUQ0Gtxwj_G8jfjg" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/davidarkenstone" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-40  | World of Warcraft: The Burning Crusade Original Soundtrack |   
-41  | World of Warcraft: Warlords of Draenor Original Game Soundtrack | <a href="https://www.blizzard.com/en-sg/games/music/wow-warlords-of-draenor.html" target="_blank"><img src="assets/others_home_button.png" alt="home" height="15" width="15" /></a> <a href="https://open.spotify.com/album/0MsAQN2gxLmzmIzXzva1BD?si=7YPODltGTEyanTII8rcIng" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="15" width="15" /></a> <a href="https://twitter.com/Blizzard_Ent" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="15" width="15" /></a>
-42  | World of Warcraft: Wrath of the Lich King Original Soundtrack |   
+No. | Band | Avatar
+--- | ---- | ------
+1 | **Band Of Brothers - Original Motion Picture Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02017d3065ad9a0f1556a0f826" height="100" width="auto" style="border-radius:50%">
+2 | **Born Legends Ex Edition** | <img src="https://i.scdn.co/image/ab67616d00001e026bf049f95aaf90f17a83957d" height="100" width="auto" style="border-radius:50%">
+3 | **Born Legends Ii** | <img src="https://i.scdn.co/image/ab67616d00001e02fe52434b1071a5dd9ef5eb91" height="100" width="auto" style="border-radius:50%">
+4 | **Born Legends Iii : Final Act** | <img src="https://i.scdn.co/image/ab67616d00001e02e04fd7c4d7b84c6dba42f5c1" height="100" width="auto" style="border-radius:50%">
+5 | **Commandos 2 Men Of Courage** | <img src="https://i.scdn.co/image/ab67616d00001e02801dfe041e29b0c02824d6b3" height="100" width="auto" style="border-radius:50%">
+6 | **Commandos Soundtrack Collection (Original Game Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e0261884853f099aa1e9412e581" height="100" width="auto" style="border-radius:50%">
+7 | **Diablo Ii Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02b6ca9be8f6038aaad55cf50f" height="100" width="auto" style="border-radius:50%">
+8 | **Diablo Iii Reaper Of Souls Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02e4afa71544aa07d96a802a92" height="100" width="auto" style="border-radius:50%">
+9 | **Diablo Iii Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e023b52f2f8d44fd7794d2fa0f9" height="100" width="auto" style="border-radius:50%">
+10 | **Doom (Original Game Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e02aad36b64a1a78951b504bc4e" height="100" width="auto" style="border-radius:50%">
+11 | **Heroes Of The Storm (Original Game Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e0254931c2d81a2e56ec6bda69a" height="100" width="auto" style="border-radius:50%">
+12 | **Impression: Samurai Champloo Ost** | <img src="https://i.scdn.co/image/ab67616d00001e021ed696411749957838a058e9" height="100" width="auto" style="border-radius:50%">
+13 | **John Wick (Original Motion Picture Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e027a283d440beee38bcc65cf89" height="100" width="auto" style="border-radius:50%">
+14 | **Journey (Original Video Game Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e02e8fb0eb39c2cb552b60e3b3c" height="100" width="auto" style="border-radius:50%">
+15 | **Lord Of The Rings 3 - The Return Of The King** | <img src="https://i.scdn.co/image/ab67616d00001e0201003bf641243fcc56944428" height="100" width="auto" style="border-radius:50%">
+16 | **Ori And The Blind Forest (Original Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e0271b1b5d2f76b80661d4e01c8" height="100" width="auto" style="border-radius:50%">
+17 | **Overwatch Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02167672d9453d42b472e02137" height="100" width="auto" style="border-radius:50%">
+18 | **Spartacus: Blood And Sand (Original Television Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e02bcac19496f38ecb4ba5625cd" height="100" width="auto" style="border-radius:50%">
+19 | **Spartacus: Vengeance (Music From The Starz Original Series)** | <img src="https://i.scdn.co/image/ab67616d00001e029d37313a41fc27a90760ba15" height="100" width="auto" style="border-radius:50%">
+20 | **Spartacus: Vengeance (Music From The Starz Original Series)** | <img src="https://i.scdn.co/image/ab67616d00001e029d37313a41fc27a90760ba15" height="100" width="auto" style="border-radius:50%">
+21 | **Spartacus: War Of The Damned (Music From The Starz Original Series)** | <img src="https://i.scdn.co/image/ab67616d00001e026b20c6049adc59dcca7aa9fd" height="100" width="auto" style="border-radius:50%">
+22 | **Starcraft 2: Legacy Of The Void Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02fe0180fbca0ed3a46cf44cfe" height="100" width="auto" style="border-radius:50%">
+23 | **Starcraft Ii: Heart Of The Swarm Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02a95215ad3af6f2e9bea1db33" height="100" width="auto" style="border-radius:50%">
+24 | **Starcraft Ii: Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e028a9f2ff46fd4488bfc410329" height="100" width="auto" style="border-radius:50%">
+25 | **Starcraft Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02c65099238b6890773aa8cb41" height="100" width="auto" style="border-radius:50%">
+26 | **The Dragonborn Comes (From "The Elder Scrolls V: Skyrim")** | <img src="https://i.scdn.co/image/ab67616d00001e025d949f945626c1ae039016db" height="100" width="auto" style="border-radius:50%">
+27 | **The Elder Scrolls Online Original Game Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02666a507d1041974dd6bd1f26" height="100" width="auto" style="border-radius:50%">
+28 | **The Lord Of The Rings - The Return Of The King - The Complete Recordings (Limited Edition)** | <img src="https://i.scdn.co/image/ab67616d00001e022b4d071f7824b2c60c3b85cd" height="100" width="auto" style="border-radius:50%">
+29 | **The Lord Of The Rings: The Fellowship Of The Ring - The Complete Recordings** | <img src="https://i.scdn.co/image/ab67616d00001e028236dee9524214e0e6be4a1f" height="100" width="auto" style="border-radius:50%">
+30 | **The Lord Of The Rings: The Two Towers - The Complete Recordings** | <img src="https://i.scdn.co/image/ab67616d00001e020f4bf5c96c9ee54fa00944c4" height="100" width="auto" style="border-radius:50%">
+31 | **The Witcher 3: Wild Hunt (Original Game Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e026c81650e70bf2679e1fa03f7" height="100" width="auto" style="border-radius:50%">
+32 | **Titans Of War** | <img src="https://i.scdn.co/image/ab67616d00001e025bb99633571df6ecf9d2a206" height="100" width="auto" style="border-radius:50%">
+33 | **Warcraft (Original Motion Picture Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e02d061c0ab3ef26804822d51bb" height="100" width="auto" style="border-radius:50%">
+34 | **Wolfenstein Ii: The New Colossus (Original Game Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e0280255b6cc3fda7dc4ad84680" height="100" width="auto" style="border-radius:50%">
+35 | **Wolfenstein: The New Order Original Game Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02cb27e957fcf3d9622a5c8c8a" height="100" width="auto" style="border-radius:50%">
+36 | **World Of Warcraft - Battle For Azeroth Soundtrack Ost** | <img src="https://i.scdn.co/image/ab67616d00001e028b54c78052836f22fc39d178" height="100" width="auto" style="border-radius:50%">
+37 | **World Of Warcraft Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02c924db67b20b34c8eb76b264" height="100" width="auto" style="border-radius:50%">
+38 | **World Of Warcraft: Cataclysm Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e0244281373ec2db029e581a12f" height="100" width="auto" style="border-radius:50%">
+39 | **World Of Warcraft: Legion (Original Game Soundtrack)** | <img src="https://i.scdn.co/image/ab67616d00001e02221a10d1f511ba655ccf90cd" height="100" width="auto" style="border-radius:50%">
+40 | **World Of Warcraft: Mists Of Pandaria Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02d311a629d866da1b2929b525" height="100" width="auto" style="border-radius:50%">
+41 | **World Of Warcraft: Taverns Of Azeroth Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02fd4d0bacedae8407a24256d8" height="100" width="auto" style="border-radius:50%">
+42 | **World Of Warcraft: The Burning Crusade Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e026bcd453c83fac78b669db1ab" height="100" width="auto" style="border-radius:50%">
+43 | **World Of Warcraft: Warlords Of Draenor Original Game Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e02c2ee31a4ab79efc48c568081" height="100" width="auto" style="border-radius:50%">
+44 | **World Of Warcraft: Wrath Of The Lich King Original Soundtrack** | <img src="https://i.scdn.co/image/ab67616d00001e021a14627e47239473b7e3b6ed" height="100" width="auto" style="border-radius:50%">
