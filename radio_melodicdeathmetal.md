@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
 
-<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273122513d73dc3659c8b6626f1ab67616d0000b273261592fc4c8079eadd0e67d7ab67616d0000b27353fed7d17de5757170198f32ab67616d0000b273e829355f39b6394a1e4481e5" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736d62d4467ab64b5c6d3b5be2ab67616d0000b273893d1061b717beb72de7ac96ab67616d0000b2739f5a3bb365868b4b698ae455ab67616d0000b273e829355f39b6394a1e4481e5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -45,7 +45,8 @@ No. | Band | Avatar
 10 | **Kaunis Kuolematon** | <img src="https://i.scdn.co/image/05c2aa5b649e09abc45e5afcf246a65b88133a67" height="100" width="auto" style="border-radius:50%">
 11 | **Mors Principium Est** | <img src="https://i.scdn.co/image/c7797ed007932543fb4b972583cb67bf7281febb" height="100" width="auto" style="border-radius:50%">
 12 | **Realm Of Horus** | <img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%">
-13 | **Shylmagoghnar** | <img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%">
-14 | **Stormlord** | <img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%">
-15 | **Synestesia** | <img src="https://i.scdn.co/image/ab67616d00001e023db4d9a26aff5413169a8c4c" height="100" width="auto" style="border-radius:50%">
-16 | **Words Of Farewell** | <img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%">
+13 | **Sarea** | <img src="https://i.scdn.co/image/588bffd41ddec7bda5dfced88ccad0b5c2d4927c" height="100" width="auto" style="border-radius:50%">
+14 | **Shylmagoghnar** | <img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%">
+15 | **Stormlord** | <img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%">
+16 | **Synestesia** | <img src="https://i.scdn.co/image/ab67616d00001e023db4d9a26aff5413169a8c4c" height="100" width="auto" style="border-radius:50%">
+17 | **Words Of Farewell** | <img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%">
