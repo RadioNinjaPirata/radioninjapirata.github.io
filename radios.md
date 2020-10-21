@@ -1,6 +1,4 @@
 
-<html>
-<head>
 <style>
 figure {
   border: 0px #cccccc solid;
@@ -17,8 +15,6 @@ figcaption {
   text-align: center;
 }
 </style>
-</head>
-<body>
 
 
 <br /> <br />
