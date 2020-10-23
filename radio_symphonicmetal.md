@@ -1,11 +1,11 @@
-# Female Symphonic
+# Symphonic
 
 **40 new tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/33DN7SY)
 
-<a href="https://spoti.fi/33DN7SY" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732b48e65f7ba692a7f871aefaab67616d0000b2739bd453e9e7a6eef84945e71cab67616d0000b273a6ff1b16d20910cdd1d82542ab67616d0000b273b24293a6ea6836e01e48c968" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/33DN7SY" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27314c57f7849cc60a6c070b05cab67616d0000b27315215dcbfb5187b830fd520dab67616d0000b273b7a73ec4e4747cab81bd2adaab67616d0000b273d2f940495f9681422b894bc1" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
