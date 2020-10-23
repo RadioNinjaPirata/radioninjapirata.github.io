@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2738a2d389f32f74fe71154b10bab67616d0000b27393b72e8f98c4787a88f3d4beab67616d0000b273b73e1610f3b8dfc418dbf8a6ab67616d0000b273e931ace4d7f95ccad7307db6" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730d1549db2baf418925e4ddbaab67616d0000b273379822c02810df8f56a7d454ab67616d0000b273d6f4e0da454775dd80af5a3bab67616d0000b273f2f491b7fa332591a4730277" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -51,18 +51,21 @@ No. | Band | Avatar
 16 | **Kingdom Of Sorrow** | <img src="https://i.scdn.co/image/ab6772690000bac3cd1a0f149b4d5f27580dae7a" height="100" width="auto" style="border-radius:50%">
 17 | **Korn** | <img src="https://i.scdn.co/image/45d35e47fca2db9992f5ca4c05c73a14f9f933f2" height="100" width="auto" style="border-radius:50%">
 18 | **Lamb Of God** | <img src="https://i.scdn.co/image/141f0726b20f2b0778a4f927cdeaa0f8a0700c06" height="100" width="auto" style="border-radius:50%">
-19 | **Machine Head** | <img src="https://i.scdn.co/image/93b4063ffba54f8df57124cc4d3d3612d417f4c1" height="100" width="auto" style="border-radius:50%">
-20 | **Moonspell** | <img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%">
-21 | **Motörhead** | <img src="https://i.scdn.co/image/1d4d3589606e06c992f45279a584f8dd5fe2ad13" height="100" width="auto" style="border-radius:50%">
-22 | **Nightfall** | <img src="https://i.scdn.co/image/c27f890d79d686e12ffd16588db09e57cc976f08" height="100" width="auto" style="border-radius:50%">
-23 | **Pantera** | <img src="https://i.scdn.co/image/ca554d2c5418c8f4f50e84c7708db076f4d04081" height="100" width="auto" style="border-radius:50%">
-24 | **Rage Against The Machine** | <img src="https://i.scdn.co/image/b0a54ab481fc75c2800973e78acf2738834b5c10" height="100" width="auto" style="border-radius:50%">
-25 | **Rage** | <img src="https://i.scdn.co/image/0e97ed2dab6741db9c3add95ce2c9bc6b9622bb4" height="100" width="auto" style="border-radius:50%">
-26 | **Rammstein** | <img src="https://i.scdn.co/image/e53c4ffd20251515188d53057910677af3194bac" height="100" width="auto" style="border-radius:50%">
-27 | **Roadrunner United** | <img src="https://i.scdn.co/image/ab67616d00001e023ac71450f70f8dae74a215e9" height="100" width="auto" style="border-radius:50%">
-28 | **Rob Zombie** | <img src="https://i.scdn.co/image/e28689aa25d8a8a18623bfe1339467d3491fea9a" height="100" width="auto" style="border-radius:50%">
-29 | **Sepultura** | <img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%">
-30 | **Soil** | <img src="https://i.scdn.co/image/6178819ea7c333fa6a067b6969defb6ade1cd19f" height="100" width="auto" style="border-radius:50%">
-31 | **Soilwork** | <img src="https://i.scdn.co/image/a8d493ea3014fd096655528a81b34213fbf553ac" height="100" width="auto" style="border-radius:50%">
-32 | **Soulfly** | <img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%">
-33 | **Threat Signal** | <img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%">
+19 | **Light This City** | <img src="https://i.scdn.co/image/ab67616d00001e025a72292c91f439556beca97a" height="100" width="auto" style="border-radius:50%">
+20 | **Machine Head** | <img src="https://i.scdn.co/image/93b4063ffba54f8df57124cc4d3d3612d417f4c1" height="100" width="auto" style="border-radius:50%">
+21 | **Moonspell** | <img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%">
+22 | **Motörhead** | <img src="https://i.scdn.co/image/1d4d3589606e06c992f45279a584f8dd5fe2ad13" height="100" width="auto" style="border-radius:50%">
+23 | **Nightfall** | <img src="https://i.scdn.co/image/c27f890d79d686e12ffd16588db09e57cc976f08" height="100" width="auto" style="border-radius:50%">
+24 | **Once Human** | <img src="https://i.scdn.co/image/36d349ec2b41f4862e00b020ed3dad7d76174c7a" height="100" width="auto" style="border-radius:50%">
+25 | **Pantera** | <img src="https://i.scdn.co/image/ca554d2c5418c8f4f50e84c7708db076f4d04081" height="100" width="auto" style="border-radius:50%">
+26 | **Rage Against The Machine** | <img src="https://i.scdn.co/image/b0a54ab481fc75c2800973e78acf2738834b5c10" height="100" width="auto" style="border-radius:50%">
+27 | **Rage** | <img src="https://i.scdn.co/image/0e97ed2dab6741db9c3add95ce2c9bc6b9622bb4" height="100" width="auto" style="border-radius:50%">
+28 | **Rammstein** | <img src="https://i.scdn.co/image/e53c4ffd20251515188d53057910677af3194bac" height="100" width="auto" style="border-radius:50%">
+29 | **Roadrunner United** | <img src="https://i.scdn.co/image/ab67616d00001e023ac71450f70f8dae74a215e9" height="100" width="auto" style="border-radius:50%">
+30 | **Rob Zombie** | <img src="https://i.scdn.co/image/e28689aa25d8a8a18623bfe1339467d3491fea9a" height="100" width="auto" style="border-radius:50%">
+31 | **Sepultura** | <img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%">
+32 | **Soil** | <img src="https://i.scdn.co/image/6178819ea7c333fa6a067b6969defb6ade1cd19f" height="100" width="auto" style="border-radius:50%">
+33 | **Soilwork** | <img src="https://i.scdn.co/image/a8d493ea3014fd096655528a81b34213fbf553ac" height="100" width="auto" style="border-radius:50%">
+34 | **Soulfly** | <img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%">
+35 | **Syrebris** | <img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%">
+36 | **Threat Signal** | <img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%">
