@@ -1,11 +1,11 @@
-# Classic Music Albums
+# Technical Death Metal
 
 **40 new tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA)
+## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2IU51u1)
 
-<a href="https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27300f85319fd4cac52081589e8ab67616d0000b27382ef84ec567b7951e1b4adf4ab67616d0000b273e38051840ec58a50d18214a7ab67616d0000b273edd8e6986c952b07c2c8bc87" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2IU51u1" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731edbd1c92e1fa7b5ea5f0be8ab67616d0000b273c57008fe7db0b4585e5f68d6ab67616d0000b273c98cf8a1c84213a078a3e8bcab67616d0000b273d76f9e831e838caa994aea56" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,4 +33,12 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Ara Malikian** | <img src="https://i.scdn.co/image/b41d05408b5bd67316487cd625fd5b7a73e7cd44" height="100" width="auto" style="border-radius:50%">
+1 | **Abhorrent Decimation** | <img src="https://i.scdn.co/image/f204895d7966199a4afb296bb2d03285633bdbe0" height="100" width="auto" style="border-radius:50%">
+2 | **Abiotic** | <img src="https://i.scdn.co/image/ab67616d00001e02cb60e93b599d395930afcdea" height="100" width="auto" style="border-radius:50%">
+3 | **Abnormality** | <img src="https://i.scdn.co/image/1c5aac479bc80474cdf966980e58099a8c6cb49b" height="100" width="auto" style="border-radius:50%">
+4 | **Aborted** | <img src="https://i.scdn.co/image/24ff53b066723870e04e5e1d69b93f39be2add7e" height="100" width="auto" style="border-radius:50%">
+5 | **Abysmal Dawn** | <img src="https://i.scdn.co/image/41c6118f44a46806c6eb55de3c83015de0804fcc" height="100" width="auto" style="border-radius:50%">
+6 | **Abysmal Torment** | <img src="https://i.scdn.co/image/ab67616d00001e02db9f6c91c74e2d8f79bb43bb" height="100" width="auto" style="border-radius:50%">
+7 | **Aeon** | <img src="https://i.scdn.co/image/ab67616d00001e023065d7ec9a3e2755c466d907" height="100" width="auto" style="border-radius:50%">
+8 | **Ulcerate** | <img src="https://i.scdn.co/image/1e839c5b2f9d3bf9c2d8bba5ec31636f4b1f238e" height="100" width="auto" style="border-radius:50%">
+9 | **Æpoch** | <img src="https://i.scdn.co/image/dd9c652f0b0e7e5407088de0e136645133a9913b" height="100" width="auto" style="border-radius:50%">

@@ -1,11 +1,11 @@
-# Brutal / Slam / Technical Death Metal
+# Violin
 
 **40 new tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3dlrMCq)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA)
 
-<a href="https://spoti.fi/3dlrMCq" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731edbd1c92e1fa7b5ea5f0be8ab67616d0000b27330897a701ec6e4353ed0f8b7ab67616d0000b2734657780524709d2e6dc31548ab67616d0000b273b317737e6ccfdc513e0b12a6" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273635b70671b7314d882180a43ab67616d0000b2736d372ba5eb897e5dc6d4873eab67616d0000b273a11dbeb1ee309ea950713fb5ab67616d0000b273a457ea5cd66c9141537816a4" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,7 +33,4 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Abnormality** | <img src="https://i.scdn.co/image/1c5aac479bc80474cdf966980e58099a8c6cb49b" height="100" width="auto" style="border-radius:50%">
-2 | **Basement Torture Killings** | <img src="https://i.scdn.co/image/ab67616d00001e02b317737e6ccfdc513e0b12a6" height="100" width="auto" style="border-radius:50%">
-3 | **Geostygma** | <img src="https://i.scdn.co/image/1885db84f035e7b7ecd9423c550744dc162dc66a" height="100" width="auto" style="border-radius:50%">
-4 | **Inferi** | <img src="https://i.scdn.co/image/75fefed8ff01487e668f5fc9ad3ac36d56f7ccb7" height="100" width="auto" style="border-radius:50%">
+1 | **Ara Malikian** | <img src="https://i.scdn.co/image/b41d05408b5bd67316487cd625fd5b7a73e7cd44" height="100" width="auto" style="border-radius:50%">
