@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2RLv6fX)
 
-<a href="https://spoti.fi/2RLv6fX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733df82f96570e7b2fc3ab7b64ab67616d0000b2738fd03c04463adf540ed9e4e4ab67616d0000b273e751523edfbbb25bb4caf8a5ab67616d0000b273ffb919c08489d7288ab6d694" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2RLv6fX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734b289dfddb41495e4245da7bab67616d0000b27353ee5899c2e093e3228ce42dab67616d0000b2738e77bfd47e48a1098518bf9eab67616d0000b273abed4e1b88e612cbbb98d572" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -71,30 +71,31 @@ No. | Band | Avatar
 36 | **Monuments** | <img src="https://i.scdn.co/image/a6448636f0207f26bfaa9ee279edef41cf93cf6f" height="100" width="auto" style="border-radius:50%">
 37 | **Myrath** | <img src="https://i.scdn.co/image/986272922f31554f5291b3c13fe3cc3df32ae478" height="100" width="auto" style="border-radius:50%">
 38 | **O.R.K.** | <img src="https://i.scdn.co/image/16a1279a9a3cf04ccc6e52e24773aa112074269c" height="100" width="auto" style="border-radius:50%">
-39 | **Opeth** | <img src="https://i.scdn.co/image/e0f431527ecb685f0fae6f7c12cc1cb2b378c721" height="100" width="auto" style="border-radius:50%">
-40 | **Ozric Tentacles** | <img src="https://i.scdn.co/image/8834f3e239b5caa298d3931f8575651d40a0ee58" height="100" width="auto" style="border-radius:50%">
-41 | **Parallel Dimension** | <img src="https://i.scdn.co/image/ab67616d00001e02767f687a435bb1c8b204300d" height="100" width="auto" style="border-radius:50%">
-42 | **Porcupine Tree** | <img src="https://i.scdn.co/image/6992c0c104a9805d410ec2e7db3330467f9d4b54" height="100" width="auto" style="border-radius:50%">
-43 | **Psychotic Waltz** | <img src="https://i.scdn.co/image/ab67616d00001e0267a0189f698d536a59591aea" height="100" width="auto" style="border-radius:50%">
-44 | **Pyramaze** | <img src="https://i.scdn.co/image/36fd35a29cc3ceb7f37938309aea0e718458194f" height="100" width="auto" style="border-radius:50%">
-45 | **Riverside** | <img src="https://i.scdn.co/image/54fd4643dc7abdcf91fba3b74c929f395954b31a" height="100" width="auto" style="border-radius:50%">
-46 | **Rocket Scientists** | <img src="https://i.scdn.co/image/ab67616d00001e021c7e64b35b48dbbdc00d54d2" height="100" width="auto" style="border-radius:50%">
-47 | **Roine Stolt** | <img src="https://i.scdn.co/image/ab67616d00001e026a9d06ce81d1a5be04cffdbe" height="100" width="auto" style="border-radius:50%">
-48 | **Saga** | <img src="https://i.scdn.co/image/bb88af1aca84f3c15b7b224785400d60892579c6" height="100" width="auto" style="border-radius:50%">
-49 | **Scale The Summit** | <img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%">
-50 | **Seventh Wonder** | <img src="https://i.scdn.co/image/bf3618688d96e1004dfa98f5cbe12a9418cc7167" height="100" width="auto" style="border-radius:50%">
-51 | **Soen** | <img src="https://i.scdn.co/image/7967f21c4b36abb74463e0f68bfbaa723f07b56c" height="100" width="auto" style="border-radius:50%">
-52 | **Sons Of Apollo** | <img src="https://i.scdn.co/image/a8919cf2441d50d54932967caa10e457995bb1ce" height="100" width="auto" style="border-radius:50%">
-53 | **Structural Disorder** | <img src="https://i.scdn.co/image/bbb7ad643001710ed7a0f84477e2ce361fa4616d" height="100" width="auto" style="border-radius:50%">
-54 | **Suspyre** | <img src="https://i.scdn.co/image/ab67616d00001e02fd2d0f43c359e526ba1ff050" height="100" width="auto" style="border-radius:50%">
-55 | **Symphony X** | <img src="https://i.scdn.co/image/856b11d3f8815ffe5c74dc9807ca2d2856509d86" height="100" width="auto" style="border-radius:50%">
-56 | **Thanatopsis** | <img src="https://i.scdn.co/image/8a4620ffd8d4c9790931bbd0731fd9ece9b8bdfc" height="100" width="auto" style="border-radius:50%">
-57 | **The Algorithm** | <img src="https://i.scdn.co/image/c8a1da0965c9476f37134884d4a50af825fd494d" height="100" width="auto" style="border-radius:50%">
-58 | **The Contortionist** | <img src="https://i.scdn.co/image/59143fd34ea281c51d5e2e7243f7ac59f16c6402" height="100" width="auto" style="border-radius:50%">
-59 | **The Ocean** | <img src="https://i.scdn.co/image/f2e4a4abd5a3b0cbba54e262a378504fdf4107a6" height="100" width="auto" style="border-radius:50%">
-60 | **The Omnific** | <img src="https://i.scdn.co/image/cdac1d65155b42ba95edec1f0c08498418f94972" height="100" width="auto" style="border-radius:50%">
-61 | **Tony Levin** | <img src="https://i.scdn.co/image/8cf4945127acf2eba8204ca4f55f07549ef192a0" height="100" width="auto" style="border-radius:50%">
-62 | **United Progressive Fraternity** | <img src="https://i.scdn.co/image/7365f274c1e932a117a5e1a0b68e597bb544bf18" height="100" width="auto" style="border-radius:50%">
-63 | **Voivod** | <img src="https://i.scdn.co/image/0c3e323f9541d98f6067fe8b5144fc5a35fbf84f" height="100" width="auto" style="border-radius:50%">
-64 | **Vulture Industries** | <img src="https://i.scdn.co/image/f7a770e8bbb7b7bfa50fc3e44c98f3adc5b42004" height="100" width="auto" style="border-radius:50%">
-65 | **Wilderun** | <img src="https://i.scdn.co/image/ab67616d00001e02dd6affd00be61256768c98ee" height="100" width="auto" style="border-radius:50%">
+39 | **Oneironaught** | <img src="https://i.scdn.co/image/ab67616d00001e02fd427ccf60c81ced82d0658b" height="100" width="auto" style="border-radius:50%">
+40 | **Opeth** | <img src="https://i.scdn.co/image/e0f431527ecb685f0fae6f7c12cc1cb2b378c721" height="100" width="auto" style="border-radius:50%">
+41 | **Ozric Tentacles** | <img src="https://i.scdn.co/image/8834f3e239b5caa298d3931f8575651d40a0ee58" height="100" width="auto" style="border-radius:50%">
+42 | **Parallel Dimension** | <img src="https://i.scdn.co/image/ab67616d00001e02767f687a435bb1c8b204300d" height="100" width="auto" style="border-radius:50%">
+43 | **Porcupine Tree** | <img src="https://i.scdn.co/image/6992c0c104a9805d410ec2e7db3330467f9d4b54" height="100" width="auto" style="border-radius:50%">
+44 | **Psychotic Waltz** | <img src="https://i.scdn.co/image/ab67616d00001e0267a0189f698d536a59591aea" height="100" width="auto" style="border-radius:50%">
+45 | **Pyramaze** | <img src="https://i.scdn.co/image/36fd35a29cc3ceb7f37938309aea0e718458194f" height="100" width="auto" style="border-radius:50%">
+46 | **Riverside** | <img src="https://i.scdn.co/image/54fd4643dc7abdcf91fba3b74c929f395954b31a" height="100" width="auto" style="border-radius:50%">
+47 | **Rocket Scientists** | <img src="https://i.scdn.co/image/ab67616d00001e021c7e64b35b48dbbdc00d54d2" height="100" width="auto" style="border-radius:50%">
+48 | **Roine Stolt** | <img src="https://i.scdn.co/image/ab67616d00001e026a9d06ce81d1a5be04cffdbe" height="100" width="auto" style="border-radius:50%">
+49 | **Saga** | <img src="https://i.scdn.co/image/bb88af1aca84f3c15b7b224785400d60892579c6" height="100" width="auto" style="border-radius:50%">
+50 | **Scale The Summit** | <img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%">
+51 | **Seventh Wonder** | <img src="https://i.scdn.co/image/bf3618688d96e1004dfa98f5cbe12a9418cc7167" height="100" width="auto" style="border-radius:50%">
+52 | **Soen** | <img src="https://i.scdn.co/image/7967f21c4b36abb74463e0f68bfbaa723f07b56c" height="100" width="auto" style="border-radius:50%">
+53 | **Sons Of Apollo** | <img src="https://i.scdn.co/image/a8919cf2441d50d54932967caa10e457995bb1ce" height="100" width="auto" style="border-radius:50%">
+54 | **Structural Disorder** | <img src="https://i.scdn.co/image/bbb7ad643001710ed7a0f84477e2ce361fa4616d" height="100" width="auto" style="border-radius:50%">
+55 | **Suspyre** | <img src="https://i.scdn.co/image/ab67616d00001e02fd2d0f43c359e526ba1ff050" height="100" width="auto" style="border-radius:50%">
+56 | **Symphony X** | <img src="https://i.scdn.co/image/856b11d3f8815ffe5c74dc9807ca2d2856509d86" height="100" width="auto" style="border-radius:50%">
+57 | **Thanatopsis** | <img src="https://i.scdn.co/image/8a4620ffd8d4c9790931bbd0731fd9ece9b8bdfc" height="100" width="auto" style="border-radius:50%">
+58 | **The Algorithm** | <img src="https://i.scdn.co/image/c8a1da0965c9476f37134884d4a50af825fd494d" height="100" width="auto" style="border-radius:50%">
+59 | **The Contortionist** | <img src="https://i.scdn.co/image/59143fd34ea281c51d5e2e7243f7ac59f16c6402" height="100" width="auto" style="border-radius:50%">
+60 | **The Ocean** | <img src="https://i.scdn.co/image/f2e4a4abd5a3b0cbba54e262a378504fdf4107a6" height="100" width="auto" style="border-radius:50%">
+61 | **The Omnific** | <img src="https://i.scdn.co/image/cdac1d65155b42ba95edec1f0c08498418f94972" height="100" width="auto" style="border-radius:50%">
+62 | **Tony Levin** | <img src="https://i.scdn.co/image/8cf4945127acf2eba8204ca4f55f07549ef192a0" height="100" width="auto" style="border-radius:50%">
+63 | **United Progressive Fraternity** | <img src="https://i.scdn.co/image/7365f274c1e932a117a5e1a0b68e597bb544bf18" height="100" width="auto" style="border-radius:50%">
+64 | **Voivod** | <img src="https://i.scdn.co/image/0c3e323f9541d98f6067fe8b5144fc5a35fbf84f" height="100" width="auto" style="border-radius:50%">
+65 | **Vulture Industries** | <img src="https://i.scdn.co/image/f7a770e8bbb7b7bfa50fc3e44c98f3adc5b42004" height="100" width="auto" style="border-radius:50%">
+66 | **Wilderun** | <img src="https://i.scdn.co/image/ab67616d00001e02dd6affd00be61256768c98ee" height="100" width="auto" style="border-radius:50%">
