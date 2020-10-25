@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2IU51u1)
 
-<a href="https://spoti.fi/2IU51u1" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733773ef4f84f2d8ce2be91a39ab67616d0000b273522d0a97186454586761924eab67616d0000b2735265cf380ad16ee3f784beb6ab67616d0000b273b43cc21c0cc91fdbe7200b21" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2IU51u1" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273143093592d03cbcd7095424cab67616d0000b2732b02bc6b3d9e50b7f65ef49fab67616d0000b2735265cf380ad16ee3f784beb6ab67616d0000b273c42a79b2d0b472d497f73b2d" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -40,5 +40,7 @@ No. | Band | Avatar
 5 | **Abysmal Dawn** | <img src="https://i.scdn.co/image/41c6118f44a46806c6eb55de3c83015de0804fcc" height="100" width="auto" style="border-radius:50%">
 6 | **Abysmal Torment** | <img src="https://i.scdn.co/image/ab67616d00001e02db9f6c91c74e2d8f79bb43bb" height="100" width="auto" style="border-radius:50%">
 7 | **Aeon** | <img src="https://i.scdn.co/image/ab67616d00001e023065d7ec9a3e2755c466d907" height="100" width="auto" style="border-radius:50%">
-8 | **Ulcerate** | <img src="https://i.scdn.co/image/1e839c5b2f9d3bf9c2d8bba5ec31636f4b1f238e" height="100" width="auto" style="border-radius:50%">
-9 | **Æpoch** | <img src="https://i.scdn.co/image/dd9c652f0b0e7e5407088de0e136645133a9913b" height="100" width="auto" style="border-radius:50%">
+8 | **Dictated** | <img src="https://i.scdn.co/image/fb26240903d3907adc111b19f8eb5cc17082d70c" height="100" width="auto" style="border-radius:50%">
+9 | **Entheos** | <img src="https://i.scdn.co/image/2e5a95a240e74df1d829e08b049aa344fdd2b881" height="100" width="auto" style="border-radius:50%">
+10 | **Ulcerate** | <img src="https://i.scdn.co/image/1e839c5b2f9d3bf9c2d8bba5ec31636f4b1f238e" height="100" width="auto" style="border-radius:50%">
+11 | **Æpoch** | <img src="https://i.scdn.co/image/dd9c652f0b0e7e5407088de0e136645133a9913b" height="100" width="auto" style="border-radius:50%">

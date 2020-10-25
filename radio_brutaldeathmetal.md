@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3dlrMCq)
 
-<a href="https://spoti.fi/3dlrMCq" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731edbd1c92e1fa7b5ea5f0be8ab67616d0000b2732e00d815ab833722e5169213ab67616d0000b273f0a23f397dfb5adb8e1f18c8ab67616d0000b273f5e1ee8deb0e691a68d29045" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3dlrMCq" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27308a6f28f8d7b167903a9b335ab67616d0000b2734657780524709d2e6dc31548ab67616d0000b273c2e85af134b7f7aa40f61f66ab67616d0000b273f0a23f397dfb5adb8e1f18c8" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -35,5 +35,6 @@ No. | Band | Avatar
 --- | ---- | ------
 1 | **Abnormality** | <img src="https://i.scdn.co/image/1c5aac479bc80474cdf966980e58099a8c6cb49b" height="100" width="auto" style="border-radius:50%">
 2 | **Basement Torture Killings** | <img src="https://i.scdn.co/image/ab67616d00001e02b317737e6ccfdc513e0b12a6" height="100" width="auto" style="border-radius:50%">
-3 | **Geostygma** | <img src="https://i.scdn.co/image/1885db84f035e7b7ecd9423c550744dc162dc66a" height="100" width="auto" style="border-radius:50%">
-4 | **Inferi** | <img src="https://i.scdn.co/image/75fefed8ff01487e668f5fc9ad3ac36d56f7ccb7" height="100" width="auto" style="border-radius:50%">
+3 | **Cerebral Bore** | <img src="https://i.scdn.co/image/ab67616d00001e0202feb7306e5877c5666bea3d" height="100" width="auto" style="border-radius:50%">
+4 | **Geostygma** | <img src="https://i.scdn.co/image/1885db84f035e7b7ecd9423c550744dc162dc66a" height="100" width="auto" style="border-radius:50%">
+5 | **Inferi** | <img src="https://i.scdn.co/image/75fefed8ff01487e668f5fc9ad3ac36d56f7ccb7" height="100" width="auto" style="border-radius:50%">
