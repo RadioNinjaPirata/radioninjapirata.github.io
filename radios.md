@@ -25,7 +25,7 @@ figcaption {
 
 
 <h2>RollingStone 80s Best</h2>
-<a href="https://radioninjapirata.github.io/radio_rollingbest80s.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27335071df68205dbb9be9bc142ab67616d0000b273651790aff6cae01e29cee337ab67616d0000b273b46e7ea6a6b2fa45caa23393ab67616d0000b273e59d7ff5a9d7634c02135b19" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_rollingbest80s.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273200d04910e6ecdc11d5ab97dab67616d0000b2735ff72df9c47887e1fbfe992bab67616d0000b273682dc473387478d947bf95f7ab67616d0000b273c08d7a95ee38932cadaaf044" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -35,12 +35,12 @@ figcaption {
 
 
 <h2>Ambient Beats</h2>
-<a href="https://radioninjapirata.github.io/radio_ambbeat.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273161654e41bfc921e5e0d9cbdab67616d0000b27325d8a9bfc9a2690542496b12ab67616d0000b273c46ca7a942d8795a06774df9ab67616d0000b273d5bfadf6963f0adb9784d5ba" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_ambbeat.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731666f251533bc7d7088a25edab67616d0000b2733727929fa19408f4b1f3507aab67616d0000b2738fd0891c829c46aeec6e5be7ab67616d0000b273dba6994f5ff00cc746d02dd1" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Techno by Women</h2>
-<a href="https://radioninjapirata.github.io/radio_technowomen.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731d1eba23d1a1f88136ee3485ab67616d0000b273460d1218d66f63140bcfc373ab67616d0000b27372758fd4a12431c04d7c1e10ab67616d0000b273d51fc76faa04160c3c1325fa" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_technowomen.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735c059ff781c9be1f3be63a62ab67616d0000b273ab37553c3002dcdf01c3f1f8ab67616d0000b273d258f3fa410d1447ed30f575ab67616d0000b273f5b413b57ceb875ac6e1031c" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -50,17 +50,17 @@ figcaption {
 
 
 <h2>KD&MF</h2>
-<a href="https://radioninjapirata.github.io/radio_fan_KDMF.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27325d11ddc25133c920cf67e44ab67616d0000b2734d3b451ad32b5df66266bc95ab67616d0000b273be1ae534a1aa21ec5407acdaab67616d0000b273bed3cf6d90e79aa317f69705" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_fan_KDMF.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273143adca1654667c21e6b6be7ab67616d0000b273bed3cf6d90e79aa317f69705ab67616d0000b273c2baea5597a4dc5044a68f00ab67616d0000b273c755e9217f38c5f732192689" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>S.O.A.D.</h2>
-<a href="https://radioninjapirata.github.io/radio_soad.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732ab7c92b92825908d4efcdc3ab67616d0000b2737cf4c0d42c5b62c9deebdcd8ab67616d0000b273a57ca9e47d038be31c9aee9dab67616d0000b273c65f8d04502eeddbdd61fa71" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_soad.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732ab7c92b92825908d4efcdc3ab67616d0000b27330d45198d0c9e8841f9a9578ab67616d0000b273a57ca9e47d038be31c9aee9dab67616d0000b273f5e7b2e5adaa87430a3eccff" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>UnholyTrinity</h2>
-<a href="https://radioninjapirata.github.io/radio_unholytrinity.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27306583099b0444f9f4a98b164ab67616d0000b2734835273382cf5036073cda14ab67616d0000b2739046aeba4babbd4b7af77548ab67616d0000b273eab13a1a01fb57d6e9e8ddaf" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_unholytrinity.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27336ecc104d9cf43bc75ef6d3dab67616d0000b27343f594be3179178ce058786fab67616d0000b273a68bb7b88c5115c83bcb5ab5ab67616d0000b273d5fccf9ce08b6a1e7d12a222" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -70,12 +70,12 @@ figcaption {
 
 
 <h2>Fado</h2>
-<a href="https://radioninjapirata.github.io/radio_fado.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273059cad9f9756ad4cb7b287b7ab67616d0000b273596be4ffefbc565d49bf2303ab67616d0000b273658b2d088a746749ee596af0ab67616d0000b27385c476eb2179a520b837bac0" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_fado.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273650fcb6296123ff2dfe88f54ab67616d0000b2739fa0ac977eb250e8fe2efc09ab67616d0000b273bb5672c3b7037e08559de093ab67616d0000b273fbd3ad1ee44987f838d2269c" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Iberico</h2>
-<a href="https://radioninjapirata.github.io/radio_folkiberico.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2738fdf3361f8c613a002292352ab67616d0000b273ae03268fc196e1c196db608eab67616d0000b273c1e6ef383a60dd30d15b89e1ab67616d0000b273c37c9102298941fb5a22d2ae" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_folkiberico.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732d171b542bb6e808bad9cf8eab67616d0000b27344a0f8677837a7cba83d438eab67616d0000b27380a29502d1973beb83637fbeab67616d0000b2738fdf3361f8c613a002292352" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -85,12 +85,12 @@ figcaption {
 
 
 <h2>Bass</h2>
-<a href="https://radioninjapirata.github.io/radio_bassists.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27359f679bf4162b195a54c7587ab67616d0000b2739f6241d756d922d2fce76769ab67616d0000b273e98d960725eb7912983f6e56ab67616d0000b273fbb1e3e21f0178bab49fb355" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_bassists.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731964fcd0a493a70e969c3ee9ab67616d0000b27365e1e9cde7b113f2fb70399eab67616d0000b2739e518cceb37dca9fdfb68989ab67616d0000b273ecd3a957889cf96695d2293e" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Violin</h2>
-<a href="https://radioninjapirata.github.io/radio_violin.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731381c58750cd893303ce2033ab67616d0000b2733f60a4746147e824d631a32fab67616d0000b2739494811cb8eaeffac3337d83ab67616d0000b273a68ce046c3b02b2fccc5c7dc" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_violin.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735f7e01a8b9d76c1cf59940fcab67616d0000b273a457ea5cd66c9141537816a4ab67616d0000b273e38051840ec58a50d18214a7ab67616d0000b273edd8e6986c952b07c2c8bc87" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -100,67 +100,67 @@ figcaption {
 
 
 <h2>Black</h2>
-<a href="https://radioninjapirata.github.io/radio_blackmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730f572a399d7d6f0a2c01ce2bab67616d0000b27359d70dfe7d24a2d49f305344ab67616d0000b2739357b039ddec326653b13b08ab67616d0000b273a6b712956b86bcaa2062a81e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_blackmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27314dc4ffcb232d477270cf43dab67616d0000b2732829067e1e849098717dcdc2ab67616d0000b2736cc5aff75b8a39610090e48fab67616d0000b273e3e8e477e9c4ce69fb067cb4" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Brutal / Slam / Technical Death Metal</h2>
-<a href="https://radioninjapirata.github.io/radio_brutaldeathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b2731edbd1c92e1fa7b5ea5f0be8ab67616d0000b2732e00d815ab833722e5169213ab67616d0000b273a977b5232b154ddf1ec8973e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_brutaldeathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b273af4d501dd1377594eb75d2f9ab67616d0000b273b317737e6ccfdc513e0b12a6ab67616d0000b273f0a23f397dfb5adb8e1f18c8" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Death</h2>
-<a href="https://radioninjapirata.github.io/radio_deathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733a306355eb84b5f0b79b22d3ab67616d0000b27344a3d32cfecd235f229a8a63ab67616d0000b2736f64b2ceed855adeb53c32feab67616d0000b273a553bed12cd32416c8afcd1d" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_deathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27345bdb06dfb9156f86c48d5dfab67616d0000b27381c78b5c462549d9630e93b4ab67616d0000b27387d3e4ef5db8fef7bdac6855ab67616d0000b273d70934dcfe27c8665c9ede43" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Djent Instrumental</h2>
-<a href="https://radioninjapirata.github.io/radio_instrumentaldjent.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731d6ff9fb92380ac3b7fd0f9fab67616d0000b2736a61089ace9a2b539432bd30ab67616d0000b273a67eb1ee9be7db9ab852e225ab67616d0000b273de6d56aa399bc27411451976" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_instrumentaldjent.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731d6ff9fb92380ac3b7fd0f9fab67616d0000b2735959697d9351cf65dd52df30ab67616d0000b27364f3501e2ac37a8013853e4fab67616d0000b273907e7c77ece30f24a2c99e18" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Female Fronted</h2>
-<a href="https://radioninjapirata.github.io/radio_femalefrontedmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27301af3ee483c599d28520e729ab67616d0000b2733ebc55da1e54d6eb7b1b37a3ab67616d0000b27387c0c29f3b0d718ba58d90c1ab67616d0000b273ed5eccbf8ad172763d95d7ad" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_femalefrontedmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27308aca6861b71ec56b9429175ab67616d0000b27387d3e4ef5db8fef7bdac6855ab67616d0000b2739e43ac40990552400cafb9ccab67616d0000b273fa9f69703499c7a088d9a36e" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Folk</h2>
-<a href="https://radioninjapirata.github.io/radio_folkmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302ae7b0b53e1f7473d000149ab67616d0000b273102d35c3e468468336e4a0b9ab67616d0000b273628a28759911c60f8ac5f493ab67616d0000b273eed71e8cb8637fb7d199c28f" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_folkmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302ae7b0b53e1f7473d000149ab67616d0000b27335ee721fba6cf073f64d2a82ab67616d0000b27358d65319499098d1877aeefeab67616d0000b273a42443fb086a3f8414cba2ab" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Melodic Death</h2>
-<a href="https://radioninjapirata.github.io/radio_melodicdeathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736d62d4467ab64b5c6d3b5be2ab67616d0000b2739f5a3bb365868b4b698ae455ab67616d0000b273e206d98bb8bafb2004f08a0fab67616d0000b273ed5705855c2873ef6785aa1a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_melodicdeathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27334dd1b04f4c6bddbac023781ab67616d0000b2737581230e7e5f78fb8489ef91ab67616d0000b273df641d5e50660fea109008faab67616d0000b273e9ff26500862e66678a11852" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Metal</h2>
-<a href="https://radioninjapirata.github.io/radio_metal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733e408f987788b1d404ff6ddeab67616d0000b2735e45315590609aff23517aa3ab67616d0000b273cf6c70c4c7044fd8869fda59ab67616d0000b273f2f491b7fa332591a4730277" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_metal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273053f006079bce979e5fef1e1ab67616d0000b2732b6943747b4dbf78d7998e5fab67616d0000b2738d529980602b892735c091c7ab67616d0000b273bff480a51d3302d3d36be8b8" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Power</h2>
-<a href="https://radioninjapirata.github.io/radio_powermetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303ba0182d130cf62c27c1c72ab67616d0000b27307cb560a55d8abac49422e52ab67616d0000b27321717a56d5fcbff2a704e26fab67616d0000b273db1ad34c659167323b074d7c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_powermetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733a14e29994baa7a43d61e147ab67616d0000b2733e83fcde7fd297fee3978595ab67616d0000b27372805869341e16ffb44557acab67616d0000b27378020198167b9b7a5eff1786" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Symphonic</h2>
-<a href="https://radioninjapirata.github.io/radio_symphonicmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27359c82364342e7b0e7ecdca1cab67616d0000b273a5b49e66765aaec972d639d3ab67616d0000b273b24293a6ea6836e01e48c968ab67616d0000b273dd2eba3f6bf8e868d3d05e58" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_symphonicmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273b7317969b955aec46c520a9cab67616d0000b273bdb46fd1e49ca9fcb758039aab67616d0000b273c265ecd324006b60b38d4859ab67616d0000b273dd2eba3f6bf8e868d3d05e58" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Technical Death</h2>
-<a href="https://radioninjapirata.github.io/radio_technicaldeathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735517fc218a04f64aa07eb171ab67616d0000b2736c0955c2018c803776e0ea2aab67616d0000b27391c0352aa09ac321741b18c7ab67616d0000b273930ef20b1a5077437085a2b6" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_technicaldeathmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730f731bcfe345b19402680155ab67616d0000b2733065d7ec9a3e2755c466d907ab67616d0000b2736c0955c2018c803776e0ea2aab67616d0000b273f72b010cec744b8bca3f2f0a" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Thrash</h2>
-<a href="https://radioninjapirata.github.io/radio_thrashmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730e28d466b65b6a0e856710fcab67616d0000b2732e72459bec18b1eb48637e43ab67616d0000b273a6dc123661ec2ffa32c1fdd3ab67616d0000b273d1f1bc6d3c98052d33cb1ddf" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_thrashmetal.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27309f13998cfda5cdaf484f051ab67616d0000b273530ac1d9a84529fb33770a07ab67616d0000b2735b84473860d9c5ce37f0d199ab67616d0000b2737ddb9b2b33e826c5a881af56" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Virtuoso</h2>
-<a href="https://radioninjapirata.github.io/radio_guitarvirtuoso.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730db71d63b653c8879830c41aab67616d0000b2737e67da7aa3b5612ada06863fab67616d0000b27398d3302853091c505128bd1bab67616d0000b2739d3f81c5c4a36ccd5f2ecbe8" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_guitarvirtuoso.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273085657327e58625eded5d6c7ab67616d0000b27308fbe92bacaed74e0222c9dbab67616d0000b273423ebe1d3324e00ee93bde15ab67616d0000b273f907e8346044a317879432b0" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -170,7 +170,7 @@ figcaption {
 
 
 <h2>Workaholic</h2>
-<a href="https://radioninjapirata.github.io/radio_ostworkaholic.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730f4bf5c96c9ee54fa00944c4ab67616d0000b2731a14627e47239473b7e3b6edab67616d0000b2733b52f2f8d44fd7794d2fa0f9ab67616d0000b27354931c2d81a2e56ec6bda69a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_ostworkaholic.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732b4d071f7824b2c60c3b85cdab67616d0000b2736b20c6049adc59dcca7aa9fdab67616d0000b2736bf049f95aaf90f17a83957dab67616d0000b273aad36b64a1a78951b504bc4e" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -180,7 +180,7 @@ figcaption {
 
 
 <h2>Iberia</h2>
-<a href="https://radioninjapirata.github.io/radio_iberianpunkrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273703236e7019be191a93dd78aab67616d0000b273715e7332099c882e65f7aeddab67616d0000b273736746e15cebe593c29fa8dbab67616d0000b273c9758cd2fb455fc4b937114b" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_iberianpunkrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732f0a7e7adf2d4960ec45d0faab67616d0000b273763c00dc222cb60dcdad3cadab67616d0000b273bca340c50c50a4dd87ff0ebeab67616d0000b273d1cf8f61091a8867063ee6fb" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -190,7 +190,7 @@ figcaption {
 
 
 <h2>Roots</h2>
-<a href="https://radioninjapirata.github.io/radio_reggaeroots.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273212a2453dbf407f38c9680a8ab67616d0000b2735d173da61cccddb1066e554fab67616d0000b273b63b359dfc61d8bc91f6d361ab67616d0000b273b67a70f5241df199b8a4951c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_reggaeroots.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273c5aa2307df6aa44655d0d6f6ab67616d0000b273ce7fc3cbdd6ac120c65f4eb0ab67616d0000b273e9e2a2d210a427f650e17836ab67616d0000b273f4b1584cea7b97ee96fd6e30" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
@@ -200,17 +200,17 @@ figcaption {
 
 
 <h2>Portugal</h2>
-<a href="https://radioninjapirata.github.io/radio_rockportugues.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27304f1ede41f9e23c8aa888f46ab67616d0000b2733938bd9ab9f3425667dc625eab67616d0000b27343f99561e967ed98fb31ef12ab67616d0000b2735e1fe5a9fa9996ad7f7160c0" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_rockportugues.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735c28f0a180d2013d80edba30ab67616d0000b27384a302c19ec097126f6be0f1ab67616d0000b2739380b44d4316f8c56bae4280ab67616d0000b273ec78a05b1e9e0bb9c7c9c219" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Progressive</h2>
-<a href="https://radioninjapirata.github.io/radio_progrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734607a60fdcb88c02de9aa39eab67616d0000b27358b4b92ebd5ef66390c711e1ab67616d0000b27382b1b5147ea0cd53f23db9d5ab67616d0000b273e4f5448b3adf7854889ce6c1" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_progrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731f7e267179c3c6a4a1c7c9fbab67616d0000b27329fc3e17febd7cd9c72b804bab67616d0000b27383bac93b6bb12d2ef08a96e7ab67616d0000b273ef8df57e2741e8bf7942ada8" height="300" width="auto" style="border-radius:50%"></a>
 
 
 
 <h2>Stoner / Doom / Psychedelic / Space</h2>
-<a href="https://radioninjapirata.github.io/radio_stonerrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27310211ebbe1c6601bed11be0bab67616d0000b2737355bb17937d57983e09f9f9ab67616d0000b2738b4b86cda8fc77b4f6d279fcab67616d0000b273cd89464800a03b7bb58db16a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_stonerrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730695285f29677292e4b3309bab67616d0000b27321eb6c1a0b08372c3928798eab67616d0000b2732d0c230ec3e54bfb33046752ab67616d0000b2735533f92581be8b2f85c789c5" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
