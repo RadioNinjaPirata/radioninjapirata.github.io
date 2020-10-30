@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/36cGKJt)
 
-<a href="https://spoti.fi/36cGKJt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27337538c46e7f5e312ceb0ba97ab67616d0000b2733adee86138146c1facf0e88cab67616d0000b273524e8ef98362c124225dc007ab67616d0000b2736a61089ace9a2b539432bd30" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/36cGKJt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273a67eb1ee9be7db9ab852e225ab67616d0000b273aa103d933c6c6dfac60bbed6ab67616d0000b273c7025cb2e7e213a442a33576ab67616d0000b273e441c4873ee236b8150e2aa3" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -39,14 +39,15 @@ No. | Band | Avatar
 4 | **I Built The Sky** | <img src="https://i.scdn.co/image/b175066b051706cd109e0d9f8edfad15fc140abd" height="100" width="auto" style="border-radius:50%">
 5 | **Mendel** | <img src="https://i.scdn.co/image/88a1d3eecd8104b3fbeee9ca696159e41db5062d" height="100" width="auto" style="border-radius:50%">
 6 | **Mestís** | <img src="https://i.scdn.co/image/a41d8242d6154964400cc17e6182d876679e546e" height="100" width="auto" style="border-radius:50%">
-7 | **Native Construct** | <img src="https://i.scdn.co/image/984e0b280f96dda39bc01a119daf9294eb820530" height="100" width="auto" style="border-radius:50%">
-8 | **Plini** | <img src="https://i.scdn.co/image/e65d808483f7676c4e49348c28fc04a959fb311a" height="100" width="auto" style="border-radius:50%">
-9 | **Pomegranate Tiger** | <img src="https://i.scdn.co/image/ab67616d00001e02aa103d933c6c6dfac60bbed6" height="100" width="auto" style="border-radius:50%">
-10 | **Scale The Summit** | <img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%">
-11 | **The Algorithm** | <img src="https://i.scdn.co/image/c8a1da0965c9476f37134884d4a50af825fd494d" height="100" width="auto" style="border-radius:50%">
-12 | **The Helix Nebula** | <img src="https://i.scdn.co/image/ab67616d00001e02a8d3579b47edc658f075ba48" height="100" width="auto" style="border-radius:50%">
-13 | **The Last Colour** | <img src="https://i.scdn.co/image/ab67616d00001e023adee86138146c1facf0e88c" height="100" width="auto" style="border-radius:50%">
-14 | **The Omnific** | <img src="https://i.scdn.co/image/cdac1d65155b42ba95edec1f0c08498418f94972" height="100" width="auto" style="border-radius:50%">
-15 | **Their Dogs Were Astronauts** | <img src="https://i.scdn.co/image/dcc730ec8d9d2dd3287b2ebe29ece1750c0d4ce1" height="100" width="auto" style="border-radius:50%">
-16 | **Vitalism** | <img src="https://i.scdn.co/image/34e258c1b54e9e772ebdeda098ce816c130a61db" height="100" width="auto" style="border-radius:50%">
-17 | **Wayne Calford** | <img src="https://i.scdn.co/image/ab67616d00001e02777d3a523428068ef09ad910" height="100" width="auto" style="border-radius:50%">
+7 | **Modern Day Babylon** | <img src="https://i.scdn.co/image/ab67616d00001e020e5e3a89c684deb132a7c97c" height="100" width="auto" style="border-radius:50%">
+8 | **Native Construct** | <img src="https://i.scdn.co/image/984e0b280f96dda39bc01a119daf9294eb820530" height="100" width="auto" style="border-radius:50%">
+9 | **Plini** | <img src="https://i.scdn.co/image/e65d808483f7676c4e49348c28fc04a959fb311a" height="100" width="auto" style="border-radius:50%">
+10 | **Pomegranate Tiger** | <img src="https://i.scdn.co/image/ab67616d00001e02aa103d933c6c6dfac60bbed6" height="100" width="auto" style="border-radius:50%">
+11 | **Scale The Summit** | <img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%">
+12 | **The Algorithm** | <img src="https://i.scdn.co/image/c8a1da0965c9476f37134884d4a50af825fd494d" height="100" width="auto" style="border-radius:50%">
+13 | **The Helix Nebula** | <img src="https://i.scdn.co/image/ab67616d00001e02a8d3579b47edc658f075ba48" height="100" width="auto" style="border-radius:50%">
+14 | **The Last Colour** | <img src="https://i.scdn.co/image/ab67616d00001e023adee86138146c1facf0e88c" height="100" width="auto" style="border-radius:50%">
+15 | **The Omnific** | <img src="https://i.scdn.co/image/cdac1d65155b42ba95edec1f0c08498418f94972" height="100" width="auto" style="border-radius:50%">
+16 | **Their Dogs Were Astronauts** | <img src="https://i.scdn.co/image/dcc730ec8d9d2dd3287b2ebe29ece1750c0d4ce1" height="100" width="auto" style="border-radius:50%">
+17 | **Vitalism** | <img src="https://i.scdn.co/image/34e258c1b54e9e772ebdeda098ce816c130a61db" height="100" width="auto" style="border-radius:50%">
+18 | **Wayne Calford** | <img src="https://i.scdn.co/image/ab67616d00001e02777d3a523428068ef09ad910" height="100" width="auto" style="border-radius:50%">
