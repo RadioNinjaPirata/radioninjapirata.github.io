@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/33DN7SY)
 
-<a href="https://spoti.fi/33DN7SY" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730b448714b8d31b5870d4b44bab67616d0000b2731a92304d01a03863220d969aab67616d0000b2738240db717283febbe9786f58ab67616d0000b273bffb88fe2b0919281407e8af" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/33DN7SY" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273600c538b3a9c6dbbae424b92ab67616d0000b2738f62dc268945abc375c17886ab67616d0000b273a5b49e66765aaec972d639d3ab67616d0000b273f68a2cf47abe45475d048d09" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -95,4 +95,15 @@ No. | Band | Avatar
 60 | **Revamp** | <img src="https://i.scdn.co/image/ab6772690000bac3976a9c1c681832ca7d3b359a" height="100" width="auto" style="border-radius:50%">
 61 | **Sarah Jezebel Deva** | <img src="https://i.scdn.co/image/ab67616d00001e026ace8d4b474210fd69bc4661" height="100" width="auto" style="border-radius:50%">
 62 | **Sirenia** | <img src="https://i.scdn.co/image/78c60faa3f8ae8a9042fabcd050a17b534bcc85c" height="100" width="auto" style="border-radius:50%">
-63 | **The Dark Element** | <img src="https://i.scdn.co/image/334195689ef7074427df21ea83d7125d6d8d49f5" height="100" width="auto" style="border-radius:50%">
+63 | **Tarja** | <img src="https://i.scdn.co/image/0b4ef553ce9144f09d854d4a7d4fdd38baa163b2" height="100" width="auto" style="border-radius:50%">
+64 | **The Dark Element** | <img src="https://i.scdn.co/image/334195689ef7074427df21ea83d7125d6d8d49f5" height="100" width="auto" style="border-radius:50%">
+65 | **The Sins Of Thy Beloved** | <img src="https://i.scdn.co/image/ab67616d00001e02e185516070d7eaca274fccc3" height="100" width="auto" style="border-radius:50%">
+66 | **Trail Of Tears** | <img src="https://i.scdn.co/image/ab67616d00001e02ea4df78f4fab01487fbc48b8" height="100" width="auto" style="border-radius:50%">
+67 | **Trans-Siberian Orchestra** | <img src="https://i.scdn.co/image/6bf4abe6cded2265ab0c6351ad292b2cde9c8246" height="100" width="auto" style="border-radius:50%">
+68 | **Tristania** | <img src="https://i.scdn.co/image/1016b2f85d2aa71a6a0350ae09c729e061abd184" height="100" width="auto" style="border-radius:50%">
+69 | **Unshine** | <img src="https://i.scdn.co/image/ab67616d00001e02196d3326e65d894f44d4657e" height="100" width="auto" style="border-radius:50%">
+70 | **Visions Of Atlantis** | <img src="https://i.scdn.co/image/1d1b97839b0d42b27f509410ebfcb6f29e7398e0" height="100" width="auto" style="border-radius:50%">
+71 | **Vuur** | <img src="https://i.scdn.co/image/6e595e0a45a887e11fd46fd22cd9a09995199eaa" height="100" width="auto" style="border-radius:50%">
+72 | **Whyzdom** | <img src="https://i.scdn.co/image/3488ce468679cc81437968f7cc320e8188e5d27b" height="100" width="auto" style="border-radius:50%">
+73 | **Within Temptation** | <img src="https://i.scdn.co/image/21f484d83b6b4f0cb60da6848fdf06a011d525b8" height="100" width="auto" style="border-radius:50%">
+74 | **Xandria** | <img src="https://i.scdn.co/image/ff886dab1f3840bb7e68fe30225adf3fd19a9048" height="100" width="auto" style="border-radius:50%">
