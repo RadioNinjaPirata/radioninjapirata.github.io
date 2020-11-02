@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3lP6ekt)
 
-<a href="https://spoti.fi/3lP6ekt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27301b104a29c20847d2b2f17f5ab67616d0000b2730d117bb083fc151489b01a28ab67616d0000b273617174f53aaa2425b99d8816ab67616d0000b273b0a5ef477299a695a682f1b2" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3lP6ekt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730c69c8e5a201058cb4c2ced9ab67616d0000b27329f30b864810447ede6c2195ab67616d0000b27370fede717735f9677c2c6280ab67616d0000b273ea14114ba8b5d7476f0732d4" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -169,26 +169,28 @@ No. | Band | Avatar
 134 | **Stormwind** | <img src="https://i.scdn.co/image/ab67616d00001e02a414a3a4c1796c4d639b63d4" height="100" width="auto" style="border-radius:50%">
 135 | **Stratovarius** | <img src="https://i.scdn.co/image/ff46b7ae4f095874bddc7a3738c235d5a49c7596" height="100" width="auto" style="border-radius:50%">
 136 | **Sunrise** | <img src="https://i.scdn.co/image/4d2476d9713b6419e20c0d847a01a4984b26d507" height="100" width="auto" style="border-radius:50%">
-137 | **Symphony X** | <img src="https://i.scdn.co/image/856b11d3f8815ffe5c74dc9807ca2d2856509d86" height="100" width="auto" style="border-radius:50%">
-138 | **Taken** | <img src="https://i.scdn.co/image/8b7545dc9369aae9b47974f13d7b44ae9aaf12d2" height="100" width="auto" style="border-radius:50%">
-139 | **Terra Atlantica** | <img src="https://i.scdn.co/image/ab67616d00001e023bc62606c69f1e33ac7a8a7d" height="100" width="auto" style="border-radius:50%">
-140 | **Theocracy** | <img src="https://i.scdn.co/image/01c031f8f12bca1658864af98eab0598df9f76bf" height="100" width="auto" style="border-radius:50%">
-141 | **Thunder And Lightning** | <img src="https://i.scdn.co/image/6b320f963dba41321bd36e86e0ccd1eaccc6407e" height="100" width="auto" style="border-radius:50%">
-142 | **Tiluland** | <img src="https://i.scdn.co/image/ab67616d00001e0261facd99ff23c36c6795c4e4" height="100" width="auto" style="border-radius:50%">
-143 | **Timeless Miracle** | <img src="https://i.scdn.co/image/ab67616d00001e023318bb946fa2ea6d544263e9" height="100" width="auto" style="border-radius:50%">
-144 | **Turilli / Lione Rhapsody** | <img src="https://i.scdn.co/image/ab6772690000bac395ef0e0a4594750523dc54ff" height="100" width="auto" style="border-radius:50%">
-145 | **Twilight Force** | <img src="https://i.scdn.co/image/f9598b096f45e261246aa4af866a30a3b84db0b4" height="100" width="auto" style="border-radius:50%">
-146 | **Unisonic** | <img src="https://i.scdn.co/image/acf406955f5791551c1d7347cd816c36c484cca9" height="100" width="auto" style="border-radius:50%">
-147 | **Van Canto** | <img src="https://i.scdn.co/image/7a6004711b125f3f014598fc4afbacc15ffb00dd" height="100" width="auto" style="border-radius:50%">
-148 | **Vandor** | <img src="https://i.scdn.co/image/fa6bb25628d89f0f027769dbea7ed3b82b685925" height="100" width="auto" style="border-radius:50%">
-149 | **Vandroya** | <img src="https://i.scdn.co/image/ab67616d00001e02a4110acd7a9510f25cf20edd" height="100" width="auto" style="border-radius:50%">
-150 | **Veonity** | <img src="https://i.scdn.co/image/75880f8cf407788b9fa041ca00ef6251456dd30e" height="100" width="auto" style="border-radius:50%">
-151 | **Vhäldemar** | <img src="https://i.scdn.co/image/52a2b5129d729e1573a5b3974a00eb2439d30564" height="100" width="auto" style="border-radius:50%">
-152 | **Vision Divine** | <img src="https://i.scdn.co/image/bb47b64bad7df5fc5a3dabf11b60ca4ab3f9cc68" height="100" width="auto" style="border-radius:50%">
-153 | **Visions Of Atlantis** | <img src="https://i.scdn.co/image/1d1b97839b0d42b27f509410ebfcb6f29e7398e0" height="100" width="auto" style="border-radius:50%">
-154 | **Volbeat** | <img src="https://i.scdn.co/image/887ba4446fd2aea19507acc9e088398ffff85bfa" height="100" width="auto" style="border-radius:50%">
-155 | **Warkings** | <img src="https://i.scdn.co/image/8943e373554c6108620596ae4dc6e7ade222a152" height="100" width="auto" style="border-radius:50%">
-156 | **Wind Rose** | <img src="https://i.scdn.co/image/8ff4497c0527c80eb08c37ab188042e310a2c5c7" height="100" width="auto" style="border-radius:50%">
-157 | **Wisdom** | <img src="https://i.scdn.co/image/ab67616d00001e02abbff3dbe239ec15626948b6" height="100" width="auto" style="border-radius:50%">
-158 | **Yngwie Malmsteen** | <img src="https://i.scdn.co/image/039549007849ef5a78344fc6346090d902c2e4a2" height="100" width="auto" style="border-radius:50%">
-159 | **Zonata** | <img src="https://i.scdn.co/image/ab67616d00001e02fa058f37514193a8e266d189" height="100" width="auto" style="border-radius:50%">
+137 | **Symfonia** | <img src="https://i.scdn.co/image/f508f48a7fa26d41e31e7bfcda6e253f83a9ccb6" height="100" width="auto" style="border-radius:50%">
+138 | **Symphony X** | <img src="https://i.scdn.co/image/856b11d3f8815ffe5c74dc9807ca2d2856509d86" height="100" width="auto" style="border-radius:50%">
+139 | **Taken** | <img src="https://i.scdn.co/image/8b7545dc9369aae9b47974f13d7b44ae9aaf12d2" height="100" width="auto" style="border-radius:50%">
+140 | **Terra Atlantica** | <img src="https://i.scdn.co/image/ab67616d00001e023bc62606c69f1e33ac7a8a7d" height="100" width="auto" style="border-radius:50%">
+141 | **Theocracy** | <img src="https://i.scdn.co/image/01c031f8f12bca1658864af98eab0598df9f76bf" height="100" width="auto" style="border-radius:50%">
+142 | **Thunder And Lightning** | <img src="https://i.scdn.co/image/6b320f963dba41321bd36e86e0ccd1eaccc6407e" height="100" width="auto" style="border-radius:50%">
+143 | **Thy Majestie** | <img src="https://i.scdn.co/image/ab67616d00001e02f1aa334d96dd1fb5597d84b4" height="100" width="auto" style="border-radius:50%">
+144 | **Tiluland** | <img src="https://i.scdn.co/image/ab67616d00001e0261facd99ff23c36c6795c4e4" height="100" width="auto" style="border-radius:50%">
+145 | **Timeless Miracle** | <img src="https://i.scdn.co/image/ab67616d00001e023318bb946fa2ea6d544263e9" height="100" width="auto" style="border-radius:50%">
+146 | **Turilli / Lione Rhapsody** | <img src="https://i.scdn.co/image/ab6772690000bac395ef0e0a4594750523dc54ff" height="100" width="auto" style="border-radius:50%">
+147 | **Twilight Force** | <img src="https://i.scdn.co/image/f9598b096f45e261246aa4af866a30a3b84db0b4" height="100" width="auto" style="border-radius:50%">
+148 | **Unisonic** | <img src="https://i.scdn.co/image/acf406955f5791551c1d7347cd816c36c484cca9" height="100" width="auto" style="border-radius:50%">
+149 | **Van Canto** | <img src="https://i.scdn.co/image/7a6004711b125f3f014598fc4afbacc15ffb00dd" height="100" width="auto" style="border-radius:50%">
+150 | **Vandor** | <img src="https://i.scdn.co/image/fa6bb25628d89f0f027769dbea7ed3b82b685925" height="100" width="auto" style="border-radius:50%">
+151 | **Vandroya** | <img src="https://i.scdn.co/image/ab67616d00001e02a4110acd7a9510f25cf20edd" height="100" width="auto" style="border-radius:50%">
+152 | **Veonity** | <img src="https://i.scdn.co/image/75880f8cf407788b9fa041ca00ef6251456dd30e" height="100" width="auto" style="border-radius:50%">
+153 | **Vhäldemar** | <img src="https://i.scdn.co/image/52a2b5129d729e1573a5b3974a00eb2439d30564" height="100" width="auto" style="border-radius:50%">
+154 | **Vision Divine** | <img src="https://i.scdn.co/image/bb47b64bad7df5fc5a3dabf11b60ca4ab3f9cc68" height="100" width="auto" style="border-radius:50%">
+155 | **Visions Of Atlantis** | <img src="https://i.scdn.co/image/1d1b97839b0d42b27f509410ebfcb6f29e7398e0" height="100" width="auto" style="border-radius:50%">
+156 | **Volbeat** | <img src="https://i.scdn.co/image/887ba4446fd2aea19507acc9e088398ffff85bfa" height="100" width="auto" style="border-radius:50%">
+157 | **Warkings** | <img src="https://i.scdn.co/image/8943e373554c6108620596ae4dc6e7ade222a152" height="100" width="auto" style="border-radius:50%">
+158 | **Wind Rose** | <img src="https://i.scdn.co/image/8ff4497c0527c80eb08c37ab188042e310a2c5c7" height="100" width="auto" style="border-radius:50%">
+159 | **Wisdom** | <img src="https://i.scdn.co/image/ab67616d00001e02abbff3dbe239ec15626948b6" height="100" width="auto" style="border-radius:50%">
+160 | **Yngwie Malmsteen** | <img src="https://i.scdn.co/image/039549007849ef5a78344fc6346090d902c2e4a2" height="100" width="auto" style="border-radius:50%">
+161 | **Zonata** | <img src="https://i.scdn.co/image/ab67616d00001e02fa058f37514193a8e266d189" height="100" width="auto" style="border-radius:50%">

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3jqVur0)
 
-<a href="https://spoti.fi/3jqVur0" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273536fe3e46003fb3ebe2ebf05ab67616d0000b2737af6fa03490129f9185e602dab67616d0000b27387c0c29f3b0d718ba58d90c1ab67616d0000b273be290b930314ca83a4824c9b" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3jqVur0" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273297bdfe62326e062214d5d79ab67616d0000b2732bc6bb9e58e36a7a825507dbab67616d0000b2734c1244eabc95e43b381eb851ab67616d0000b27388c2302e2252536c3faab461" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -51,41 +51,42 @@ No. | Band | Avatar
 16 | **Brigitte M** | <img src="https://i.scdn.co/image/ab67616d00001e024f176958ce5e29e75955431b" height="100" width="auto" style="border-radius:50%">
 17 | **Burning Witches** | <img src="https://i.scdn.co/image/aca8c0791301cbabf7022f795c0bbb95b85b5d1b" height="100" width="auto" style="border-radius:50%">
 18 | **Casket Robbery** | <img src="https://i.scdn.co/image/8369bec516088ed5767cec37132289d4166f48b9" height="100" width="auto" style="border-radius:50%">
-19 | **Codex Obscura** | <img src="https://i.scdn.co/image/ab67616d00001e025190f08e0496bc3fbce3d462" height="100" width="auto" style="border-radius:50%">
-20 | **Crucified Barbara** | <img src="https://i.scdn.co/image/ab67616d00001e0258d39e79a6fe812f75d4dce4" height="100" width="auto" style="border-radius:50%">
-21 | **Dictated** | <img src="https://i.scdn.co/image/fb26240903d3907adc111b19f8eb5cc17082d70c" height="100" width="auto" style="border-radius:50%">
-22 | **Doro** | <img src="https://i.scdn.co/image/3dab82922dd2de2abaf3f30dacf5499bced6d46a" height="100" width="auto" style="border-radius:50%">
-23 | **Engulfed In Blackness** | <img src="https://i.scdn.co/image/ab67616d00001e02d2e07b265e01f9e7d1c618f8" height="100" width="auto" style="border-radius:50%">
-24 | **Entheos** | <img src="https://i.scdn.co/image/2e5a95a240e74df1d829e08b049aa344fdd2b881" height="100" width="auto" style="border-radius:50%">
-25 | **Frantic Amber** | <img src="https://i.scdn.co/image/7d82c4d30dd509bce04da9951b0fca6559468bb6" height="100" width="auto" style="border-radius:50%">
-26 | **Gretchen Menn** | <img src="https://i.scdn.co/image/ab67616d00001e0235dff9ca7f3916c2818179fe" height="100" width="auto" style="border-radius:50%">
-27 | **Hellarise** | <img src="https://i.scdn.co/image/7e3f3477408a06a106ad03faf2085fa109a01167" height="100" width="auto" style="border-radius:50%">
-28 | **Hysterica** | <img src="https://i.scdn.co/image/1cb1169ad9a551df7cebb2cc3583ca2782c2e8f8" height="100" width="auto" style="border-radius:50%">
-29 | **Insentient** | <img src="https://i.scdn.co/image/ab67616d00001e029a20747bea6bdfc7827f89d3" height="100" width="auto" style="border-radius:50%">
-30 | **Judith Mateo** | <img src="https://i.scdn.co/image/c7d34933bd42cbcac1f28761f773b4f6aa097d56" height="100" width="auto" style="border-radius:50%">
-31 | **Junkyard Lipstick** | <img src="https://i.scdn.co/image/ab67616d00001e029770e543ab26e72f5796d897" height="100" width="auto" style="border-radius:50%">
-32 | **Light This City** | <img src="https://i.scdn.co/image/ab67616d00001e025a72292c91f439556beca97a" height="100" width="auto" style="border-radius:50%">
-33 | **Malina Moye** | <img src="https://i.scdn.co/image/e886e2af33a83f4d90af7e821c0c71d0e83d2d93" height="100" width="auto" style="border-radius:50%">
-34 | **Miasthenia** | <img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%">
-35 | **Murderline** | <img src="https://i.scdn.co/image/ab67616d00001e02ed76dd6d3afced950064a0aa" height="100" width="auto" style="border-radius:50%">
-36 | **Muriel Anderson** | <img src="https://i.scdn.co/image/ab67616d00001e024798de0103233e4f93222889" height="100" width="auto" style="border-radius:50%">
-37 | **Nervosa** | <img src="https://i.scdn.co/image/a6bfdc04602ca55f25822159dd02a7f79fd2c068" height="100" width="auto" style="border-radius:50%">
-38 | **Nili Brosh** | <img src="https://i.scdn.co/image/ab67616d00001e027e67da7aa3b5612ada06863f" height="100" width="auto" style="border-radius:50%">
-39 | **Nita Strauss** | <img src="https://i.scdn.co/image/ee2fd16be3c67061ed9eecd00f65f6e24f204e82" height="100" width="auto" style="border-radius:50%">
-40 | **Okkultist** | <img src="https://i.scdn.co/image/d8628a1d8e12c0752e2236800969ba0f45e0ca77" height="100" width="auto" style="border-radius:50%">
-41 | **Otep** | <img src="https://i.scdn.co/image/48723332c257f77b7ade8f44d25187bea5e2b872" height="100" width="auto" style="border-radius:50%">
-42 | **Purest Of Pain** | <img src="https://i.scdn.co/image/ab67616d00001e02bd6b43cd2ef9f7d093f71663" height="100" width="auto" style="border-radius:50%">
-43 | **Sinaya** | <img src="https://i.scdn.co/image/761542cc0472af99ff43db7139f4ee1ee8bad240" height="100" width="auto" style="border-radius:50%">
-44 | **Sister Sin** | <img src="https://i.scdn.co/image/67ba25d1dfaccac452463d4b59adea2d2c9f37bc" height="100" width="auto" style="border-radius:50%">
-45 | **Sisters Of Suffocation** | <img src="https://i.scdn.co/image/7e1e847f40b7031cc9ed2f3f8e1af2fa5a5f03e7" height="100" width="auto" style="border-radius:50%">
-46 | **Synlakross** | <img src="https://i.scdn.co/image/adebc118489b2d1c1bdef57b60f2b7cd7836c997" height="100" width="auto" style="border-radius:50%">
-47 | **Syrebris** | <img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%">
-48 | **Tera Volts** | <img src="https://i.scdn.co/image/ab67616d00001e0201af3ee483c599d28520e729" height="100" width="auto" style="border-radius:50%">
-49 | **The Agonist** | <img src="https://i.scdn.co/image/1227f0fceb4041fe2381719293b8577f3f8306bc" height="100" width="auto" style="border-radius:50%">
-50 | **The Commander-In-Chief** | <img src="https://i.scdn.co/image/bcdc9d902f7dd908efabc0cc1819c3aa845a9e20" height="100" width="auto" style="border-radius:50%">
-51 | **The Machinist** | <img src="https://i.scdn.co/image/2230e33fe48b059380660bf3438de11c0fafdb6b" height="100" width="auto" style="border-radius:50%">
-52 | **Thundermother** | <img src="https://i.scdn.co/image/923c6b80548799c694ae1ca74578d2d7878d7426" height="100" width="auto" style="border-radius:50%">
-53 | **Vastum** | <img src="https://i.scdn.co/image/ab67616d00001e02c342fceca52517a4b033a3fb" height="100" width="auto" style="border-radius:50%">
-54 | **Venom Prison** | <img src="https://i.scdn.co/image/e9a1568eb6a716c83e2fd700d3c0bee4e9270102" height="100" width="auto" style="border-radius:50%">
-55 | **Warbell** | <img src="https://i.scdn.co/image/ab67616d00001e02c0d65289d53a2d74905fe587" height="100" width="auto" style="border-radius:50%">
-56 | **Winter'S Burden** | <img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%">
+19 | **Cellar Darling** | <img src="https://i.scdn.co/image/c940e98a25a833c54453034fd2deca3899c9b03a" height="100" width="auto" style="border-radius:50%">
+20 | **Codex Obscura** | <img src="https://i.scdn.co/image/ab67616d00001e025190f08e0496bc3fbce3d462" height="100" width="auto" style="border-radius:50%">
+21 | **Crucified Barbara** | <img src="https://i.scdn.co/image/ab67616d00001e0258d39e79a6fe812f75d4dce4" height="100" width="auto" style="border-radius:50%">
+22 | **Dictated** | <img src="https://i.scdn.co/image/fb26240903d3907adc111b19f8eb5cc17082d70c" height="100" width="auto" style="border-radius:50%">
+23 | **Doro** | <img src="https://i.scdn.co/image/3dab82922dd2de2abaf3f30dacf5499bced6d46a" height="100" width="auto" style="border-radius:50%">
+24 | **Engulfed In Blackness** | <img src="https://i.scdn.co/image/ab67616d00001e02d2e07b265e01f9e7d1c618f8" height="100" width="auto" style="border-radius:50%">
+25 | **Entheos** | <img src="https://i.scdn.co/image/2e5a95a240e74df1d829e08b049aa344fdd2b881" height="100" width="auto" style="border-radius:50%">
+26 | **Frantic Amber** | <img src="https://i.scdn.co/image/7d82c4d30dd509bce04da9951b0fca6559468bb6" height="100" width="auto" style="border-radius:50%">
+27 | **Gretchen Menn** | <img src="https://i.scdn.co/image/ab67616d00001e0235dff9ca7f3916c2818179fe" height="100" width="auto" style="border-radius:50%">
+28 | **Hellarise** | <img src="https://i.scdn.co/image/7e3f3477408a06a106ad03faf2085fa109a01167" height="100" width="auto" style="border-radius:50%">
+29 | **Hysterica** | <img src="https://i.scdn.co/image/1cb1169ad9a551df7cebb2cc3583ca2782c2e8f8" height="100" width="auto" style="border-radius:50%">
+30 | **Insentient** | <img src="https://i.scdn.co/image/ab67616d00001e029a20747bea6bdfc7827f89d3" height="100" width="auto" style="border-radius:50%">
+31 | **Judith Mateo** | <img src="https://i.scdn.co/image/c7d34933bd42cbcac1f28761f773b4f6aa097d56" height="100" width="auto" style="border-radius:50%">
+32 | **Junkyard Lipstick** | <img src="https://i.scdn.co/image/ab67616d00001e029770e543ab26e72f5796d897" height="100" width="auto" style="border-radius:50%">
+33 | **Light This City** | <img src="https://i.scdn.co/image/ab67616d00001e025a72292c91f439556beca97a" height="100" width="auto" style="border-radius:50%">
+34 | **Malina Moye** | <img src="https://i.scdn.co/image/e886e2af33a83f4d90af7e821c0c71d0e83d2d93" height="100" width="auto" style="border-radius:50%">
+35 | **Miasthenia** | <img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%">
+36 | **Murderline** | <img src="https://i.scdn.co/image/ab67616d00001e02ed76dd6d3afced950064a0aa" height="100" width="auto" style="border-radius:50%">
+37 | **Muriel Anderson** | <img src="https://i.scdn.co/image/ab67616d00001e024798de0103233e4f93222889" height="100" width="auto" style="border-radius:50%">
+38 | **Nervosa** | <img src="https://i.scdn.co/image/a6bfdc04602ca55f25822159dd02a7f79fd2c068" height="100" width="auto" style="border-radius:50%">
+39 | **Nili Brosh** | <img src="https://i.scdn.co/image/ab67616d00001e027e67da7aa3b5612ada06863f" height="100" width="auto" style="border-radius:50%">
+40 | **Nita Strauss** | <img src="https://i.scdn.co/image/ee2fd16be3c67061ed9eecd00f65f6e24f204e82" height="100" width="auto" style="border-radius:50%">
+41 | **Okkultist** | <img src="https://i.scdn.co/image/d8628a1d8e12c0752e2236800969ba0f45e0ca77" height="100" width="auto" style="border-radius:50%">
+42 | **Otep** | <img src="https://i.scdn.co/image/48723332c257f77b7ade8f44d25187bea5e2b872" height="100" width="auto" style="border-radius:50%">
+43 | **Purest Of Pain** | <img src="https://i.scdn.co/image/ab67616d00001e02bd6b43cd2ef9f7d093f71663" height="100" width="auto" style="border-radius:50%">
+44 | **Sinaya** | <img src="https://i.scdn.co/image/761542cc0472af99ff43db7139f4ee1ee8bad240" height="100" width="auto" style="border-radius:50%">
+45 | **Sister Sin** | <img src="https://i.scdn.co/image/67ba25d1dfaccac452463d4b59adea2d2c9f37bc" height="100" width="auto" style="border-radius:50%">
+46 | **Sisters Of Suffocation** | <img src="https://i.scdn.co/image/7e1e847f40b7031cc9ed2f3f8e1af2fa5a5f03e7" height="100" width="auto" style="border-radius:50%">
+47 | **Synlakross** | <img src="https://i.scdn.co/image/adebc118489b2d1c1bdef57b60f2b7cd7836c997" height="100" width="auto" style="border-radius:50%">
+48 | **Syrebris** | <img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%">
+49 | **Tera Volts** | <img src="https://i.scdn.co/image/ab67616d00001e0201af3ee483c599d28520e729" height="100" width="auto" style="border-radius:50%">
+50 | **The Agonist** | <img src="https://i.scdn.co/image/1227f0fceb4041fe2381719293b8577f3f8306bc" height="100" width="auto" style="border-radius:50%">
+51 | **The Commander-In-Chief** | <img src="https://i.scdn.co/image/bcdc9d902f7dd908efabc0cc1819c3aa845a9e20" height="100" width="auto" style="border-radius:50%">
+52 | **The Machinist** | <img src="https://i.scdn.co/image/2230e33fe48b059380660bf3438de11c0fafdb6b" height="100" width="auto" style="border-radius:50%">
+53 | **Thundermother** | <img src="https://i.scdn.co/image/923c6b80548799c694ae1ca74578d2d7878d7426" height="100" width="auto" style="border-radius:50%">
+54 | **Vastum** | <img src="https://i.scdn.co/image/ab67616d00001e02c342fceca52517a4b033a3fb" height="100" width="auto" style="border-radius:50%">
+55 | **Venom Prison** | <img src="https://i.scdn.co/image/e9a1568eb6a716c83e2fd700d3c0bee4e9270102" height="100" width="auto" style="border-radius:50%">
+56 | **Warbell** | <img src="https://i.scdn.co/image/ab67616d00001e02c0d65289d53a2d74905fe587" height="100" width="auto" style="border-radius:50%">
+57 | **Winter'S Burden** | <img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%">
