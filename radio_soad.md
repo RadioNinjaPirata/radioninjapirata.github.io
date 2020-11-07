@@ -39,8 +39,9 @@ No. | Band | Avatar
 4 | **Hypnotize** | <img src="https://i.scdn.co/image/ab67616d00001e02a2982eadad9b21912ed6c2e8" height="100" width="auto" style="border-radius:50%">
 5 | **Imperfect Harmonies (Deluxe Version)** | <img src="https://i.scdn.co/image/ab67616d00001e02c8c79a39007e7f8e48393eac" height="100" width="auto" style="border-radius:50%">
 6 | **Mezmerize** | <img src="https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71" height="100" width="auto" style="border-radius:50%">
-7 | **Scars On Broadway** | <img src="https://i.scdn.co/image/ab67616d00001e02a57ca9e47d038be31c9aee9d" height="100" width="auto" style="border-radius:50%">
-8 | **Steal This Album!** | <img src="https://i.scdn.co/image/ab67616d00001e027cf4c0d42c5b62c9deebdcd8" height="100" width="auto" style="border-radius:50%">
-9 | **System Of A Down** | <img src="https://i.scdn.co/image/ab67616d00001e022dc63e977bd5101072adcef6" height="100" width="auto" style="border-radius:50%">
-10 | **These Grey Men** | <img src="https://i.scdn.co/image/ab67616d00001e02401dd486dc6d75239968ef86" height="100" width="auto" style="border-radius:50%">
-11 | **Toxicity** | <img src="https://i.scdn.co/image/ab67616d00001e0230d45198d0c9e8841f9a9578" height="100" width="auto" style="border-radius:50%">
+7 | **Protect The Land / Genocidal Humanoidz** | <img src="https://i.scdn.co/image/ab67616d00001e02ba00e990d1520a4cde41ce0c" height="100" width="auto" style="border-radius:50%">
+8 | **Scars On Broadway** | <img src="https://i.scdn.co/image/ab67616d00001e02a57ca9e47d038be31c9aee9d" height="100" width="auto" style="border-radius:50%">
+9 | **Steal This Album!** | <img src="https://i.scdn.co/image/ab67616d00001e027cf4c0d42c5b62c9deebdcd8" height="100" width="auto" style="border-radius:50%">
+10 | **System Of A Down** | <img src="https://i.scdn.co/image/ab67616d00001e022dc63e977bd5101072adcef6" height="100" width="auto" style="border-radius:50%">
+11 | **These Grey Men** | <img src="https://i.scdn.co/image/ab67616d00001e02401dd486dc6d75239968ef86" height="100" width="auto" style="border-radius:50%">
+12 | **Toxicity** | <img src="https://i.scdn.co/image/ab67616d00001e0230d45198d0c9e8841f9a9578" height="100" width="auto" style="border-radius:50%">
