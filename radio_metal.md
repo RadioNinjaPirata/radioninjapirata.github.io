@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27316b9da71e00acd7230d93b07ab67616d0000b2731ee9e09b52766617aa109b0dab67616d0000b2733ac71450f70f8dae74a215e9ab67616d0000b273e85cc7b8f609329ae7a7f177" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27323f95f459bf98d67f6f22dd4ab67616d0000b2734de9478913a6736b3b2d8ea8ab67616d0000b2735bbbc37d53ccfc3df58b6e01ab67616d0000b273ababbdeb858b1c54a1fe40a5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -67,5 +67,6 @@ No. | Band | Avatar
 32 | **Soil** | <img src="https://i.scdn.co/image/6178819ea7c333fa6a067b6969defb6ade1cd19f" height="100" width="auto" style="border-radius:50%">
 33 | **Soilwork** | <img src="https://i.scdn.co/image/a8d493ea3014fd096655528a81b34213fbf553ac" height="100" width="auto" style="border-radius:50%">
 34 | **Soulfly** | <img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%">
-35 | **Syrebris** | <img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%">
-36 | **Threat Signal** | <img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%">
+35 | **Sylosis** | <img src="https://i.scdn.co/image/9575da9514a8c72836d0d214552f93e8fdfa4c20" height="100" width="auto" style="border-radius:50%">
+36 | **Syrebris** | <img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%">
+37 | **Threat Signal** | <img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%">

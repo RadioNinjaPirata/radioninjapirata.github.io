@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3cg0yMX)
 
-<a href="https://spoti.fi/3cg0yMX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730700f77644007893cfb53e52ab67616d0000b2731945699e2e57b39d2454bf57ab67616d0000b2732ca178f7941c5a3b7d7db724ab67616d0000b273f7b5f3eab1d1c77d784f76a2" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3cg0yMX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273ab611629d35ff704fd454235ab67616d0000b273c2ce44dba13ac6823bac6c04ab67616d0000b273cee8290e2b158b441cf8969aab67616d0000b273fded11400a57fd760fdd7807" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -154,31 +154,33 @@ No. | Band | Avatar
 119 | **Pentagram Chile** | <img src="https://i.scdn.co/image/ab67616d00001e02195be23e3acea5130786fde2" height="100" width="auto" style="border-radius:50%">
 120 | **Possessed** | <img src="https://i.scdn.co/image/ab6772690000bac3d1e63613d839e32101b8acf6" height="100" width="auto" style="border-radius:50%">
 121 | **Ratos De Porão** | <img src="https://i.scdn.co/image/ab67616d00001e02390a3ceb3040b7f0789c6a4b" height="100" width="auto" style="border-radius:50%">
-122 | **Razor** | <img src="https://i.scdn.co/image/adb6afbe72c481f0a903c5dcbba3ed96a4a3bc29" height="100" width="auto" style="border-radius:50%">
-123 | **Rigor Mortis** | <img src="https://i.scdn.co/image/0614b515c4092d47ecfb7e15d40f4f764eed0d79" height="100" width="auto" style="border-radius:50%">
-124 | **S.O.D. Stormtroopers Of Death** | <img src="https://i.scdn.co/image/ab67616d00001e020d71a5fef5af330df458bcb4" height="100" width="auto" style="border-radius:50%">
-125 | **Sabbat** | <img src="https://i.scdn.co/image/ab67616d00001e02f1c420a7636c3c1b2f6b5a4a" height="100" width="auto" style="border-radius:50%">
-126 | **Sacred Reich** | <img src="https://i.scdn.co/image/d5b1ed24e6fc4b4489a9b77e8922fe6689a2b217" height="100" width="auto" style="border-radius:50%">
-127 | **Sacrifice** | <img src="https://i.scdn.co/image/ab67616d00001e028bdf42ff580f9bf78f393b77" height="100" width="auto" style="border-radius:50%">
-128 | **Sadus** | <img src="https://i.scdn.co/image/ab67616d00001e02f43a6c1235f703bb32db9d4c" height="100" width="auto" style="border-radius:50%">
-129 | **Sentinel Beast** | <img src="https://i.scdn.co/image/ab67616d00001e02240a45a56f9f033e3a9b5eb3" height="100" width="auto" style="border-radius:50%">
-130 | **Sepultura** | <img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%">
-131 | **Slayer** | <img src="https://i.scdn.co/image/c8b7671ef95a1b028a74fef6616111c3cd5c3039" height="100" width="auto" style="border-radius:50%">
-132 | **Sodom** | <img src="https://i.scdn.co/image/4e5a4a2de2edac809d9aa16ef6f396ef0c73bb2b" height="100" width="auto" style="border-radius:50%">
-133 | **Suicidal Angels** | <img src="https://i.scdn.co/image/c053b57438c985e58b847aee375a6b47b825a013" height="100" width="auto" style="border-radius:50%">
-134 | **Surgical Strike** | <img src="https://i.scdn.co/image/ab67616d00001e0226de0639b89d1530db0038a4" height="100" width="auto" style="border-radius:50%">
-135 | **Tankard** | <img src="https://i.scdn.co/image/c6fe120e488541bf8eeecac63fab56cc341f9f34" height="100" width="auto" style="border-radius:50%">
-136 | **Testament** | <img src="https://i.scdn.co/image/7230c4074104eac00202599be1a1be16d7a3ccdc" height="100" width="auto" style="border-radius:50%">
-137 | **Tonic Breed** | <img src="https://i.scdn.co/image/6fae841429d7c8161ae4be6a67d445b8da52ac1b" height="100" width="auto" style="border-radius:50%">
-138 | **Toxic Holocaust** | <img src="https://i.scdn.co/image/614a0362a7cc08d18ce73d1c673f1b2f76591069" height="100" width="auto" style="border-radius:50%">
-139 | **Toxik** | <img src="https://i.scdn.co/image/587a4520726c4f67d7d594880def1d4dc1aced4a" height="100" width="auto" style="border-radius:50%">
-140 | **Ultimatum** | <img src="https://i.scdn.co/image/ab67616d00001e0281f280b6992668850cb521f6" height="100" width="auto" style="border-radius:50%">
-141 | **Vektor** | <img src="https://i.scdn.co/image/51b307cdb4314151ddba1ccf537d7379b90540de" height="100" width="auto" style="border-radius:50%">
-142 | **Venom** | <img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%">
-143 | **Vio-Lence** | <img src="https://i.scdn.co/image/4aa5703209063c7afaf31583fdf9f7637c688423" height="100" width="auto" style="border-radius:50%">
-144 | **Violator** | <img src="https://i.scdn.co/image/ab67616d00001e0240826a17d984029dfd7cdee7" height="100" width="auto" style="border-radius:50%">
-145 | **Voivod** | <img src="https://i.scdn.co/image/0c3e323f9541d98f6067fe8b5144fc5a35fbf84f" height="100" width="auto" style="border-radius:50%">
-146 | **Warbringer** | <img src="https://i.scdn.co/image/6f260ac0cec8b8800971e6ac52196391151fdc57" height="100" width="auto" style="border-radius:50%">
-147 | **Whiplash** | <img src="https://i.scdn.co/image/ab67616d00001e02ea354cea110f8efd70d0a79c" height="100" width="auto" style="border-radius:50%">
-148 | **Xentrix** | <img src="https://i.scdn.co/image/ab67616d00001e02bc65ee3fc08998f1ccc58606" height="100" width="auto" style="border-radius:50%">
-149 | **Znöwhite** | <img src="https://i.scdn.co/image/ab67616d00001e0245bf40341f82b02e8dbe3662" height="100" width="auto" style="border-radius:50%">
+122 | **Razgate** | <img src="https://i.scdn.co/image/ab67616d00001e020e8ff61854d533d11721dbaf" height="100" width="auto" style="border-radius:50%">
+123 | **Razor** | <img src="https://i.scdn.co/image/adb6afbe72c481f0a903c5dcbba3ed96a4a3bc29" height="100" width="auto" style="border-radius:50%">
+124 | **Rigor Mortis** | <img src="https://i.scdn.co/image/0614b515c4092d47ecfb7e15d40f4f764eed0d79" height="100" width="auto" style="border-radius:50%">
+125 | **S.O.D. Stormtroopers Of Death** | <img src="https://i.scdn.co/image/ab67616d00001e020d71a5fef5af330df458bcb4" height="100" width="auto" style="border-radius:50%">
+126 | **Sabbat** | <img src="https://i.scdn.co/image/ab67616d00001e02f1c420a7636c3c1b2f6b5a4a" height="100" width="auto" style="border-radius:50%">
+127 | **Sacred Reich** | <img src="https://i.scdn.co/image/d5b1ed24e6fc4b4489a9b77e8922fe6689a2b217" height="100" width="auto" style="border-radius:50%">
+128 | **Sacrifice** | <img src="https://i.scdn.co/image/ab67616d00001e028bdf42ff580f9bf78f393b77" height="100" width="auto" style="border-radius:50%">
+129 | **Sadus** | <img src="https://i.scdn.co/image/ab67616d00001e02f43a6c1235f703bb32db9d4c" height="100" width="auto" style="border-radius:50%">
+130 | **Sentinel Beast** | <img src="https://i.scdn.co/image/ab67616d00001e02240a45a56f9f033e3a9b5eb3" height="100" width="auto" style="border-radius:50%">
+131 | **Sepultura** | <img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%">
+132 | **Slayer** | <img src="https://i.scdn.co/image/c8b7671ef95a1b028a74fef6616111c3cd5c3039" height="100" width="auto" style="border-radius:50%">
+133 | **Sodom** | <img src="https://i.scdn.co/image/4e5a4a2de2edac809d9aa16ef6f396ef0c73bb2b" height="100" width="auto" style="border-radius:50%">
+134 | **Subtype Zero** | <img src="https://i.scdn.co/image/48cf781a478d35dcf2951878db15992493749912" height="100" width="auto" style="border-radius:50%">
+135 | **Suicidal Angels** | <img src="https://i.scdn.co/image/c053b57438c985e58b847aee375a6b47b825a013" height="100" width="auto" style="border-radius:50%">
+136 | **Surgical Strike** | <img src="https://i.scdn.co/image/ab67616d00001e0226de0639b89d1530db0038a4" height="100" width="auto" style="border-radius:50%">
+137 | **Tankard** | <img src="https://i.scdn.co/image/c6fe120e488541bf8eeecac63fab56cc341f9f34" height="100" width="auto" style="border-radius:50%">
+138 | **Testament** | <img src="https://i.scdn.co/image/7230c4074104eac00202599be1a1be16d7a3ccdc" height="100" width="auto" style="border-radius:50%">
+139 | **Tonic Breed** | <img src="https://i.scdn.co/image/6fae841429d7c8161ae4be6a67d445b8da52ac1b" height="100" width="auto" style="border-radius:50%">
+140 | **Toxic Holocaust** | <img src="https://i.scdn.co/image/614a0362a7cc08d18ce73d1c673f1b2f76591069" height="100" width="auto" style="border-radius:50%">
+141 | **Toxik** | <img src="https://i.scdn.co/image/587a4520726c4f67d7d594880def1d4dc1aced4a" height="100" width="auto" style="border-radius:50%">
+142 | **Ultimatum** | <img src="https://i.scdn.co/image/ab67616d00001e0281f280b6992668850cb521f6" height="100" width="auto" style="border-radius:50%">
+143 | **Vektor** | <img src="https://i.scdn.co/image/51b307cdb4314151ddba1ccf537d7379b90540de" height="100" width="auto" style="border-radius:50%">
+144 | **Venom** | <img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%">
+145 | **Vio-Lence** | <img src="https://i.scdn.co/image/4aa5703209063c7afaf31583fdf9f7637c688423" height="100" width="auto" style="border-radius:50%">
+146 | **Violator** | <img src="https://i.scdn.co/image/ab67616d00001e0240826a17d984029dfd7cdee7" height="100" width="auto" style="border-radius:50%">
+147 | **Voivod** | <img src="https://i.scdn.co/image/0c3e323f9541d98f6067fe8b5144fc5a35fbf84f" height="100" width="auto" style="border-radius:50%">
+148 | **Warbringer** | <img src="https://i.scdn.co/image/6f260ac0cec8b8800971e6ac52196391151fdc57" height="100" width="auto" style="border-radius:50%">
+149 | **Whiplash** | <img src="https://i.scdn.co/image/ab67616d00001e02ea354cea110f8efd70d0a79c" height="100" width="auto" style="border-radius:50%">
+150 | **Xentrix** | <img src="https://i.scdn.co/image/ab67616d00001e02bc65ee3fc08998f1ccc58606" height="100" width="auto" style="border-radius:50%">
+151 | **Znöwhite** | <img src="https://i.scdn.co/image/ab67616d00001e0245bf40341f82b02e8dbe3662" height="100" width="auto" style="border-radius:50%">
