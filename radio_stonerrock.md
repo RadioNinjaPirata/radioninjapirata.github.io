@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3563loZ)
 
-<a href="https://spoti.fi/3563loZ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730c5cb5b1037e424c5fbc151eab67616d0000b273300b36c3d253fc211ba13785ab67616d0000b2733251548dd7f31ea068686d3aab67616d0000b273beaef73b3f352785d8176f2d" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3563loZ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27328148dca8fca92a3dd3e8116ab67616d0000b2733fd8b2cbceab317ad9cd9ad7ab67616d0000b273d89894a3a57771a38fe4bc62ab67616d0000b273fea4535e1106ef54c8baa822" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -225,52 +225,53 @@ No. | Band | Avatar
 190 | **Stoned Jesus** | <img src="https://i.scdn.co/image/b7a03488e16658fca86ce97895dcbbeaecc3e8f6" height="100" width="auto" style="border-radius:50%">
 191 | **Stonefield** | <img src="https://i.scdn.co/image/ec1b68e225e6930721fc1b526c5c715de96cf76e" height="100" width="auto" style="border-radius:50%">
 192 | **Subrosa** | <img src="https://i.scdn.co/image/ab67616d00001e029d1b4000e74aecd9259835d8" height="100" width="auto" style="border-radius:50%">
-193 | **Swamp Mine** | <img src="https://i.scdn.co/image/62a82bb2772b5372eac1793d9a19719a2793fc21" height="100" width="auto" style="border-radius:50%">
-194 | **Tasmanian** | <img src="https://i.scdn.co/image/ab67616d00001e02c8f2c03f9e23675d0f68aca5" height="100" width="auto" style="border-radius:50%">
-195 | **The Atomic Bitchwax** | <img src="https://i.scdn.co/image/675c149521d834c0e5d87d32043da0d3c2c8445c" height="100" width="auto" style="border-radius:50%">
-196 | **The Bad Light** | <img src="https://i.scdn.co/image/ab67616d00001e029eb17a399afda022a3d597d2" height="100" width="auto" style="border-radius:50%">
-197 | **The Bakerton Group** | <img src="https://i.scdn.co/image/ab67616d00001e02aa11dca9cd61e3d470bf49f5" height="100" width="auto" style="border-radius:50%">
-198 | **The Black Keys** | <img src="https://i.scdn.co/image/11e05be425a0a64fa65db3deb6f4e2d12f8c04d4" height="100" width="auto" style="border-radius:50%">
-199 | **The Black Wizards** | <img src="https://i.scdn.co/image/afb09a0e9f8f61af530ef3a63b2ec0a6cd8e7a5e" height="100" width="auto" style="border-radius:50%">
-200 | **The Company Band** | <img src="https://i.scdn.co/image/ab67616d00001e02efc1511b5e3dd8297b538a70" height="100" width="auto" style="border-radius:50%">
-201 | **The Dead Weather** | <img src="https://i.scdn.co/image/dc947bb3a67f69287bfe2d1e0487f683f5eb5021" height="100" width="auto" style="border-radius:50%">
-202 | **The Devil And The Almighty Blues** | <img src="https://i.scdn.co/image/ab67616d00001e02875dc8bafb846abb407ec9c8" height="100" width="auto" style="border-radius:50%">
-203 | **The Devil'S Blood** | <img src="https://i.scdn.co/image/d3b58b0d358b16b91834b0c377390c7a902d73b8" height="100" width="auto" style="border-radius:50%">
-204 | **The Heavy Eyes** | <img src="https://i.scdn.co/image/901045c01df3ff46206a5c9cc34463812ec7f07b" height="100" width="auto" style="border-radius:50%">
-205 | **The Hidden Hand** | <img src="https://i.scdn.co/image/7942383004d58e1d0ddaa8e4fb727c52d7b77d33" height="100" width="auto" style="border-radius:50%">
-206 | **The Machine** | <img src="https://i.scdn.co/image/dd59c5201c72d5144d6a5ed3c8dc02e1370f4dce" height="100" width="auto" style="border-radius:50%">
-207 | **The Mothercraft** | <img src="https://i.scdn.co/image/ab67616d00001e0204c0df1a3de8916662acb54e" height="100" width="auto" style="border-radius:50%">
-208 | **The Oath** | <img src="https://i.scdn.co/image/ab67616d00001e02f2ecf5a75945377496a345e2" height="100" width="auto" style="border-radius:50%">
-209 | **The Obsessed** | <img src="https://i.scdn.co/image/f088253f916f6f31082944d0560fc355b010264d" height="100" width="auto" style="border-radius:50%">
-210 | **The Re-Stoned** | <img src="https://i.scdn.co/image/ab67616d00001e02699f89422081fb2a41464fe0" height="100" width="auto" style="border-radius:50%">
-211 | **The Red Widows** | <img src="https://i.scdn.co/image/ab67616d00001e0201d8c042534c7e83494d4fd0" height="100" width="auto" style="border-radius:50%">
-212 | **The Riven** | <img src="https://i.scdn.co/image/efc196bdeb539769865296665b3c2082a9d9ef80" height="100" width="auto" style="border-radius:50%">
-213 | **The Sword** | <img src="https://i.scdn.co/image/8495a11409fd81865a4a215b3564a833f6afabc1" height="100" width="auto" style="border-radius:50%">
-214 | **The Well** | <img src="https://i.scdn.co/image/4fe5f268f695915244a34d74d69907dee71aaa55" height="100" width="auto" style="border-radius:50%">
-215 | **Them Crooked Vultures** | <img src="https://i.scdn.co/image/88810528b3dbeb136c03b1db10947e74075695ad" height="100" width="auto" style="border-radius:50%">
-216 | **Tool** | <img src="https://i.scdn.co/image/92203c0bb48f7f745fb71e7cbfab847dacdebe9e" height="100" width="auto" style="border-radius:50%">
-217 | **Tornet** | <img src="https://i.scdn.co/image/bc02aa55a206ac76ad73423b0d76a2a88a6716e7" height="100" width="auto" style="border-radius:50%">
-218 | **Travelin Jack** | <img src="https://i.scdn.co/image/ab67616d00001e02ba26104a0f976de77a3d3829" height="100" width="auto" style="border-radius:50%">
-219 | **Truckfighters** | <img src="https://i.scdn.co/image/8fee19cc6360ad631ac8e6bcc56b6b239322ced4" height="100" width="auto" style="border-radius:50%">
-220 | **Ultracombo** | <img src="https://i.scdn.co/image/a5d069184bf61afb38a1d16d156c7a5c403f7600" height="100" width="auto" style="border-radius:50%">
-221 | **Uluru** | <img src="https://i.scdn.co/image/ab67616d00001e024783480cf2b0b8fa93256833" height="100" width="auto" style="border-radius:50%">
-222 | **Uncle Acid & The Deadbeats** | <img src="https://i.scdn.co/image/a3b79a33f91ef183b874878613af9df366d5b3a8" height="100" width="auto" style="border-radius:50%">
-223 | **Universe217** | <img src="https://i.scdn.co/image/b2d3ca40aa4d0a105ddb63e351e9526e9054256d" height="100" width="auto" style="border-radius:50%">
-224 | **Uubbuurruu** | <img src="https://i.scdn.co/image/a4c622393b1ee0f25dad547cc891711bfa08126a" height="100" width="auto" style="border-radius:50%">
-225 | **Valkyrie** | <img src="https://i.scdn.co/image/80fdda2f8d758eaa8cc3dc0ef6883c5f874ca4fc" height="100" width="auto" style="border-radius:50%">
-226 | **Vodun** | <img src="https://i.scdn.co/image/ab67616d00001e026305cf685c3d84ac23d9ec45" height="100" width="auto" style="border-radius:50%">
-227 | **Weedeater** | <img src="https://i.scdn.co/image/ab67616d00001e02052061cd23360a27f752d110" height="100" width="auto" style="border-radius:50%">
-228 | **Windhand** | <img src="https://i.scdn.co/image/db5938d84e05657cb20bfcaa14ceb72bb2f8788c" height="100" width="auto" style="border-radius:50%">
-229 | **Winter Moon** | <img src="https://i.scdn.co/image/4df13b2e8eb0487fcdf717383c6673bb6a9a473d" height="100" width="auto" style="border-radius:50%">
-230 | **Witch** | <img src="https://i.scdn.co/image/ab67616d00001e02fe90ec1344909d232cb088a7" height="100" width="auto" style="border-radius:50%">
-231 | **Witchboro** | <img src="https://i.scdn.co/image/ab67616d00001e02824308c54b2bf56d6ba06e3d" height="100" width="auto" style="border-radius:50%">
-232 | **Witchburn** | <img src="https://i.scdn.co/image/ab67616d00001e02e1a59edb129d5acaa8d522c3" height="100" width="auto" style="border-radius:50%">
-233 | **Witchcraft** | <img src="https://i.scdn.co/image/ab6772690000bac3eea5b3fc79a8ab649e88b265" height="100" width="auto" style="border-radius:50%">
-234 | **Witchcryer** | <img src="https://i.scdn.co/image/ab67616d00001e0234236803fed376934bd240a8" height="100" width="auto" style="border-radius:50%">
-235 | **Wo Fat** | <img src="https://i.scdn.co/image/f7e325f1da9b19e43f724a80fd311a16603edc20" height="100" width="auto" style="border-radius:50%">
-236 | **Wolf Blood** | <img src="https://i.scdn.co/image/8248fde2e3bc6f403b985b6d0bcd0e6c44cf559f" height="100" width="auto" style="border-radius:50%">
-237 | **Wucan** | <img src="https://i.scdn.co/image/f7216de9abf6137c7d9a73ffb77f4584012d5523" height="100" width="auto" style="border-radius:50%">
-238 | **Yawning Man** | <img src="https://i.scdn.co/image/c6910c37483046b963272629bd7fd6fc2ca7e2fc" height="100" width="auto" style="border-radius:50%">
-239 | **Year Of The Cobra** | <img src="https://i.scdn.co/image/8ee6be3420c92b9fae4b6714481da5d8d175a644" height="100" width="auto" style="border-radius:50%">
-240 | **Yob** | <img src="https://i.scdn.co/image/3b9786077d3b9661c31487b1862b240603cd2f38" height="100" width="auto" style="border-radius:50%">
-241 | **Ştiu Nu Ştiu** | <img src="https://i.scdn.co/image/ab67616d00001e02f7fdef2274a07fbff58cc93b" height="100" width="auto" style="border-radius:50%">
+193 | **Sun Mammuth** | <img src="https://i.scdn.co/image/d6313b1c1b14517ee2a47d077ba34409113ed36f" height="100" width="auto" style="border-radius:50%">
+194 | **Swamp Mine** | <img src="https://i.scdn.co/image/62a82bb2772b5372eac1793d9a19719a2793fc21" height="100" width="auto" style="border-radius:50%">
+195 | **Tasmanian** | <img src="https://i.scdn.co/image/ab67616d00001e02c8f2c03f9e23675d0f68aca5" height="100" width="auto" style="border-radius:50%">
+196 | **The Atomic Bitchwax** | <img src="https://i.scdn.co/image/675c149521d834c0e5d87d32043da0d3c2c8445c" height="100" width="auto" style="border-radius:50%">
+197 | **The Bad Light** | <img src="https://i.scdn.co/image/ab67616d00001e029eb17a399afda022a3d597d2" height="100" width="auto" style="border-radius:50%">
+198 | **The Bakerton Group** | <img src="https://i.scdn.co/image/ab67616d00001e02aa11dca9cd61e3d470bf49f5" height="100" width="auto" style="border-radius:50%">
+199 | **The Black Keys** | <img src="https://i.scdn.co/image/11e05be425a0a64fa65db3deb6f4e2d12f8c04d4" height="100" width="auto" style="border-radius:50%">
+200 | **The Black Wizards** | <img src="https://i.scdn.co/image/afb09a0e9f8f61af530ef3a63b2ec0a6cd8e7a5e" height="100" width="auto" style="border-radius:50%">
+201 | **The Company Band** | <img src="https://i.scdn.co/image/ab67616d00001e02efc1511b5e3dd8297b538a70" height="100" width="auto" style="border-radius:50%">
+202 | **The Dead Weather** | <img src="https://i.scdn.co/image/dc947bb3a67f69287bfe2d1e0487f683f5eb5021" height="100" width="auto" style="border-radius:50%">
+203 | **The Devil And The Almighty Blues** | <img src="https://i.scdn.co/image/ab67616d00001e02875dc8bafb846abb407ec9c8" height="100" width="auto" style="border-radius:50%">
+204 | **The Devil'S Blood** | <img src="https://i.scdn.co/image/d3b58b0d358b16b91834b0c377390c7a902d73b8" height="100" width="auto" style="border-radius:50%">
+205 | **The Heavy Eyes** | <img src="https://i.scdn.co/image/901045c01df3ff46206a5c9cc34463812ec7f07b" height="100" width="auto" style="border-radius:50%">
+206 | **The Hidden Hand** | <img src="https://i.scdn.co/image/7942383004d58e1d0ddaa8e4fb727c52d7b77d33" height="100" width="auto" style="border-radius:50%">
+207 | **The Machine** | <img src="https://i.scdn.co/image/dd59c5201c72d5144d6a5ed3c8dc02e1370f4dce" height="100" width="auto" style="border-radius:50%">
+208 | **The Mothercraft** | <img src="https://i.scdn.co/image/ab67616d00001e0204c0df1a3de8916662acb54e" height="100" width="auto" style="border-radius:50%">
+209 | **The Oath** | <img src="https://i.scdn.co/image/ab67616d00001e02f2ecf5a75945377496a345e2" height="100" width="auto" style="border-radius:50%">
+210 | **The Obsessed** | <img src="https://i.scdn.co/image/f088253f916f6f31082944d0560fc355b010264d" height="100" width="auto" style="border-radius:50%">
+211 | **The Re-Stoned** | <img src="https://i.scdn.co/image/ab67616d00001e02699f89422081fb2a41464fe0" height="100" width="auto" style="border-radius:50%">
+212 | **The Red Widows** | <img src="https://i.scdn.co/image/ab67616d00001e0201d8c042534c7e83494d4fd0" height="100" width="auto" style="border-radius:50%">
+213 | **The Riven** | <img src="https://i.scdn.co/image/efc196bdeb539769865296665b3c2082a9d9ef80" height="100" width="auto" style="border-radius:50%">
+214 | **The Sword** | <img src="https://i.scdn.co/image/8495a11409fd81865a4a215b3564a833f6afabc1" height="100" width="auto" style="border-radius:50%">
+215 | **The Well** | <img src="https://i.scdn.co/image/4fe5f268f695915244a34d74d69907dee71aaa55" height="100" width="auto" style="border-radius:50%">
+216 | **Them Crooked Vultures** | <img src="https://i.scdn.co/image/88810528b3dbeb136c03b1db10947e74075695ad" height="100" width="auto" style="border-radius:50%">
+217 | **Tool** | <img src="https://i.scdn.co/image/92203c0bb48f7f745fb71e7cbfab847dacdebe9e" height="100" width="auto" style="border-radius:50%">
+218 | **Tornet** | <img src="https://i.scdn.co/image/bc02aa55a206ac76ad73423b0d76a2a88a6716e7" height="100" width="auto" style="border-radius:50%">
+219 | **Travelin Jack** | <img src="https://i.scdn.co/image/ab67616d00001e02ba26104a0f976de77a3d3829" height="100" width="auto" style="border-radius:50%">
+220 | **Truckfighters** | <img src="https://i.scdn.co/image/8fee19cc6360ad631ac8e6bcc56b6b239322ced4" height="100" width="auto" style="border-radius:50%">
+221 | **Ultracombo** | <img src="https://i.scdn.co/image/a5d069184bf61afb38a1d16d156c7a5c403f7600" height="100" width="auto" style="border-radius:50%">
+222 | **Uluru** | <img src="https://i.scdn.co/image/ab67616d00001e024783480cf2b0b8fa93256833" height="100" width="auto" style="border-radius:50%">
+223 | **Uncle Acid & The Deadbeats** | <img src="https://i.scdn.co/image/a3b79a33f91ef183b874878613af9df366d5b3a8" height="100" width="auto" style="border-radius:50%">
+224 | **Universe217** | <img src="https://i.scdn.co/image/b2d3ca40aa4d0a105ddb63e351e9526e9054256d" height="100" width="auto" style="border-radius:50%">
+225 | **Uubbuurruu** | <img src="https://i.scdn.co/image/a4c622393b1ee0f25dad547cc891711bfa08126a" height="100" width="auto" style="border-radius:50%">
+226 | **Valkyrie** | <img src="https://i.scdn.co/image/80fdda2f8d758eaa8cc3dc0ef6883c5f874ca4fc" height="100" width="auto" style="border-radius:50%">
+227 | **Vodun** | <img src="https://i.scdn.co/image/ab67616d00001e026305cf685c3d84ac23d9ec45" height="100" width="auto" style="border-radius:50%">
+228 | **Weedeater** | <img src="https://i.scdn.co/image/ab67616d00001e02052061cd23360a27f752d110" height="100" width="auto" style="border-radius:50%">
+229 | **Windhand** | <img src="https://i.scdn.co/image/db5938d84e05657cb20bfcaa14ceb72bb2f8788c" height="100" width="auto" style="border-radius:50%">
+230 | **Winter Moon** | <img src="https://i.scdn.co/image/4df13b2e8eb0487fcdf717383c6673bb6a9a473d" height="100" width="auto" style="border-radius:50%">
+231 | **Witch** | <img src="https://i.scdn.co/image/ab67616d00001e02fe90ec1344909d232cb088a7" height="100" width="auto" style="border-radius:50%">
+232 | **Witchboro** | <img src="https://i.scdn.co/image/ab67616d00001e02824308c54b2bf56d6ba06e3d" height="100" width="auto" style="border-radius:50%">
+233 | **Witchburn** | <img src="https://i.scdn.co/image/ab67616d00001e02e1a59edb129d5acaa8d522c3" height="100" width="auto" style="border-radius:50%">
+234 | **Witchcraft** | <img src="https://i.scdn.co/image/ab6772690000bac3eea5b3fc79a8ab649e88b265" height="100" width="auto" style="border-radius:50%">
+235 | **Witchcryer** | <img src="https://i.scdn.co/image/ab67616d00001e0234236803fed376934bd240a8" height="100" width="auto" style="border-radius:50%">
+236 | **Wo Fat** | <img src="https://i.scdn.co/image/f7e325f1da9b19e43f724a80fd311a16603edc20" height="100" width="auto" style="border-radius:50%">
+237 | **Wolf Blood** | <img src="https://i.scdn.co/image/8248fde2e3bc6f403b985b6d0bcd0e6c44cf559f" height="100" width="auto" style="border-radius:50%">
+238 | **Wucan** | <img src="https://i.scdn.co/image/f7216de9abf6137c7d9a73ffb77f4584012d5523" height="100" width="auto" style="border-radius:50%">
+239 | **Yawning Man** | <img src="https://i.scdn.co/image/c6910c37483046b963272629bd7fd6fc2ca7e2fc" height="100" width="auto" style="border-radius:50%">
+240 | **Year Of The Cobra** | <img src="https://i.scdn.co/image/8ee6be3420c92b9fae4b6714481da5d8d175a644" height="100" width="auto" style="border-radius:50%">
+241 | **Yob** | <img src="https://i.scdn.co/image/3b9786077d3b9661c31487b1862b240603cd2f38" height="100" width="auto" style="border-radius:50%">
+242 | **Ştiu Nu Ştiu** | <img src="https://i.scdn.co/image/ab67616d00001e02f7fdef2274a07fbff58cc93b" height="100" width="auto" style="border-radius:50%">
