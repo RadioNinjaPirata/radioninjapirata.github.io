@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/343ZpUZ)
 
-<a href="https://spoti.fi/343ZpUZ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733104f275178da71d3a7e20f8ab67616d0000b27355aa5542501f19d486bbc9fbab67616d0000b27388289b845e32d8df745c3568ab67616d0000b273b5645655ca60e09b64eaea7c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/343ZpUZ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736a61089ace9a2b539432bd30ab67616d0000b273b599db8740c616df26bd557eab67616d0000b273cf5d75f0c7a4d2a78174a54dab67616d0000b273ff76d0109d027a6cb4a0c264" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -83,49 +83,50 @@ No. | Band | Avatar
 48 | **Jermaine Morgan** | <img src="https://i.scdn.co/image/ab67616d00001e02654afc361ec32501ee0ae92b" height="100" width="auto" style="border-radius:50%">
 49 | **Jo Sallins** | <img src="https://i.scdn.co/image/ab67616d00001e0203c6346fa0e93edbe8cdc09c" height="100" width="auto" style="border-radius:50%">
 50 | **John Patitucci** | <img src="https://i.scdn.co/image/3bbe2f7af34c10f9966c15e25eb12b495c70ce10" height="100" width="auto" style="border-radius:50%">
-51 | **Julian Vaughn** | <img src="https://i.scdn.co/image/a11a98ecb1ccddd0371e1676cc568d60969dad59" height="100" width="auto" style="border-radius:50%">
-52 | **Kai Eckhardt** | <img src="https://i.scdn.co/image/ab67616d00001e028cf9b66ef2592fb584e020dc" height="100" width="auto" style="border-radius:50%">
-53 | **Kenny Weydener** | <img src="https://i.scdn.co/image/ab67616d00001e024ee48478350a283a0faef15a" height="100" width="auto" style="border-radius:50%">
-54 | **Kinga Glyk** | <img src="https://i.scdn.co/image/ef1031b5a2cdaf9d0fa7d4a95bf75a13de468c10" height="100" width="auto" style="border-radius:50%">
-55 | **Larry Tuttle** | <img src="https://i.scdn.co/image/ab67616d00001e029e518cceb37dca9fdfb68989" height="100" width="auto" style="border-radius:50%">
-56 | **Les Claypool** | <img src="https://i.scdn.co/image/acd552074f1ce00cde46b127c0c1e073230bd44a" height="100" width="auto" style="border-radius:50%">
-57 | **Lp Septet** | <img src="https://i.scdn.co/image/ab67616d00001e021b680aeae609c9192111af86" height="100" width="auto" style="border-radius:50%">
-58 | **Marcus Miller** | <img src="https://i.scdn.co/image/4aeaf65033f4db00d511cb06b67c03955681567a" height="100" width="auto" style="border-radius:50%">
-59 | **Mark Egan** | <img src="https://i.scdn.co/image/2e775a1ad36f6b81d558dacab2168be744e10f31" height="100" width="auto" style="border-radius:50%">
-60 | **Markus Setzer** | <img src="https://i.scdn.co/image/ab67616d00001e02107699cdfd3e73def128c540" height="100" width="auto" style="border-radius:50%">
-61 | **Melvin Lee Davis** | <img src="https://i.scdn.co/image/ab67616d00001e020e4430012ba5b1c201b0e500" height="100" width="auto" style="border-radius:50%">
-62 | **Michael Manring** | <img src="https://i.scdn.co/image/70a1436987b38aa5fd7d68dbe8de711893f7a4cc" height="100" width="auto" style="border-radius:50%">
-63 | **Michael Manson** | <img src="https://i.scdn.co/image/ab67616d00001e02d5b0c289e0f8a16c24186980" height="100" width="auto" style="border-radius:50%">
-64 | **Mitchell Coleman Jr** | <img src="https://i.scdn.co/image/da7c419a3feadb87d662cd48d857bc410d03384e" height="100" width="auto" style="border-radius:50%">
-65 | **Nathan East** | <img src="https://i.scdn.co/image/eee94e9dde232888ee50672c591eb2bf3a7457c9" height="100" width="auto" style="border-radius:50%">
-66 | **Nathan Navarro** | <img src="https://i.scdn.co/image/ab67616d00001e020ed5a99d45e3973780c90113" height="100" width="auto" style="border-radius:50%">
-67 | **Nicole Badila** | <img src="https://raw.githubusercontent.com/RadioNinjaPirata/radioninjapirata.github.io/master/assets/spotify_button.png" height="100" width="auto" style="border-radius:50%">
-68 | **Norm Stockton** | <img src="https://i.scdn.co/image/ab67616d00001e02cd35f8d9dc3ca069e8cd141a" height="100" width="auto" style="border-radius:50%">
-69 | **Ollie Collins** | <img src="https://i.scdn.co/image/ab67616d00001e0230cdd668e9d6a9cf112b72c5" height="100" width="auto" style="border-radius:50%">
-70 | **Outre** | <img src="https://i.scdn.co/image/ab67616d00001e029f6241d756d922d2fce76769" height="100" width="auto" style="border-radius:50%">
-71 | **Project M** | <img src="https://i.scdn.co/image/ab67616d00001e02525239f78aedc366cea627a4" height="100" width="auto" style="border-radius:50%">
-72 | **Ray Riendeau** | <img src="https://i.scdn.co/image/fe6987a367d1be2e9a4b09fd4c2a103214f9ef3b" height="100" width="auto" style="border-radius:50%">
-73 | **Redtenbacher'S Funkestra** | <img src="https://i.scdn.co/image/d69d78939e1f5fe1369b09e4818270081093908b" height="100" width="auto" style="border-radius:50%">
-74 | **Remco Hendriks** | <img src="https://i.scdn.co/image/ab67616d00001e022e24235269c8790a82e3b31b" height="100" width="auto" style="border-radius:50%">
-75 | **Ric Alexander & Levi Seacer Jr.** | <img src="https://i.scdn.co/image/ab67616d00001e02ba6e5da852eb617ca94848c4" height="100" width="auto" style="border-radius:50%">
-76 | **Rodrigo Serrao** | <img src="https://i.scdn.co/image/7a015d94598be31ba8f316abb6a8dbd73ce69813" height="100" width="auto" style="border-radius:50%">
-77 | **Rothko** | <img src="https://i.scdn.co/image/85441904daadedc3038f50e3949133238bca8fd9" height="100" width="auto" style="border-radius:50%">
-78 | **Rozzano Zamorano** | <img src="https://i.scdn.co/image/ab67616d00001e027a842003a8d34b0268b6f6af" height="100" width="auto" style="border-radius:50%">
-79 | **Scott Kungha Drengsen** | <img src="https://i.scdn.co/image/ab67616d00001e02fbdfb722e544f22946bbab47" height="100" width="auto" style="border-radius:50%">
-80 | **Scott Reeder** | <img src="https://i.scdn.co/image/b0be4f27be0d0284ebbaf12ee3e0149f42fa35db" height="100" width="auto" style="border-radius:50%">
-81 | **Simon Little** | <img src="https://i.scdn.co/image/e932279357bf2636f5dee81e9254389b0d33ba76" height="100" width="auto" style="border-radius:50%">
-82 | **Stanley Clarke** | <img src="https://i.scdn.co/image/72cb28c94ee9089d77ed9f5ce3697782f2b50246" height="100" width="auto" style="border-radius:50%">
-83 | **Steve Bailey** | <img src="https://i.scdn.co/image/d121a6add83c6b4ff39135dbbc48126a15137948" height="100" width="auto" style="border-radius:50%">
-84 | **Steve Jenkins** | <img src="https://i.scdn.co/image/1130689531f72ef68939bb8fe82cad0f9ea5f05a" height="100" width="auto" style="border-radius:50%">
-85 | **Stevie Williams** | <img src="https://i.scdn.co/image/ab67616d00001e025992aa6d95233a6c02c1b0e1" height="100" width="auto" style="border-radius:50%">
-86 | **Tal Wilkenfeld** | <img src="https://i.scdn.co/image/b1c070e73cf0ce0811be42b0b991d76b00ab7a3a" height="100" width="auto" style="border-radius:50%">
-87 | **The Omnific** | <img src="https://i.scdn.co/image/cdac1d65155b42ba95edec1f0c08498418f94972" height="100" width="auto" style="border-radius:50%">
-88 | **The Stanley Clarke Band** | <img src="https://i.scdn.co/image/ab67616d00001e02e38df1a58f38ab9729c14330" height="100" width="auto" style="border-radius:50%">
-89 | **Tommy Loose** | <img src="https://i.scdn.co/image/63bb3db5be19cfa20533afb7dfeb8e3179ecbbf6" height="100" width="auto" style="border-radius:50%">
-90 | **Tony Grey** | <img src="https://i.scdn.co/image/ab67616d00001e0281277dce4cf5f03c9977d235" height="100" width="auto" style="border-radius:50%">
-91 | **Uccello Project** | <img src="https://i.scdn.co/image/ab67616d00001e0239d28c56be1a2b06a57a7200" height="100" width="auto" style="border-radius:50%">
-92 | **Vail Johnson** | <img src="https://i.scdn.co/image/ab67616d00001e0247726b83ef75786c89b74204" height="100" width="auto" style="border-radius:50%">
-93 | **Victor Bailey** | <img src="https://i.scdn.co/image/fbc6011ee3cea1cbcc621884303a22106169d475" height="100" width="auto" style="border-radius:50%">
-94 | **Victor Wooten** | <img src="https://i.scdn.co/image/7898bc99e5d1bda702b9beb5b8a67b68846bd66e" height="100" width="auto" style="border-radius:50%">
-95 | **Wayman Tisdale** | <img src="https://i.scdn.co/image/09da9d04fe5b40c51831dad92c449e1f86a4fc3a" height="100" width="auto" style="border-radius:50%">
-96 | **Yves Carbonne** | <img src="https://i.scdn.co/image/ab67616d00001e0251fee473e80cfd6ba9a9f6ae" height="100" width="auto" style="border-radius:50%">
+51 | **Jordan Hepburn** | <img src="https://i.scdn.co/image/1904012c325da5a2abbfdee536c315fed96222c7" height="100" width="auto" style="border-radius:50%">
+52 | **Julian Vaughn** | <img src="https://i.scdn.co/image/a11a98ecb1ccddd0371e1676cc568d60969dad59" height="100" width="auto" style="border-radius:50%">
+53 | **Kai Eckhardt** | <img src="https://i.scdn.co/image/ab67616d00001e028cf9b66ef2592fb584e020dc" height="100" width="auto" style="border-radius:50%">
+54 | **Kenny Weydener** | <img src="https://i.scdn.co/image/ab67616d00001e024ee48478350a283a0faef15a" height="100" width="auto" style="border-radius:50%">
+55 | **Kinga Glyk** | <img src="https://i.scdn.co/image/ef1031b5a2cdaf9d0fa7d4a95bf75a13de468c10" height="100" width="auto" style="border-radius:50%">
+56 | **Larry Tuttle** | <img src="https://i.scdn.co/image/ab67616d00001e029e518cceb37dca9fdfb68989" height="100" width="auto" style="border-radius:50%">
+57 | **Les Claypool** | <img src="https://i.scdn.co/image/acd552074f1ce00cde46b127c0c1e073230bd44a" height="100" width="auto" style="border-radius:50%">
+58 | **Lp Septet** | <img src="https://i.scdn.co/image/ab67616d00001e021b680aeae609c9192111af86" height="100" width="auto" style="border-radius:50%">
+59 | **Marcus Miller** | <img src="https://i.scdn.co/image/4aeaf65033f4db00d511cb06b67c03955681567a" height="100" width="auto" style="border-radius:50%">
+60 | **Mark Egan** | <img src="https://i.scdn.co/image/2e775a1ad36f6b81d558dacab2168be744e10f31" height="100" width="auto" style="border-radius:50%">
+61 | **Markus Setzer** | <img src="https://i.scdn.co/image/ab67616d00001e02107699cdfd3e73def128c540" height="100" width="auto" style="border-radius:50%">
+62 | **Melvin Lee Davis** | <img src="https://i.scdn.co/image/ab67616d00001e020e4430012ba5b1c201b0e500" height="100" width="auto" style="border-radius:50%">
+63 | **Michael Manring** | <img src="https://i.scdn.co/image/70a1436987b38aa5fd7d68dbe8de711893f7a4cc" height="100" width="auto" style="border-radius:50%">
+64 | **Michael Manson** | <img src="https://i.scdn.co/image/ab67616d00001e02d5b0c289e0f8a16c24186980" height="100" width="auto" style="border-radius:50%">
+65 | **Mitchell Coleman Jr** | <img src="https://i.scdn.co/image/da7c419a3feadb87d662cd48d857bc410d03384e" height="100" width="auto" style="border-radius:50%">
+66 | **Nathan East** | <img src="https://i.scdn.co/image/eee94e9dde232888ee50672c591eb2bf3a7457c9" height="100" width="auto" style="border-radius:50%">
+67 | **Nathan Navarro** | <img src="https://i.scdn.co/image/ab67616d00001e020ed5a99d45e3973780c90113" height="100" width="auto" style="border-radius:50%">
+68 | **Nicole Badila** | <img src="https://raw.githubusercontent.com/RadioNinjaPirata/radioninjapirata.github.io/master/assets/spotify_button.png" height="100" width="auto" style="border-radius:50%">
+69 | **Norm Stockton** | <img src="https://i.scdn.co/image/ab67616d00001e02cd35f8d9dc3ca069e8cd141a" height="100" width="auto" style="border-radius:50%">
+70 | **Ollie Collins** | <img src="https://i.scdn.co/image/ab67616d00001e0230cdd668e9d6a9cf112b72c5" height="100" width="auto" style="border-radius:50%">
+71 | **Outre** | <img src="https://i.scdn.co/image/ab67616d00001e029f6241d756d922d2fce76769" height="100" width="auto" style="border-radius:50%">
+72 | **Project M** | <img src="https://i.scdn.co/image/ab67616d00001e02525239f78aedc366cea627a4" height="100" width="auto" style="border-radius:50%">
+73 | **Ray Riendeau** | <img src="https://i.scdn.co/image/fe6987a367d1be2e9a4b09fd4c2a103214f9ef3b" height="100" width="auto" style="border-radius:50%">
+74 | **Redtenbacher'S Funkestra** | <img src="https://i.scdn.co/image/d69d78939e1f5fe1369b09e4818270081093908b" height="100" width="auto" style="border-radius:50%">
+75 | **Remco Hendriks** | <img src="https://i.scdn.co/image/ab67616d00001e022e24235269c8790a82e3b31b" height="100" width="auto" style="border-radius:50%">
+76 | **Ric Alexander & Levi Seacer Jr.** | <img src="https://i.scdn.co/image/ab67616d00001e02ba6e5da852eb617ca94848c4" height="100" width="auto" style="border-radius:50%">
+77 | **Rodrigo Serrao** | <img src="https://i.scdn.co/image/7a015d94598be31ba8f316abb6a8dbd73ce69813" height="100" width="auto" style="border-radius:50%">
+78 | **Rothko** | <img src="https://i.scdn.co/image/85441904daadedc3038f50e3949133238bca8fd9" height="100" width="auto" style="border-radius:50%">
+79 | **Rozzano Zamorano** | <img src="https://i.scdn.co/image/ab67616d00001e027a842003a8d34b0268b6f6af" height="100" width="auto" style="border-radius:50%">
+80 | **Scott Kungha Drengsen** | <img src="https://i.scdn.co/image/ab67616d00001e02fbdfb722e544f22946bbab47" height="100" width="auto" style="border-radius:50%">
+81 | **Scott Reeder** | <img src="https://i.scdn.co/image/b0be4f27be0d0284ebbaf12ee3e0149f42fa35db" height="100" width="auto" style="border-radius:50%">
+82 | **Simon Little** | <img src="https://i.scdn.co/image/e932279357bf2636f5dee81e9254389b0d33ba76" height="100" width="auto" style="border-radius:50%">
+83 | **Stanley Clarke** | <img src="https://i.scdn.co/image/72cb28c94ee9089d77ed9f5ce3697782f2b50246" height="100" width="auto" style="border-radius:50%">
+84 | **Steve Bailey** | <img src="https://i.scdn.co/image/d121a6add83c6b4ff39135dbbc48126a15137948" height="100" width="auto" style="border-radius:50%">
+85 | **Steve Jenkins** | <img src="https://i.scdn.co/image/1130689531f72ef68939bb8fe82cad0f9ea5f05a" height="100" width="auto" style="border-radius:50%">
+86 | **Stevie Williams** | <img src="https://i.scdn.co/image/ab67616d00001e025992aa6d95233a6c02c1b0e1" height="100" width="auto" style="border-radius:50%">
+87 | **Tal Wilkenfeld** | <img src="https://i.scdn.co/image/b1c070e73cf0ce0811be42b0b991d76b00ab7a3a" height="100" width="auto" style="border-radius:50%">
+88 | **The Omnific** | <img src="https://i.scdn.co/image/cdac1d65155b42ba95edec1f0c08498418f94972" height="100" width="auto" style="border-radius:50%">
+89 | **The Stanley Clarke Band** | <img src="https://i.scdn.co/image/ab67616d00001e02e38df1a58f38ab9729c14330" height="100" width="auto" style="border-radius:50%">
+90 | **Tommy Loose** | <img src="https://i.scdn.co/image/63bb3db5be19cfa20533afb7dfeb8e3179ecbbf6" height="100" width="auto" style="border-radius:50%">
+91 | **Tony Grey** | <img src="https://i.scdn.co/image/ab67616d00001e0281277dce4cf5f03c9977d235" height="100" width="auto" style="border-radius:50%">
+92 | **Uccello Project** | <img src="https://i.scdn.co/image/ab67616d00001e0239d28c56be1a2b06a57a7200" height="100" width="auto" style="border-radius:50%">
+93 | **Vail Johnson** | <img src="https://i.scdn.co/image/ab67616d00001e0247726b83ef75786c89b74204" height="100" width="auto" style="border-radius:50%">
+94 | **Victor Bailey** | <img src="https://i.scdn.co/image/fbc6011ee3cea1cbcc621884303a22106169d475" height="100" width="auto" style="border-radius:50%">
+95 | **Victor Wooten** | <img src="https://i.scdn.co/image/7898bc99e5d1bda702b9beb5b8a67b68846bd66e" height="100" width="auto" style="border-radius:50%">
+96 | **Wayman Tisdale** | <img src="https://i.scdn.co/image/09da9d04fe5b40c51831dad92c449e1f86a4fc3a" height="100" width="auto" style="border-radius:50%">
+97 | **Yves Carbonne** | <img src="https://i.scdn.co/image/ab67616d00001e0251fee473e80cfd6ba9a9f6ae" height="100" width="auto" style="border-radius:50%">
