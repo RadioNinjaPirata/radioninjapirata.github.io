@@ -114,6 +114,11 @@ figcaption {
 
 
 
+<h2>Djent</h2>
+<a href="https://radioninjapirata.github.io/radio_djent.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27319c9d9e27996e017b70a393cab67616d0000b27331d70aa8503dc19aba2f163cab67616d0000b27331d78308a742e06595e10ddfab67616d0000b27357d33926628b7288e606ec99" height="300" width="auto" style="border-radius:50%"></a>
+
+
+
 <h2>Djent Instrumental</h2>
 <a href="https://radioninjapirata.github.io/radio_instrumentaldjent.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730af65bf67e30000a2196b41bab67616d0000b2731c94d339855525a9c02d1118ab67616d0000b273cd375014d3e167dd59787b7cab67616d0000b273ef8d29d9be2739fb093364e2" height="300" width="auto" style="border-radius:50%"></a>
 
@@ -161,16 +166,6 @@ figcaption {
 
 <h2>Virtuoso</h2>
 <a href="https://radioninjapirata.github.io/radio_guitarvirtuoso.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734cd8817e59571f59f07571cdab67616d0000b2736e268d6a78d3a06bac224da3ab67616d0000b273982833a526965e6a8ac6fdc1ab67616d0000b273c14fd4143f78e9945a615631" height="300" width="auto" style="border-radius:50%"></a>
-
-
-<br /> <br />
-<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
-<br /><br />
-<h1>Metan</h1>
-
-
-<h2>Djent</h2>
-<a href="https://radioninjapirata.github.io/radio_djent.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27319c9d9e27996e017b70a393cab67616d0000b27331d70aa8503dc19aba2f163cab67616d0000b27331d78308a742e06595e10ddfab67616d0000b27357d33926628b7288e606ec99" height="300" width="auto" style="border-radius:50%"></a>
 
 
 <br /> <br />
