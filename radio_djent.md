@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w)
 
-<a href="https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b27331d78308a742e06595e10ddf" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731f5640ca9dd0a88e0eeff2ddab67616d0000b2732ef382dbe719c5d813b0c6beab67616d0000b27333cfae9ab012279d7f28d226ab67616d0000b2737c901c141a652d4b2838a95e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,4 +33,7 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Surrender The Ectype** | <img src="https://i.scdn.co/image/ab67616d00001e027c901c141a652d4b2838a95e" height="100" width="auto" style="border-radius:50%">
+1 | **Levels** | <img src="https://i.scdn.co/image/08963dda0a7d8a4c1360f47459832e15761ca4b3" height="100" width="auto" style="border-radius:50%">
+2 | **Oceans Ate Alaska** | <img src="https://i.scdn.co/image/ad955893b537fdd421269936863e54d24b53dd75" height="100" width="auto" style="border-radius:50%">
+3 | **Surrender The Ectype** | <img src="https://i.scdn.co/image/ab67616d00001e027c901c141a652d4b2838a95e" height="100" width="auto" style="border-radius:50%">
+4 | **Volumes** | <img src="https://i.scdn.co/image/1c7f4ec971f572252df77f8b706f49cfa6595c7d" height="100" width="auto" style="border-radius:50%">
