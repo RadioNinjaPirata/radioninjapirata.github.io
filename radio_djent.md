@@ -1,11 +1,11 @@
-# Techno by Women
+# Djent Metal
 
 **40 new tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2IBa6av)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w)
 
-<a href="https://spoti.fi/2IBa6av" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273460d1218d66f63140bcfc373ab67616d0000b27365eeae3d3194f2a6c9375929ab67616d0000b273743dc38ecf11411bc59cec19ab67616d0000b273d1c39badb8a7e6e980f01528" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b27331d78308a742e06595e10ddf" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,11 +33,4 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Anastasia Kristensen** | <img src="https://i.scdn.co/image/c5e8c1af92fa9b2a4a8fde0a40847c32b091c21d" height="100" width="auto" style="border-radius:50%">
-2 | **Anetha** | <img src="https://i.scdn.co/image/047f4ca861386862d8df20a376728116189d419f" height="100" width="auto" style="border-radius:50%">
-3 | **Anna** | <img src="https://i.scdn.co/image/91d8f769233193d30d460b9253c0e0adc3f82370" height="100" width="auto" style="border-radius:50%">
-4 | **Aurora Halal** | <img src="https://i.scdn.co/image/3ebb5c56e7e0b0c8fca5b3ca2b3f607ad3ef5d14" height="100" width="auto" style="border-radius:50%">
-5 | **Charlotte De Witte** | <img src="https://i.scdn.co/image/49f6e21a2d8e38fd1438ad0f3bac9aad6bbcf796" height="100" width="auto" style="border-radius:50%">
-6 | **Ellen Allien** | <img src="https://i.scdn.co/image/9c7e2f937be50c3c4ca96c41ef04792ce356f188" height="100" width="auto" style="border-radius:50%">
-7 | **Helena Hauff** | <img src="https://i.scdn.co/image/2eda2ab230caad70c0519e7093c06db32c90edd4" height="100" width="auto" style="border-radius:50%">
-8 | **Umfang** | <img src="https://i.scdn.co/image/2a39a168a021a641f82fb9f3d57bdaafb01526c8" height="100" width="auto" style="border-radius:50%">
+1 | **Surrender The Ectype** | <img src="https://i.scdn.co/image/ab67616d00001e027c901c141a652d4b2838a95e" height="100" width="auto" style="border-radius:50%">
