@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kvnqLs)
 
-<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27324d775d6ddc81ff9adc210b4ab67616d0000b273313fdaae1b350cacd0ef0bcdab67616d0000b2733daba2e58f9a5e81f305b5cdab67616d0000b273ea4a07dfe5bb1f1434036c7b" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273521290c0241d1779942aa883ab67616d0000b2738be2a34e2397c9dbc7e2e4efab67616d0000b27398e5a52fecf9c308beab2197ab67616d0000b273bd9571cf1b02cf8af6a35f48" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -131,19 +131,20 @@ No. | Band | Avatar
 96 | **Setherial** | <img src="https://i.scdn.co/image/ab67616d00001e02a87058386c75d6fb146d503b" height="100" width="auto" style="border-radius:50%">
 97 | **Shade Empire** | <img src="https://i.scdn.co/image/ab67616d00001e02e74066961e6ed04ff0433952" height="100" width="auto" style="border-radius:50%">
 98 | **Spectral Wound** | <img src="https://i.scdn.co/image/94140a485df6ac844fe97c2f661f28168ab69e47" height="100" width="auto" style="border-radius:50%">
-99 | **Taake** | <img src="https://i.scdn.co/image/ab67616d00001e026b10c27b20b03a9c4e47b833" height="100" width="auto" style="border-radius:50%">
-100 | **Tiamat** | <img src="https://i.scdn.co/image/6c41816704c2fad6039bb3eba74915e631b663e5" height="100" width="auto" style="border-radius:50%">
-101 | **Tormentor** | <img src="https://i.scdn.co/image/ab67616d00001e0261eb55aede962629117d9bd3" height="100" width="auto" style="border-radius:50%">
-102 | **Tsjuder** | <img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%">
-103 | **Ulver** | <img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%">
-104 | **Urgehal** | <img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%">
-105 | **Varathron** | <img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%">
-106 | **Velho** | <img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%">
-107 | **Venom** | <img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%">
-108 | **Vintersorg** | <img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%">
-109 | **Waldgeflüster** | <img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%">
-110 | **Watain** | <img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%">
-111 | **Whipstriker** | <img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%">
-112 | **Winterfylleth** | <img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%">
-113 | **Wolves In The Throne Room** | <img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%">
-114 | **Äera** | <img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%">
+99 | **Svartsyn** | <img src="https://i.scdn.co/image/ab67616d00001e02728765337faabc7c067206ae" height="100" width="auto" style="border-radius:50%">
+100 | **Taake** | <img src="https://i.scdn.co/image/ab67616d00001e026b10c27b20b03a9c4e47b833" height="100" width="auto" style="border-radius:50%">
+101 | **Tiamat** | <img src="https://i.scdn.co/image/6c41816704c2fad6039bb3eba74915e631b663e5" height="100" width="auto" style="border-radius:50%">
+102 | **Tormentor** | <img src="https://i.scdn.co/image/ab67616d00001e0261eb55aede962629117d9bd3" height="100" width="auto" style="border-radius:50%">
+103 | **Tsjuder** | <img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%">
+104 | **Ulver** | <img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%">
+105 | **Urgehal** | <img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%">
+106 | **Varathron** | <img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%">
+107 | **Velho** | <img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%">
+108 | **Venom** | <img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%">
+109 | **Vintersorg** | <img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%">
+110 | **Waldgeflüster** | <img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%">
+111 | **Watain** | <img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%">
+112 | **Whipstriker** | <img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%">
+113 | **Winterfylleth** | <img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%">
+114 | **Wolves In The Throne Room** | <img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%">
+115 | **Äera** | <img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%">

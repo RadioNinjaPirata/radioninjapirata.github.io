@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2ZKYKGP)
 
-<a href="https://spoti.fi/2ZKYKGP" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735d38a4bb1405b66c554d2b6fab67616d0000b273e7f7d31f81dced1ff4e09d96ab67616d0000b273f7ca0123ddbe392389fcf351ab67616d0000b273fb22cceb87f92ba857d80ab6" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2ZKYKGP" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2739a20747bea6bdfc7827f89d3ab67616d0000b2739b8ff71fcf8373048c57784cab67616d0000b2739f9bf6574ed56401ff04138fab67616d0000b273ef41105875dc19d177f0671b" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -109,34 +109,35 @@ No. | Band | Avatar
 74 | **Obituary** | <img src="https://i.scdn.co/image/90b082194c22ba73b26f061a8c32b0396f023ee8" height="100" width="auto" style="border-radius:50%">
 75 | **Okkultist** | <img src="https://i.scdn.co/image/d8628a1d8e12c0752e2236800969ba0f45e0ca77" height="100" width="auto" style="border-radius:50%">
 76 | **Paradoxxa** | <img src="https://i.scdn.co/image/ab67616d00001e02017cc2dac5bf67e656077116" height="100" width="auto" style="border-radius:50%">
-77 | **Pestilence** | <img src="https://i.scdn.co/image/b0985e1132960a882b198294695c2440837ff41c" height="100" width="auto" style="border-radius:50%">
-78 | **R'Lyeh** | <img src="https://i.scdn.co/image/ab67616d00001e0279be6be9e5e9e30bb8bdf021" height="100" width="auto" style="border-radius:50%">
-79 | **Repuked** | <img src="https://i.scdn.co/image/246defd286a3ca278f256945b7c4c588f7a5bb48" height="100" width="auto" style="border-radius:50%">
-80 | **Rotten Mutilation** | <img src="https://i.scdn.co/image/ab67616d00001e02b5cfdf65de8e221c0dfcedc5" height="100" width="auto" style="border-radius:50%">
-81 | **Ruin** | <img src="https://i.scdn.co/image/ab67616d00001e024e1d4984ec89b91f2a448b76" height="100" width="auto" style="border-radius:50%">
-82 | **Sarcófago** | <img src="https://i.scdn.co/image/ab67616d00001e029064f149bfa1171dfc6d309c" height="100" width="auto" style="border-radius:50%">
-83 | **Sepulcration** | <img src="https://i.scdn.co/image/40d0c1de007b3051b617eac5626e8b1eb77225c6" height="100" width="auto" style="border-radius:50%">
-84 | **Sisters Of Suffocation** | <img src="https://i.scdn.co/image/7e1e847f40b7031cc9ed2f3f8e1af2fa5a5f03e7" height="100" width="auto" style="border-radius:50%">
-85 | **Six Feet Under** | <img src="https://i.scdn.co/image/1173ed44b1eef9985047abf1169f2cd7c6502477" height="100" width="auto" style="border-radius:50%">
-86 | **Skeletal Remains** | <img src="https://i.scdn.co/image/81a91733fe0207e978c1d2df14ccd68b033d6207" height="100" width="auto" style="border-radius:50%">
-87 | **Skinless** | <img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%">
-88 | **Spectral Voice** | <img src="https://i.scdn.co/image/ab67616d00001e025acff962a09fc6c1ddffad94" height="100" width="auto" style="border-radius:50%">
-89 | **Strapping Young Lad** | <img src="https://i.scdn.co/image/09d929b267663d6131af5a10b6aa346447755fbe" height="100" width="auto" style="border-radius:50%">
-90 | **Subconscious Terror Japan** | <img src="https://i.scdn.co/image/ab67616d00001e02ca41bf5ba4d0be8381501159" height="100" width="auto" style="border-radius:50%">
-91 | **Succumb** | <img src="https://i.scdn.co/image/ab67616d00001e0250d97381abf7b1bd92434307" height="100" width="auto" style="border-radius:50%">
-92 | **Suffocation** | <img src="https://i.scdn.co/image/a3a00d1cf333f18874eb4b534bac74d36d9135ab" height="100" width="auto" style="border-radius:50%">
-93 | **Temple Of Void** | <img src="https://i.scdn.co/image/af2bcd3dd02fa8a4892afe55aa6e23544006c7aa" height="100" width="auto" style="border-radius:50%">
-94 | **The Black Dahlia Murder** | <img src="https://i.scdn.co/image/daaf549df6e6a4a45513242e576e9a34611f4bc3" height="100" width="auto" style="border-radius:50%">
-95 | **The Faceless** | <img src="https://i.scdn.co/image/db8673ab22b48ff7e57632c226bbd988ec491bf5" height="100" width="auto" style="border-radius:50%">
-96 | **The Fallen Prophets** | <img src="https://i.scdn.co/image/3b9e88141319a8abbe8f5f6f25d1e9899f125d7a" height="100" width="auto" style="border-radius:50%">
-97 | **Tomb Mold** | <img src="https://i.scdn.co/image/ab67616d00001e02aa257ff5813873ffe87ec4f9" height="100" width="auto" style="border-radius:50%">
-98 | **Toxodeth** | <img src="https://i.scdn.co/image/14cc96d5ebc1ba50d58292a743a38bf88daf8da7" height="100" width="auto" style="border-radius:50%">
-99 | **Undeath** | <img src="https://i.scdn.co/image/432acee0f8a17a967e5ddaf3e939dae08b45a229" height="100" width="auto" style="border-radius:50%">
-100 | **Undenied** | <img src="https://i.scdn.co/image/cf21b32f92fefd6a4807c03686472536563940a4" height="100" width="auto" style="border-radius:50%">
-101 | **Vader** | <img src="https://i.scdn.co/image/ab6772690000bac39d4cd3b704d5fdea23b0ea76" height="100" width="auto" style="border-radius:50%">
-102 | **Vale Of Pnath** | <img src="https://i.scdn.co/image/ab67616d00001e02dca2a8ac23bd0932edd4a9f7" height="100" width="auto" style="border-radius:50%">
-103 | **Vastum** | <img src="https://i.scdn.co/image/ab67616d00001e02c342fceca52517a4b033a3fb" height="100" width="auto" style="border-radius:50%">
-104 | **Venom Prison** | <img src="https://i.scdn.co/image/e9a1568eb6a716c83e2fd700d3c0bee4e9270102" height="100" width="auto" style="border-radius:50%">
-105 | **Vital Remains** | <img src="https://i.scdn.co/image/ab67616d00001e02063eb22c331de0fcf43309d7" height="100" width="auto" style="border-radius:50%">
-106 | **Vomitory** | <img src="https://i.scdn.co/image/71347a77f7ce3ebfa9733b78948a45e8329bc9c3" height="100" width="auto" style="border-radius:50%">
-107 | **Winter'S Burden** | <img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%">
+77 | **Pessimist** | <img src="https://i.scdn.co/image/9b1cf4b8a9b193616784c9e0af563650da8bc7ff" height="100" width="auto" style="border-radius:50%">
+78 | **Pestilence** | <img src="https://i.scdn.co/image/b0985e1132960a882b198294695c2440837ff41c" height="100" width="auto" style="border-radius:50%">
+79 | **R'Lyeh** | <img src="https://i.scdn.co/image/ab67616d00001e0279be6be9e5e9e30bb8bdf021" height="100" width="auto" style="border-radius:50%">
+80 | **Repuked** | <img src="https://i.scdn.co/image/246defd286a3ca278f256945b7c4c588f7a5bb48" height="100" width="auto" style="border-radius:50%">
+81 | **Rotten Mutilation** | <img src="https://i.scdn.co/image/ab67616d00001e02b5cfdf65de8e221c0dfcedc5" height="100" width="auto" style="border-radius:50%">
+82 | **Ruin** | <img src="https://i.scdn.co/image/ab67616d00001e024e1d4984ec89b91f2a448b76" height="100" width="auto" style="border-radius:50%">
+83 | **Sarcófago** | <img src="https://i.scdn.co/image/ab67616d00001e029064f149bfa1171dfc6d309c" height="100" width="auto" style="border-radius:50%">
+84 | **Sepulcration** | <img src="https://i.scdn.co/image/40d0c1de007b3051b617eac5626e8b1eb77225c6" height="100" width="auto" style="border-radius:50%">
+85 | **Sisters Of Suffocation** | <img src="https://i.scdn.co/image/7e1e847f40b7031cc9ed2f3f8e1af2fa5a5f03e7" height="100" width="auto" style="border-radius:50%">
+86 | **Six Feet Under** | <img src="https://i.scdn.co/image/1173ed44b1eef9985047abf1169f2cd7c6502477" height="100" width="auto" style="border-radius:50%">
+87 | **Skeletal Remains** | <img src="https://i.scdn.co/image/81a91733fe0207e978c1d2df14ccd68b033d6207" height="100" width="auto" style="border-radius:50%">
+88 | **Skinless** | <img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%">
+89 | **Spectral Voice** | <img src="https://i.scdn.co/image/ab67616d00001e025acff962a09fc6c1ddffad94" height="100" width="auto" style="border-radius:50%">
+90 | **Strapping Young Lad** | <img src="https://i.scdn.co/image/09d929b267663d6131af5a10b6aa346447755fbe" height="100" width="auto" style="border-radius:50%">
+91 | **Subconscious Terror Japan** | <img src="https://i.scdn.co/image/ab67616d00001e02ca41bf5ba4d0be8381501159" height="100" width="auto" style="border-radius:50%">
+92 | **Succumb** | <img src="https://i.scdn.co/image/ab67616d00001e0250d97381abf7b1bd92434307" height="100" width="auto" style="border-radius:50%">
+93 | **Suffocation** | <img src="https://i.scdn.co/image/a3a00d1cf333f18874eb4b534bac74d36d9135ab" height="100" width="auto" style="border-radius:50%">
+94 | **Temple Of Void** | <img src="https://i.scdn.co/image/af2bcd3dd02fa8a4892afe55aa6e23544006c7aa" height="100" width="auto" style="border-radius:50%">
+95 | **The Black Dahlia Murder** | <img src="https://i.scdn.co/image/daaf549df6e6a4a45513242e576e9a34611f4bc3" height="100" width="auto" style="border-radius:50%">
+96 | **The Faceless** | <img src="https://i.scdn.co/image/db8673ab22b48ff7e57632c226bbd988ec491bf5" height="100" width="auto" style="border-radius:50%">
+97 | **The Fallen Prophets** | <img src="https://i.scdn.co/image/3b9e88141319a8abbe8f5f6f25d1e9899f125d7a" height="100" width="auto" style="border-radius:50%">
+98 | **Tomb Mold** | <img src="https://i.scdn.co/image/ab67616d00001e02aa257ff5813873ffe87ec4f9" height="100" width="auto" style="border-radius:50%">
+99 | **Toxodeth** | <img src="https://i.scdn.co/image/14cc96d5ebc1ba50d58292a743a38bf88daf8da7" height="100" width="auto" style="border-radius:50%">
+100 | **Undeath** | <img src="https://i.scdn.co/image/432acee0f8a17a967e5ddaf3e939dae08b45a229" height="100" width="auto" style="border-radius:50%">
+101 | **Undenied** | <img src="https://i.scdn.co/image/cf21b32f92fefd6a4807c03686472536563940a4" height="100" width="auto" style="border-radius:50%">
+102 | **Vader** | <img src="https://i.scdn.co/image/ab6772690000bac39d4cd3b704d5fdea23b0ea76" height="100" width="auto" style="border-radius:50%">
+103 | **Vale Of Pnath** | <img src="https://i.scdn.co/image/ab67616d00001e02dca2a8ac23bd0932edd4a9f7" height="100" width="auto" style="border-radius:50%">
+104 | **Vastum** | <img src="https://i.scdn.co/image/ab67616d00001e02c342fceca52517a4b033a3fb" height="100" width="auto" style="border-radius:50%">
+105 | **Venom Prison** | <img src="https://i.scdn.co/image/e9a1568eb6a716c83e2fd700d3c0bee4e9270102" height="100" width="auto" style="border-radius:50%">
+106 | **Vital Remains** | <img src="https://i.scdn.co/image/ab67616d00001e02063eb22c331de0fcf43309d7" height="100" width="auto" style="border-radius:50%">
+107 | **Vomitory** | <img src="https://i.scdn.co/image/71347a77f7ce3ebfa9733b78948a45e8329bc9c3" height="100" width="auto" style="border-radius:50%">
+108 | **Winter'S Burden** | <img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%">
