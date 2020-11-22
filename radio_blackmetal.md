@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kvnqLs)
 
-<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730a75947b6f6c7f1fcf2a3697ab67616d0000b273295dbeffe266bc0d853e9381ab67616d0000b2735a9f1c57ca4bc0a73a5d3771ab67616d0000b273d30e9fec6edc77b60c939155" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734b145d20300cd8c63c5b79afab67616d0000b273521290c0241d1779942aa883ab67616d0000b27361eb55aede962629117d9bd3ab67616d0000b27391fc8ad18fbf2fc3a2c03f1b" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -92,59 +92,60 @@ No. | Band | Avatar
 57 | **Horna** | <img src="https://i.scdn.co/image/ab67616d00001e02a4f52fd6f2171cfb4e87a7d5" height="100" width="auto" style="border-radius:50%">
 58 | **I** | <img src="https://i.scdn.co/image/ab67616d00001e02f12df390bbeed0c34fa73af8" height="100" width="auto" style="border-radius:50%">
 59 | **Immortal** | <img src="https://i.scdn.co/image/680f12129e82ae8f543f8f0fa63568fa7edf8ac7" height="100" width="auto" style="border-radius:50%">
-60 | **Judas Iscariot** | <img src="https://i.scdn.co/image/ab67616d00001e023f43cd403d5ef45cd4ce439d" height="100" width="auto" style="border-radius:50%">
-61 | **Kampfar** | <img src="https://i.scdn.co/image/92470cd2185fb7a5dafada95e59632446671f4cf" height="100" width="auto" style="border-radius:50%">
-62 | **Limbonic Art** | <img src="https://i.scdn.co/image/ab67616d00001e0280bf9772fe0d77715ebf2616" height="100" width="auto" style="border-radius:50%">
-63 | **Lord Belial** | <img src="https://i.scdn.co/image/ab67616d00001e02ed571637220f6373594f7bf8" height="100" width="auto" style="border-radius:50%">
-64 | **Malichor** | <img src="https://i.scdn.co/image/ab67616d00001e025a9f1c57ca4bc0a73a5d3771" height="100" width="auto" style="border-radius:50%">
-65 | **Marduk** | <img src="https://i.scdn.co/image/657bcd99713300f19bd6445309826b5927030ca5" height="100" width="auto" style="border-radius:50%">
-66 | **Master'S Hammer** | <img src="https://i.scdn.co/image/ab67616d00001e02da7a3ca841d475782efba941" height="100" width="auto" style="border-radius:50%">
-67 | **Mayhem** | <img src="https://i.scdn.co/image/725210cbfeb0dfe1e27a5c6a9fcac984a70484d8" height="100" width="auto" style="border-radius:50%">
-68 | **Mgła** | <img src="https://i.scdn.co/image/6a0d9713e0ce27a2671d3551f6b47830c40f1ef7" height="100" width="auto" style="border-radius:50%">
-69 | **Miasthenia** | <img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%">
-70 | **Misanthropy** | <img src="https://i.scdn.co/image/ab67616d00001e02f3e768f77aee223f218afd88" height="100" width="auto" style="border-radius:50%">
-71 | **Moonspell** | <img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%">
-72 | **Mortuary Drape** | <img src="https://i.scdn.co/image/ab67616d00001e0297bca129de4310409ce61eee" height="100" width="auto" style="border-radius:50%">
-73 | **Mørknatt** | <img src="https://i.scdn.co/image/ab67616d00001e0289cb0891798b4049d83f197e" height="100" width="auto" style="border-radius:50%">
-74 | **Naglfar** | <img src="https://i.scdn.co/image/63b4e50ed3c601b171b97bab7ac194f7cd692957" height="100" width="auto" style="border-radius:50%">
-75 | **Nahemah** | <img src="https://i.scdn.co/image/ab67616d00001e02733a3fcf5eb8dcf40495c2d5" height="100" width="auto" style="border-radius:50%">
-76 | **Nattefrost** | <img src="https://i.scdn.co/image/ab67616d00001e02bd9571cf1b02cf8af6a35f48" height="100" width="auto" style="border-radius:50%">
-77 | **Naurrakar** | <img src="https://i.scdn.co/image/ab67616d00001e02d54a91fdaad3a3df14883827" height="100" width="auto" style="border-radius:50%">
-78 | **Nebiros** | <img src="https://i.scdn.co/image/ab67616d00001e025343e12a0fdba5da4aee84f2" height="100" width="auto" style="border-radius:50%">
-79 | **Negator** | <img src="https://i.scdn.co/image/3d26c2b0bbc28fd861efd7dbba5514b4985ef925" height="100" width="auto" style="border-radius:50%">
-80 | **Noctem** | <img src="https://i.scdn.co/image/731ae25b22cca9a1d9bec61d5cd5e8cf3f306a90" height="100" width="auto" style="border-radius:50%">
-81 | **Nocturnal Graves** | <img src="https://i.scdn.co/image/599ee16b5db31366c80ea9428c7bb45ff5aadd5c" height="100" width="auto" style="border-radius:50%">
-82 | **Numen** | <img src="https://i.scdn.co/image/6c1517d28519ed11fec3b6a35e4adbe87ecdc237" height="100" width="auto" style="border-radius:50%">
-83 | **Odal** | <img src="https://i.scdn.co/image/19368c2bbacba507e7fee0fad7015fecba90ddec" height="100" width="auto" style="border-radius:50%">
-84 | **Old Man'S Child** | <img src="https://i.scdn.co/image/b917470fa7ba6be4134fc500df55dbee11f5dcad" height="100" width="auto" style="border-radius:50%">
-85 | **Oranssi Pazuzu** | <img src="https://i.scdn.co/image/03ed0b37222fb39e879e9e82b55ac3f256afc0b5" height="100" width="auto" style="border-radius:50%">
-86 | **Order Of The Wolf** | <img src="https://i.scdn.co/image/897452b626446c653466cc24f768bbd5a6c4d4be" height="100" width="auto" style="border-radius:50%">
-87 | **Ov Hell** | <img src="https://i.scdn.co/image/ab67616d00001e0224d775d6ddc81ff9adc210b4" height="100" width="auto" style="border-radius:50%">
-88 | **Perennial Isolation** | <img src="https://i.scdn.co/image/ab67616d00001e02e3e8e477e9c4ce69fb067cb4" height="100" width="auto" style="border-radius:50%">
-89 | **Realm Of Horus** | <img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%">
-90 | **Rotting Christ** | <img src="https://i.scdn.co/image/ab3b577ce2da55c7e1ae69ae9b3194919c83d0a5" height="100" width="auto" style="border-radius:50%">
-91 | **Samael** | <img src="https://i.scdn.co/image/f1437f34625bc1e3f72d8c3b7ec41ae3a5ffc773" height="100" width="auto" style="border-radius:50%">
-92 | **Sargeist** | <img src="https://i.scdn.co/image/ab67616d00001e02bdc85d943e4f7c3e8e99a081" height="100" width="auto" style="border-radius:50%">
-93 | **Satyricon** | <img src="https://i.scdn.co/image/63dbdea4556172aa9feab7942e1c35c79a505101" height="100" width="auto" style="border-radius:50%">
-94 | **Selbst** | <img src="https://i.scdn.co/image/44e6ed6e2e736c34df722974b7054d463f8978ec" height="100" width="auto" style="border-radius:50%">
-95 | **Septicflesh** | <img src="https://i.scdn.co/image/bda1346420408be2031ff17786c96be443c27b0d" height="100" width="auto" style="border-radius:50%">
-96 | **Setherial** | <img src="https://i.scdn.co/image/ab67616d00001e02a87058386c75d6fb146d503b" height="100" width="auto" style="border-radius:50%">
-97 | **Shade Empire** | <img src="https://i.scdn.co/image/ab67616d00001e02e74066961e6ed04ff0433952" height="100" width="auto" style="border-radius:50%">
-98 | **Spectral Wound** | <img src="https://i.scdn.co/image/94140a485df6ac844fe97c2f661f28168ab69e47" height="100" width="auto" style="border-radius:50%">
-99 | **Svartsyn** | <img src="https://i.scdn.co/image/ab67616d00001e02728765337faabc7c067206ae" height="100" width="auto" style="border-radius:50%">
-100 | **Taake** | <img src="https://i.scdn.co/image/ab67616d00001e026b10c27b20b03a9c4e47b833" height="100" width="auto" style="border-radius:50%">
-101 | **Tiamat** | <img src="https://i.scdn.co/image/6c41816704c2fad6039bb3eba74915e631b663e5" height="100" width="auto" style="border-radius:50%">
-102 | **Tormentor** | <img src="https://i.scdn.co/image/ab67616d00001e0261eb55aede962629117d9bd3" height="100" width="auto" style="border-radius:50%">
-103 | **Tsjuder** | <img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%">
-104 | **Ulver** | <img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%">
-105 | **Urgehal** | <img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%">
-106 | **Varathron** | <img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%">
-107 | **Velho** | <img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%">
-108 | **Venom** | <img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%">
-109 | **Vintersorg** | <img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%">
-110 | **Waldgeflüster** | <img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%">
-111 | **Watain** | <img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%">
-112 | **Whipstriker** | <img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%">
-113 | **Winterfylleth** | <img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%">
-114 | **Wolves In The Throne Room** | <img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%">
-115 | **Äera** | <img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%">
+60 | **Inquisition** | <img src="https://i.scdn.co/image/38840222027e8d7135fd6ab235e2c82a12921d76" height="100" width="auto" style="border-radius:50%">
+61 | **Judas Iscariot** | <img src="https://i.scdn.co/image/ab67616d00001e023f43cd403d5ef45cd4ce439d" height="100" width="auto" style="border-radius:50%">
+62 | **Kampfar** | <img src="https://i.scdn.co/image/92470cd2185fb7a5dafada95e59632446671f4cf" height="100" width="auto" style="border-radius:50%">
+63 | **Limbonic Art** | <img src="https://i.scdn.co/image/ab67616d00001e0280bf9772fe0d77715ebf2616" height="100" width="auto" style="border-radius:50%">
+64 | **Lord Belial** | <img src="https://i.scdn.co/image/ab67616d00001e02ed571637220f6373594f7bf8" height="100" width="auto" style="border-radius:50%">
+65 | **Malichor** | <img src="https://i.scdn.co/image/ab67616d00001e025a9f1c57ca4bc0a73a5d3771" height="100" width="auto" style="border-radius:50%">
+66 | **Marduk** | <img src="https://i.scdn.co/image/657bcd99713300f19bd6445309826b5927030ca5" height="100" width="auto" style="border-radius:50%">
+67 | **Master'S Hammer** | <img src="https://i.scdn.co/image/ab67616d00001e02da7a3ca841d475782efba941" height="100" width="auto" style="border-radius:50%">
+68 | **Mayhem** | <img src="https://i.scdn.co/image/725210cbfeb0dfe1e27a5c6a9fcac984a70484d8" height="100" width="auto" style="border-radius:50%">
+69 | **Mgła** | <img src="https://i.scdn.co/image/6a0d9713e0ce27a2671d3551f6b47830c40f1ef7" height="100" width="auto" style="border-radius:50%">
+70 | **Miasthenia** | <img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%">
+71 | **Misanthropy** | <img src="https://i.scdn.co/image/ab67616d00001e02f3e768f77aee223f218afd88" height="100" width="auto" style="border-radius:50%">
+72 | **Moonspell** | <img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%">
+73 | **Mortuary Drape** | <img src="https://i.scdn.co/image/ab67616d00001e0297bca129de4310409ce61eee" height="100" width="auto" style="border-radius:50%">
+74 | **Mørknatt** | <img src="https://i.scdn.co/image/ab67616d00001e0289cb0891798b4049d83f197e" height="100" width="auto" style="border-radius:50%">
+75 | **Naglfar** | <img src="https://i.scdn.co/image/63b4e50ed3c601b171b97bab7ac194f7cd692957" height="100" width="auto" style="border-radius:50%">
+76 | **Nahemah** | <img src="https://i.scdn.co/image/ab67616d00001e02733a3fcf5eb8dcf40495c2d5" height="100" width="auto" style="border-radius:50%">
+77 | **Nattefrost** | <img src="https://i.scdn.co/image/ab67616d00001e02bd9571cf1b02cf8af6a35f48" height="100" width="auto" style="border-radius:50%">
+78 | **Naurrakar** | <img src="https://i.scdn.co/image/ab67616d00001e02d54a91fdaad3a3df14883827" height="100" width="auto" style="border-radius:50%">
+79 | **Nebiros** | <img src="https://i.scdn.co/image/ab67616d00001e025343e12a0fdba5da4aee84f2" height="100" width="auto" style="border-radius:50%">
+80 | **Negator** | <img src="https://i.scdn.co/image/3d26c2b0bbc28fd861efd7dbba5514b4985ef925" height="100" width="auto" style="border-radius:50%">
+81 | **Noctem** | <img src="https://i.scdn.co/image/731ae25b22cca9a1d9bec61d5cd5e8cf3f306a90" height="100" width="auto" style="border-radius:50%">
+82 | **Nocturnal Graves** | <img src="https://i.scdn.co/image/599ee16b5db31366c80ea9428c7bb45ff5aadd5c" height="100" width="auto" style="border-radius:50%">
+83 | **Numen** | <img src="https://i.scdn.co/image/6c1517d28519ed11fec3b6a35e4adbe87ecdc237" height="100" width="auto" style="border-radius:50%">
+84 | **Odal** | <img src="https://i.scdn.co/image/19368c2bbacba507e7fee0fad7015fecba90ddec" height="100" width="auto" style="border-radius:50%">
+85 | **Old Man'S Child** | <img src="https://i.scdn.co/image/b917470fa7ba6be4134fc500df55dbee11f5dcad" height="100" width="auto" style="border-radius:50%">
+86 | **Oranssi Pazuzu** | <img src="https://i.scdn.co/image/03ed0b37222fb39e879e9e82b55ac3f256afc0b5" height="100" width="auto" style="border-radius:50%">
+87 | **Order Of The Wolf** | <img src="https://i.scdn.co/image/897452b626446c653466cc24f768bbd5a6c4d4be" height="100" width="auto" style="border-radius:50%">
+88 | **Ov Hell** | <img src="https://i.scdn.co/image/ab67616d00001e0224d775d6ddc81ff9adc210b4" height="100" width="auto" style="border-radius:50%">
+89 | **Perennial Isolation** | <img src="https://i.scdn.co/image/ab67616d00001e02e3e8e477e9c4ce69fb067cb4" height="100" width="auto" style="border-radius:50%">
+90 | **Realm Of Horus** | <img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%">
+91 | **Rotting Christ** | <img src="https://i.scdn.co/image/ab3b577ce2da55c7e1ae69ae9b3194919c83d0a5" height="100" width="auto" style="border-radius:50%">
+92 | **Samael** | <img src="https://i.scdn.co/image/f1437f34625bc1e3f72d8c3b7ec41ae3a5ffc773" height="100" width="auto" style="border-radius:50%">
+93 | **Sargeist** | <img src="https://i.scdn.co/image/ab67616d00001e02bdc85d943e4f7c3e8e99a081" height="100" width="auto" style="border-radius:50%">
+94 | **Satyricon** | <img src="https://i.scdn.co/image/63dbdea4556172aa9feab7942e1c35c79a505101" height="100" width="auto" style="border-radius:50%">
+95 | **Selbst** | <img src="https://i.scdn.co/image/44e6ed6e2e736c34df722974b7054d463f8978ec" height="100" width="auto" style="border-radius:50%">
+96 | **Septicflesh** | <img src="https://i.scdn.co/image/bda1346420408be2031ff17786c96be443c27b0d" height="100" width="auto" style="border-radius:50%">
+97 | **Setherial** | <img src="https://i.scdn.co/image/ab67616d00001e02a87058386c75d6fb146d503b" height="100" width="auto" style="border-radius:50%">
+98 | **Shade Empire** | <img src="https://i.scdn.co/image/ab67616d00001e02e74066961e6ed04ff0433952" height="100" width="auto" style="border-radius:50%">
+99 | **Spectral Wound** | <img src="https://i.scdn.co/image/94140a485df6ac844fe97c2f661f28168ab69e47" height="100" width="auto" style="border-radius:50%">
+100 | **Svartsyn** | <img src="https://i.scdn.co/image/ab67616d00001e02728765337faabc7c067206ae" height="100" width="auto" style="border-radius:50%">
+101 | **Taake** | <img src="https://i.scdn.co/image/ab67616d00001e026b10c27b20b03a9c4e47b833" height="100" width="auto" style="border-radius:50%">
+102 | **Tiamat** | <img src="https://i.scdn.co/image/6c41816704c2fad6039bb3eba74915e631b663e5" height="100" width="auto" style="border-radius:50%">
+103 | **Tormentor** | <img src="https://i.scdn.co/image/ab67616d00001e0261eb55aede962629117d9bd3" height="100" width="auto" style="border-radius:50%">
+104 | **Tsjuder** | <img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%">
+105 | **Ulver** | <img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%">
+106 | **Urgehal** | <img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%">
+107 | **Varathron** | <img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%">
+108 | **Velho** | <img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%">
+109 | **Venom** | <img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%">
+110 | **Vintersorg** | <img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%">
+111 | **Waldgeflüster** | <img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%">
+112 | **Watain** | <img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%">
+113 | **Whipstriker** | <img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%">
+114 | **Winterfylleth** | <img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%">
+115 | **Wolves In The Throne Room** | <img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%">
+116 | **Äera** | <img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%">

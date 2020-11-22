@@ -17,11 +17,11 @@ figcaption {
 </style>
 
 <h2>Ambient Beats</h2>
-<a href="https://radioninjapirata.github.io/radio_ambbeat.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731019d5a76c8803df5dc5e2d1ab67616d0000b27316055605463907b925ab2efcab67616d0000b2732e90aebd341695098d29f4c8ab67616d0000b273b033087945225272e885808c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_ambbeat.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731093911c53b493ec8634853fab67616d0000b2731e6aa92fd70174a7b2a39f43ab67616d0000b2736de50a4e063970fd2c55a408ab67616d0000b27386a21352aae21dc2dae46a2c" height="300" width="auto" style="border-radius:50%"></a>
 
 <br /> <br />
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 <br /><br />
 
 <h2>Techno by Women</h2>
-<a href="https://radioninjapirata.github.io/radio_technowomen.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273155f04b7f16666d4792bba76ab67616d0000b273621f99bcbf3527684e7656eaab67616d0000b27365a2ef052cb013b00d7efa18ab67616d0000b2739e918ea8428573df98e7596e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_technowomen.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735b35c83dad983a82720b27aeab67616d0000b27365eeae3d3194f2a6c9375929ab67616d0000b27372758fd4a12431c04d7c1e10ab67616d0000b273e2d230cb168588a5a3198f83" height="300" width="auto" style="border-radius:50%"></a>

@@ -17,18 +17,18 @@ figcaption {
 </style>
 
 <h2>KD&MF</h2>
-<a href="https://radioninjapirata.github.io/radio_fan_KDMF.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273439ebe45a8ced3a68132351dab67616d0000b27350b529912257480edb8a721cab67616d0000b2735ba214c147252d41cc936e5aab67616d0000b273c9afa799818d77053e32cc57" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_fan_KDMF.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27325d11ddc25133c920cf67e44ab67616d0000b2732b86f178683a708f98e4a03dab67616d0000b273bed3cf6d90e79aa317f69705ab67616d0000b273e233d7a6e3f160443baa529a" height="300" width="auto" style="border-radius:50%"></a>
 
 <br /> <br />
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 <br /><br />
 
 <h2>S.O.A.D.</h2>
-<a href="https://radioninjapirata.github.io/radio_soad.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273a867435c4c44dec3733433cdab67616d0000b273c65f8d04502eeddbdd61fa71ab67616d0000b273c8c79a39007e7f8e48393eacab67616d0000b273f5e7b2e5adaa87430a3eccff" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_soad.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273401dd486dc6d75239968ef86ab67616d0000b2737cf4c0d42c5b62c9deebdcd8ab67616d0000b273a57ca9e47d038be31c9aee9dab67616d0000b273ba00e990d1520a4cde41ce0c" height="300" width="auto" style="border-radius:50%"></a>
 
 <br /> <br />
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 <br /><br />
 
 <h2>UnholyTrinity</h2>
-<a href="https://radioninjapirata.github.io/radio_unholytrinity.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303e31c6840aa343b73bbfe84ab67616d0000b27319a88de76b8938cf5db96106ab67616d0000b273ba0cd55f695a3934dbc1cd6eab67616d0000b273e5108ed0fceadd1295403314" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_unholytrinity.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27326ae8c83d22a20bce31d2718ab67616d0000b2732abc2d86a442efb6cc631d0aab67616d0000b273c8a11e48c91a982d086afc69ab67616d0000b273ef200afbb9fe3f2ec9140894" height="300" width="auto" style="border-radius:50%"></a>
