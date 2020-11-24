@@ -17,11 +17,11 @@ figcaption {
 </style>
 
 <h2>Fado</h2>
-<a href="https://radioninjapirata.github.io/radio_fado.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730729b42d6bec2c0e2005bd68ab67616d0000b273801fb766386a5a5019c2d334ab67616d0000b27398a80582c63c5d73ad8e3026ab67616d0000b273e87442e64acdda9da888ea0c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_fado.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273658b2d088a746749ee596af0ab67616d0000b273c477edba6a8e92ebff889923ab67616d0000b273d271a7b02763ca35ab58bdd6ab67616d0000b273ed2c815dba35d9a63d040e0b" height="300" width="auto" style="border-radius:50%"></a>
 
 <br /> <br />
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 <br /><br />
 
 <h2>Iberico</h2>
-<a href="https://radioninjapirata.github.io/radio_folkiberico.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27350ae539c803f4132168e65feab67616d0000b27363484acbbda5b210e1a346a4ab67616d0000b2738fdf3361f8c613a002292352ab67616d0000b273ae03268fc196e1c196db608e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_folkiberico.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27380a29502d1973beb83637fbeab67616d0000b2738fdf3361f8c613a002292352ab67616d0000b273ae03268fc196e1c196db608eab67616d0000b273ee012a5994d8a121420f4c8b" height="300" width="auto" style="border-radius:50%"></a>

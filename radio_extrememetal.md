@@ -1,11 +1,11 @@
-# King Diamond and Mercyful Fate Fan Radio
+# Extreme Metal
 
 **40 new tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ)
 
-<a href="https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273868aa679a7583bbefc07803cab67616d0000b27397620fb16ab7feed6a4da26cab67616d0000b273a45849d9207c35309f569010ab67616d0000b273ea5a2435e381b04ed344ac74" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d0000b273ca6c41de69d361ce0a29fcf8" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,5 +33,5 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **King Diamond** | <img src="https://i.scdn.co/image/bf39a25886a2d2f7fbaf13825f7e771469658103" height="100" width="auto" style="border-radius:50%">
-2 | **Mercyful Fate** | <img src="https://i.scdn.co/image/0f1c2fc4b2f1f821a3ef262e3d4f21929c41adfc" height="100" width="auto" style="border-radius:50%">
+1 | **Automb** | <img src="https://i.scdn.co/image/5c1f5f9a659862ecbadf2701e32efbd112015814" height="100" width="auto" style="border-radius:50%">
+2 | **Deranged** | <img src="https://i.scdn.co/image/ab67616d00001e02e7ab67a90b9433882581389b" height="100" width="auto" style="border-radius:50%">
