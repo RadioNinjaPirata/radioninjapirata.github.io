@@ -1,11 +1,11 @@
-# The Unholy Trinity
+# Melodic Black Metal
 
 **40 new tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/31jrYgQ)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ)
 
-<a href="https://spoti.fi/31jrYgQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273104d6d4db92b0a24c1008eabab67616d0000b27336ecc104d9cf43bc75ef6d3dab67616d0000b273533b2a1e48ed06936c05e860ab67616d0000b273743e2ddc45dfa79006232905" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27314debd4152ae52addf14e610ab67616d0000b273179597b839599a080e221bebab67616d0000b273b831c253c9f4be2e71c85a8eab67616d0000b273e0b9bbbe5a430bf16ce57549" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,6 +33,4 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Black Sabbath** | <img src="https://i.scdn.co/image/6f37a1025ba3f8e2dbb3b15cf30016ff728ba51d" height="100" width="auto" style="border-radius:50%">
-2 | **Deep Purple** | <img src="https://i.scdn.co/image/ca83593d28fb361d10519fbb60f62d923f3381be" height="100" width="auto" style="border-radius:50%">
-3 | **Led Zeppelin** | <img src="https://i.scdn.co/image/b0248a44865493e6a03832aa89854ada16ff07a8" height="100" width="auto" style="border-radius:50%">
+1 | **Christ Agony** | <img src="https://i.scdn.co/image/ab67616d00001e023cb25474f6de59f0476130c7" height="100" width="auto" style="border-radius:50%">

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731c229cb7c9851fb0c67e2af8ab67616d0000b2733cc74c65188783345813db73ab67616d0000b27364fa027e7ef7ce20fa8b46f2ab67616d0000b273d697bf096112c15aae29bc46" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27316fb34fc6b52f687ef8b60b1ab67616d0000b2733e408f987788b1d404ff6ddeab67616d0000b2735bbbc37d53ccfc3df58b6e01ab67616d0000b273bb7d33186e4a26421c6a77ae" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -65,7 +65,7 @@ No. | Band | Avatar
 30 | **Rob Zombie** | <img src="https://i.scdn.co/image/e28689aa25d8a8a18623bfe1339467d3491fea9a" height="100" width="auto" style="border-radius:50%">
 31 | **Sepultura** | <img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%">
 32 | **Soil** | <img src="https://i.scdn.co/image/6178819ea7c333fa6a067b6969defb6ade1cd19f" height="100" width="auto" style="border-radius:50%">
-33 | **Soilwork** | <img src="https://i.scdn.co/image/a8d493ea3014fd096655528a81b34213fbf553ac" height="100" width="auto" style="border-radius:50%">
+33 | **Soilwork** | <img src="https://i.scdn.co/image/5fac3d40202d973578dde29dbfe5c90fb4a65627" height="100" width="auto" style="border-radius:50%">
 34 | **Soulfly** | <img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%">
 35 | **Sylosis** | <img src="https://i.scdn.co/image/9575da9514a8c72836d0d214552f93e8fdfa4c20" height="100" width="auto" style="border-radius:50%">
 36 | **Syrebris** | <img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%">
