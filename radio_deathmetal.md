@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2ZKYKGP)
 
-<a href="https://spoti.fi/2ZKYKGP" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27330679ac8c8e4b3579170e626ab67616d0000b2734f09da09c977427f08b4c7cfab67616d0000b273a232226b5570aa692d4c3229ab67616d0000b273a68dc12460e368f6389541a8" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2ZKYKGP" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27316aab7411f75c494ad7fcb11ab67616d0000b273281759da66db2344cafb4c44ab67616d0000b273589a6dc15217d347f9f5623bab67616d0000b273a63282a20209d12b50e81fc5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -134,10 +134,11 @@ No. | Band | Avatar
 99 | **Toxodeth** | <img src="https://i.scdn.co/image/14cc96d5ebc1ba50d58292a743a38bf88daf8da7" height="100" width="auto" style="border-radius:50%">
 100 | **Undeath** | <img src="https://i.scdn.co/image/432acee0f8a17a967e5ddaf3e939dae08b45a229" height="100" width="auto" style="border-radius:50%">
 101 | **Undenied** | <img src="https://i.scdn.co/image/cf21b32f92fefd6a4807c03686472536563940a4" height="100" width="auto" style="border-radius:50%">
-102 | **Vader** | <img src="https://i.scdn.co/image/ab6772690000bac39d4cd3b704d5fdea23b0ea76" height="100" width="auto" style="border-radius:50%">
-103 | **Vale Of Pnath** | <img src="https://i.scdn.co/image/ab67616d00001e02dca2a8ac23bd0932edd4a9f7" height="100" width="auto" style="border-radius:50%">
-104 | **Vastum** | <img src="https://i.scdn.co/image/ab67616d00001e02c342fceca52517a4b033a3fb" height="100" width="auto" style="border-radius:50%">
-105 | **Venom Prison** | <img src="https://i.scdn.co/image/e9a1568eb6a716c83e2fd700d3c0bee4e9270102" height="100" width="auto" style="border-radius:50%">
-106 | **Vital Remains** | <img src="https://i.scdn.co/image/ab67616d00001e02063eb22c331de0fcf43309d7" height="100" width="auto" style="border-radius:50%">
-107 | **Vomitory** | <img src="https://i.scdn.co/image/71347a77f7ce3ebfa9733b78948a45e8329bc9c3" height="100" width="auto" style="border-radius:50%">
-108 | **Winter'S Burden** | <img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%">
+102 | **Undergang** | <img src="https://i.scdn.co/image/ab67616d00001e02fe8551fa3df357ec9e76952e" height="100" width="auto" style="border-radius:50%">
+103 | **Vader** | <img src="https://i.scdn.co/image/ab6772690000bac39d4cd3b704d5fdea23b0ea76" height="100" width="auto" style="border-radius:50%">
+104 | **Vale Of Pnath** | <img src="https://i.scdn.co/image/ab67616d00001e02dca2a8ac23bd0932edd4a9f7" height="100" width="auto" style="border-radius:50%">
+105 | **Vastum** | <img src="https://i.scdn.co/image/ab67616d00001e02c342fceca52517a4b033a3fb" height="100" width="auto" style="border-radius:50%">
+106 | **Venom Prison** | <img src="https://i.scdn.co/image/e9a1568eb6a716c83e2fd700d3c0bee4e9270102" height="100" width="auto" style="border-radius:50%">
+107 | **Vital Remains** | <img src="https://i.scdn.co/image/ab67616d00001e02063eb22c331de0fcf43309d7" height="100" width="auto" style="border-radius:50%">
+108 | **Vomitory** | <img src="https://i.scdn.co/image/71347a77f7ce3ebfa9733b78948a45e8329bc9c3" height="100" width="auto" style="border-radius:50%">
+109 | **Winter'S Burden** | <img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%">

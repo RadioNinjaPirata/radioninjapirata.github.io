@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
 
-<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27367ce1c9cb9a53f1ebc3e9a83ab67616d0000b273893d1061b717beb72de7ac96ab67616d0000b273dae02364a4f70b1570e652d0ab67616d0000b273e206d98bb8bafb2004f08a0f" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273122513d73dc3659c8b6626f1ab67616d0000b27318101a42842b8556ca461b94ab67616d0000b2732bc6bb9e58e36a7a825507dbab67616d0000b27388d39cc9ec77418655dce3bf" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -61,3 +61,4 @@ No. | Band | Avatar
 26 | **The Agonist** | <img src="https://i.scdn.co/image/1227f0fceb4041fe2381719293b8577f3f8306bc" height="100" width="auto" style="border-radius:50%">
 27 | **Warbell** | <img src="https://i.scdn.co/image/ab67616d00001e02c0d65289d53a2d74905fe587" height="100" width="auto" style="border-radius:50%">
 28 | **Words Of Farewell** | <img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%">
+29 | **Wyrmhaven** | <img src="https://i.scdn.co/image/ab67616d00001e027e27eb4e7c0acfdf418d668a" height="100" width="auto" style="border-radius:50%">
