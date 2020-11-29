@@ -21,5 +21,3 @@ Follow the links bellow to your favorite style ->
 # [reggae](https://radioninjapirata.github.io/radios_reggae.html)
 
 # [rock](https://radioninjapirata.github.io/radios_rock.html)
-
-# [spiritual](https://radioninjapirata.github.io/radios_spiritual.html)

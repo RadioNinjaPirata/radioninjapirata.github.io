@@ -17,4 +17,4 @@ figcaption {
 </style>
 
 <h2>Workaholic</h2>
-<a href="https://radioninjapirata.github.io/radio_ostworkaholic.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273221a10d1f511ba655ccf90cdab67616d0000b2735bb99633571df6ecf9d2a206ab67616d0000b2737a283d440beee38bcc65cf89ab67616d0000b273e04fd7c4d7b84c6dba42f5c1" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_ostworkaholic.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736b20c6049adc59dcca7aa9fdab67616d0000b27380255b6cc3fda7dc4ad84680ab67616d0000b273fe0180fbca0ed3a46cf44cfeab67616d0000b273fe52434b1071a5dd9ef5eb91" height="300" width="auto" style="border-radius:50%"></a>

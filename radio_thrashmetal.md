@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3cg0yMX)
 
-<a href="https://spoti.fi/3cg0yMX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730410d1d76b4bbc2c1a7c2bfeab67616d0000b273693d5539914d5c9d135f471fab67616d0000b273b168ea9c3ee003fcc3116794ab67616d0000b273f0a41e9f16f13beff91dffc4" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3cg0yMX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732df6776ab562694ba79c1e11ab67616d0000b2733e3633227b46f2cc0709b792ab67616d0000b273619d01ee69e668b16b4d72b9ab67616d0000b273beb06ea2058ee1ef299c4cf3" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -208,6 +208,7 @@ No. | Band | Avatar
 173 | **Violator** | <img src="https://i.scdn.co/image/ab67616d00001e0240826a17d984029dfd7cdee7" height="100" width="auto" style="border-radius:50%">
 174 | **Voivod** | <img src="https://i.scdn.co/image/0c3e323f9541d98f6067fe8b5144fc5a35fbf84f" height="100" width="auto" style="border-radius:50%">
 175 | **Warbringer** | <img src="https://i.scdn.co/image/6f260ac0cec8b8800971e6ac52196391151fdc57" height="100" width="auto" style="border-radius:50%">
-176 | **Whiplash** | <img src="https://i.scdn.co/image/ab67616d00001e02ea354cea110f8efd70d0a79c" height="100" width="auto" style="border-radius:50%">
-177 | **Xentrix** | <img src="https://i.scdn.co/image/ab67616d00001e02bc65ee3fc08998f1ccc58606" height="100" width="auto" style="border-radius:50%">
-178 | **Znöwhite** | <img src="https://i.scdn.co/image/ab67616d00001e0245bf40341f82b02e8dbe3662" height="100" width="auto" style="border-radius:50%">
+176 | **Warfect** | <img src="https://i.scdn.co/image/1bd423be3fa518796a3319ea8be55502145b4a6c" height="100" width="auto" style="border-radius:50%">
+177 | **Whiplash** | <img src="https://i.scdn.co/image/ab67616d00001e02ea354cea110f8efd70d0a79c" height="100" width="auto" style="border-radius:50%">
+178 | **Xentrix** | <img src="https://i.scdn.co/image/ab67616d00001e02bc65ee3fc08998f1ccc58606" height="100" width="auto" style="border-radius:50%">
+179 | **Znöwhite** | <img src="https://i.scdn.co/image/ab67616d00001e0245bf40341f82b02e8dbe3662" height="100" width="auto" style="border-radius:50%">

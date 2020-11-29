@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731e020af0eea08ee488a8f7f7ab67616d0000b2733ac71450f70f8dae74a215e9ab67616d0000b2733aef530d51ee53cb29e22c2dab67616d0000b2735bbbc37d53ccfc3df58b6e01" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27339230c2232fd9b57b1bbc70dab67616d0000b2737bdbe105ad352b5e12798d15ab67616d0000b273bde557dacb5776a6e8f463c3ab67616d0000b273e698b41c758c1a49fecbc1cf" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -69,4 +69,5 @@ No. | Band | Avatar
 34 | **Soulfly** | <img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%">
 35 | **Sylosis** | <img src="https://i.scdn.co/image/9575da9514a8c72836d0d214552f93e8fdfa4c20" height="100" width="auto" style="border-radius:50%">
 36 | **Syrebris** | <img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%">
-37 | **Threat Signal** | <img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%">
+37 | **Them** | <img src="https://i.scdn.co/image/000f79da5ac42cca341d948a05717a4304c1aade" height="100" width="auto" style="border-radius:50%">
+38 | **Threat Signal** | <img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%">

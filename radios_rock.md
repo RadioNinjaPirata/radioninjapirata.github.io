@@ -17,18 +17,18 @@ figcaption {
 </style>
 
 <h2>Portugal</h2>
-<a href="https://radioninjapirata.github.io/radio_rockportugues.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731b7223a4722a17c66ad0825eab67616d0000b2739380b44d4316f8c56bae4280ab67616d0000b273955001a52a422243d5998ac7ab67616d0000b273c17be33d84369910dd3683c0" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_rockportugues.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2737f8a1afb6899c537bbfe68dcab67616d0000b2738677f64dabf618a460125d73ab67616d0000b273a7884424ba147ecf5cffb7a5ab67616d0000b273ccde88754e4204ac931ebda4" height="300" width="auto" style="border-radius:50%"></a>
 
 <br /> <br />
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 <br /><br />
 
 <h2>Progressive</h2>
-<a href="https://radioninjapirata.github.io/radio_progrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27307aa55b0c0c1855ff8d617a7ab67616d0000b2731bd7d0442aa2c56fd2eb3bd9ab67616d0000b2732e2faa2200707442b1842457ab67616d0000b2737d36d5b25cacb9187209b28a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_progrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27329fc3e17febd7cd9c72b804bab67616d0000b2736d4ab9bf3bdea52371415ad6ab67616d0000b27371964869074f1a5efb866166ab67616d0000b273e94a21bf212d16413dd27d84" height="300" width="auto" style="border-radius:50%"></a>
 
 <br /> <br />
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
 <br /><br />
 
 <h2>Stoner / Doom / Psychedelic / Space</h2>
-<a href="https://radioninjapirata.github.io/radio_stonerrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27304844e5e75becfda9ced94d1ab67616d0000b273b0e734a9e54a03b29dc7597eab67616d0000b273bf3bea228d1fce7cce66c5c6ab67616d0000b273d157f9173799d888fa25f196" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://radioninjapirata.github.io/radio_stonerrock.html" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273175028f77fced8a015649825ab67616d0000b273572ad753de241c807844b704ab67616d0000b273688c35451f72e076714bbe9aab67616d0000b273c6ff642116b4a8f9ccec8fcb" height="300" width="auto" style="border-radius:50%"></a>
