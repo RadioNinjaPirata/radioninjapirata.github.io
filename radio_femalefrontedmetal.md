@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3jqVur0)
 
-<a href="https://spoti.fi/3jqVur0" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273297bdfe62326e062214d5d79ab67616d0000b273612fc04393a1667415d7947eab67616d0000b273bd6b43cd2ef9f7d093f71663ab67616d0000b273c342fceca52517a4b033a3fb" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3jqVur0" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273536fe3e46003fb3ebe2ebf05ab67616d0000b2736a3c8c4defa3fe37388628aaab67616d0000b2738856f92948532af14f97f56eab67616d0000b273ba7b3476aa39778fc0941e50" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -55,7 +55,7 @@ No. | Band | Avatar
 20 | **Codex Obscura** | <img src="https://i.scdn.co/image/ab67616d00001e025190f08e0496bc3fbce3d462" height="100" width="auto" style="border-radius:50%">
 21 | **Crucified Barbara** | <img src="https://i.scdn.co/image/ab67616d00001e0258d39e79a6fe812f75d4dce4" height="100" width="auto" style="border-radius:50%">
 22 | **Dictated** | <img src="https://i.scdn.co/image/fb26240903d3907adc111b19f8eb5cc17082d70c" height="100" width="auto" style="border-radius:50%">
-23 | **Doro** | <img src="https://i.scdn.co/image/3dab82922dd2de2abaf3f30dacf5499bced6d46a" height="100" width="auto" style="border-radius:50%">
+23 | **Doro** | <img src="https://i.scdn.co/image/0d4c078f3936b5adccf0d3c44cfc2a7d50033072" height="100" width="auto" style="border-radius:50%">
 24 | **Engulfed In Blackness** | <img src="https://i.scdn.co/image/ab67616d00001e02d2e07b265e01f9e7d1c618f8" height="100" width="auto" style="border-radius:50%">
 25 | **Entheos** | <img src="https://i.scdn.co/image/2e5a95a240e74df1d829e08b049aa344fdd2b881" height="100" width="auto" style="border-radius:50%">
 26 | **Frantic Amber** | <img src="https://i.scdn.co/image/7d82c4d30dd509bce04da9951b0fca6559468bb6" height="100" width="auto" style="border-radius:50%">
