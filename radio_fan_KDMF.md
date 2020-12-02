@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ)
 
-<a href="https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2739e0a6551794940a4e8b32406ab67616d0000b273be1ae534a1aa21ec5407acdaab67616d0000b273c755e9217f38c5f732192689ab67616d0000b273c82d42bb1935c1eb43d43289" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732b86f178683a708f98e4a03dab67616d0000b273868aa679a7583bbefc07803cab67616d0000b273c2baea5597a4dc5044a68f00ab67616d0000b273ef25f6bcc2826143ce32d556" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,5 +33,5 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **King Diamond** | <img src="https://i.scdn.co/image/bf39a25886a2d2f7fbaf13825f7e771469658103" height="100" width="auto" style="border-radius:50%">
-2 | **Mercyful Fate** | <img src="https://i.scdn.co/image/0f1c2fc4b2f1f821a3ef262e3d4f21929c41adfc" height="100" width="auto" style="border-radius:50%">
+1 | **King Diamond** | <a href="https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa?si=2FdmWgeKQKWmA8dWdGYDpA" target="_blank"><img src="https://i.scdn.co/image/bf39a25886a2d2f7fbaf13825f7e771469658103" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Mercyful Fate** | <a href="https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9?si=WKlPdpaDQeOaIM5Z23QF8Q" target="_blank"><img src="https://i.scdn.co/image/0f1c2fc4b2f1f821a3ef262e3d4f21929c41adfc" height="100" width="auto" style="border-radius:50%"></a>

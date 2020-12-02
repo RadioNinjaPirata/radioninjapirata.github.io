@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2IBa6av)
 
-<a href="https://spoti.fi/2IBa6av" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273460d1218d66f63140bcfc373ab67616d0000b273a53ec9cc1aecb785a2b4436eab67616d0000b273aba46c717b6562b5d08d2b6dab67616d0000b273ae834a949a69e10e40b806b2" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2IBa6av" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735c059ff781c9be1f3be63a62ab67616d0000b27365a2ef052cb013b00d7efa18ab67616d0000b273d258f3fa410d1447ed30f575ab67616d0000b273d51fc76faa04160c3c1325fa" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,11 +33,11 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Anastasia Kristensen** | <img src="https://i.scdn.co/image/c5e8c1af92fa9b2a4a8fde0a40847c32b091c21d" height="100" width="auto" style="border-radius:50%">
-2 | **Anetha** | <img src="https://i.scdn.co/image/047f4ca861386862d8df20a376728116189d419f" height="100" width="auto" style="border-radius:50%">
-3 | **Anna** | <img src="https://i.scdn.co/image/91d8f769233193d30d460b9253c0e0adc3f82370" height="100" width="auto" style="border-radius:50%">
-4 | **Aurora Halal** | <img src="https://i.scdn.co/image/3ebb5c56e7e0b0c8fca5b3ca2b3f607ad3ef5d14" height="100" width="auto" style="border-radius:50%">
-5 | **Charlotte De Witte** | <img src="https://i.scdn.co/image/49f6e21a2d8e38fd1438ad0f3bac9aad6bbcf796" height="100" width="auto" style="border-radius:50%">
-6 | **Ellen Allien** | <img src="https://i.scdn.co/image/9c7e2f937be50c3c4ca96c41ef04792ce356f188" height="100" width="auto" style="border-radius:50%">
-7 | **Helena Hauff** | <img src="https://i.scdn.co/image/2eda2ab230caad70c0519e7093c06db32c90edd4" height="100" width="auto" style="border-radius:50%">
-8 | **Umfang** | <img src="https://i.scdn.co/image/2a39a168a021a641f82fb9f3d57bdaafb01526c8" height="100" width="auto" style="border-radius:50%">
+1 | **Anastasia Kristensen** | <a href="https://open.spotify.com/artist/3cK7x3KOVZFqHKRTZOtwgd?si=Ir8dxSFPRfSNJg_oO2Szfw" target="_blank"><img src="https://i.scdn.co/image/c5e8c1af92fa9b2a4a8fde0a40847c32b091c21d" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Anetha** | <a href="https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa?si=vqJeARmCTfGHaROe3HLZgw" target="_blank"><img src="https://i.scdn.co/image/047f4ca861386862d8df20a376728116189d419f" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Anna** | <a href="https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om?si=gy9aRspaSki7Z4gkIzUtAw" target="_blank"><img src="https://i.scdn.co/image/91d8f769233193d30d460b9253c0e0adc3f82370" height="100" width="auto" style="border-radius:50%"></a>
+4 | **Aurora Halal** | <a href="https://open.spotify.com/artist/4I8qgsaz4mQa9ICeCPibIF?si=EVD27v4OTIO-PT9uttxxDw" target="_blank"><img src="https://i.scdn.co/image/3ebb5c56e7e0b0c8fca5b3ca2b3f607ad3ef5d14" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Charlotte De Witte** | <a href="https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso?si=lngxp0BhQASOaKentfkuQw" target="_blank"><img src="https://i.scdn.co/image/49f6e21a2d8e38fd1438ad0f3bac9aad6bbcf796" height="100" width="auto" style="border-radius:50%"></a>
+6 | **Ellen Allien** | <a href="https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up?si=9LSaLjtfSt62O8EaRSJn-g" target="_blank"><img src="https://i.scdn.co/image/9c7e2f937be50c3c4ca96c41ef04792ce356f188" height="100" width="auto" style="border-radius:50%"></a>
+7 | **Helena Hauff** | <a href="https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN?si=HkmAaRG0Ska5k5AO_yKvRA" target="_blank"><img src="https://i.scdn.co/image/2eda2ab230caad70c0519e7093c06db32c90edd4" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Umfang** | <a href="https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3?si=gk2VqEdjT6-sYoAGyvNS_A" target="_blank"><img src="https://i.scdn.co/image/2a39a168a021a641f82fb9f3d57bdaafb01526c8" height="100" width="auto" style="border-radius:50%"></a>

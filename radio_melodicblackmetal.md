@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ)
 
-<a href="https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27314debd4152ae52addf14e610ab67616d0000b27375d86700083d6ddfd34bf390ab67616d0000b273a31933ebb2453357813bca3fab67616d0000b273e259036f58f6653acb448124" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27314debd4152ae52addf14e610ab67616d0000b2735d628991865f36c1020ab9fbab67616d0000b273e0b9bbbe5a430bf16ce57549ab67616d0000b273e259036f58f6653acb448124" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,4 +33,4 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Christ Agony** | <img src="https://i.scdn.co/image/ab67616d00001e023cb25474f6de59f0476130c7" height="100" width="auto" style="border-radius:50%">
+1 | **Christ Agony** | <a href="https://open.spotify.com/artist/0It4rGfBk31UDyK9x6uZvP" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023cb25474f6de59f0476130c7" height="100" width="auto" style="border-radius:50%"></a>

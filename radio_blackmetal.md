@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kvnqLs)
 
-<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732c31634b9d6cb6d3fccdc29fab67616d0000b2735e12dde7af61db905d641722ab67616d0000b27361383fe42756b74fb81ed769ab67616d0000b273a6b712956b86bcaa2062a81e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273b35b297c78052da902c5972bab67616d0000b273bb38c76138b0a3708d3e6089ab67616d0000b273e9ae010942e7b5b5cb294571ab67616d0000b273f3318439fffd487cb66d0dd2" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,124 +33,124 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **1349** | <img src="https://i.scdn.co/image/0a002ac651a46bc7435153478ac3de1ff3bcf2c8" height="100" width="auto" style="border-radius:50%">
-2 | **Abbath** | <img src="https://i.scdn.co/image/dfa10e79278a389e60629480af93103469a7a9c7" height="100" width="auto" style="border-radius:50%">
-3 | **Abigail Williams** | <img src="https://i.scdn.co/image/03391af40c5e2ea030e3fb09a0b6fe6214d26425" height="100" width="auto" style="border-radius:50%">
-4 | **Abigor** | <img src="https://i.scdn.co/image/ab67616d00001e02e1239b498d1842c2395fe645" height="100" width="auto" style="border-radius:50%">
-5 | **Agathodaimon** | <img src="https://i.scdn.co/image/9991b28da219b3e80ba87d1bc36f6b1a6d336691" height="100" width="auto" style="border-radius:50%">
-6 | **Ajattara** | <img src="https://i.scdn.co/image/e8c9cfa1986bacf0c7b80f7985e344923b9a7a47" height="100" width="auto" style="border-radius:50%">
-7 | **Akhlys** | <img src="https://i.scdn.co/image/ab67616d00001e0259d70dfe7d24a2d49f305344" height="100" width="auto" style="border-radius:50%">
-8 | **Anaal Nathrakh** | <img src="https://i.scdn.co/image/91df89e8491fabbe7dc4adfdc9c94e0df0df9e32" height="100" width="auto" style="border-radius:50%">
-9 | **Ancient** | <img src="https://i.scdn.co/image/8c8e46bf5b3662fc887255a8fa2aaab700094596" height="100" width="auto" style="border-radius:50%">
-10 | **Anguished** | <img src="https://i.scdn.co/image/ab67616d00001e020f16d0a752c73e091a7c5593" height="100" width="auto" style="border-radius:50%">
-11 | **Archgoat** | <img src="https://i.scdn.co/image/ab67616d00001e020c9200c4e5646945c61c233b" height="100" width="auto" style="border-radius:50%">
-12 | **Arcturus** | <img src="https://i.scdn.co/image/330fdb658490b11a5a4ecd068c35e1dd07582e56" height="100" width="auto" style="border-radius:50%">
-13 | **Ars Magna Umbrae** | <img src="https://i.scdn.co/image/2c56be4df2301073575c7174094cade4a1e788b7" height="100" width="auto" style="border-radius:50%">
-14 | **Asagraum** | <img src="https://i.scdn.co/image/ab67616d00001e028521e9d9c1749056281ee52d" height="100" width="auto" style="border-radius:50%">
-15 | **Astarte** | <img src="https://i.scdn.co/image/b634afe8053465814d846578d877321f92e94ac9" height="100" width="auto" style="border-radius:50%">
-16 | **Atrexial** | <img src="https://i.scdn.co/image/ab67616d00001e02406936848f5c755cfb768e1e" height="100" width="auto" style="border-radius:50%">
-17 | **Aura Noir** | <img src="https://i.scdn.co/image/ce2daa43e49ca1aec76d029ae6112c31aef56146" height="100" width="auto" style="border-radius:50%">
-18 | **Automb** | <img src="https://i.scdn.co/image/5c1f5f9a659862ecbadf2701e32efbd112015814" height="100" width="auto" style="border-radius:50%">
-19 | **Azaghal** | <img src="https://i.scdn.co/image/ab67616d00001e024ef0b30d3fc56a3e602447b2" height="100" width="auto" style="border-radius:50%">
-20 | **Azarath** | <img src="https://i.scdn.co/image/4a81f478fe6821171e8d63c2d50fb0c8da21f8c2" height="100" width="auto" style="border-radius:50%">
-21 | **Bal-Sagoth** | <img src="https://i.scdn.co/image/ab67616d00001e02dcf1c6025e9873487df1db23" height="100" width="auto" style="border-radius:50%">
-22 | **Balrog** | <img src="https://i.scdn.co/image/ab67616d00001e02f90997e9e00d9a622233ad4b" height="100" width="auto" style="border-radius:50%">
-23 | **Bathory** | <img src="https://i.scdn.co/image/ab67616d00001e0235f5af2b63ac3d5dee27972b" height="100" width="auto" style="border-radius:50%">
-24 | **Behemoth** | <img src="https://i.scdn.co/image/3ac7aebb31a36c99aefe811ae0719b237f740c91" height="100" width="auto" style="border-radius:50%">
-25 | **Behexen** | <img src="https://i.scdn.co/image/ab67616d00001e027ea1992a8854ba790ccd3c62" height="100" width="auto" style="border-radius:50%">
-26 | **Belphegor** | <img src="https://i.scdn.co/image/5db51d4a184702c47069449a654e3276a7030ddb" height="100" width="auto" style="border-radius:50%">
-27 | **Black Funeral** | <img src="https://i.scdn.co/image/ab67616d00001e02f8353cbd0602cfa0cbdcffd2" height="100" width="auto" style="border-radius:50%">
-28 | **Blackthorn** | <img src="https://i.scdn.co/image/ab67616d00001e0259e0a5eda23834a39220610e" height="100" width="auto" style="border-radius:50%">
-29 | **Blut Aus Nord** | <img src="https://i.scdn.co/image/3c137ebe82f94a9cbaa243d1624fe139c6203bfc" height="100" width="auto" style="border-radius:50%">
-30 | **Borknagar** | <img src="https://i.scdn.co/image/c70e345f913ca05aa3809cab8b38e203d4dcb063" height="100" width="auto" style="border-radius:50%">
-31 | **Burzum** | <img src="https://i.scdn.co/image/9a71453008c6e3b03a9f69a953c4f6707ebbed03" height="100" width="auto" style="border-radius:50%">
-32 | **Carach Angren** | <img src="https://i.scdn.co/image/26d3d0bcda85e26bfbccd6787f045a2487c459a7" height="100" width="auto" style="border-radius:50%">
-33 | **Carpathian Forest** | <img src="https://i.scdn.co/image/ab67616d00001e02e5e56d677e8336526b835d93" height="100" width="auto" style="border-radius:50%">
-34 | **Cobalt** | <img src="https://i.scdn.co/image/ab67616d00001e02748b64d9fd2f4971b9eaf52b" height="100" width="auto" style="border-radius:50%">
-35 | **Corpus Christii** | <img src="https://i.scdn.co/image/ab67616d00001e02a2e492c6db5e57d12d82072a" height="100" width="auto" style="border-radius:50%">
-36 | **Cradle Of Filth** | <img src="https://i.scdn.co/image/86e38eb3ea3073d7c71f5ba33c4ebcb9626f4bbb" height="100" width="auto" style="border-radius:50%">
-37 | **Cult Burial** | <img src="https://i.scdn.co/image/bebdec59ffab92a1f0934b8dbbceb8d20c8b1210" height="100" width="auto" style="border-radius:50%">
-38 | **Cultus Profano** | <img src="https://i.scdn.co/image/aaa6cd195d51263a764a21e7142a168e33ec0b30" height="100" width="auto" style="border-radius:50%">
-39 | **Daemonarch** | <img src="https://i.scdn.co/image/ab67616d00001e02c0f6ce12e79c7fa17298d59f" height="100" width="auto" style="border-radius:50%">
-40 | **Dark Fortress** | <img src="https://i.scdn.co/image/ab6772690000bac3a4fe736ac3cee20df557bc28" height="100" width="auto" style="border-radius:50%">
-41 | **Dark Funeral** | <img src="https://i.scdn.co/image/5bd81c4363d9c4424c4c8fed886916f72d092791" height="100" width="auto" style="border-radius:50%">
-42 | **Darkened Nocturn Slaughtercult** | <img src="https://i.scdn.co/image/ab67616d00001e02c5ccea1978d3134a9faef451" height="100" width="auto" style="border-radius:50%">
-43 | **Darkthrone** | <img src="https://i.scdn.co/image/5ef21ae9abfb3bbfd62b4a2e7a7c15f6b086f9f1" height="100" width="auto" style="border-radius:50%">
-44 | **Deathspell Omega** | <img src="https://i.scdn.co/image/ab67616d00001e02e8c5dd1a7476258e2446e5b1" height="100" width="auto" style="border-radius:50%">
-45 | **Deströyer 666** | <img src="https://i.scdn.co/image/98544f21df2932ffbe948d01f25bec01759710b4" height="100" width="auto" style="border-radius:50%">
-46 | **Dimmu Borgir** | <img src="https://i.scdn.co/image/2ca7127260d987e0977056233b4f3918ec903b3f" height="100" width="auto" style="border-radius:50%">
-47 | **Dissection** | <img src="https://i.scdn.co/image/ab67616d00001e0262b290dece27f8621817e9bd" height="100" width="auto" style="border-radius:50%">
-48 | **Dominion Caligula** | <img src="https://i.scdn.co/image/ab67616d00001e029b070ffe8271161efd84bb76" height="100" width="auto" style="border-radius:50%">
-49 | **Emperor** | <img src="https://i.scdn.co/image/81a3f9dbb797cecd4fb84a47411ab1fb17cc2d5d" height="100" width="auto" style="border-radius:50%">
-50 | **Empty** | <img src="https://i.scdn.co/image/ab67616d00001e027c13b35a99cdad7237847508" height="100" width="auto" style="border-radius:50%">
-51 | **Enslaved** | <img src="https://i.scdn.co/image/be77acc07617215b2bf2dc234d898a47378b8351" height="100" width="auto" style="border-radius:50%">
-52 | **Enthroned** | <img src="https://i.scdn.co/image/6f09b3fa18619876c1bb58ba184f210253a5afb9" height="100" width="auto" style="border-radius:50%">
-53 | **Evnen** | <img src="https://i.scdn.co/image/a342684704bb135159827d1b4b115834dcafd198" height="100" width="auto" style="border-radius:50%">
-54 | **Frozen Shadows** | <img src="https://i.scdn.co/image/ab67616d00001e02abff1e485e1a07aa0c5efa84" height="100" width="auto" style="border-radius:50%">
-55 | **Gaerea** | <img src="https://i.scdn.co/image/bf0c8655fd94cc5a59b84ad142430c85e6350c81" height="100" width="auto" style="border-radius:50%">
-56 | **Gorgoroth** | <img src="https://i.scdn.co/image/23612732afd7176ebb04108c5df7291cc6f6256e" height="100" width="auto" style="border-radius:50%">
-57 | **Gospel Of The Horns** | <img src="https://i.scdn.co/image/ab67616d00001e02edfa5e69c6efaea387843522" height="100" width="auto" style="border-radius:50%">
-58 | **Graupel** | <img src="https://i.scdn.co/image/ab67616d00001e022829067e1e849098717dcdc2" height="100" width="auto" style="border-radius:50%">
-59 | **Hecate Enthroned** | <img src="https://i.scdn.co/image/9e430693343104d7f25df014e4bfb5705a9f1b8f" height="100" width="auto" style="border-radius:50%">
-60 | **Horna** | <img src="https://i.scdn.co/image/ab67616d00001e02a4f52fd6f2171cfb4e87a7d5" height="100" width="auto" style="border-radius:50%">
-61 | **I** | <img src="https://i.scdn.co/image/ab67616d00001e02f12df390bbeed0c34fa73af8" height="100" width="auto" style="border-radius:50%">
-62 | **Immortal** | <img src="https://i.scdn.co/image/680f12129e82ae8f543f8f0fa63568fa7edf8ac7" height="100" width="auto" style="border-radius:50%">
-63 | **Inquisition** | <img src="https://i.scdn.co/image/38840222027e8d7135fd6ab235e2c82a12921d76" height="100" width="auto" style="border-radius:50%">
-64 | **Judas Iscariot** | <img src="https://i.scdn.co/image/ab67616d00001e023f43cd403d5ef45cd4ce439d" height="100" width="auto" style="border-radius:50%">
-65 | **Kampfar** | <img src="https://i.scdn.co/image/92470cd2185fb7a5dafada95e59632446671f4cf" height="100" width="auto" style="border-radius:50%">
-66 | **Keiser** | <img src="https://i.scdn.co/image/f104c841b6da3ad32ab5043d4a65c62ccdc6ffb0" height="100" width="auto" style="border-radius:50%">
-67 | **Limbonic Art** | <img src="https://i.scdn.co/image/ab67616d00001e0280bf9772fe0d77715ebf2616" height="100" width="auto" style="border-radius:50%">
-68 | **Lord Belial** | <img src="https://i.scdn.co/image/ab67616d00001e02ed571637220f6373594f7bf8" height="100" width="auto" style="border-radius:50%">
-69 | **Malichor** | <img src="https://i.scdn.co/image/ab67616d00001e025a9f1c57ca4bc0a73a5d3771" height="100" width="auto" style="border-radius:50%">
-70 | **Marduk** | <img src="https://i.scdn.co/image/657bcd99713300f19bd6445309826b5927030ca5" height="100" width="auto" style="border-radius:50%">
-71 | **Master'S Hammer** | <img src="https://i.scdn.co/image/ab67616d00001e02da7a3ca841d475782efba941" height="100" width="auto" style="border-radius:50%">
-72 | **Mayhem** | <img src="https://i.scdn.co/image/725210cbfeb0dfe1e27a5c6a9fcac984a70484d8" height="100" width="auto" style="border-radius:50%">
-73 | **Mgła** | <img src="https://i.scdn.co/image/6a0d9713e0ce27a2671d3551f6b47830c40f1ef7" height="100" width="auto" style="border-radius:50%">
-74 | **Miasthenia** | <img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%">
-75 | **Misanthropy** | <img src="https://i.scdn.co/image/ab67616d00001e02f3e768f77aee223f218afd88" height="100" width="auto" style="border-radius:50%">
-76 | **Moonspell** | <img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%">
-77 | **Mortuary Drape** | <img src="https://i.scdn.co/image/ab67616d00001e0297bca129de4310409ce61eee" height="100" width="auto" style="border-radius:50%">
-78 | **Mørknatt** | <img src="https://i.scdn.co/image/ab67616d00001e0289cb0891798b4049d83f197e" height="100" width="auto" style="border-radius:50%">
-79 | **Naglfar** | <img src="https://i.scdn.co/image/63b4e50ed3c601b171b97bab7ac194f7cd692957" height="100" width="auto" style="border-radius:50%">
-80 | **Nahemah** | <img src="https://i.scdn.co/image/ab67616d00001e02733a3fcf5eb8dcf40495c2d5" height="100" width="auto" style="border-radius:50%">
-81 | **Nattefrost** | <img src="https://i.scdn.co/image/ab67616d00001e02bd9571cf1b02cf8af6a35f48" height="100" width="auto" style="border-radius:50%">
-82 | **Naurrakar** | <img src="https://i.scdn.co/image/ab67616d00001e02d54a91fdaad3a3df14883827" height="100" width="auto" style="border-radius:50%">
-83 | **Nebiros** | <img src="https://i.scdn.co/image/ab67616d00001e025343e12a0fdba5da4aee84f2" height="100" width="auto" style="border-radius:50%">
-84 | **Negator** | <img src="https://i.scdn.co/image/3d26c2b0bbc28fd861efd7dbba5514b4985ef925" height="100" width="auto" style="border-radius:50%">
-85 | **Noctem** | <img src="https://i.scdn.co/image/731ae25b22cca9a1d9bec61d5cd5e8cf3f306a90" height="100" width="auto" style="border-radius:50%">
-86 | **Nocturnal Graves** | <img src="https://i.scdn.co/image/599ee16b5db31366c80ea9428c7bb45ff5aadd5c" height="100" width="auto" style="border-radius:50%">
-87 | **Numen** | <img src="https://i.scdn.co/image/6c1517d28519ed11fec3b6a35e4adbe87ecdc237" height="100" width="auto" style="border-radius:50%">
-88 | **Odal** | <img src="https://i.scdn.co/image/19368c2bbacba507e7fee0fad7015fecba90ddec" height="100" width="auto" style="border-radius:50%">
-89 | **Old Man'S Child** | <img src="https://i.scdn.co/image/b917470fa7ba6be4134fc500df55dbee11f5dcad" height="100" width="auto" style="border-radius:50%">
-90 | **Oranssi Pazuzu** | <img src="https://i.scdn.co/image/03ed0b37222fb39e879e9e82b55ac3f256afc0b5" height="100" width="auto" style="border-radius:50%">
-91 | **Order Of The Wolf** | <img src="https://i.scdn.co/image/897452b626446c653466cc24f768bbd5a6c4d4be" height="100" width="auto" style="border-radius:50%">
-92 | **Ov Hell** | <img src="https://i.scdn.co/image/ab67616d00001e0224d775d6ddc81ff9adc210b4" height="100" width="auto" style="border-radius:50%">
-93 | **Perennial Isolation** | <img src="https://i.scdn.co/image/ab67616d00001e02e3e8e477e9c4ce69fb067cb4" height="100" width="auto" style="border-radius:50%">
-94 | **Realm Of Horus** | <img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%">
-95 | **Rotting Christ** | <img src="https://i.scdn.co/image/ab3b577ce2da55c7e1ae69ae9b3194919c83d0a5" height="100" width="auto" style="border-radius:50%">
-96 | **Samael** | <img src="https://i.scdn.co/image/f1437f34625bc1e3f72d8c3b7ec41ae3a5ffc773" height="100" width="auto" style="border-radius:50%">
-97 | **Sargeist** | <img src="https://i.scdn.co/image/ab67616d00001e02bdc85d943e4f7c3e8e99a081" height="100" width="auto" style="border-radius:50%">
-98 | **Satyricon** | <img src="https://i.scdn.co/image/63dbdea4556172aa9feab7942e1c35c79a505101" height="100" width="auto" style="border-radius:50%">
-99 | **Selbst** | <img src="https://i.scdn.co/image/44e6ed6e2e736c34df722974b7054d463f8978ec" height="100" width="auto" style="border-radius:50%">
-100 | **Septicflesh** | <img src="https://i.scdn.co/image/bda1346420408be2031ff17786c96be443c27b0d" height="100" width="auto" style="border-radius:50%">
-101 | **Setherial** | <img src="https://i.scdn.co/image/ab67616d00001e02a87058386c75d6fb146d503b" height="100" width="auto" style="border-radius:50%">
-102 | **Shade Empire** | <img src="https://i.scdn.co/image/ab67616d00001e02e74066961e6ed04ff0433952" height="100" width="auto" style="border-radius:50%">
-103 | **Spectral Wound** | <img src="https://i.scdn.co/image/94140a485df6ac844fe97c2f661f28168ab69e47" height="100" width="auto" style="border-radius:50%">
-104 | **Svartsyn** | <img src="https://i.scdn.co/image/ab67616d00001e02728765337faabc7c067206ae" height="100" width="auto" style="border-radius:50%">
-105 | **Taake** | <img src="https://i.scdn.co/image/ab67616d00001e026b10c27b20b03a9c4e47b833" height="100" width="auto" style="border-radius:50%">
-106 | **Theotoxin** | <img src="https://i.scdn.co/image/e22e68427451090112877f4cae8aa076e14197b2" height="100" width="auto" style="border-radius:50%">
-107 | **Tiamat** | <img src="https://i.scdn.co/image/6c41816704c2fad6039bb3eba74915e631b663e5" height="100" width="auto" style="border-radius:50%">
-108 | **Tormentor** | <img src="https://i.scdn.co/image/ab67616d00001e0261eb55aede962629117d9bd3" height="100" width="auto" style="border-radius:50%">
-109 | **Tsjuder** | <img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%">
-110 | **Ulver** | <img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%">
-111 | **Urgehal** | <img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%">
-112 | **Varathron** | <img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%">
-113 | **Velho** | <img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%">
-114 | **Venom** | <img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%">
-115 | **Vintersorg** | <img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%">
-116 | **Waldgeflüster** | <img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%">
-117 | **Watain** | <img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%">
-118 | **Whipstriker** | <img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%">
-119 | **Winterfylleth** | <img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%">
-120 | **Wolves In The Throne Room** | <img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%">
-121 | **Äera** | <img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%">
+1 | **1349** | <a href="https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT" target="_blank"><img src="https://i.scdn.co/image/0a002ac651a46bc7435153478ac3de1ff3bcf2c8" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Abbath** | <a href="https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx" target="_blank"><img src="https://i.scdn.co/image/dfa10e79278a389e60629480af93103469a7a9c7" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Abigail Williams** | <a href="https://open.spotify.com/artist/4VkWISgUF5AccCSs92mauh?si=XKgjkhNNQdynRqvlkXfVTw" target="_blank"><img src="https://i.scdn.co/image/03391af40c5e2ea030e3fb09a0b6fe6214d26425" height="100" width="auto" style="border-radius:50%"></a>
+4 | **Abigor** | <a href="https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e1239b498d1842c2395fe645" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Agathodaimon** | <a href="https://open.spotify.com/artist/4wGWp9UJ9wHLNYddWbB0sF" target="_blank"><img src="https://i.scdn.co/image/9991b28da219b3e80ba87d1bc36f6b1a6d336691" height="100" width="auto" style="border-radius:50%"></a>
+6 | **Ajattara** | <a href="https://open.spotify.com/artist/19WQljDiwhjoGNc8CMbQgn?si=9lRbrVmQRF6pAFb1gka0Vg" target="_blank"><img src="https://i.scdn.co/image/e8c9cfa1986bacf0c7b80f7985e344923b9a7a47" height="100" width="auto" style="border-radius:50%"></a>
+7 | **Akhlys** | <a href="https://open.spotify.com/artist/7swiuMho0UMNYbZqcO0dho?si=fe5P7SedR0uHF7u6V_75qw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0259d70dfe7d24a2d49f305344" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Anaal Nathrakh** | <a href="https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV" target="_blank"><img src="https://i.scdn.co/image/91df89e8491fabbe7dc4adfdc9c94e0df0df9e32" height="100" width="auto" style="border-radius:50%"></a>
+9 | **Ancient** | <a href="https://open.spotify.com/artist/1KJ1OrDIh6JTeVXn4BFMD1" target="_blank"><img src="https://i.scdn.co/image/8c8e46bf5b3662fc887255a8fa2aaab700094596" height="100" width="auto" style="border-radius:50%"></a>
+10 | **Anguished** | <a href="https://open.spotify.com/artist/6Y3CQzdY3cr7wrm8raENc7" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020f16d0a752c73e091a7c5593" height="100" width="auto" style="border-radius:50%"></a>
+11 | **Archgoat** | <a href="https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c9200c4e5646945c61c233b" height="100" width="auto" style="border-radius:50%"></a>
+12 | **Arcturus** | <a href="https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z?si=HcmguPebTNO7NqPWyXGJ_g" target="_blank"><img src="https://i.scdn.co/image/330fdb658490b11a5a4ecd068c35e1dd07582e56" height="100" width="auto" style="border-radius:50%"></a>
+13 | **Ars Magna Umbrae** | <a href="https://open.spotify.com/artist/4ZQP6y6wXUNq2nsp54qUv4?si=i-5s3nUhRde988gbZ1ClTA" target="_blank"><img src="https://i.scdn.co/image/2c56be4df2301073575c7174094cade4a1e788b7" height="100" width="auto" style="border-radius:50%"></a>
+14 | **Asagraum** | <a href="https://open.spotify.com/artist/0vYB7kRlczfzsOnK49N7D2?si=t6TbMLEpQq2FDjJowomuiA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028521e9d9c1749056281ee52d" height="100" width="auto" style="border-radius:50%"></a>
+15 | **Astarte** | <a href="https://open.spotify.com/artist/0X8Pi1W40bewq0jRQ7o3VJ" target="_blank"><img src="https://i.scdn.co/image/b634afe8053465814d846578d877321f92e94ac9" height="100" width="auto" style="border-radius:50%"></a>
+16 | **Atrexial** | <a href="https://open.spotify.com/artist/5ckGWWp9bsGasq2w0SBR8B" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02406936848f5c755cfb768e1e" height="100" width="auto" style="border-radius:50%"></a>
+17 | **Aura Noir** | <a href="https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6?si=_niRK5EQSvy4LNsnTKxh_w" target="_blank"><img src="https://i.scdn.co/image/ce2daa43e49ca1aec76d029ae6112c31aef56146" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Automb** | <a href="https://open.spotify.com/artist/4QhZn2dYNEIlJGJrn7hVSm" target="_blank"><img src="https://i.scdn.co/image/5c1f5f9a659862ecbadf2701e32efbd112015814" height="100" width="auto" style="border-radius:50%"></a>
+19 | **Azaghal** | <a href="https://open.spotify.com/artist/0kqafIf21Hks2EI9sSWywt" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024ef0b30d3fc56a3e602447b2" height="100" width="auto" style="border-radius:50%"></a>
+20 | **Azarath** | <a href="https://open.spotify.com/artist/6falXnqZl5haCK7laExiL3" target="_blank"><img src="https://i.scdn.co/image/4a81f478fe6821171e8d63c2d50fb0c8da21f8c2" height="100" width="auto" style="border-radius:50%"></a>
+21 | **Bal-Sagoth** | <a href="https://open.spotify.com/artist/4LW3dUNA0zx0gbaeJOuxgX" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02dcf1c6025e9873487df1db23" height="100" width="auto" style="border-radius:50%"></a>
+22 | **Balrog** | <a href="https://open.spotify.com/artist/0q2eq7xNEGiOJs0jLfAiIX" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f90997e9e00d9a622233ad4b" height="100" width="auto" style="border-radius:50%"></a>
+23 | **Bathory** | <a href="https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0235f5af2b63ac3d5dee27972b" height="100" width="auto" style="border-radius:50%"></a>
+24 | **Behemoth** | <a href="https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9" target="_blank"><img src="https://i.scdn.co/image/3ac7aebb31a36c99aefe811ae0719b237f740c91" height="100" width="auto" style="border-radius:50%"></a>
+25 | **Behexen** | <a href="https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027ea1992a8854ba790ccd3c62" height="100" width="auto" style="border-radius:50%"></a>
+26 | **Belphegor** | <a href="https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM" target="_blank"><img src="https://i.scdn.co/image/5db51d4a184702c47069449a654e3276a7030ddb" height="100" width="auto" style="border-radius:50%"></a>
+27 | **Black Funeral** | <a href="https://open.spotify.com/artist/4P5n4IvMyewJTP5JH9yl5Y" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f8353cbd0602cfa0cbdcffd2" height="100" width="auto" style="border-radius:50%"></a>
+28 | **Blackthorn** | <a href="https://open.spotify.com/artist/2S4zTump3NnEEJ5WlvWRcO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0259e0a5eda23834a39220610e" height="100" width="auto" style="border-radius:50%"></a>
+29 | **Blut Aus Nord** | <a href="https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf?si=askuunvNTkWNsdQ5Q_IkRQ" target="_blank"><img src="https://i.scdn.co/image/3c137ebe82f94a9cbaa243d1624fe139c6203bfc" height="100" width="auto" style="border-radius:50%"></a>
+30 | **Borknagar** | <a href="https://open.spotify.com/artist/0vxxsjcDy61x5zvrOqwHIL" target="_blank"><img src="https://i.scdn.co/image/c70e345f913ca05aa3809cab8b38e203d4dcb063" height="100" width="auto" style="border-radius:50%"></a>
+31 | **Burzum** | <a href="https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf" target="_blank"><img src="https://i.scdn.co/image/9a71453008c6e3b03a9f69a953c4f6707ebbed03" height="100" width="auto" style="border-radius:50%"></a>
+32 | **Carach Angren** | <a href="https://open.spotify.com/artist/7sJC2WkTzn7gqUhVfP9sOm" target="_blank"><img src="https://i.scdn.co/image/26d3d0bcda85e26bfbccd6787f045a2487c459a7" height="100" width="auto" style="border-radius:50%"></a>
+33 | **Carpathian Forest** | <a href="https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e5e56d677e8336526b835d93" height="100" width="auto" style="border-radius:50%"></a>
+34 | **Cobalt** | <a href="https://open.spotify.com/artist/2yawagTvYt4y9mXm0d3n3p?si=4PDjZC9TRcS-w3-rCpDOCQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02748b64d9fd2f4971b9eaf52b" height="100" width="auto" style="border-radius:50%"></a>
+35 | **Corpus Christii** | <a href="https://open.spotify.com/artist/5RGov7AwaBxFklfgflsxig" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a2e492c6db5e57d12d82072a" height="100" width="auto" style="border-radius:50%"></a>
+36 | **Cradle Of Filth** | <a href="https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd" target="_blank"><img src="https://i.scdn.co/image/86e38eb3ea3073d7c71f5ba33c4ebcb9626f4bbb" height="100" width="auto" style="border-radius:50%"></a>
+37 | **Cult Burial** | <a href="https://open.spotify.com/artist/6OXAFCILnZJLxFE23w46my?si=1gZZXaXpSVG8du51Vr4pbg" target="_blank"><img src="https://i.scdn.co/image/bebdec59ffab92a1f0934b8dbbceb8d20c8b1210" height="100" width="auto" style="border-radius:50%"></a>
+38 | **Cultus Profano** | <a href="https://open.spotify.com/artist/0ELrHuuNV8W7im7Ydd9hIb?si=Apb3X4zNQAyOpOYutXDlpA" target="_blank"><img src="https://i.scdn.co/image/aaa6cd195d51263a764a21e7142a168e33ec0b30" height="100" width="auto" style="border-radius:50%"></a>
+39 | **Daemonarch** | <a href="https://open.spotify.com/artist/1GKXGc0ZZYszuzdtLFNGKV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c0f6ce12e79c7fa17298d59f" height="100" width="auto" style="border-radius:50%"></a>
+40 | **Dark Fortress** | <a href="https://open.spotify.com/artist/0hiccXRDVXl9sOZ4R7aNry" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac3a4fe736ac3cee20df557bc28" height="100" width="auto" style="border-radius:50%"></a>
+41 | **Dark Funeral** | <a href="https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE" target="_blank"><img src="https://i.scdn.co/image/5bd81c4363d9c4424c4c8fed886916f72d092791" height="100" width="auto" style="border-radius:50%"></a>
+42 | **Darkened Nocturn Slaughtercult** | <a href="https://open.spotify.com/artist/17pXjDaTNZzOvwk8ELJm7Q?si=J8q7kYAjRdyHqWAZFokO9w" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c5ccea1978d3134a9faef451" height="100" width="auto" style="border-radius:50%"></a>
+43 | **Darkthrone** | <a href="https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV" target="_blank"><img src="https://i.scdn.co/image/5ef21ae9abfb3bbfd62b4a2e7a7c15f6b086f9f1" height="100" width="auto" style="border-radius:50%"></a>
+44 | **Deathspell Omega** | <a href="https://open.spotify.com/artist/4pP3Gtdmwp2cHtz736pyGI?si=TCrHyJqwQ7uvvQ-kAzHkhw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e8c5dd1a7476258e2446e5b1" height="100" width="auto" style="border-radius:50%"></a>
+45 | **Deströyer 666** | <a href="https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK?si=BUk0-PZvSiKlqX7dVrAfMw" target="_blank"><img src="https://i.scdn.co/image/98544f21df2932ffbe948d01f25bec01759710b4" height="100" width="auto" style="border-radius:50%"></a>
+46 | **Dimmu Borgir** | <a href="https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK" target="_blank"><img src="https://i.scdn.co/image/2ca7127260d987e0977056233b4f3918ec903b3f" height="100" width="auto" style="border-radius:50%"></a>
+47 | **Dissection** | <a href="https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe?si=4ptHy6K4S7K9U4WVkwfNdQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0262b290dece27f8621817e9bd" height="100" width="auto" style="border-radius:50%"></a>
+48 | **Dominion Caligula** | <a href="https://open.spotify.com/artist/0P4ZukudoypjfvTpZr2RAT" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029b070ffe8271161efd84bb76" height="100" width="auto" style="border-radius:50%"></a>
+49 | **Emperor** | <a href="https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y" target="_blank"><img src="https://i.scdn.co/image/81a3f9dbb797cecd4fb84a47411ab1fb17cc2d5d" height="100" width="auto" style="border-radius:50%"></a>
+50 | **Empty** | <a href="https://open.spotify.com/artist/5l6tlkDZjN0Zr1zrHTePwb" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027c13b35a99cdad7237847508" height="100" width="auto" style="border-radius:50%"></a>
+51 | **Enslaved** | <a href="https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD?si=0MnqYZdmQI-Ts5-yrma-og" target="_blank"><img src="https://i.scdn.co/image/be77acc07617215b2bf2dc234d898a47378b8351" height="100" width="auto" style="border-radius:50%"></a>
+52 | **Enthroned** | <a href="https://open.spotify.com/artist/5lmT6zZl7aPNg8hv5UrJGz" target="_blank"><img src="https://i.scdn.co/image/6f09b3fa18619876c1bb58ba184f210253a5afb9" height="100" width="auto" style="border-radius:50%"></a>
+53 | **Evnen** | <a href="https://open.spotify.com/artist/2d80gkNslWuAO8MY0QTMZ4" target="_blank"><img src="https://i.scdn.co/image/a342684704bb135159827d1b4b115834dcafd198" height="100" width="auto" style="border-radius:50%"></a>
+54 | **Frozen Shadows** | <a href="https://open.spotify.com/artist/7mVrZuFJFWTfAM0kiIWTkC?si=da3T9UIKRmaogZeDqfRIww" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02abff1e485e1a07aa0c5efa84" height="100" width="auto" style="border-radius:50%"></a>
+55 | **Gaerea** | <a href="https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw?si=ClbbQrcDQli1UVnO3w_zfA" target="_blank"><img src="https://i.scdn.co/image/bf0c8655fd94cc5a59b84ad142430c85e6350c81" height="100" width="auto" style="border-radius:50%"></a>
+56 | **Gorgoroth** | <a href="https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5" target="_blank"><img src="https://i.scdn.co/image/23612732afd7176ebb04108c5df7291cc6f6256e" height="100" width="auto" style="border-radius:50%"></a>
+57 | **Gospel Of The Horns** | <a href="https://open.spotify.com/artist/14UUWgqa6UNl7TxEk2Hgml" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02edfa5e69c6efaea387843522" height="100" width="auto" style="border-radius:50%"></a>
+58 | **Graupel** | <a href="https://open.spotify.com/artist/3kPLXPP573p0RHgMMxXGdZ?si=q2UfwAZjSli-WaHOMOBlsQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022829067e1e849098717dcdc2" height="100" width="auto" style="border-radius:50%"></a>
+59 | **Hecate Enthroned** | <a href="https://open.spotify.com/artist/2WKoufbtvHmMLKQ4PEKh2X" target="_blank"><img src="https://i.scdn.co/image/9e430693343104d7f25df014e4bfb5705a9f1b8f" height="100" width="auto" style="border-radius:50%"></a>
+60 | **Horna** | <a href="https://open.spotify.com/artist/69Sr8wyHst8byPxRXENs3D" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a4f52fd6f2171cfb4e87a7d5" height="100" width="auto" style="border-radius:50%"></a>
+61 | **I** | <a href="https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f12df390bbeed0c34fa73af8" height="100" width="auto" style="border-radius:50%"></a>
+62 | **Immortal** | <a href="https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K" target="_blank"><img src="https://i.scdn.co/image/680f12129e82ae8f543f8f0fa63568fa7edf8ac7" height="100" width="auto" style="border-radius:50%"></a>
+63 | **Inquisition** | <a href="https://open.spotify.com/artist/4BXKhsgc3Bx8Etj7A128Vm" target="_blank"><img src="https://i.scdn.co/image/38840222027e8d7135fd6ab235e2c82a12921d76" height="100" width="auto" style="border-radius:50%"></a>
+64 | **Judas Iscariot** | <a href="https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023f43cd403d5ef45cd4ce439d" height="100" width="auto" style="border-radius:50%"></a>
+65 | **Kampfar** | <a href="https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ" target="_blank"><img src="https://i.scdn.co/image/92470cd2185fb7a5dafada95e59632446671f4cf" height="100" width="auto" style="border-radius:50%"></a>
+66 | **Keiser** | <a href="https://open.spotify.com/artist/3C4sxpQtWpTuq9GxHwthkO" target="_blank"><img src="https://i.scdn.co/image/f104c841b6da3ad32ab5043d4a65c62ccdc6ffb0" height="100" width="auto" style="border-radius:50%"></a>
+67 | **Limbonic Art** | <a href="https://open.spotify.com/artist/5IrAgNdYXNkINpqT4XCnTD" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0280bf9772fe0d77715ebf2616" height="100" width="auto" style="border-radius:50%"></a>
+68 | **Lord Belial** | <a href="https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ed571637220f6373594f7bf8" height="100" width="auto" style="border-radius:50%"></a>
+69 | **Malichor** | <a href="https://open.spotify.com/artist/5mmXYRnkOPjB8rRwYkzfqe" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025a9f1c57ca4bc0a73a5d3771" height="100" width="auto" style="border-radius:50%"></a>
+70 | **Marduk** | <a href="https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH" target="_blank"><img src="https://i.scdn.co/image/657bcd99713300f19bd6445309826b5927030ca5" height="100" width="auto" style="border-radius:50%"></a>
+71 | **Master'S Hammer** | <a href="https://open.spotify.com/artist/01Ug80e1uX3An6w4wLdULd" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02da7a3ca841d475782efba941" height="100" width="auto" style="border-radius:50%"></a>
+72 | **Mayhem** | <a href="https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM" target="_blank"><img src="https://i.scdn.co/image/725210cbfeb0dfe1e27a5c6a9fcac984a70484d8" height="100" width="auto" style="border-radius:50%"></a>
+73 | **Mgła** | <a href="https://open.spotify.com/artist/2hbkBlGBgvJkC3tpUn9w4C?si=kVxhIKZ0RpadscW5OViXkA" target="_blank"><img src="https://i.scdn.co/image/6a0d9713e0ce27a2671d3551f6b47830c40f1ef7" height="100" width="auto" style="border-radius:50%"></a>
+74 | **Miasthenia** | <a href="https://open.spotify.com/artist/2gXm7lnTjOVGhSDBA0e7kW?si=hOISznpnTFeUmWn5yaUedg" target="_blank"><img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%"></a>
+75 | **Misanthropy** | <a href="https://open.spotify.com/artist/1UyetN5SWFbeToXl9IWAUn?si=wnBNpb6QTX-4CkPtfORWDQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f3e768f77aee223f218afd88" height="100" width="auto" style="border-radius:50%"></a>
+76 | **Moonspell** | <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6?si=I4lyBY8pTNOPu3RottUdrw" target="_blank"><img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%"></a>
+77 | **Mortuary Drape** | <a href="https://open.spotify.com/artist/5UMz8PiVq8LvQZJszgn1wv" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0297bca129de4310409ce61eee" height="100" width="auto" style="border-radius:50%"></a>
+78 | **Mørknatt** | <a href="https://open.spotify.com/artist/25flke96IdHQmuuCQu3WOh" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0289cb0891798b4049d83f197e" height="100" width="auto" style="border-radius:50%"></a>
+79 | **Naglfar** | <a href="https://open.spotify.com/artist/1WV0pMUfO5UZ3MXfZrTohr" target="_blank"><img src="https://i.scdn.co/image/63b4e50ed3c601b171b97bab7ac194f7cd692957" height="100" width="auto" style="border-radius:50%"></a>
+80 | **Nahemah** | <a href="https://open.spotify.com/artist/3ncx8IRTf1fHtrOiIs8lKG?si=qsw4llamQlOgi8um2cLjNg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02733a3fcf5eb8dcf40495c2d5" height="100" width="auto" style="border-radius:50%"></a>
+81 | **Nattefrost** | <a href="https://open.spotify.com/artist/6Ku1v7iIC5rxuiyBbIHc03" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02bd9571cf1b02cf8af6a35f48" height="100" width="auto" style="border-radius:50%"></a>
+82 | **Naurrakar** | <a href="https://open.spotify.com/artist/62tUCxhwFOqfZFoUxJcMr7?si=Iq35-t-bSbGySqlNoVKigg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d54a91fdaad3a3df14883827" height="100" width="auto" style="border-radius:50%"></a>
+83 | **Nebiros** | <a href="https://open.spotify.com/artist/1wPwVvQY6fYSFDCJllLuAE?si=BieS6Y8DSWOB7JxthL1L_Q" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025343e12a0fdba5da4aee84f2" height="100" width="auto" style="border-radius:50%"></a>
+84 | **Negator** | <a href="https://open.spotify.com/artist/7iVyDUjFXrtG17nZeQvn1Y?si=_iXGFp4fRiOd1gvXg4WqVw" target="_blank"><img src="https://i.scdn.co/image/3d26c2b0bbc28fd861efd7dbba5514b4985ef925" height="100" width="auto" style="border-radius:50%"></a>
+85 | **Noctem** | <a href="https://open.spotify.com/artist/5vgKbVvFRXWortgyxWN8YW" target="_blank"><img src="https://i.scdn.co/image/731ae25b22cca9a1d9bec61d5cd5e8cf3f306a90" height="100" width="auto" style="border-radius:50%"></a>
+86 | **Nocturnal Graves** | <a href="https://open.spotify.com/artist/5fIJRhNbLYysT9YiOY7O9G" target="_blank"><img src="https://i.scdn.co/image/599ee16b5db31366c80ea9428c7bb45ff5aadd5c" height="100" width="auto" style="border-radius:50%"></a>
+87 | **Numen** | <a href="https://open.spotify.com/artist/35isU5C0iVpDhM4pw3vi8g" target="_blank"><img src="https://i.scdn.co/image/6c1517d28519ed11fec3b6a35e4adbe87ecdc237" height="100" width="auto" style="border-radius:50%"></a>
+88 | **Odal** | <a href="https://open.spotify.com/artist/71nUSqRWaFZFOO15z9L7MV?si=oO0JKcvCTkeg99pA9y3n1Q" target="_blank"><img src="https://i.scdn.co/image/19368c2bbacba507e7fee0fad7015fecba90ddec" height="100" width="auto" style="border-radius:50%"></a>
+89 | **Old Man'S Child** | <a href="https://open.spotify.com/artist/4LT73i2bqTazQQkmODMaYf" target="_blank"><img src="https://i.scdn.co/image/b917470fa7ba6be4134fc500df55dbee11f5dcad" height="100" width="auto" style="border-radius:50%"></a>
+90 | **Oranssi Pazuzu** | <a href="https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW?si=Pd56fdCZQHa__6W7BIjsiA" target="_blank"><img src="https://i.scdn.co/image/03ed0b37222fb39e879e9e82b55ac3f256afc0b5" height="100" width="auto" style="border-radius:50%"></a>
+91 | **Order Of The Wolf** | <a href="https://open.spotify.com/artist/4i5yMf3pMi3fimSqUdffzN?si=uPXPsXdkRoi2-LkDoBdyUQ" target="_blank"><img src="https://i.scdn.co/image/897452b626446c653466cc24f768bbd5a6c4d4be" height="100" width="auto" style="border-radius:50%"></a>
+92 | **Ov Hell** | <a href="https://open.spotify.com/artist/2kz8rfKrfCGpB9mRxn2XTp" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0224d775d6ddc81ff9adc210b4" height="100" width="auto" style="border-radius:50%"></a>
+93 | **Perennial Isolation** | <a href="https://open.spotify.com/artist/0EoycfTl7mz0TuUugjpxeH" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e3e8e477e9c4ce69fb067cb4" height="100" width="auto" style="border-radius:50%"></a>
+94 | **Realm Of Horus** | <a href="https://open.spotify.com/artist/65igMDriogXd7AaEq6fW5i" target="_blank"><img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%"></a>
+95 | **Rotting Christ** | <a href="https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ" target="_blank"><img src="https://i.scdn.co/image/ab3b577ce2da55c7e1ae69ae9b3194919c83d0a5" height="100" width="auto" style="border-radius:50%"></a>
+96 | **Samael** | <a href="https://open.spotify.com/artist/1WXagRGw8AveVrRxDfUjli" target="_blank"><img src="https://i.scdn.co/image/f1437f34625bc1e3f72d8c3b7ec41ae3a5ffc773" height="100" width="auto" style="border-radius:50%"></a>
+97 | **Sargeist** | <a href="https://open.spotify.com/artist/6zl5IXVgj1nG1fqjUh68xe" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02bdc85d943e4f7c3e8e99a081" height="100" width="auto" style="border-radius:50%"></a>
+98 | **Satyricon** | <a href="https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd" target="_blank"><img src="https://i.scdn.co/image/63dbdea4556172aa9feab7942e1c35c79a505101" height="100" width="auto" style="border-radius:50%"></a>
+99 | **Selbst** | <a href="https://open.spotify.com/artist/1EiQbUfIU3UhBZR5sQRTHN?si=VQe5M5ZSQBSjHy36CKf-vQ" target="_blank"><img src="https://i.scdn.co/image/44e6ed6e2e736c34df722974b7054d463f8978ec" height="100" width="auto" style="border-radius:50%"></a>
+100 | **Septicflesh** | <a href="https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b?si=tSavy5mJRYuHk5tpvvNdOg" target="_blank"><img src="https://i.scdn.co/image/bda1346420408be2031ff17786c96be443c27b0d" height="100" width="auto" style="border-radius:50%"></a>
+101 | **Setherial** | <a href="https://open.spotify.com/artist/1EglekDNCJnub9A2fDBFrg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a87058386c75d6fb146d503b" height="100" width="auto" style="border-radius:50%"></a>
+102 | **Shade Empire** | <a href="https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH?si=7XEw3CvbR7W36D8Dn8DyJA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e74066961e6ed04ff0433952" height="100" width="auto" style="border-radius:50%"></a>
+103 | **Spectral Wound** | <a href="https://open.spotify.com/artist/3i6zP2x9GMBV3WyRzqQtM6?si=iFDJh1gsR_6I8-28b5X8tw" target="_blank"><img src="https://i.scdn.co/image/94140a485df6ac844fe97c2f661f28168ab69e47" height="100" width="auto" style="border-radius:50%"></a>
+104 | **Svartsyn** | <a href="https://open.spotify.com/artist/4hKyoyYXSDDGQWhUHv2L3I" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02728765337faabc7c067206ae" height="100" width="auto" style="border-radius:50%"></a>
+105 | **Taake** | <a href="https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026b10c27b20b03a9c4e47b833" height="100" width="auto" style="border-radius:50%"></a>
+106 | **Theotoxin** | <a href="https://open.spotify.com/artist/4uVJiIU7iZqvh2gd4lRcFH" target="_blank"><img src="https://i.scdn.co/image/e22e68427451090112877f4cae8aa076e14197b2" height="100" width="auto" style="border-radius:50%"></a>
+107 | **Tiamat** | <a href="https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN" target="_blank"><img src="https://i.scdn.co/image/6c41816704c2fad6039bb3eba74915e631b663e5" height="100" width="auto" style="border-radius:50%"></a>
+108 | **Tormentor** | <a href="https://open.spotify.com/artist/3MkoLr1zlZNu0Fz0M0oQHj?si=HzMWIqhnTmO8Az2thrabdQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0261eb55aede962629117d9bd3" height="100" width="auto" style="border-radius:50%"></a>
+109 | **Tsjuder** | <a href="https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn" target="_blank"><img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%"></a>
+110 | **Ulver** | <a href="https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv" target="_blank"><img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%"></a>
+111 | **Urgehal** | <a href="https://open.spotify.com/artist/4rsH5QGFETyQgsmU17kbVS" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%"></a>
+112 | **Varathron** | <a href="https://open.spotify.com/artist/3V9JzR4lFUlNvRgRuPO8x4?si=l-6V57dEQwW4bDxG52O4CA" target="_blank"><img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%"></a>
+113 | **Velho** | <a href="https://open.spotify.com/artist/68exoYKyr4yPvuRnk0jIxL" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%"></a>
+114 | **Venom** | <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe?si=9cBISxY1RvOvHjwVsYM-sw" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%"></a>
+115 | **Vintersorg** | <a href="https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6" target="_blank"><img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%"></a>
+116 | **Waldgeflüster** | <a href="https://open.spotify.com/artist/1LAUNbSi4NHJfXGvgOoBFy?si=qLxc1dhYTKacU8MAq7NHxw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%"></a>
+117 | **Watain** | <a href="https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX" target="_blank"><img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%"></a>
+118 | **Whipstriker** | <a href="https://open.spotify.com/artist/0YnwkwC5c3EGvj9h7QLhCH" target="_blank"><img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%"></a>
+119 | **Winterfylleth** | <a href="https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5?si=ejRRzBCFQBqGB3UrYMe5zw" target="_blank"><img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%"></a>
+120 | **Wolves In The Throne Room** | <a href="https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet" target="_blank"><img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%"></a>
+121 | **Äera** | <a href="https://open.spotify.com/artist/2GT3KfoCyPpJVCqu0Xpb9b?si=3rpmwrpCQA27jnkUXvsdDA" target="_blank"><img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%"></a>

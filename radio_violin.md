@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA)
 
-<a href="https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273635b70671b7314d882180a43ab67616d0000b273e7f02b3b3003b59b2f2f06b5ab67616d0000b273edd1b93ee66d6265337a592fab67616d0000b273ee07ce68621c13a96a46cba9" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/2si1q3goNhpM7JXl3Mz7Og?si=ycM5-swKSGqqx64ch942uA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27333110a154ccc37c613023918ab67616d0000b2735f7e01a8b9d76c1cf59940fcab67616d0000b273d5d6957f73be207d4b8e5c27ab67616d0000b273e38051840ec58a50d18214a7" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,4 +33,4 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Ara Malikian** | <img src="https://i.scdn.co/image/b41d05408b5bd67316487cd625fd5b7a73e7cd44" height="100" width="auto" style="border-radius:50%">
+1 | **Ara Malikian** | <a href="https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc" target="_blank"><img src="https://i.scdn.co/image/b41d05408b5bd67316487cd625fd5b7a73e7cd44" height="100" width="auto" style="border-radius:50%"></a>

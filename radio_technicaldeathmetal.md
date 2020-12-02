@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2IU51u1)
 
-<a href="https://spoti.fi/2IU51u1" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733065d7ec9a3e2755c466d907ab67616d0000b273a977b5232b154ddf1ec8973eab67616d0000b273c57008fe7db0b4585e5f68d6ab67616d0000b273fa9f69703499c7a088d9a36e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2IU51u1" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730f731bcfe345b19402680155ab67616d0000b2731edbd1c92e1fa7b5ea5f0be8ab67616d0000b273930ef20b1a5077437085a2b6ab67616d0000b273b43cc21c0cc91fdbe7200b21" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,14 +33,14 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Abhorrent Decimation** | <img src="https://i.scdn.co/image/f204895d7966199a4afb296bb2d03285633bdbe0" height="100" width="auto" style="border-radius:50%">
-2 | **Abiotic** | <img src="https://i.scdn.co/image/ab67616d00001e02cb60e93b599d395930afcdea" height="100" width="auto" style="border-radius:50%">
-3 | **Abnormality** | <img src="https://i.scdn.co/image/1c5aac479bc80474cdf966980e58099a8c6cb49b" height="100" width="auto" style="border-radius:50%">
-4 | **Aborted** | <img src="https://i.scdn.co/image/24ff53b066723870e04e5e1d69b93f39be2add7e" height="100" width="auto" style="border-radius:50%">
-5 | **Abysmal Dawn** | <img src="https://i.scdn.co/image/41c6118f44a46806c6eb55de3c83015de0804fcc" height="100" width="auto" style="border-radius:50%">
-6 | **Abysmal Torment** | <img src="https://i.scdn.co/image/ab67616d00001e02db9f6c91c74e2d8f79bb43bb" height="100" width="auto" style="border-radius:50%">
-7 | **Aeon** | <img src="https://i.scdn.co/image/ab67616d00001e023065d7ec9a3e2755c466d907" height="100" width="auto" style="border-radius:50%">
-8 | **Dictated** | <img src="https://i.scdn.co/image/fb26240903d3907adc111b19f8eb5cc17082d70c" height="100" width="auto" style="border-radius:50%">
-9 | **Entheos** | <img src="https://i.scdn.co/image/2e5a95a240e74df1d829e08b049aa344fdd2b881" height="100" width="auto" style="border-radius:50%">
-10 | **Ulcerate** | <img src="https://i.scdn.co/image/1e839c5b2f9d3bf9c2d8bba5ec31636f4b1f238e" height="100" width="auto" style="border-radius:50%">
-11 | **Æpoch** | <img src="https://i.scdn.co/image/dd9c652f0b0e7e5407088de0e136645133a9913b" height="100" width="auto" style="border-radius:50%">
+1 | **Abhorrent Decimation** | <a href="https://open.spotify.com/artist/0E9FMsXhEIhozPgvmLNrGY" target="_blank"><img src="https://i.scdn.co/image/f204895d7966199a4afb296bb2d03285633bdbe0" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Abiotic** | <a href="https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cb60e93b599d395930afcdea" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Abnormality** | <a href="https://open.spotify.com/artist/3G6H6ma3AVOx4Wu9J6IIPp" target="_blank"><img src="https://i.scdn.co/image/1c5aac479bc80474cdf966980e58099a8c6cb49b" height="100" width="auto" style="border-radius:50%"></a>
+4 | **Aborted** | <a href="https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR" target="_blank"><img src="https://i.scdn.co/image/24ff53b066723870e04e5e1d69b93f39be2add7e" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Abysmal Dawn** | <a href="https://open.spotify.com/artist/2h7HrMDoZpWxx3uAuJxyj9" target="_blank"><img src="https://i.scdn.co/image/41c6118f44a46806c6eb55de3c83015de0804fcc" height="100" width="auto" style="border-radius:50%"></a>
+6 | **Abysmal Torment** | <a href="https://open.spotify.com/artist/79UEQDXFTyCmFDKl3mz2Vg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02db9f6c91c74e2d8f79bb43bb" height="100" width="auto" style="border-radius:50%"></a>
+7 | **Aeon** | <a href="https://open.spotify.com/artist/3thZAdDkh3yDo21gLptJTc" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023065d7ec9a3e2755c466d907" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Dictated** | <a href="https://open.spotify.com/artist/2mZt18go8uXFMrL4YUI8yR" target="_blank"><img src="https://i.scdn.co/image/fb26240903d3907adc111b19f8eb5cc17082d70c" height="100" width="auto" style="border-radius:50%"></a>
+9 | **Entheos** | <a href="https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI" target="_blank"><img src="https://i.scdn.co/image/2e5a95a240e74df1d829e08b049aa344fdd2b881" height="100" width="auto" style="border-radius:50%"></a>
+10 | **Ulcerate** | <a href="https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg" target="_blank"><img src="https://i.scdn.co/image/1e839c5b2f9d3bf9c2d8bba5ec31636f4b1f238e" height="100" width="auto" style="border-radius:50%"></a>
+11 | **Æpoch** | <a href="https://open.spotify.com/artist/0p8dWrokmRRAKYClRX8RPT" target="_blank"><img src="https://i.scdn.co/image/dd9c652f0b0e7e5407088de0e136645133a9913b" height="100" width="auto" style="border-radius:50%"></a>

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/31jrYgQ)
 
-<a href="https://spoti.fi/31jrYgQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27305dbd31282f2112b5e1607dfab67616d0000b2730a24282b88935e16e7e7d732ab67616d0000b2738862f99171ea71d0925ffc13ab67616d0000b273ce69f6900fa18dd689d2d45b" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/31jrYgQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303e31c6840aa343b73bbfe84ab67616d0000b273441fd03f69579d36801631d9ab67616d0000b273850ede32f93992baca11cfc3ab67616d0000b273d2f187bb2ea59d53e4f0a5b9" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,6 +33,6 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Black Sabbath** | <img src="https://i.scdn.co/image/6f37a1025ba3f8e2dbb3b15cf30016ff728ba51d" height="100" width="auto" style="border-radius:50%">
-2 | **Deep Purple** | <img src="https://i.scdn.co/image/ca83593d28fb361d10519fbb60f62d923f3381be" height="100" width="auto" style="border-radius:50%">
-3 | **Led Zeppelin** | <img src="https://i.scdn.co/image/b0248a44865493e6a03832aa89854ada16ff07a8" height="100" width="auto" style="border-radius:50%">
+1 | **Black Sabbath** | <a href="https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ" target="_blank"><img src="https://i.scdn.co/image/6f37a1025ba3f8e2dbb3b15cf30016ff728ba51d" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Deep Purple** | <a href="https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf" target="_blank"><img src="https://i.scdn.co/image/ca83593d28fb361d10519fbb60f62d923f3381be" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Led Zeppelin** | <a href="https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp" target="_blank"><img src="https://i.scdn.co/image/b0248a44865493e6a03832aa89854ada16ff07a8" height="100" width="auto" style="border-radius:50%"></a>

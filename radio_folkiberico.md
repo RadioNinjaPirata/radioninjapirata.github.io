@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2FGIAY6)
 
-<a href="https://spoti.fi/2FGIAY6" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733f14304012bdd8582e0160f7ab67616d0000b2738fdf3361f8c613a002292352ab67616d0000b273e6ae2bd58cbb0c63e6abe02fab67616d0000b273ee012a5994d8a121420f4c8b" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2FGIAY6" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27337db6a8842b7fa70cfa856d0ab67616d0000b2738fdf3361f8c613a002292352ab67616d0000b273ae03268fc196e1c196db608eab67616d0000b273e9041a90b74aae30e853707b" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,8 +33,8 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Carrion Folk** | <img src="https://i.scdn.co/image/ab67616d00001e02ae03268fc196e1c196db608e" height="100" width="auto" style="border-radius:50%">
-2 | **Carrion** | <img src="https://i.scdn.co/image/f1022e1ab6cea67614bae363e76ad62c9bcae48e" height="100" width="auto" style="border-radius:50%">
-3 | **Entavia** | <img src="https://i.scdn.co/image/ab67616d00001e028fdf3361f8c613a002292352" height="100" width="auto" style="border-radius:50%">
-4 | **Luar Na Lubre** | <img src="https://i.scdn.co/image/cf902c8e35728323c772e8a5c4fc6f11c5ed0181" height="100" width="auto" style="border-radius:50%">
-5 | **Susana Seivane** | <img src="https://i.scdn.co/image/ab67616d00001e0250ae539c803f4132168e65fe" height="100" width="auto" style="border-radius:50%">
+1 | **Carrion Folk** | <a href="https://open.spotify.com/artist/1LL1Nq7aWhZy5DovYoKegD" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ae03268fc196e1c196db608e" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Carrion** | <a href="https://open.spotify.com/artist/1Dvp19HQQL6UIr4j9KpjZK" target="_blank"><img src="https://i.scdn.co/image/f1022e1ab6cea67614bae363e76ad62c9bcae48e" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Entavia** | <a href="https://open.spotify.com/artist/78gQN7zCAhO7dj0I2zVFjb" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028fdf3361f8c613a002292352" height="100" width="auto" style="border-radius:50%"></a>
+4 | **Luar Na Lubre** | <a href="https://open.spotify.com/artist/5JqaR50nAadSYO26G1x97a?si=1L5dU_JORwCJcbJeiEWpOw" target="_blank"><img src="https://i.scdn.co/image/cf902c8e35728323c772e8a5c4fc6f11c5ed0181" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Susana Seivane** | <a href="https://open.spotify.com/artist/1ldvzG3ZRDmpwiln8evSPf?si=Ypt_pMdtTz2jBmOU0QFcZg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0250ae539c803f4132168e65fe" height="100" width="auto" style="border-radius:50%"></a>

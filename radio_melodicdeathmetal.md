@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
 
-<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730c596ccd727b8dd124066d44ab67616d0000b2730e25b3b6b56e67777750d88fab67616d0000b27355f6d77fd9d20f34410ce66eab67616d0000b2738b5a563a73fc49e4923391dd" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273072d33aa48eff45b058c9951ab67616d0000b2730e25b3b6b56e67777750d88fab67616d0000b2732b9383667ea3f124fa849a8dab67616d0000b273dd8566623a00bacb244e999e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,36 +33,36 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **6Th Awakening** | <img src="https://i.scdn.co/image/ab67616d00001e0249ba52bff2d203a7fb230a57" height="100" width="auto" style="border-radius:50%">
-2 | **Aeternam** | <img src="https://i.scdn.co/image/50cf15ae90350f40b5243d260217616fa1f77251" height="100" width="auto" style="border-radius:50%">
-3 | **Amorphis** | <img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%">
-4 | **Apotheus** | <img src="https://i.scdn.co/image/954764fdf1781ccb5d540aea981251643d2d985e" height="100" width="auto" style="border-radius:50%">
-5 | **Black Like Vengeance** | <img src="https://i.scdn.co/image/ff40ae308af2f3c5279d008df27bab12a3bf8bfc" height="100" width="auto" style="border-radius:50%">
-6 | **Bloodhunter** | <img src="https://i.scdn.co/image/380bc2c00de84b2c73bc8a4f00401282df32fdb2" height="100" width="auto" style="border-radius:50%">
-7 | **Dark Oath** | <img src="https://i.scdn.co/image/7ffbd89ed446db5cfab73c34846c4d15068adc11" height="100" width="auto" style="border-radius:50%">
-8 | **Despite** | <img src="https://i.scdn.co/image/9587695d99d30865d27eae0367a9d88f631de816" height="100" width="auto" style="border-radius:50%">
-9 | **Eternal Tears Of Sorrow** | <img src="https://i.scdn.co/image/0ac9cf29916cf4b899a3b6990c3f56f12e22f4cf" height="100" width="auto" style="border-radius:50%">
-10 | **Eucharist** | <img src="https://i.scdn.co/image/20441218dee994595395d3d71a5ed1702f15da04" height="100" width="auto" style="border-radius:50%">
-11 | **Fall Of The Leafe** | <img src="https://i.scdn.co/image/ab67616d00001e02ed11278f2d1ee36117e8de41" height="100" width="auto" style="border-radius:50%">
-12 | **Foredoomed** | <img src="https://i.scdn.co/image/0da272ffc7e3d95c7d78b3961b2ce7ee9ff8d93e" height="100" width="auto" style="border-radius:50%">
-13 | **Frantic Amber** | <img src="https://i.scdn.co/image/7d82c4d30dd509bce04da9951b0fca6559468bb6" height="100" width="auto" style="border-radius:50%">
-14 | **Garden Of Shadows** | <img src="https://i.scdn.co/image/ab67616d00001e02122513d73dc3659c8b6626f1" height="100" width="auto" style="border-radius:50%">
-15 | **Healing Harm** | <img src="https://i.scdn.co/image/ab67616d00001e020764a93d97acc1de13179c9f" height="100" width="auto" style="border-radius:50%">
-16 | **Incarnia** | <img src="https://i.scdn.co/image/ab67616d00001e02e829355f39b6394a1e4481e5" height="100" width="auto" style="border-radius:50%">
-17 | **Intestine Baalism** | <img src="https://i.scdn.co/image/ab67616d00001e0267ce1c9cb9a53f1ebc3e9a83" height="100" width="auto" style="border-radius:50%">
-18 | **Kalmah** | <img src="https://i.scdn.co/image/91bba9f6fe7794c6aa89748e09266197e18b23b0" height="100" width="auto" style="border-radius:50%">
-19 | **Karkaos** | <img src="https://i.scdn.co/image/ab67616d00001e024acd3b877db3a0cbc7888514" height="100" width="auto" style="border-radius:50%">
-20 | **Kaunis Kuolematon** | <img src="https://i.scdn.co/image/05c2aa5b649e09abc45e5afcf246a65b88133a67" height="100" width="auto" style="border-radius:50%">
-21 | **Mors Principium Est** | <img src="https://i.scdn.co/image/c7797ed007932543fb4b972583cb67bf7281febb" height="100" width="auto" style="border-radius:50%">
-22 | **Purest Of Pain** | <img src="https://i.scdn.co/image/ab67616d00001e02bd6b43cd2ef9f7d093f71663" height="100" width="auto" style="border-radius:50%">
-23 | **Realm Of Horus** | <img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%">
-24 | **Sarea** | <img src="https://i.scdn.co/image/588bffd41ddec7bda5dfced88ccad0b5c2d4927c" height="100" width="auto" style="border-radius:50%">
-25 | **Shylmagoghnar** | <img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%">
-26 | **Sollust** | <img src="https://i.scdn.co/image/263e554c33708ee4ddd5a97395bf3900c07e7d02" height="100" width="auto" style="border-radius:50%">
-27 | **Stormlord** | <img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%">
-28 | **Synestesia** | <img src="https://i.scdn.co/image/ab67616d00001e023db4d9a26aff5413169a8c4c" height="100" width="auto" style="border-radius:50%">
-29 | **Synlakross** | <img src="https://i.scdn.co/image/adebc118489b2d1c1bdef57b60f2b7cd7836c997" height="100" width="auto" style="border-radius:50%">
-30 | **The Agonist** | <img src="https://i.scdn.co/image/1227f0fceb4041fe2381719293b8577f3f8306bc" height="100" width="auto" style="border-radius:50%">
-31 | **Warbell** | <img src="https://i.scdn.co/image/ab67616d00001e02c0d65289d53a2d74905fe587" height="100" width="auto" style="border-radius:50%">
-32 | **Words Of Farewell** | <img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%">
-33 | **Wyrmhaven** | <img src="https://i.scdn.co/image/ab67616d00001e027e27eb4e7c0acfdf418d668a" height="100" width="auto" style="border-radius:50%">
+1 | **6Th Awakening** | <a href="https://open.spotify.com/artist/13CDCuJ0fA3tcMP6RvLehK" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0249ba52bff2d203a7fb230a57" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Aeternam** | <a href="https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s?si=LayfpOEnTWOtyMdsc8R92A" target="_blank"><img src="https://i.scdn.co/image/50cf15ae90350f40b5243d260217616fa1f77251" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD?si=5dOsqFZNSQ6OcfCepXh07g" target="_blank"><img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%"></a>
+4 | **Apotheus** | <a href="https://open.spotify.com/artist/5a0LCnLC3U4CFpS794sqVv" target="_blank"><img src="https://i.scdn.co/image/954764fdf1781ccb5d540aea981251643d2d985e" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Black Like Vengeance** | <a href="https://open.spotify.com/artist/7aaT80OFrOsHlbQm2fKbaP" target="_blank"><img src="https://i.scdn.co/image/ff40ae308af2f3c5279d008df27bab12a3bf8bfc" height="100" width="auto" style="border-radius:50%"></a>
+6 | **Bloodhunter** | <a href="https://open.spotify.com/artist/35J5dOnnkCjaruu1oRrXuF" target="_blank"><img src="https://i.scdn.co/image/380bc2c00de84b2c73bc8a4f00401282df32fdb2" height="100" width="auto" style="border-radius:50%"></a>
+7 | **Dark Oath** | <a href="https://open.spotify.com/artist/3Oc3JnQKIW7ZNPXS0yf6QV" target="_blank"><img src="https://i.scdn.co/image/7ffbd89ed446db5cfab73c34846c4d15068adc11" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Despite** | <a href="https://open.spotify.com/artist/4OKiVSsDSnHqPnxQAwUE8G" target="_blank"><img src="https://i.scdn.co/image/9587695d99d30865d27eae0367a9d88f631de816" height="100" width="auto" style="border-radius:50%"></a>
+9 | **Eternal Tears Of Sorrow** | <a href="https://open.spotify.com/artist/3rdFnKhyWhTivuBFSH4YT3?si=M60o_rFeQBCBIHSzaRSRQQ" target="_blank"><img src="https://i.scdn.co/image/0ac9cf29916cf4b899a3b6990c3f56f12e22f4cf" height="100" width="auto" style="border-radius:50%"></a>
+10 | **Eucharist** | <a href="https://open.spotify.com/artist/0EXs3fkjKhZtElrfhuWShN" target="_blank"><img src="https://i.scdn.co/image/20441218dee994595395d3d71a5ed1702f15da04" height="100" width="auto" style="border-radius:50%"></a>
+11 | **Fall Of The Leafe** | <a href="https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn?si=TGUER7bBTAiP_I9MO24Mlw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ed11278f2d1ee36117e8de41" height="100" width="auto" style="border-radius:50%"></a>
+12 | **Foredoomed** | <a href="https://open.spotify.com/artist/0XGMZjc0FWuQm1dzb2yKUi?si=KquoVESISF2ITJWbWDo4Bg" target="_blank"><img src="https://i.scdn.co/image/0da272ffc7e3d95c7d78b3961b2ce7ee9ff8d93e" height="100" width="auto" style="border-radius:50%"></a>
+13 | **Frantic Amber** | <a href="https://open.spotify.com/artist/35ExNkMZGn1aQd0WkgsRjo" target="_blank"><img src="https://i.scdn.co/image/7d82c4d30dd509bce04da9951b0fca6559468bb6" height="100" width="auto" style="border-radius:50%"></a>
+14 | **Garden Of Shadows** | <a href="https://open.spotify.com/artist/4iqNfe8W0nP9pEjLjljqEV?si=u6k9E2Z8Qni65IoqEIgmpw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02122513d73dc3659c8b6626f1" height="100" width="auto" style="border-radius:50%"></a>
+15 | **Healing Harm** | <a href="https://open.spotify.com/artist/5U3hWIUobhzov9jCpmmQq4" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020764a93d97acc1de13179c9f" height="100" width="auto" style="border-radius:50%"></a>
+16 | **Incarnia** | <a href="https://open.spotify.com/artist/4EdX0VsFpAj8iGs3HWbjcO?si=XS2A7DBzTVqhHuZtOZZEPw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e829355f39b6394a1e4481e5" height="100" width="auto" style="border-radius:50%"></a>
+17 | **Intestine Baalism** | <a href="https://open.spotify.com/artist/2Z9z6GKa0UMW8NLx0nER8M?si=AZz71NqgQNOYwYX-s4z5Nw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0267ce1c9cb9a53f1ebc3e9a83" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Kalmah** | <a href="https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF?si=zNjaQfrURgWk38vqufmc1A" target="_blank"><img src="https://i.scdn.co/image/91bba9f6fe7794c6aa89748e09266197e18b23b0" height="100" width="auto" style="border-radius:50%"></a>
+19 | **Karkaos** | <a href="https://open.spotify.com/artist/1IJOtqqfjQMJwxI3uQ7c9g" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024acd3b877db3a0cbc7888514" height="100" width="auto" style="border-radius:50%"></a>
+20 | **Kaunis Kuolematon** | <a href="https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN?si=Ty3nhkPsQlSG6ljrCw3pbg" target="_blank"><img src="https://i.scdn.co/image/05c2aa5b649e09abc45e5afcf246a65b88133a67" height="100" width="auto" style="border-radius:50%"></a>
+21 | **Mors Principium Est** | <a href="https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi?si=RtVuBKYaR0uFJTZDW1WJrg" target="_blank"><img src="https://i.scdn.co/image/c7797ed007932543fb4b972583cb67bf7281febb" height="100" width="auto" style="border-radius:50%"></a>
+22 | **Purest Of Pain** | <a href="https://open.spotify.com/artist/4HtMrRFMxvpRworWBODhX3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02bd6b43cd2ef9f7d093f71663" height="100" width="auto" style="border-radius:50%"></a>
+23 | **Realm Of Horus** | <a href="https://open.spotify.com/artist/65igMDriogXd7AaEq6fW5i" target="_blank"><img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%"></a>
+24 | **Sarea** | <a href="https://open.spotify.com/artist/0XmGOpXc3fU9wpX5iUVe13" target="_blank"><img src="https://i.scdn.co/image/588bffd41ddec7bda5dfced88ccad0b5c2d4927c" height="100" width="auto" style="border-radius:50%"></a>
+25 | **Shylmagoghnar** | <a href="https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA?si=AxtEvhxQRKGtoqKDePfNeg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%"></a>
+26 | **Sollust** | <a href="https://open.spotify.com/artist/06TkSdzWZTCKxfViqaE1rv" target="_blank"><img src="https://i.scdn.co/image/263e554c33708ee4ddd5a97395bf3900c07e7d02" height="100" width="auto" style="border-radius:50%"></a>
+27 | **Stormlord** | <a href="https://open.spotify.com/artist/5iqk0cqsbJiSTcXQ6ljGNo?si=tTARC1xCT_64Tx2gUh-h8w" target="_blank"><img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%"></a>
+28 | **Synestesia** | <a href="https://open.spotify.com/artist/2qFjGRQKbV3SZ2uLyfe2rz?si=WkyqyqSqTGCyrj6_p-JifA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023db4d9a26aff5413169a8c4c" height="100" width="auto" style="border-radius:50%"></a>
+29 | **Synlakross** | <a href="https://open.spotify.com/artist/5C4cGwwVx56fKQECoCFljD" target="_blank"><img src="https://i.scdn.co/image/adebc118489b2d1c1bdef57b60f2b7cd7836c997" height="100" width="auto" style="border-radius:50%"></a>
+30 | **The Agonist** | <a href="https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak" target="_blank"><img src="https://i.scdn.co/image/1227f0fceb4041fe2381719293b8577f3f8306bc" height="100" width="auto" style="border-radius:50%"></a>
+31 | **Warbell** | <a href="https://open.spotify.com/artist/1bLCY4WF8uExExIt1O9w9s" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c0d65289d53a2d74905fe587" height="100" width="auto" style="border-radius:50%"></a>
+32 | **Words Of Farewell** | <a href="https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO?si=Ucx610EKTDKhIIiD5dhxGQ" target="_blank"><img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%"></a>
+33 | **Wyrmhaven** | <a href="https://open.spotify.com/artist/0iOJOCp7D35hfucHVHxPyZ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027e27eb4e7c0acfdf418d668a" height="100" width="auto" style="border-radius:50%"></a>
