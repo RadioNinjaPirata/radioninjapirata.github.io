@@ -1,11 +1,11 @@
 # Workaholic OST
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kcdZk5)
 
-<a href="https://spoti.fi/3kcdZk5" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731a14627e47239473b7e3b6edab67616d0000b2732b4d071f7824b2c60c3b85cdab67616d0000b273a0b4ce54fd48230592f05460ab67616d0000b273c924db67b20b34c8eb76b264" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3kcdZk5" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730f4bf5c96c9ee54fa00944c4ab67616d0000b2736c81650e70bf2679e1fa03f7ab67616d0000b2738236dee9524214e0e6be4a1fab67616d0000b273fd4d0bacedae8407a24256d8" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

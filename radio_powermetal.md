@@ -1,11 +1,11 @@
 # Power Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3lP6ekt)
 
-<a href="https://spoti.fi/3lP6ekt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735eed79b40f21219c3d0923abab67616d0000b2738330a2c4271f5c6023a7a007ab67616d0000b273d76db43982b0d40bee3d7386ab67616d0000b273fe2e6dd6c1511a1d1c9259c3" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3lP6ekt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273a800ae52a13842f210b333d8ab67616d0000b273bd24fae242ec06878f6ec7e2ab67616d0000b273d95b9f9c3d755a6d7716276aab67616d0000b273fba28a4b3070a4a43b10fc8e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

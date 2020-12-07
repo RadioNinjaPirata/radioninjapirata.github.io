@@ -1,11 +1,11 @@
 # Melodic Death Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
 
-<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27378dc3cc3122c9fe9f1494d29ab67616d0000b27385a9f5b92faa15a557572a05ab67616d0000b2739eef79f6849f9a8c17b4ee8eab67616d0000b273e829355f39b6394a1e4481e5" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273122513d73dc3659c8b6626f1ab67616d0000b273c28e1fe6d855a00301e8344eab67616d0000b273e206d98bb8bafb2004f08a0fab67616d0000b273eb28a5114c19b47f1d6238b2" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

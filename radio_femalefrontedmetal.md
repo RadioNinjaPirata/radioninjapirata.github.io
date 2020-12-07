@@ -1,11 +1,11 @@
 # Female Fronted Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3jqVur0)
 
-<a href="https://spoti.fi/3jqVur0" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273497166f08971ef98faf25a13ab67616d0000b273c02f13a41ff0fbf4523fc31cab67616d0000b273c0bddfda61f5d670053f23abab67616d0000b273f9a0a4358a4df299bff2b7d0" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3jqVur0" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303fb8fb0d13e3c234f47f824ab67616d0000b27389430f006f2e40483439670cab67616d0000b273b8df67aad0a123d709b5f2b3ab67616d0000b273c02f13a41ff0fbf4523fc31c" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

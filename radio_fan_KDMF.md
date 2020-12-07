@@ -1,11 +1,11 @@
 # King Diamond and Mercyful Fate Fan Radio
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ)
 
-<a href="https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730ba01de61a75ddec24961d9fab67616d0000b27318d9fb93569e3d97829d9551ab67616d0000b2735601c9baa23e8f6c1039929fab67616d0000b273b75fcdfbdd239fcf4b79d038" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1Z4iflhPfPW1bvYNQVhRyn?si=dJ257HpwR027dir3fsMYsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733a902bed61289f17a685b07dab67616d0000b2735d9cfb4b080d0d74a541529dab67616d0000b273868aa679a7583bbefc07803cab67616d0000b273c82d42bb1935c1eb43d43289" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

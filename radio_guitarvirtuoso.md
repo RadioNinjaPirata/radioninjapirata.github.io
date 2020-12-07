@@ -1,11 +1,11 @@
 # Virtuoso Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2T6Krsv)
 
-<a href="https://spoti.fi/2T6Krsv" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736301a64017992f164099f22dab67616d0000b27384ca1a6dc7d04dee6af217ecab67616d0000b273a762cf3a318f4411a1447c6fab67616d0000b273bdf99c169a7a48d32ed9aa53" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2T6Krsv" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273311589067111d269734b04f4ab67616d0000b27352e82b08be5a68d827261d5eab67616d0000b27362a4837447b2525da89764d4ab67616d0000b273a762cf3a318f4411a1447c6f" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

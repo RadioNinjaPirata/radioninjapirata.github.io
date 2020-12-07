@@ -1,11 +1,11 @@
 # Pure Metal Radio
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27340d5227b1f071073b25762dbab67616d0000b27395dcac4d46153f995a5d2f40ab67616d0000b273b79be502e5580d1bfac98847ab67616d0000b273d14876e3b82950a0aec5c309" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731e020af0eea08ee488a8f7f7ab67616d0000b2734de9478913a6736b3b2d8ea8ab67616d0000b27367b097c11348179a60c0866dab67616d0000b27383f2b16d05e7d43c1719353e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

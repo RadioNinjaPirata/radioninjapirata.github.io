@@ -1,11 +1,11 @@
 # Technical Death Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2IU51u1)
 
-<a href="https://spoti.fi/2IU51u1" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273522d0a97186454586761924eab67616d0000b2735f519d6175480a5d72457dfdab67616d0000b273682be18ae05ee37d16bafe75ab67616d0000b273b43cc21c0cc91fdbe7200b21" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2IU51u1" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731e1c89e95214c0df48348159ab67616d0000b2734dd1fc7f7fa358ebabe0f54dab67616d0000b273714e05eec6ef476c93a0205aab67616d0000b273e761fd783ad46c939334db93" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

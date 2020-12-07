@@ -1,11 +1,11 @@
 # Thrash Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3cg0yMX)
 
-<a href="https://spoti.fi/3cg0yMX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730d803877734c853b8995071fab67616d0000b2735536717c3b3998b68e654dbdab67616d0000b273d1827330311d566057c47c2cab67616d0000b273f0ba1fa621597f0560ba729b" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3cg0yMX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2738121ea7c4808103837161856ab67616d0000b2738244e7ec2643dbd211ffdc8dab67616d0000b2738a18363fc3d6ca06e65b3363ab67616d0000b273e89ef15f112582598f88f633" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

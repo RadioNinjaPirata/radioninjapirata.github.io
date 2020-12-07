@@ -1,11 +1,11 @@
 # Rock Portugues
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hOohVF)
 
-<a href="https://spoti.fi/3hOohVF" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730366d385bf33f958730afd8bab67616d0000b2731f8338a47c61445ea76a3c7aab67616d0000b2734beb2c52f7ccd027e79c1b4eab67616d0000b273a63843d0d1ae023dab4652d3" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hOohVF" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735b977391d1663a42eb8ef194ab67616d0000b2739af3631ab10d48fd17118e18ab67616d0000b273bfd55da33479591238eed119ab67616d0000b273e75d528904d08154d044b278" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

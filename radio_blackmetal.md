@@ -1,11 +1,11 @@
 # Black Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kvnqLs)
 
-<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731ac8daacdd67b2c2eb3ca03cab67616d0000b2733810c7a958fe681de3d09645ab67616d0000b273c35cbba804a7b27e6bc70cf0ab67616d0000b273d0159f7599cb6a1d6e04c507" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273324a6d80bcb237d909551b22ab67616d0000b2735ce6cfa403237d74d9562a46ab67616d0000b273733a3fcf5eb8dcf40495c2d5ab67616d0000b2738be2a34e2397c9dbc7e2e4ef" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -141,17 +141,18 @@ No. | Band | Avatar
 106 | **Theotoxin** | <a href="https://open.spotify.com/artist/4uVJiIU7iZqvh2gd4lRcFH" target="_blank"><img src="https://i.scdn.co/image/e22e68427451090112877f4cae8aa076e14197b2" height="100" width="auto" style="border-radius:50%"></a>
 107 | **Tiamat** | <a href="https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN" target="_blank"><img src="https://i.scdn.co/image/6c41816704c2fad6039bb3eba74915e631b663e5" height="100" width="auto" style="border-radius:50%"></a>
 108 | **Tormentor** | <a href="https://open.spotify.com/artist/3MkoLr1zlZNu0Fz0M0oQHj?si=HzMWIqhnTmO8Az2thrabdQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0261eb55aede962629117d9bd3" height="100" width="auto" style="border-radius:50%"></a>
-109 | **Tsjuder** | <a href="https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn" target="_blank"><img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%"></a>
-110 | **Two Face Sinner** | <a href="https://open.spotify.com/artist/2vUfwVEeIfa29uqqMAdNhN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c063d66e98beb8f01160710" height="100" width="auto" style="border-radius:50%"></a>
-111 | **Ulver** | <a href="https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv" target="_blank"><img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%"></a>
-112 | **Urgehal** | <a href="https://open.spotify.com/artist/4rsH5QGFETyQgsmU17kbVS" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%"></a>
-113 | **Varathron** | <a href="https://open.spotify.com/artist/3V9JzR4lFUlNvRgRuPO8x4?si=l-6V57dEQwW4bDxG52O4CA" target="_blank"><img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%"></a>
-114 | **Velho** | <a href="https://open.spotify.com/artist/68exoYKyr4yPvuRnk0jIxL" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%"></a>
-115 | **Venom** | <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe?si=9cBISxY1RvOvHjwVsYM-sw" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%"></a>
-116 | **Vintersorg** | <a href="https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6" target="_blank"><img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%"></a>
-117 | **Waldgeflüster** | <a href="https://open.spotify.com/artist/1LAUNbSi4NHJfXGvgOoBFy?si=qLxc1dhYTKacU8MAq7NHxw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%"></a>
-118 | **Watain** | <a href="https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX" target="_blank"><img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%"></a>
-119 | **Whipstriker** | <a href="https://open.spotify.com/artist/0YnwkwC5c3EGvj9h7QLhCH" target="_blank"><img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%"></a>
-120 | **Winterfylleth** | <a href="https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5?si=ejRRzBCFQBqGB3UrYMe5zw" target="_blank"><img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%"></a>
-121 | **Wolves In The Throne Room** | <a href="https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet" target="_blank"><img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%"></a>
-122 | **Äera** | <a href="https://open.spotify.com/artist/2GT3KfoCyPpJVCqu0Xpb9b?si=3rpmwrpCQA27jnkUXvsdDA" target="_blank"><img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%"></a>
+109 | **Trident** | <a href="https://open.spotify.com/artist/0ZiNRu5KFs4kyt6yClKNXr" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e1988d4c59dc6f2ab0e36755" height="100" width="auto" style="border-radius:50%"></a>
+110 | **Tsjuder** | <a href="https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn" target="_blank"><img src="https://i.scdn.co/image/046e6cd18701edafe72e928a8ff588fe9c1e216d" height="100" width="auto" style="border-radius:50%"></a>
+111 | **Two Face Sinner** | <a href="https://open.spotify.com/artist/2vUfwVEeIfa29uqqMAdNhN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c063d66e98beb8f01160710" height="100" width="auto" style="border-radius:50%"></a>
+112 | **Ulver** | <a href="https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv" target="_blank"><img src="https://i.scdn.co/image/e968251dca1fcc3d29f7fc5a6deb8d9006f60711" height="100" width="auto" style="border-radius:50%"></a>
+113 | **Urgehal** | <a href="https://open.spotify.com/artist/4rsH5QGFETyQgsmU17kbVS" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%"></a>
+114 | **Varathron** | <a href="https://open.spotify.com/artist/3V9JzR4lFUlNvRgRuPO8x4?si=l-6V57dEQwW4bDxG52O4CA" target="_blank"><img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%"></a>
+115 | **Velho** | <a href="https://open.spotify.com/artist/68exoYKyr4yPvuRnk0jIxL" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%"></a>
+116 | **Venom** | <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe?si=9cBISxY1RvOvHjwVsYM-sw" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%"></a>
+117 | **Vintersorg** | <a href="https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6" target="_blank"><img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%"></a>
+118 | **Waldgeflüster** | <a href="https://open.spotify.com/artist/1LAUNbSi4NHJfXGvgOoBFy?si=qLxc1dhYTKacU8MAq7NHxw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%"></a>
+119 | **Watain** | <a href="https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX" target="_blank"><img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%"></a>
+120 | **Whipstriker** | <a href="https://open.spotify.com/artist/0YnwkwC5c3EGvj9h7QLhCH" target="_blank"><img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%"></a>
+121 | **Winterfylleth** | <a href="https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5?si=ejRRzBCFQBqGB3UrYMe5zw" target="_blank"><img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%"></a>
+122 | **Wolves In The Throne Room** | <a href="https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet" target="_blank"><img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%"></a>
+123 | **Äera** | <a href="https://open.spotify.com/artist/2GT3KfoCyPpJVCqu0Xpb9b?si=3rpmwrpCQA27jnkUXvsdDA" target="_blank"><img src="https://i.scdn.co/image/dec52d4fb5548b83ac41096df9fddd485c23db3d" height="100" width="auto" style="border-radius:50%"></a>

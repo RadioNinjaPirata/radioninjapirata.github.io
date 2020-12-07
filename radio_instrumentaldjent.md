@@ -1,11 +1,11 @@
 # Instrumental Djent
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/36cGKJt)
 
-<a href="https://spoti.fi/36cGKJt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27337538c46e7f5e312ceb0ba97ab67616d0000b2736bd767120e457b0d0b4cb2f0ab67616d0000b273a8d3579b47edc658f075ba48ab67616d0000b273c7025cb2e7e213a442a33576" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/36cGKJt" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730f4082062ff3beb984e60c55ab67616d0000b273149b0e3fcd7a13f9ff5fea4fab67616d0000b27340d3ff8c4c4174f0aa17d41aab67616d0000b273abed4e1b88e612cbbb98d572" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,7 +33,7 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **Animals As Leaders** | <a href="https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8?si=kNeDXKVbRcak7pr2ASYEPQ" target="_blank"><img src="https://i.scdn.co/image/00fe9e7e4353d913c0d3d2623adf48ad932838a7" height="100" width="auto" style="border-radius:50%"></a>
+1 | **Animals As Leaders** | <a href="https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8" target="_blank"><img src="https://i.scdn.co/image/00fe9e7e4353d913c0d3d2623adf48ad932838a7" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Anup Sastry** | <a href="https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0253aa479fe9452dd195acc561" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Arch Echo** | <a href="https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh?si=0J9wCrMjSrG6SkQlzuL-TQ" target="_blank"><img src="https://i.scdn.co/image/e42cb6cd4ce49a069d46831cad044488f07ead00" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Chimp Spanner** | <a href="https://open.spotify.com/artist/1luumZojARx0L3spmNwEgl" target="_blank"><img src="https://i.scdn.co/image/79209e4129254ce897c8c3c2bb9600681c208f21" height="100" width="auto" style="border-radius:50%"></a>

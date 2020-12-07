@@ -1,11 +1,11 @@
 # Ambient Beats
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw)
 
-<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731093911c53b493ec8634853fab67616d0000b2732b89f8899ef56aa3c062432aab67616d0000b27376d0a1a0a153d2f44c0800d0ab67616d0000b273d17d0be724ecd92fde775214" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736ebb81c6b8351c2be060cb7bab67616d0000b2737acfdf9781bd0ca9f0a078ecab67616d0000b273ce1d3cec55424bf7c98c1859ab67616d0000b273f35e1be93f1db4248d521734" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

@@ -1,11 +1,11 @@
 # Reggae Roots
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/33XJDen)
 
-<a href="https://spoti.fi/33XJDen" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27382716988ee5d3904b835efb8ab67616d0000b273995588ad272e39bfc75016a3ab67616d0000b273d3a7ad5c7d4d3495aa704b45ab67616d0000b273e76b157287d6dac260f65c32" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/33XJDen" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27337982fcd81e89c5ab2d15aecab67616d0000b2733c4ae9ba87d6c7a1f90754e1ab67616d0000b273fedceaa8e3d4b73ae25ff8d8ab67616d0000b273ff5dc24668ab789ce9ac12d1" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

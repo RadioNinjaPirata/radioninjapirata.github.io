@@ -1,11 +1,11 @@
 # Heavy Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA)
 
-<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731e71250e6ef484698ef79a83ab67616d0000b27329cb2b17a92f811e205c2141ab67616d0000b273323df1367675a3d9c0151cd9ab67616d0000b2736a11054327aded8963ce937d" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730d1bb5f540f1e1aeb90e837cab67616d0000b27331af24b8ebbe7a420f601913ab67616d0000b2734b776a7720199af762683b82ab67616d0000b273ae5941e5e616db0fc4dcd089" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

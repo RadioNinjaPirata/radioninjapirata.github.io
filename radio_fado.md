@@ -1,11 +1,11 @@
 # Fado
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3k7XKoe)
 
-<a href="https://spoti.fi/3k7XKoe" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730729b42d6bec2c0e2005bd68ab67616d0000b273204c9d4ec0b699df7c4a1cd5ab67616d0000b2732956a0eaa354239a43f447e0ab67616d0000b2735789f82fccbdc06501fd659d" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3k7XKoe" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733c01c4ad5c910b2e042d33a0ab67616d0000b27344dbf5f95f9e092b49fa6797ab67616d0000b27385c476eb2179a520b837bac0ab67616d0000b273f18bde9d9751ebfdbb4bbd62" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

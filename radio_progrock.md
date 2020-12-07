@@ -1,11 +1,11 @@
 # Prog Rock Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2RLv6fX)
 
-<a href="https://spoti.fi/2RLv6fX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732e2faa2200707442b1842457ab67616d0000b2737e26dbfba6ceae71385b8446ab67616d0000b273d00c17b46e94f64eb5da796eab67616d0000b273fc295361aac7f636ef4ff6f7" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2RLv6fX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27358b4b92ebd5ef66390c711e1ab67616d0000b273a1085dae0c9e7df6e7e6ee94ab67616d0000b273a22e875e473322c7c7ccd53cab67616d0000b273bc2f378f11fe4c60012100b5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -37,7 +37,7 @@ No. | Band | Avatar
 2 | **Aeon Zen** | <a href="https://open.spotify.com/artist/0T073Nv8qEZ0Pd8dN0U3n4" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027695e46a94b24990faef5934" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Andromeda** | <a href="https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu" target="_blank"><img src="https://i.scdn.co/image/9e44a3ab30d47bf44d2a762e51935951a1ab2547" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Angel Vivaldi** | <a href="https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK" target="_blank"><img src="https://i.scdn.co/image/8a4d2e201db94f1fcbaedd9cf2528426c0580af0" height="100" width="auto" style="border-radius:50%"></a>
-5 | **Animals As Leaders** | <a href="https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8?si=kNeDXKVbRcak7pr2ASYEPQ" target="_blank"><img src="https://i.scdn.co/image/00fe9e7e4353d913c0d3d2623adf48ad932838a7" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Animals As Leaders** | <a href="https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8" target="_blank"><img src="https://i.scdn.co/image/00fe9e7e4353d913c0d3d2623adf48ad932838a7" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Antoine'S Legacy** | <a href="https://open.spotify.com/artist/12oiU41XhKBU7d43wvLu6W" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a1085dae0c9e7df6e7e6ee94" height="100" width="auto" style="border-radius:50%"></a>
 7 | **Arjen Anthony Lucassen'S Star One** | <a href="https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02dba7e609cc3221dddcb715b2" height="100" width="auto" style="border-radius:50%"></a>
 8 | **Arjen Anthony Lucassen** | <a href="https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5" target="_blank"><img src="https://i.scdn.co/image/c844eb7c97484ee27e07cf31663d5ae4ce79342a" height="100" width="auto" style="border-radius:50%"></a>

@@ -1,11 +1,11 @@
 # Bass Players
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/343ZpUZ)
 
-<a href="https://spoti.fi/343ZpUZ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27330cdd668e9d6a9cf112b72c5ab67616d0000b27341667b1cfe4cfd8b9c4583f9ab67616d0000b27380c281b5f4b4b8f5b9c6e534ab67616d0000b273896e3102f6ae3798b8f6b53e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/343ZpUZ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734ee48478350a283a0faef15aab67616d0000b27388289b845e32d8df745c3568ab67616d0000b27398a3ad42b70ec962d0d29b8cab67616d0000b273f28f6a137cbbd7541b252ee4" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

@@ -1,11 +1,11 @@
 # Extreme Metal
 
-**40 new tracks every 2 hours!**
+**40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ)
 
-<a href="https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735ed0d21a559c036223685bc5ab67616d0000b2736168c36ecaa43a0a61844728ab67616d0000b273c48c02cea6ba5bd07cc8d073ab67616d0000b273f1d01aea83c53baf27c3ae14" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730369e632066b684b81a1a338ab67616d0000b2732a963300d17003b067b2293cab67616d0000b273ad0eca3f0d37d5a4ec78c125ab67616d0000b273b93c04730f98a5d35554624c" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -74,7 +74,8 @@ No. | Band | Avatar
 39 | **Thyrfing** | <a href="https://open.spotify.com/artist/2UGaMtxeXt8FQMCpxscnEJ" target="_blank"><img src="https://i.scdn.co/image/dcc1a0eca86b54ddcb21e05c87b2b74ee24ee264" height="100" width="auto" style="border-radius:50%"></a>
 40 | **Todestriebe** | <a href="https://open.spotify.com/artist/74tGyjffvsqsv2kTVRNXf0" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0290491ca61c263d1b5c9ea9a5" height="100" width="auto" style="border-radius:50%"></a>
 41 | **Toxaemia** | <a href="https://open.spotify.com/artist/15bWcusRsDaThBO9CRSSKO" target="_blank"><img src="https://i.scdn.co/image/678ed4c1693fb1c8a825977f8c29f0f038c191cb" height="100" width="auto" style="border-radius:50%"></a>
-42 | **Two Face Sinner** | <a href="https://open.spotify.com/artist/2vUfwVEeIfa29uqqMAdNhN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c063d66e98beb8f01160710" height="100" width="auto" style="border-radius:50%"></a>
-43 | **Undergang** | <a href="https://open.spotify.com/artist/1fFtjgqU6Z2vKBmk5Z8z3o" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02fe8551fa3df357ec9e76952e" height="100" width="auto" style="border-radius:50%"></a>
-44 | **Windir** | <a href="https://open.spotify.com/artist/2ytfu1MWsf763hCBQmaQr6" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eed5a8b7edfd7d53811290e4" height="100" width="auto" style="border-radius:50%"></a>
-45 | **Ytivarg** | <a href="https://open.spotify.com/artist/7uCsFgAY2OdVJ2CNoGVOJL" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0203f7908e744f735d42e8b27a" height="100" width="auto" style="border-radius:50%"></a>
+42 | **Trident** | <a href="https://open.spotify.com/artist/0ZiNRu5KFs4kyt6yClKNXr" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e1988d4c59dc6f2ab0e36755" height="100" width="auto" style="border-radius:50%"></a>
+43 | **Two Face Sinner** | <a href="https://open.spotify.com/artist/2vUfwVEeIfa29uqqMAdNhN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c063d66e98beb8f01160710" height="100" width="auto" style="border-radius:50%"></a>
+44 | **Undergang** | <a href="https://open.spotify.com/artist/1fFtjgqU6Z2vKBmk5Z8z3o" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02fe8551fa3df357ec9e76952e" height="100" width="auto" style="border-radius:50%"></a>
+45 | **Windir** | <a href="https://open.spotify.com/artist/2ytfu1MWsf763hCBQmaQr6" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eed5a8b7edfd7d53811290e4" height="100" width="auto" style="border-radius:50%"></a>
+46 | **Ytivarg** | <a href="https://open.spotify.com/artist/7uCsFgAY2OdVJ2CNoGVOJL" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0203f7908e744f735d42e8b27a" height="100" width="auto" style="border-radius:50%"></a>
