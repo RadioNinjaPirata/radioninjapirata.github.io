@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3dlrMCq)
 
-<a href="https://spoti.fi/3dlrMCq" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b27304b8124df18cdd39ddef6d6fab67616d0000b27312ae6ffad89c22a3c5e82612ab67616d0000b27372d3ddccd033b8e093c82998" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3dlrMCq" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b27312ae6ffad89c22a3c5e82612ab67616d0000b27372d3ddccd033b8e093c82998ab67616d0000b273f0a23f397dfb5adb8e1f18c8" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -38,4 +38,4 @@ No. | Band | Avatar
 3 | **Cerebral Bore** | <a href="https://open.spotify.com/artist/0bamlDtTg8xXwgG4nd59bg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0202feb7306e5877c5666bea3d" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Deprecated** | <a href="https://open.spotify.com/artist/5N8I1vHNZN9y2XcapxgwUw" target="_blank"><img src="https://i.scdn.co/image/e9e0454899c29c42d83fe81cb9596a9fe8ed95b7" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Geostygma** | <a href="https://open.spotify.com/artist/3gVcHU2lxiEBQvTAlkrCL5?si=yM_bK2XdRBapjkLNKlD2QQ" target="_blank"><img src="https://i.scdn.co/image/1885db84f035e7b7ecd9423c550744dc162dc66a" height="100" width="auto" style="border-radius:50%"></a>
-6 | **Inferi** | <a href="https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A?si=DT5TqAgASe-xeLagtHdINw" target="_blank"><img src="https://i.scdn.co/image/75fefed8ff01487e668f5fc9ad3ac36d56f7ccb7" height="100" width="auto" style="border-radius:50%"></a>
+6 | **Inferi** | <a href="https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A" target="_blank"><img src="https://i.scdn.co/image/75fefed8ff01487e668f5fc9ad3ac36d56f7ccb7" height="100" width="auto" style="border-radius:50%"></a>

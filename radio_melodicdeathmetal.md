@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
 
-<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273122513d73dc3659c8b6626f1ab67616d0000b273c28e1fe6d855a00301e8344eab67616d0000b273e206d98bb8bafb2004f08a0fab67616d0000b273eb28a5114c19b47f1d6238b2" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273823beb1647ccf592ab84e316ab67616d0000b273893d1061b717beb72de7ac96ab67616d0000b273c28e1fe6d855a00301e8344eab67616d0000b273ca5a00401e02dbef1a71fd43" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -50,7 +50,7 @@ No. | Band | Avatar
 15 | **Healing Harm** | <a href="https://open.spotify.com/artist/5U3hWIUobhzov9jCpmmQq4" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020764a93d97acc1de13179c9f" height="100" width="auto" style="border-radius:50%"></a>
 16 | **Incarnia** | <a href="https://open.spotify.com/artist/4EdX0VsFpAj8iGs3HWbjcO?si=XS2A7DBzTVqhHuZtOZZEPw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e829355f39b6394a1e4481e5" height="100" width="auto" style="border-radius:50%"></a>
 17 | **Intestine Baalism** | <a href="https://open.spotify.com/artist/2Z9z6GKa0UMW8NLx0nER8M?si=AZz71NqgQNOYwYX-s4z5Nw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0267ce1c9cb9a53f1ebc3e9a83" height="100" width="auto" style="border-radius:50%"></a>
-18 | **Kalmah** | <a href="https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF?si=zNjaQfrURgWk38vqufmc1A" target="_blank"><img src="https://i.scdn.co/image/91bba9f6fe7794c6aa89748e09266197e18b23b0" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Kalmah** | <a href="https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF" target="_blank"><img src="https://i.scdn.co/image/91bba9f6fe7794c6aa89748e09266197e18b23b0" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Karkaos** | <a href="https://open.spotify.com/artist/1IJOtqqfjQMJwxI3uQ7c9g" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024acd3b877db3a0cbc7888514" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Kaunis Kuolematon** | <a href="https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN?si=Ty3nhkPsQlSG6ljrCw3pbg" target="_blank"><img src="https://i.scdn.co/image/05c2aa5b649e09abc45e5afcf246a65b88133a67" height="100" width="auto" style="border-radius:50%"></a>
 21 | **Mors Principium Est** | <a href="https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi?si=RtVuBKYaR0uFJTZDW1WJrg" target="_blank"><img src="https://i.scdn.co/image/c7797ed007932543fb4b972583cb67bf7281febb" height="100" width="auto" style="border-radius:50%"></a>

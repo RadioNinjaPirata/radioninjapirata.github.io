@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2ZKYKGP)
 
-<a href="https://spoti.fi/2ZKYKGP" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734f3a20fdb0c083850f4e3dc4ab67616d0000b273ed76dd6d3afced950064a0aaab67616d0000b273f5823632c600c1a403c2318aab67616d0000b273f7ca0123ddbe392389fcf351" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2ZKYKGP" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273112783a01ec11d5c13df8eb9ab67616d0000b273508dca037558d62453b2f343ab67616d0000b273e628cd8a69097be1771bc058ab67616d0000b273f30fe3aee1f722a63187ece2" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -84,7 +84,7 @@ No. | Band | Avatar
 49 | **Exhumed** | <a href="https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu" target="_blank"><img src="https://i.scdn.co/image/5b0f95a23887bc248c71102b258954c5c11a5199" height="100" width="auto" style="border-radius:50%"></a>
 50 | **Extremity** | <a href="https://open.spotify.com/artist/42iMHtuQke7Z1refGmTW3w" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0259218928ed2478d5903d0771" height="100" width="auto" style="border-radius:50%"></a>
 51 | **Farasu** | <a href="https://open.spotify.com/artist/5ydHoSw4MEJrDNSkvFqUPo" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0256ce1820aa1b5a4aace0ccb9" height="100" width="auto" style="border-radius:50%"></a>
-52 | **Fleshgod Apocalypse** | <a href="https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML" target="_blank"><img src="https://i.scdn.co/image/072abcb39ee9951cd8982afd573546adbbe57c3c" height="100" width="auto" style="border-radius:50%"></a>
+52 | **Fleshgod Apocalypse** | <a href="https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML" target="_blank"><img src="https://i.scdn.co/image/96267cbbf5cebc7c13d8de2d4329b739d055298f" height="100" width="auto" style="border-radius:50%"></a>
 53 | **Fulci** | <a href="https://open.spotify.com/artist/5rK5iEoGaC5LtoBCiXpCet" target="_blank"><img src="https://i.scdn.co/image/dfd66a49f7b41641dfcfca88ae752fffbdf93b3b" height="100" width="auto" style="border-radius:50%"></a>
 54 | **Gatecreeper** | <a href="https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N" target="_blank"><img src="https://i.scdn.co/image/01a1fa68dc7666414b772208d08e30fa14d5c02e" height="100" width="auto" style="border-radius:50%"></a>
 55 | **God Macabre** | <a href="https://open.spotify.com/artist/4oeldRAIg8xjmc8etBXBCo" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02130c86d46911bccec75fb474" height="100" width="auto" style="border-radius:50%"></a>
