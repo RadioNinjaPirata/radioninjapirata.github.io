@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27331637c7ade40add670bfeb43ab67616d0000b2735231b0cdb3a3c95fdce8b831ab67616d0000b27387bba0c63b34d6b4d0da4eeaab67616d0000b273b01c28ef6e72a17c7882ae80" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27317264e8ca759bd7e2e1a393dab67616d0000b27340d5227b1f071073b25762dbab67616d0000b273672df5f0a5caed7d9a3e9deaab67616d0000b273be502bea537cda54a5d79917" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -42,7 +42,7 @@ No. | Band | Avatar
 7 | **Chimaira** | <a href="https://open.spotify.com/artist/0kO2SRhHlmMIeyJHfHy3c9" target="_blank"><img src="https://i.scdn.co/image/84f94964af469733d6830b268423e3300c05ab99" height="100" width="auto" style="border-radius:50%"></a>
 8 | **Damageplan** | <a href="https://open.spotify.com/artist/4fE4Bf0MM6lMJpHiHniPuW?si=88wgQ2ciSX-bCttK6WTFYA" target="_blank"><img src="https://i.scdn.co/image/4b10acb6e69308e3424f2d4a017cad2282eeb6e2" height="100" width="auto" style="border-radius:50%"></a>
 9 | **Devildriver** | <a href="https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L" target="_blank"><img src="https://i.scdn.co/image/a73d072c1eba2b1534db7012f12742b220447a13" height="100" width="auto" style="border-radius:50%"></a>
-10 | **Down** | <a href="https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu?si=gTj72itqR9GrDNqMUd8v8g" target="_blank"><img src="https://i.scdn.co/image/c8b877276db35ba66e15018b8bb1b2ecfffe308b" height="100" width="auto" style="border-radius:50%"></a>
+10 | **Down** | <a href="https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu" target="_blank"><img src="https://i.scdn.co/image/c8b877276db35ba66e15018b8bb1b2ecfffe308b" height="100" width="auto" style="border-radius:50%"></a>
 11 | **Entombed** | <a href="https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB" target="_blank"><img src="https://i.scdn.co/image/dd2267ead2476b505b246ec06f73fe2cdff81faf" height="100" width="auto" style="border-radius:50%"></a>
 12 | **Fear Factory** | <a href="https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac34b3b1fa1c5ab299c71f5af72" height="100" width="auto" style="border-radius:50%"></a>
 13 | **God Forbid** | <a href="https://open.spotify.com/artist/2OgQ0tvf2ldbdlm8sXyx3M?si=vrs_pwJjRO6vOG37DA0S2w" target="_blank"><img src="https://i.scdn.co/image/ea033eb42a16359387fa4daeeb32b1be3c7ddac9" height="100" width="auto" style="border-radius:50%"></a>
