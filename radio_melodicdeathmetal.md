@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
 
-<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733166fc5c6fde4dd8dcbd4f56ab67616d0000b273414470def294652d878ef931ab67616d0000b2736f862c491bf43e4c885f9264ab67616d0000b273c28e1fe6d855a00301e8344e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730c596ccd727b8dd124066d44ab67616d0000b2732b9383667ea3f124fa849a8dab67616d0000b273389649bc759d83960c0afd1fab67616d0000b273bff2409003248132bfe9bcee" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -59,7 +59,7 @@ No. | Band | Avatar
 24 | **Purest Of Pain** | <a href="https://open.spotify.com/artist/4HtMrRFMxvpRworWBODhX3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02bd6b43cd2ef9f7d093f71663" height="100" width="auto" style="border-radius:50%"></a>
 25 | **Realm Of Horus** | <a href="https://open.spotify.com/artist/65igMDriogXd7AaEq6fW5i" target="_blank"><img src="https://i.scdn.co/image/a92d4dccbad4e34978d86ef976c113c19440b72d" height="100" width="auto" style="border-radius:50%"></a>
 26 | **Sarea** | <a href="https://open.spotify.com/artist/0XmGOpXc3fU9wpX5iUVe13" target="_blank"><img src="https://i.scdn.co/image/588bffd41ddec7bda5dfced88ccad0b5c2d4927c" height="100" width="auto" style="border-radius:50%"></a>
-27 | **Shylmagoghnar** | <a href="https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA?si=AxtEvhxQRKGtoqKDePfNeg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%"></a>
+27 | **Shylmagoghnar** | <a href="https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%"></a>
 28 | **Sollust** | <a href="https://open.spotify.com/artist/06TkSdzWZTCKxfViqaE1rv" target="_blank"><img src="https://i.scdn.co/image/263e554c33708ee4ddd5a97395bf3900c07e7d02" height="100" width="auto" style="border-radius:50%"></a>
 29 | **Stormlord** | <a href="https://open.spotify.com/artist/5iqk0cqsbJiSTcXQ6ljGNo?si=tTARC1xCT_64Tx2gUh-h8w" target="_blank"><img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%"></a>
 30 | **Synestesia** | <a href="https://open.spotify.com/artist/2qFjGRQKbV3SZ2uLyfe2rz?si=WkyqyqSqTGCyrj6_p-JifA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023db4d9a26aff5413169a8c4c" height="100" width="auto" style="border-radius:50%"></a>

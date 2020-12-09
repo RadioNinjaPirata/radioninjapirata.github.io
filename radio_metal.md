@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27317264e8ca759bd7e2e1a393dab67616d0000b27340d5227b1f071073b25762dbab67616d0000b273672df5f0a5caed7d9a3e9deaab67616d0000b273be502bea537cda54a5d79917" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735bbbc37d53ccfc3df58b6e01ab67616d0000b27372e68e1417c056570c016228ab67616d0000b273796cb2e1c294884e2106a93aab67616d0000b273aaf5ba31960f224fe6c0b1c2" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -62,15 +62,16 @@ No. | Band | Avatar
 27 | **Pantera** | <a href="https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18?si=26zulfdfQ6-cZzChr_rjVA" target="_blank"><img src="https://i.scdn.co/image/ca554d2c5418c8f4f50e84c7708db076f4d04081" height="100" width="auto" style="border-radius:50%"></a>
 28 | **Rage Against The Machine** | <a href="https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj?si=TMktArSEQSmeHP0IN_u1XQ" target="_blank"><img src="https://i.scdn.co/image/b0a54ab481fc75c2800973e78acf2738834b5c10" height="100" width="auto" style="border-radius:50%"></a>
 29 | **Rage** | <a href="https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x" target="_blank"><img src="https://i.scdn.co/image/0e97ed2dab6741db9c3add95ce2c9bc6b9622bb4" height="100" width="auto" style="border-radius:50%"></a>
-30 | **Rammstein** | <a href="https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP" target="_blank"><img src="https://i.scdn.co/image/e53c4ffd20251515188d53057910677af3194bac" height="100" width="auto" style="border-radius:50%"></a>
-31 | **Roadrunner United** | <a href="https://open.spotify.com/artist/3sURANr03JD4V9tRA8fChy" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023ac71450f70f8dae74a215e9" height="100" width="auto" style="border-radius:50%"></a>
-32 | **Rob Zombie** | <a href="https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5" target="_blank"><img src="https://i.scdn.co/image/e28689aa25d8a8a18623bfe1339467d3491fea9a" height="100" width="auto" style="border-radius:50%"></a>
-33 | **Sepultura** | <a href="https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4" target="_blank"><img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%"></a>
-34 | **Soil** | <a href="https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP" target="_blank"><img src="https://i.scdn.co/image/6178819ea7c333fa6a067b6969defb6ade1cd19f" height="100" width="auto" style="border-radius:50%"></a>
-35 | **Soilwork** | <a href="https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx" target="_blank"><img src="https://i.scdn.co/image/5fac3d40202d973578dde29dbfe5c90fb4a65627" height="100" width="auto" style="border-radius:50%"></a>
-36 | **Soulfly** | <a href="https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc" target="_blank"><img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%"></a>
-37 | **Sylosis** | <a href="https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl" target="_blank"><img src="https://i.scdn.co/image/9575da9514a8c72836d0d214552f93e8fdfa4c20" height="100" width="auto" style="border-radius:50%"></a>
-38 | **Syrebris** | <a href="https://open.spotify.com/artist/5bN8dlo6XsZVGp33DZnoor" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%"></a>
-39 | **Them** | <a href="https://open.spotify.com/artist/5xg82WkthiNPMCiDtJrOh7" target="_blank"><img src="https://i.scdn.co/image/000f79da5ac42cca341d948a05717a4304c1aade" height="100" width="auto" style="border-radius:50%"></a>
-40 | **Threat Signal** | <a href="https://open.spotify.com/artist/12YY9wgi8ufdP5iw8RggVO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%"></a>
-41 | **Wako** | <a href="https://open.spotify.com/artist/6OssOIB77Mrm5pMBSMhHM0" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0260f2fd52c71b748238a40275" height="100" width="auto" style="border-radius:50%"></a>
+30 | **Raise Hell** | <a href="https://open.spotify.com/artist/5nJMP57Zt7i1qkldOUsZH1" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020e4a79e73e4fbf07852aad3c" height="100" width="auto" style="border-radius:50%"></a>
+31 | **Rammstein** | <a href="https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP" target="_blank"><img src="https://i.scdn.co/image/e53c4ffd20251515188d53057910677af3194bac" height="100" width="auto" style="border-radius:50%"></a>
+32 | **Roadrunner United** | <a href="https://open.spotify.com/artist/3sURANr03JD4V9tRA8fChy" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023ac71450f70f8dae74a215e9" height="100" width="auto" style="border-radius:50%"></a>
+33 | **Rob Zombie** | <a href="https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5" target="_blank"><img src="https://i.scdn.co/image/e28689aa25d8a8a18623bfe1339467d3491fea9a" height="100" width="auto" style="border-radius:50%"></a>
+34 | **Sepultura** | <a href="https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4" target="_blank"><img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%"></a>
+35 | **Soil** | <a href="https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP" target="_blank"><img src="https://i.scdn.co/image/6178819ea7c333fa6a067b6969defb6ade1cd19f" height="100" width="auto" style="border-radius:50%"></a>
+36 | **Soilwork** | <a href="https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx" target="_blank"><img src="https://i.scdn.co/image/5fac3d40202d973578dde29dbfe5c90fb4a65627" height="100" width="auto" style="border-radius:50%"></a>
+37 | **Soulfly** | <a href="https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc" target="_blank"><img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%"></a>
+38 | **Sylosis** | <a href="https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl" target="_blank"><img src="https://i.scdn.co/image/9575da9514a8c72836d0d214552f93e8fdfa4c20" height="100" width="auto" style="border-radius:50%"></a>
+39 | **Syrebris** | <a href="https://open.spotify.com/artist/5bN8dlo6XsZVGp33DZnoor" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%"></a>
+40 | **Them** | <a href="https://open.spotify.com/artist/5xg82WkthiNPMCiDtJrOh7" target="_blank"><img src="https://i.scdn.co/image/000f79da5ac42cca341d948a05717a4304c1aade" height="100" width="auto" style="border-radius:50%"></a>
+41 | **Threat Signal** | <a href="https://open.spotify.com/artist/12YY9wgi8ufdP5iw8RggVO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%"></a>
+42 | **Wako** | <a href="https://open.spotify.com/artist/6OssOIB77Mrm5pMBSMhHM0" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0260f2fd52c71b748238a40275" height="100" width="auto" style="border-radius:50%"></a>
