@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kvnqLs)
 
-<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27363818a827a81db94c294e79bab67616d0000b27367a66139a9322044faa5520eab67616d0000b273de528b261d43913596f8e74eab67616d0000b273f9a2fc5afe31fdbd34a3928b" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273506192e0744bb9ad939f26b5ab67616d0000b2735aac4645c02668131e5a3559ab67616d0000b2739b411d736c72e659649614a9ab67616d0000b273e1a7d0f18e8a40e905b30764" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -108,7 +108,7 @@ No. | Band | Avatar
 73 | **Mgła** | <a href="https://open.spotify.com/artist/2hbkBlGBgvJkC3tpUn9w4C" target="_blank"><img src="https://i.scdn.co/image/6a0d9713e0ce27a2671d3551f6b47830c40f1ef7" height="100" width="auto" style="border-radius:50%"></a>
 74 | **Miasthenia** | <a href="https://open.spotify.com/artist/2gXm7lnTjOVGhSDBA0e7kW?si=hOISznpnTFeUmWn5yaUedg" target="_blank"><img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%"></a>
 75 | **Misanthropy** | <a href="https://open.spotify.com/artist/1UyetN5SWFbeToXl9IWAUn?si=wnBNpb6QTX-4CkPtfORWDQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f3e768f77aee223f218afd88" height="100" width="auto" style="border-radius:50%"></a>
-76 | **Moonspell** | <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6?si=I4lyBY8pTNOPu3RottUdrw" target="_blank"><img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%"></a>
+76 | **Moonspell** | <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6" target="_blank"><img src="https://i.scdn.co/image/a1bf892ec0b8f729595b0a017778b256c66a05d4" height="100" width="auto" style="border-radius:50%"></a>
 77 | **Mortuary Drape** | <a href="https://open.spotify.com/artist/5UMz8PiVq8LvQZJszgn1wv" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0297bca129de4310409ce61eee" height="100" width="auto" style="border-radius:50%"></a>
 78 | **Mørknatt** | <a href="https://open.spotify.com/artist/25flke96IdHQmuuCQu3WOh" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0289cb0891798b4049d83f197e" height="100" width="auto" style="border-radius:50%"></a>
 79 | **Naglfar** | <a href="https://open.spotify.com/artist/1WV0pMUfO5UZ3MXfZrTohr" target="_blank"><img src="https://i.scdn.co/image/63b4e50ed3c601b171b97bab7ac194f7cd692957" height="100" width="auto" style="border-radius:50%"></a>

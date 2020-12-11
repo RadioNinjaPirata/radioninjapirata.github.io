@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hV0lQl)
 
-<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735bbbc37d53ccfc3df58b6e01ab67616d0000b27372e68e1417c056570c016228ab67616d0000b273796cb2e1c294884e2106a93aab67616d0000b273aaf5ba31960f224fe6c0b1c2" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hV0lQl" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273a61200e43f747bea109afcf9ab67616d0000b273dcd127899a89e80bfc5db98aab67616d0000b273f2f491b7fa332591a4730277ab67616d0000b273f6c23201d9d44e742f0891ec" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -55,7 +55,7 @@ No. | Band | Avatar
 20 | **Legacy Of Cynthia** | <a href="https://open.spotify.com/artist/3Ak3anIU6UiYCxnu4CNijC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02672df5f0a5caed7d9a3e9dea" height="100" width="auto" style="border-radius:50%"></a>
 21 | **Light This City** | <a href="https://open.spotify.com/artist/4SRy5bPbyNwhKxDvPrJBjp" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025a72292c91f439556beca97a" height="100" width="auto" style="border-radius:50%"></a>
 22 | **Machine Head** | <a href="https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt" target="_blank"><img src="https://i.scdn.co/image/93b4063ffba54f8df57124cc4d3d3612d417f4c1" height="100" width="auto" style="border-radius:50%"></a>
-23 | **Moonspell** | <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6?si=I4lyBY8pTNOPu3RottUdrw" target="_blank"><img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%"></a>
+23 | **Moonspell** | <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6" target="_blank"><img src="https://i.scdn.co/image/a1bf892ec0b8f729595b0a017778b256c66a05d4" height="100" width="auto" style="border-radius:50%"></a>
 24 | **Motörhead** | <a href="https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M" target="_blank"><img src="https://i.scdn.co/image/1d4d3589606e06c992f45279a584f8dd5fe2ad13" height="100" width="auto" style="border-radius:50%"></a>
 25 | **Nightfall** | <a href="https://open.spotify.com/artist/4W0Vom1cl6o3UCq8tTfRHV?si=QdECvVshSZSoxZaRYxhtdA" target="_blank"><img src="https://i.scdn.co/image/c27f890d79d686e12ffd16588db09e57cc976f08" height="100" width="auto" style="border-radius:50%"></a>
 26 | **Once Human** | <a href="https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ" target="_blank"><img src="https://i.scdn.co/image/36d349ec2b41f4862e00b020ed3dad7d76174c7a" height="100" width="auto" style="border-radius:50%"></a>
@@ -65,7 +65,7 @@ No. | Band | Avatar
 30 | **Raise Hell** | <a href="https://open.spotify.com/artist/5nJMP57Zt7i1qkldOUsZH1" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020e4a79e73e4fbf07852aad3c" height="100" width="auto" style="border-radius:50%"></a>
 31 | **Rammstein** | <a href="https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP" target="_blank"><img src="https://i.scdn.co/image/e53c4ffd20251515188d53057910677af3194bac" height="100" width="auto" style="border-radius:50%"></a>
 32 | **Roadrunner United** | <a href="https://open.spotify.com/artist/3sURANr03JD4V9tRA8fChy" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023ac71450f70f8dae74a215e9" height="100" width="auto" style="border-radius:50%"></a>
-33 | **Rob Zombie** | <a href="https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5" target="_blank"><img src="https://i.scdn.co/image/e28689aa25d8a8a18623bfe1339467d3491fea9a" height="100" width="auto" style="border-radius:50%"></a>
+33 | **Rob Zombie** | <a href="https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5" target="_blank"><img src="https://i.scdn.co/image/a0b2aec4b42934c3d6d74599cb70701ea14a1721" height="100" width="auto" style="border-radius:50%"></a>
 34 | **Sepultura** | <a href="https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4" target="_blank"><img src="https://i.scdn.co/image/6d210df7f1fb905036b710c2328b7215d47186ef" height="100" width="auto" style="border-radius:50%"></a>
 35 | **Soil** | <a href="https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP" target="_blank"><img src="https://i.scdn.co/image/6178819ea7c333fa6a067b6969defb6ade1cd19f" height="100" width="auto" style="border-radius:50%"></a>
 36 | **Soilwork** | <a href="https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx" target="_blank"><img src="https://i.scdn.co/image/5fac3d40202d973578dde29dbfe5c90fb4a65627" height="100" width="auto" style="border-radius:50%"></a>

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA)
 
-<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734c260b16902d27ce46b93c8aab67616d0000b2734d1a6b5589141ca67450a4cdab67616d0000b27350ea9c7149b2690033b45b4dab67616d0000b2739eece14365fe914ef5a79620" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732871f1960fb1586c824ee7adab67616d0000b2734caa2dbc0f82a388518f8c2aab67616d0000b273b3ea8934572f94dcd10bc3a7ab67616d0000b273dc96d37e40fa369c69b4dbae" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -47,6 +47,7 @@ No. | Band | Avatar
 12 | **Rainbow** | <a href="https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m" target="_blank"><img src="https://i.scdn.co/image/402ab270e0754615887a261047f7db4596c1ffda" height="100" width="auto" style="border-radius:50%"></a>
 13 | **Raven** | <a href="https://open.spotify.com/artist/1EH9eSje47IiRyVsq3gfkl" target="_blank"><img src="https://i.scdn.co/image/ab9e9d5f86ab4342765acfe77264d3f9c0848450" height="100" width="auto" style="border-radius:50%"></a>
 14 | **Rock Goddess** | <a href="https://open.spotify.com/artist/5IRiDFbQACzuEriYUoGBIK" target="_blank"><img src="https://i.scdn.co/image/ffa95b275729de0b6c3a603099e97a39a54d9ee2" height="100" width="auto" style="border-radius:50%"></a>
-15 | **Saxon** | <a href="https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU" target="_blank"><img src="https://i.scdn.co/image/ff107ac12bab4f9b6362c89dc203ec7b37a58bbe" height="100" width="auto" style="border-radius:50%"></a>
-16 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
-17 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>
+15 | **Satan'S Fall** | <a href="https://open.spotify.com/artist/2UAI07YLI30I3lZN91lqbO" target="_blank"><img src="https://i.scdn.co/image/e66b8bdc0b2eec94031b32af27aff8447def6f2e" height="100" width="auto" style="border-radius:50%"></a>
+16 | **Saxon** | <a href="https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU" target="_blank"><img src="https://i.scdn.co/image/ff107ac12bab4f9b6362c89dc203ec7b37a58bbe" height="100" width="auto" style="border-radius:50%"></a>
+17 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>

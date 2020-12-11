@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3iQ6QWg)
 
-<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730c596ccd727b8dd124066d44ab67616d0000b2732b9383667ea3f124fa849a8dab67616d0000b273389649bc759d83960c0afd1fab67616d0000b273bff2409003248132bfe9bcee" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3iQ6QWg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734284e7ebadba84a5f6e6da46ab67616d0000b2734afa1045b9162348f0f6ad27ab67616d0000b273607a57d69569c9682d9fca1dab67616d0000b2736c2592f5519816e6a63c4207" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -41,7 +41,7 @@ No. | Band | Avatar
 6 | **Bloodhunter** | <a href="https://open.spotify.com/artist/35J5dOnnkCjaruu1oRrXuF" target="_blank"><img src="https://i.scdn.co/image/380bc2c00de84b2c73bc8a4f00401282df32fdb2" height="100" width="auto" style="border-radius:50%"></a>
 7 | **Dark Oath** | <a href="https://open.spotify.com/artist/3Oc3JnQKIW7ZNPXS0yf6QV" target="_blank"><img src="https://i.scdn.co/image/7ffbd89ed446db5cfab73c34846c4d15068adc11" height="100" width="auto" style="border-radius:50%"></a>
 8 | **Despite** | <a href="https://open.spotify.com/artist/4OKiVSsDSnHqPnxQAwUE8G" target="_blank"><img src="https://i.scdn.co/image/9587695d99d30865d27eae0367a9d88f631de816" height="100" width="auto" style="border-radius:50%"></a>
-9 | **Eternal Tears Of Sorrow** | <a href="https://open.spotify.com/artist/3rdFnKhyWhTivuBFSH4YT3?si=M60o_rFeQBCBIHSzaRSRQQ" target="_blank"><img src="https://i.scdn.co/image/0ac9cf29916cf4b899a3b6990c3f56f12e22f4cf" height="100" width="auto" style="border-radius:50%"></a>
+9 | **Eternal Tears Of Sorrow** | <a href="https://open.spotify.com/artist/3rdFnKhyWhTivuBFSH4YT3" target="_blank"><img src="https://i.scdn.co/image/0ac9cf29916cf4b899a3b6990c3f56f12e22f4cf" height="100" width="auto" style="border-radius:50%"></a>
 10 | **Eucharist** | <a href="https://open.spotify.com/artist/0EXs3fkjKhZtElrfhuWShN" target="_blank"><img src="https://i.scdn.co/image/20441218dee994595395d3d71a5ed1702f15da04" height="100" width="auto" style="border-radius:50%"></a>
 11 | **Fall Of The Leafe** | <a href="https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn?si=TGUER7bBTAiP_I9MO24Mlw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ed11278f2d1ee36117e8de41" height="100" width="auto" style="border-radius:50%"></a>
 12 | **Fires In The Distance** | <a href="https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw" target="_blank"><img src="https://i.scdn.co/image/bec24b9776dc6015f806b6fc7dcef4d7ed7a399c" height="100" width="auto" style="border-radius:50%"></a>
@@ -53,7 +53,7 @@ No. | Band | Avatar
 18 | **Intestine Baalism** | <a href="https://open.spotify.com/artist/2Z9z6GKa0UMW8NLx0nER8M?si=AZz71NqgQNOYwYX-s4z5Nw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0267ce1c9cb9a53f1ebc3e9a83" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Kalmah** | <a href="https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF" target="_blank"><img src="https://i.scdn.co/image/91bba9f6fe7794c6aa89748e09266197e18b23b0" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Karkaos** | <a href="https://open.spotify.com/artist/1IJOtqqfjQMJwxI3uQ7c9g" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024acd3b877db3a0cbc7888514" height="100" width="auto" style="border-radius:50%"></a>
-21 | **Kaunis Kuolematon** | <a href="https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN?si=Ty3nhkPsQlSG6ljrCw3pbg" target="_blank"><img src="https://i.scdn.co/image/05c2aa5b649e09abc45e5afcf246a65b88133a67" height="100" width="auto" style="border-radius:50%"></a>
+21 | **Kaunis Kuolematon** | <a href="https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN" target="_blank"><img src="https://i.scdn.co/image/05c2aa5b649e09abc45e5afcf246a65b88133a67" height="100" width="auto" style="border-radius:50%"></a>
 22 | **Mors Principium Est** | <a href="https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi?si=RtVuBKYaR0uFJTZDW1WJrg" target="_blank"><img src="https://i.scdn.co/image/c7797ed007932543fb4b972583cb67bf7281febb" height="100" width="auto" style="border-radius:50%"></a>
 23 | **Mortum** | <a href="https://open.spotify.com/artist/34R4iNjZGHvc5uthUHs8Iu" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02bd9d83662f094acc9f1a8df5" height="100" width="auto" style="border-radius:50%"></a>
 24 | **Purest Of Pain** | <a href="https://open.spotify.com/artist/4HtMrRFMxvpRworWBODhX3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02bd6b43cd2ef9f7d093f71663" height="100" width="auto" style="border-radius:50%"></a>

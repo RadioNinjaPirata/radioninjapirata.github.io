@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3hOohVF)
 
-<a href="https://spoti.fi/3hOohVF" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734455038173d542c7000fbb09ab67616d0000b27397750867a88eadba0494c697ab67616d0000b273eedc2ceec9cf7f7bcde10f0cab67616d0000b273fe4c0af7519d595601da7ebd" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/3hOohVF" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736135d8332a5c4f0d29456139ab67616d0000b2736a049558f5498aa11cf9482aab67616d0000b273741e61b7f0e3384362363cc8ab67616d0000b273995f206bfdb13c1cfc825310" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -60,7 +60,7 @@ No. | Band | Avatar
 25 | **Jáfu'Mega** | <a href="https://open.spotify.com/artist/5A4XND3UItKKlkie6izimu?si=qtZ7Tv9qS_Wyu50Xwsu8PA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02edfcd4f0ac841bbc7bcb2ead" height="100" width="auto" style="border-radius:50%"></a>
 26 | **Kumpania Algazarra** | <a href="https://open.spotify.com/artist/1xGf7srdjaLe4ljYXlYUrt?si=jqp19GzkSH-qqtfmI8TIxw" target="_blank"><img src="https://i.scdn.co/image/07d57419e5af56011718b2da0f4b353ff768ed6b" height="100" width="auto" style="border-radius:50%"></a>
 27 | **Linda Martini** | <a href="https://open.spotify.com/artist/4Pv6qAkea25i2DlW1quQ8t?si=LXOVwxjbSNqy_8IawD5yHg" target="_blank"><img src="https://i.scdn.co/image/4bb29f816dfd0775052a472f7e4179cd381b2408" height="100" width="auto" style="border-radius:50%"></a>
-28 | **Moonspell** | <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6?si=I4lyBY8pTNOPu3RottUdrw" target="_blank"><img src="https://i.scdn.co/image/05506f346721c2f13acb72c6cdf6a93ba5bed5d2" height="100" width="auto" style="border-radius:50%"></a>
+28 | **Moonspell** | <a href="https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6" target="_blank"><img src="https://i.scdn.co/image/a1bf892ec0b8f729595b0a017778b256c66a05d4" height="100" width="auto" style="border-radius:50%"></a>
 29 | **Mundo Cão** | <a href="https://open.spotify.com/artist/7h1L7jG0nQLrQI11vMkcEk?si=3G-oxn3pTUe5xk30_Jc7aA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02adeef09954af9509ae511a7c" height="100" width="auto" style="border-radius:50%"></a>
 30 | **Mão Morta** | <a href="https://open.spotify.com/artist/65q3jOsehtX9q8E5m9FRpQ?si=-adUgq7jTw2MxNg7jpXK5w" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028677f64dabf618a460125d73" height="100" width="auto" style="border-radius:50%"></a>
 31 | **Noiserv** | <a href="https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys?si=bsGzbhsOTEaoTskQ1dxB3Q" target="_blank"><img src="https://i.scdn.co/image/1214c6f11e0bdc1cb2f36cdfd421d4806e7ecb7c" height="100" width="auto" style="border-radius:50%"></a>

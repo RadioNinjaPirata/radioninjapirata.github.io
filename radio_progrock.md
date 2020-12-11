@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2RLv6fX)
 
-<a href="https://spoti.fi/2RLv6fX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273144d46bdc75f93ce2df43eebab67616d0000b2732568bc6ec54522face2a27afab67616d0000b273d00c17b46e94f64eb5da796eab67616d0000b273db1a365bf330e0077506f9e7" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://spoti.fi/2RLv6fX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273094b78088d5ce1efd8ec0d6dab67616d0000b27361ca915373ec701351ade95aab67616d0000b273a9ee6f65aae0cd612949b8bfab67616d0000b273ca43028b20d131154afd4f83" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -94,7 +94,7 @@ No. | Band | Avatar
 59 | **Thanatopsis** | <a href="https://open.spotify.com/artist/3ZDRbYAKzFiV0ihFXkuh3f" target="_blank"><img src="https://i.scdn.co/image/8a4620ffd8d4c9790931bbd0731fd9ece9b8bdfc" height="100" width="auto" style="border-radius:50%"></a>
 60 | **The Algorithm** | <a href="https://open.spotify.com/artist/14u4KXVp0iXQil79EpxXGc?si=MPAapKW-Qdezkg6hsAsHTg" target="_blank"><img src="https://i.scdn.co/image/c8a1da0965c9476f37134884d4a50af825fd494d" height="100" width="auto" style="border-radius:50%"></a>
 61 | **The Contortionist** | <a href="https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS" target="_blank"><img src="https://i.scdn.co/image/59143fd34ea281c51d5e2e7243f7ac59f16c6402" height="100" width="auto" style="border-radius:50%"></a>
-62 | **The Ocean** | <a href="https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq?si=pW_yzDLtQeyvWDHBQbSBcA" target="_blank"><img src="https://i.scdn.co/image/f2e4a4abd5a3b0cbba54e262a378504fdf4107a6" height="100" width="auto" style="border-radius:50%"></a>
+62 | **The Ocean** | <a href="https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq" target="_blank"><img src="https://i.scdn.co/image/f2e4a4abd5a3b0cbba54e262a378504fdf4107a6" height="100" width="auto" style="border-radius:50%"></a>
 63 | **The Omnific** | <a href="https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR?si=dVksyjQLQ7-ZZZ2sPhi9fA" target="_blank"><img src="https://i.scdn.co/image/cdac1d65155b42ba95edec1f0c08498418f94972" height="100" width="auto" style="border-radius:50%"></a>
 64 | **Tony Levin** | <a href="https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH" target="_blank"><img src="https://i.scdn.co/image/8cf4945127acf2eba8204ca4f55f07549ef192a0" height="100" width="auto" style="border-radius:50%"></a>
 65 | **United Progressive Fraternity** | <a href="https://open.spotify.com/artist/7gYWUfAlofZFjRx1u54kzY" target="_blank"><img src="https://i.scdn.co/image/7365f274c1e932a117a5e1a0b68e597bb544bf18" height="100" width="auto" style="border-radius:50%"></a>
