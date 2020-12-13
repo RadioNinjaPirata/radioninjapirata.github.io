@@ -3,9 +3,9 @@
 **40 different tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2RLv6fX)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg)
 
-<a href="https://spoti.fi/2RLv6fX" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735cfc1da45e13a6d18be39b72ab67616d0000b2738c19c350f091574e918c6f39ab67616d0000b273bb56125797a7b052b4155e69ab67616d0000b273d8e1f748ae0baf1b6aa2e7e3" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27304305fb1850d678c3b7588b7ab67616d0000b2736a14cd54972116b2467d4f14ab67616d0000b273cea0d3447f76631f0df8d737ab67616d0000b273f0a8272998f3a0f92b2541dc" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 

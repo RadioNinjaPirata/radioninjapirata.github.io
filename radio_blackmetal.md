@@ -3,9 +3,9 @@
 **40 different tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3kvnqLs)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A)
 
-<a href="https://spoti.fi/3kvnqLs" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27340a22528f96059e000cbb7f0ab67616d0000b273dcdc0634c7e78f64c64f5cb8ab67616d0000b273e206d98bb8bafb2004f08a0fab67616d0000b273e3f926c8f8931fefa42bf9c4" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27377ae5553f1323778b4e60394ab67616d0000b2737822ecb2467fea20136bf86eab67616d0000b2739f8fff3572b6c88f5e8a1a55ab67616d0000b273e1239b498d1842c2395fe645" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,7 +33,7 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **1349** | <a href="https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT" target="_blank"><img src="https://i.scdn.co/image/0a002ac651a46bc7435153478ac3de1ff3bcf2c8" height="100" width="auto" style="border-radius:50%"></a>
+1 | **1349** | <a href="https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT" target="_blank"><img src="https://i.scdn.co/image/546a71f96352aaf640196611a0feba6c84fb4d37" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Abbath** | <a href="https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx" target="_blank"><img src="https://i.scdn.co/image/dfa10e79278a389e60629480af93103469a7a9c7" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Abigail Williams** | <a href="https://open.spotify.com/artist/4VkWISgUF5AccCSs92mauh?si=XKgjkhNNQdynRqvlkXfVTw" target="_blank"><img src="https://i.scdn.co/image/03391af40c5e2ea030e3fb09a0b6fe6214d26425" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Abigor** | <a href="https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e1239b498d1842c2395fe645" height="100" width="auto" style="border-radius:50%"></a>
@@ -49,7 +49,7 @@ No. | Band | Avatar
 14 | **Asagraum** | <a href="https://open.spotify.com/artist/0vYB7kRlczfzsOnK49N7D2?si=t6TbMLEpQq2FDjJowomuiA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028521e9d9c1749056281ee52d" height="100" width="auto" style="border-radius:50%"></a>
 15 | **Astarte** | <a href="https://open.spotify.com/artist/0X8Pi1W40bewq0jRQ7o3VJ" target="_blank"><img src="https://i.scdn.co/image/b634afe8053465814d846578d877321f92e94ac9" height="100" width="auto" style="border-radius:50%"></a>
 16 | **Atrexial** | <a href="https://open.spotify.com/artist/5ckGWWp9bsGasq2w0SBR8B" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02406936848f5c755cfb768e1e" height="100" width="auto" style="border-radius:50%"></a>
-17 | **Aura Noir** | <a href="https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6?si=_niRK5EQSvy4LNsnTKxh_w" target="_blank"><img src="https://i.scdn.co/image/ce2daa43e49ca1aec76d029ae6112c31aef56146" height="100" width="auto" style="border-radius:50%"></a>
+17 | **Aura Noir** | <a href="https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6" target="_blank"><img src="https://i.scdn.co/image/ce2daa43e49ca1aec76d029ae6112c31aef56146" height="100" width="auto" style="border-radius:50%"></a>
 18 | **Automb** | <a href="https://open.spotify.com/artist/4QhZn2dYNEIlJGJrn7hVSm" target="_blank"><img src="https://i.scdn.co/image/5c1f5f9a659862ecbadf2701e32efbd112015814" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Azaghal** | <a href="https://open.spotify.com/artist/0kqafIf21Hks2EI9sSWywt" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024ef0b30d3fc56a3e602447b2" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Azarath** | <a href="https://open.spotify.com/artist/6falXnqZl5haCK7laExiL3" target="_blank"><img src="https://i.scdn.co/image/4a81f478fe6821171e8d63c2d50fb0c8da21f8c2" height="100" width="auto" style="border-radius:50%"></a>
@@ -77,7 +77,7 @@ No. | Band | Avatar
 42 | **Darkened Nocturn Slaughtercult** | <a href="https://open.spotify.com/artist/17pXjDaTNZzOvwk8ELJm7Q?si=J8q7kYAjRdyHqWAZFokO9w" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c5ccea1978d3134a9faef451" height="100" width="auto" style="border-radius:50%"></a>
 43 | **Darkthrone** | <a href="https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV" target="_blank"><img src="https://i.scdn.co/image/5ef21ae9abfb3bbfd62b4a2e7a7c15f6b086f9f1" height="100" width="auto" style="border-radius:50%"></a>
 44 | **Deathspell Omega** | <a href="https://open.spotify.com/artist/4pP3Gtdmwp2cHtz736pyGI?si=TCrHyJqwQ7uvvQ-kAzHkhw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e8c5dd1a7476258e2446e5b1" height="100" width="auto" style="border-radius:50%"></a>
-45 | **Deströyer 666** | <a href="https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK?si=BUk0-PZvSiKlqX7dVrAfMw" target="_blank"><img src="https://i.scdn.co/image/98544f21df2932ffbe948d01f25bec01759710b4" height="100" width="auto" style="border-radius:50%"></a>
+45 | **Deströyer 666** | <a href="https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK" target="_blank"><img src="https://i.scdn.co/image/98544f21df2932ffbe948d01f25bec01759710b4" height="100" width="auto" style="border-radius:50%"></a>
 46 | **Dimmu Borgir** | <a href="https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK" target="_blank"><img src="https://i.scdn.co/image/2ca7127260d987e0977056233b4f3918ec903b3f" height="100" width="auto" style="border-radius:50%"></a>
 47 | **Dissection** | <a href="https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0262b290dece27f8621817e9bd" height="100" width="auto" style="border-radius:50%"></a>
 48 | **Dominion Caligula** | <a href="https://open.spotify.com/artist/0P4ZukudoypjfvTpZr2RAT" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029b070ffe8271161efd84bb76" height="100" width="auto" style="border-radius:50%"></a>
@@ -150,7 +150,7 @@ No. | Band | Avatar
 115 | **Urgehal** | <a href="https://open.spotify.com/artist/4rsH5QGFETyQgsmU17kbVS" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029967f4abbc1c1acc11656f34" height="100" width="auto" style="border-radius:50%"></a>
 116 | **Varathron** | <a href="https://open.spotify.com/artist/3V9JzR4lFUlNvRgRuPO8x4?si=l-6V57dEQwW4bDxG52O4CA" target="_blank"><img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%"></a>
 117 | **Velho** | <a href="https://open.spotify.com/artist/68exoYKyr4yPvuRnk0jIxL" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02babae57ae769cd995b1e9286" height="100" width="auto" style="border-radius:50%"></a>
-118 | **Venom** | <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe?si=9cBISxY1RvOvHjwVsYM-sw" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%"></a>
+118 | **Venom** | <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%"></a>
 119 | **Vintersorg** | <a href="https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6" target="_blank"><img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%"></a>
 120 | **Waldgeflüster** | <a href="https://open.spotify.com/artist/1LAUNbSi4NHJfXGvgOoBFy?si=qLxc1dhYTKacU8MAq7NHxw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%"></a>
 121 | **Watain** | <a href="https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX" target="_blank"><img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%"></a>

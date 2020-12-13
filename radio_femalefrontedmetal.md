@@ -3,9 +3,9 @@
 **40 different tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/3jqVur0)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1sD0mWzIsuahYQ1aUlmPlR?si=ntwIlK0ITZ6i_h9PbuPc5g)
 
-<a href="https://spoti.fi/3jqVur0" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731338032bbf17a6fdd17ba4c0ab67616d0000b273a30b52494c459e7367679560ab67616d0000b273a755aa669154d818ca410e8bab67616d0000b273bd6b43cd2ef9f7d093f71663" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1sD0mWzIsuahYQ1aUlmPlR?si=ntwIlK0ITZ6i_h9PbuPc5g" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27342018da1fbf5e21357a1633bab67616d0000b27378dc3cc3122c9fe9f1494d29ab67616d0000b2739f9bf6574ed56401ff04138fab67616d0000b273fa9f69703499c7a088d9a36e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -70,7 +70,7 @@ No. | Band | Avatar
 35 | **Miasthenia** | <a href="https://open.spotify.com/artist/2gXm7lnTjOVGhSDBA0e7kW?si=hOISznpnTFeUmWn5yaUedg" target="_blank"><img src="https://i.scdn.co/image/fdc690e1a10c7ee15d58f15e0184b5e06574815d" height="100" width="auto" style="border-radius:50%"></a>
 36 | **Murderline** | <a href="https://open.spotify.com/artist/47zVavSlB8J6UzQlr5q5Xr" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ed76dd6d3afced950064a0aa" height="100" width="auto" style="border-radius:50%"></a>
 37 | **Muriel Anderson** | <a href="https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024798de0103233e4f93222889" height="100" width="auto" style="border-radius:50%"></a>
-38 | **Nervosa** | <a href="https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH?si=poKG42NzTsyX5VBqgP183A" target="_blank"><img src="https://i.scdn.co/image/a6bfdc04602ca55f25822159dd02a7f79fd2c068" height="100" width="auto" style="border-radius:50%"></a>
+38 | **Nervosa** | <a href="https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH" target="_blank"><img src="https://i.scdn.co/image/6d16eb6809739e54d7474e5f26fc54d0bd2e443d" height="100" width="auto" style="border-radius:50%"></a>
 39 | **Nili Brosh** | <a href="https://open.spotify.com/artist/0ODUQ3W9ljLNLJELvO5ysk" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027e67da7aa3b5612ada06863f" height="100" width="auto" style="border-radius:50%"></a>
 40 | **Nita Strauss** | <a href="https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf" target="_blank"><img src="https://i.scdn.co/image/ee2fd16be3c67061ed9eecd00f65f6e24f204e82" height="100" width="auto" style="border-radius:50%"></a>
 41 | **Okkultist** | <a href="https://open.spotify.com/artist/5s1bNgQ1JLoN1kwKVqhjrN" target="_blank"><img src="https://i.scdn.co/image/d8628a1d8e12c0752e2236800969ba0f45e0ca77" height="100" width="auto" style="border-radius:50%"></a>

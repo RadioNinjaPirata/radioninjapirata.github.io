@@ -3,9 +3,9 @@
 **40 different tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/2ZKYKGP)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/16OtLNSO3sKbXDtrQhSJk7?si=IUNX93-jTS2gC6qpevHfsQ)
 
-<a href="https://spoti.fi/2ZKYKGP" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273294c32291483e2ca88bdffaeab67616d0000b2734f129e763cfb37a2ba0c7998ab67616d0000b27387d3e4ef5db8fef7bdac6855ab67616d0000b273c4ee88fbddcbd983da432830" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/16OtLNSO3sKbXDtrQhSJk7?si=IUNX93-jTS2gC6qpevHfsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733786d7eeef708a5f006302e5ab67616d0000b2734d25a2e66fc359c5710a5fa6ab67616d0000b2739d5c6a6adf812b3906bdf2b2ab67616d0000b273f0070186e2e3675dbef006b1" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -129,7 +129,7 @@ No. | Band | Avatar
 94 | **Reticulate** | <a href="https://open.spotify.com/artist/71VrebYAuIdZTrXhArdntw" target="_blank"><img src="https://i.scdn.co/image/95f19e14c51ce0d429e7cbeb633f73a35fa42149" height="100" width="auto" style="border-radius:50%"></a>
 95 | **Rotten Mutilation** | <a href="https://open.spotify.com/artist/53HOmpAeATkWw6QFKOIhE1" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b5cfdf65de8e221c0dfcedc5" height="100" width="auto" style="border-radius:50%"></a>
 96 | **Ruin** | <a href="https://open.spotify.com/artist/0URGwDJZ2rYpdsa7RXjWXl" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024e1d4984ec89b91f2a448b76" height="100" width="auto" style="border-radius:50%"></a>
-97 | **Sarcófago** | <a href="https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG?si=aqcmaxF6SaSmCCB9DfPXUw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029064f149bfa1171dfc6d309c" height="100" width="auto" style="border-radius:50%"></a>
+97 | **Sarcófago** | <a href="https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029064f149bfa1171dfc6d309c" height="100" width="auto" style="border-radius:50%"></a>
 98 | **Septycal Gorge** | <a href="https://open.spotify.com/artist/23YXDYSHl7PunK2XmCjqah" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023a1d110620a38a151fa6e4c6" height="100" width="auto" style="border-radius:50%"></a>
 99 | **Sepulcration** | <a href="https://open.spotify.com/artist/4OQMIyoOzWQxtAsgugpAme" target="_blank"><img src="https://i.scdn.co/image/40d0c1de007b3051b617eac5626e8b1eb77225c6" height="100" width="auto" style="border-radius:50%"></a>
 100 | **Sisters Of Suffocation** | <a href="https://open.spotify.com/artist/4eVL5gVklc8Zp5F0zvC4ua" target="_blank"><img src="https://i.scdn.co/image/7e1e847f40b7031cc9ed2f3f8e1af2fa5a5f03e7" height="100" width="auto" style="border-radius:50%"></a>

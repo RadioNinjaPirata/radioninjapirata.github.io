@@ -3,9 +3,9 @@
 **40 different tracks every 2 hours!**
 
 
-## [Listen to our 40'2 radio on Spotify](https://spoti.fi/37kf9qc)
+## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw)
 
-<a href="https://spoti.fi/37kf9qc" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273290f95bfc9d0290948ff1e71ab67616d0000b2733207b3d837bebc94ea0d17fbab67616d0000b273aba75525bfd041aa983ef2b9ab67616d0000b273df4f0022832d55d271329628" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27335ee721fba6cf073f64d2a82ab67616d0000b27358d65319499098d1877aeefeab67616d0000b273df4f0022832d55d271329628ab67616d0000b273fefc2490b47310442cfdd135" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -34,7 +34,7 @@ We are building daily! Stay tuned for updates. :-)
 No. | Band | Avatar
 --- | ---- | ------
 1 | **Alestorm** | <a href="https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da?si=euaNwU9OTqSwKL1pNoz_mA" target="_blank"><img src="https://i.scdn.co/image/a3f90f6f56da5c2a2a4a41b308addd8561778fcd" height="100" width="auto" style="border-radius:50%"></a>
-2 | **Blazon Stone** | <a href="https://open.spotify.com/artist/5leohxXJKQpdh6Hlr8ELht?si=kLJFcgv7TteXyFkppRAtgQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0209a6d99073299a00d4a2504c" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Blazon Stone** | <a href="https://open.spotify.com/artist/5leohxXJKQpdh6Hlr8ELht" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c41a33fb8f24849f73c090b4" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Butterfly Temple** | <a href="https://open.spotify.com/artist/0NE35oeFsLA4MgH4UTYzsE" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02342b6655cd52cde85259c4ee" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Lagerstein** | <a href="https://open.spotify.com/artist/7rdELsS0UW8P27qyWJsiSG?si=35a7ZucXQ7eBX6ePn9R_kg" target="_blank"><img src="https://i.scdn.co/image/a20182503ee901a45569fa8788142bb8ad923d90" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Rumahoy** | <a href="https://open.spotify.com/artist/52aKFP2BnAa28POINNExhE?si=wp_sdoVLSQ2wvmBruULGTA" target="_blank"><img src="https://i.scdn.co/image/66c92b8f6218550cc824d05c9d2469e1edfcecb8" height="100" width="auto" style="border-radius:50%"></a>
