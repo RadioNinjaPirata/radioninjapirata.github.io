@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q)
 
-<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733111df8989980239a5ebfaddab67616d0000b2737a47d0f084dc8b0a562bbbf2ab67616d0000b273c6ebf9dc2d6563fb553da2fcab67616d0000b273d67e3eb7da4b7185a9b08000" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734b00ed0c2064668b52a7e0d3ab67616d0000b27361facd99ff23c36c6795c4e4ab67616d0000b2739daf215ff64034b5f9e02593ab67616d0000b273f0d55e973f83cbfe90dded16" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -125,7 +125,7 @@ No. | Band | Avatar
 90 | **Manowar** | <a href="https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ?si=xL8DpDQXT9enl8m7S0i2Vg" target="_blank"><img src="https://i.scdn.co/image/aea56cddd57c1cb1a34102e8e937f49c290fa323" height="100" width="auto" style="border-radius:50%"></a>
 91 | **Mardelas** | <a href="https://open.spotify.com/artist/19G76EA5nW72WfXDdpmIIF" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025860048ab1f3f7e65e31cf4a" height="100" width="auto" style="border-radius:50%"></a>
 92 | **Masterplan** | <a href="https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx" target="_blank"><img src="https://i.scdn.co/image/07188c51738101ab414bc08c288950423cc7dbec" height="100" width="auto" style="border-radius:50%"></a>
-93 | **Mechanical Poet** | <a href="https://open.spotify.com/artist/52Zl6FBsMMM0N1WlspJH0T?si=sPv6Rv1LQK-cXw0kxa3vHQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02825ff9bf0ccd2f35998068ed" height="100" width="auto" style="border-radius:50%"></a>
+93 | **Mechanical Poet** | <a href="https://open.spotify.com/artist/52Zl6FBsMMM0N1WlspJH0T" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02825ff9bf0ccd2f35998068ed" height="100" width="auto" style="border-radius:50%"></a>
 94 | **Melodius Deite** | <a href="https://open.spotify.com/artist/6hogB3EOhizy4ng6ZwcAI2?si=fatoeMzKSViB7_LUkec21g" target="_blank"><img src="https://i.scdn.co/image/873995310cc24784620507c4762833e27186831b" height="100" width="auto" style="border-radius:50%"></a>
 95 | **Memories Of Old** | <a href="https://open.spotify.com/artist/3jwxNFNe7BHnFTas8X2cGS?si=fPc8kp6sTg2A9--ieQJtCQ" target="_blank"><img src="https://i.scdn.co/image/ba19c2cc831286ede33b310aed22b79a54ca37c5" height="100" width="auto" style="border-radius:50%"></a>
 96 | **Metalite** | <a href="https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg?si=Jxfk6afMRLuoDVPK1WD7fQ" target="_blank"><img src="https://i.scdn.co/image/fcd8c5b015ac95598a30476fa5c95c1c19e7e46f" height="100" width="auto" style="border-radius:50%"></a>

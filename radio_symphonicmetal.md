@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw)
 
-<a href="https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730b54da220db8e0973d803ef1ab67616d0000b2730f17a16c7b7c7ebbf32ca40bab67616d0000b2736b87b2d0f00922c18ca1d341ab67616d0000b273accce2c1d6039c23227eef4f" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273140d4917719522ace7f06b4eab67616d0000b273308c0a4bb55ad64a4406f00eab67616d0000b2735d5f88b811a085932b8c8865ab67616d0000b273c8f5cfc2928ecb7bcc99c7d4" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -43,7 +43,7 @@ No. | Band | Avatar
 8 | **Angra** | <a href="https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y?si=h03YARGwToWTskVNrw6FoQ" target="_blank"><img src="https://i.scdn.co/image/d771e2ab1c2abcf51cf16f5acb12d3c34ee1c81f" height="100" width="auto" style="border-radius:50%"></a>
 9 | **Angtoria** | <a href="https://open.spotify.com/artist/2XboXFS9ENxbne9aajZlAc?si=MonjmjR9R-iE4fN7hou7dQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0238faf6b331a05f738739c74a" height="100" width="auto" style="border-radius:50%"></a>
 10 | **Apocalyptica** | <a href="https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I?si=nTnFsVDzRyeMg4kSrButgA" target="_blank"><img src="https://i.scdn.co/image/51a570c21e5c7ccadf0682ab1c4d10e96f17c393" height="100" width="auto" style="border-radius:50%"></a>
-11 | **Arcturus** | <a href="https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z?si=HcmguPebTNO7NqPWyXGJ_g" target="_blank"><img src="https://i.scdn.co/image/330fdb658490b11a5a4ecd068c35e1dd07582e56" height="100" width="auto" style="border-radius:50%"></a>
+11 | **Arcturus** | <a href="https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z" target="_blank"><img src="https://i.scdn.co/image/330fdb658490b11a5a4ecd068c35e1dd07582e56" height="100" width="auto" style="border-radius:50%"></a>
 12 | **Arven** | <a href="https://open.spotify.com/artist/5psOob04AlhfFtI8i7edkO?si=kq3Mcm_UQJ--umc_LrkYfA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c034daa1ada5d4b4881bf4d5" height="100" width="auto" style="border-radius:50%"></a>
 13 | **Atargatis** | <a href="https://open.spotify.com/artist/0i46XSoOVeCUuP0fPrZK4c?si=TkTvjTDCRwmGo3OlQENPXQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028d24c6d227fb846efc30bd60" height="100" width="auto" style="border-radius:50%"></a>
 14 | **Autumn** | <a href="https://open.spotify.com/artist/75dif5k1z7KxuqBrFrKq8r?si=x3hqxx8fTuqz3v6IhmBvVg" target="_blank"><img src="https://i.scdn.co/image/9e4b0c496232b6888c946d5636e7db47628b6a2d" height="100" width="auto" style="border-radius:50%"></a>

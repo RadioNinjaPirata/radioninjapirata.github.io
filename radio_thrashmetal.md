@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=9wrUXIUcS_-voEEwY9L8yA)
 
-<a href="https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=9wrUXIUcS_-voEEwY9L8yA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27344bb51ac96f2a7bafab65577ab67616d0000b2736861f7c94ea4c4cffefc473fab67616d0000b2736a3c8c4defa3fe37388628aaab67616d0000b2737ab6685e4103e093cf3fde6a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=9wrUXIUcS_-voEEwY9L8yA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273230d40b357f2271fe042b2d2ab67616d0000b2737ddb9b2b33e826c5a881af56ab67616d0000b2739f887eb68c726d9542dcd6bfab67616d0000b273a91e762b47be4de8f9315d27" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -92,7 +92,7 @@ No. | Band | Avatar
 57 | **Devastation** | <a href="https://open.spotify.com/artist/7I6gRyC8ImT4lrkP5HiGu3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d9cdef76896a96821c47a6f7" height="100" width="auto" style="border-radius:50%"></a>
 58 | **Diabolical Mental State** | <a href="https://open.spotify.com/artist/3i182fFUZOJlrcC36o1hs7" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028e667b1c968825f4eac534f5" height="100" width="auto" style="border-radius:50%"></a>
 59 | **Distillator** | <a href="https://open.spotify.com/artist/1OXZI87SmlDFB75a9ADcFL" target="_blank"><img src="https://i.scdn.co/image/9d34d427ca7b0866c50b0a079623ffb5cf51a6b5" height="100" width="auto" style="border-radius:50%"></a>
-60 | **Dorso** | <a href="https://open.spotify.com/artist/51UeCV0ilgHicKqKRht9uJ?si=BlZ7MMaLT9-QVky9L2Ae1A" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a4b20715c046fcc576cd82f5" height="100" width="auto" style="border-radius:50%"></a>
+60 | **Dorso** | <a href="https://open.spotify.com/artist/51UeCV0ilgHicKqKRht9uJ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a4b20715c046fcc576cd82f5" height="100" width="auto" style="border-radius:50%"></a>
 61 | **Détente** | <a href="https://open.spotify.com/artist/2jUX0Jx6cqAUMnfykD2lXD?si=Z6eyGaEgQOK6J-B2SrbT8g" target="_blank"><img src="https://i.scdn.co/image/6d5b069208a55545ec4738d6b007c2119e3b011b" height="100" width="auto" style="border-radius:50%"></a>
 62 | **Entombed** | <a href="https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB" target="_blank"><img src="https://i.scdn.co/image/dd2267ead2476b505b246ec06f73fe2cdff81faf" height="100" width="auto" style="border-radius:50%"></a>
 63 | **Epidemic** | <a href="https://open.spotify.com/artist/1gz2EQF9uczRqCWLWmk54R?si=Rk6kcyi0Qkmt7IZubvVBcQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024ad72af8ecc4106c3f8d3935" height="100" width="auto" style="border-radius:50%"></a>
