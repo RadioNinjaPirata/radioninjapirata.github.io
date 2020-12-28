@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q)
 
-<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273211436acd16e1aae2ff31f6bab67616d0000b273d76db43982b0d40bee3d7386ab67616d0000b273eadb5ec881ff3ec4ed83f477ab67616d0000b273f759a545e2cfaf507aa96f3d" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273088ccaa335086c2bed1dcce5ab67616d0000b273104e95e913ffb7cca55919f9ab67616d0000b2736c315b01df6dc46d0f917a9aab67616d0000b273de233b9d3abc07db24cb39b5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -70,7 +70,7 @@ No. | Band | Avatar
 35 | **Demons & Wizards** | <a href="https://open.spotify.com/artist/4O6RDLeFX5xuQ7IePFzVcl" target="_blank"><img src="https://i.scdn.co/image/ad6c10ca056ebaf5a39910068b190ca53adee3c4" height="100" width="auto" style="border-radius:50%"></a>
 36 | **Derdian** | <a href="https://open.spotify.com/artist/2NBW7Ib46ouzKqmzPzCbi5" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021aeecf09f61c1e4dda634e53" height="100" width="auto" style="border-radius:50%"></a>
 37 | **Dionysus** | <a href="https://open.spotify.com/artist/39AhZ0oT49zA0WOAbfHVMM" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027acd9c5ab79c819f48701710" height="100" width="auto" style="border-radius:50%"></a>
-38 | **Dragonforce** | <a href="https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR?si=baB7rGbrSVaKWyeqpTTy8w" target="_blank"><img src="https://i.scdn.co/image/1d6f915f01a7125761e326805c45a9625909a77d" height="100" width="auto" style="border-radius:50%"></a>
+38 | **Dragonforce** | <a href="https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR" target="_blank"><img src="https://i.scdn.co/image/1d6f915f01a7125761e326805c45a9625909a77d" height="100" width="auto" style="border-radius:50%"></a>
 39 | **Dragonhammer** | <a href="https://open.spotify.com/artist/4LSG37HahKzMZvqO3u383B" target="_blank"><img src="https://i.scdn.co/image/6b46db53720de795f77d4b5fed06e64f7ebbbe79" height="100" width="auto" style="border-radius:50%"></a>
 40 | **Dragonland** | <a href="https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71" target="_blank"><img src="https://i.scdn.co/image/a90f1cd118186d2948d96e3d7eae28498e784841" height="100" width="auto" style="border-radius:50%"></a>
 41 | **Dream Evil** | <a href="https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB" target="_blank"><img src="https://i.scdn.co/image/5c5718789f321828b41c647a6d61d009045e7414" height="100" width="auto" style="border-radius:50%"></a>
@@ -83,7 +83,7 @@ No. | Band | Avatar
 48 | **Eternity'S End** | <a href="https://open.spotify.com/artist/5PAcjzv61saCV1tQAG7Upu?si=APpSW6qaRoGLRbU07M7Ccw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b3358b43c2860113d28aab5c" height="100" width="auto" style="border-radius:50%"></a>
 49 | **Excalion** | <a href="https://open.spotify.com/artist/72AisxxoPQu3Q0K5UgvQew" target="_blank"><img src="https://i.scdn.co/image/a399565e901f2de8f60056942c8033b24013435f" height="100" width="auto" style="border-radius:50%"></a>
 50 | **Fairyland** | <a href="https://open.spotify.com/artist/7rPnZRgv1UGUDzmNBIe5QJ?si=l5xyzaLeT92DBQ5y6cjQ1g" target="_blank"><img src="https://i.scdn.co/image/7ef07c1c542a775e1ff67903f937ac937478ef1c" height="100" width="auto" style="border-radius:50%"></a>
-51 | **Firewind** | <a href="https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r?si=p-7LRpF9Th6s-05wuyaw0w" target="_blank"><img src="https://i.scdn.co/image/4e502af6963c0f3423efd14b4d9a82010e8806a8" height="100" width="auto" style="border-radius:50%"></a>
+51 | **Firewind** | <a href="https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r" target="_blank"><img src="https://i.scdn.co/image/4e502af6963c0f3423efd14b4d9a82010e8806a8" height="100" width="auto" style="border-radius:50%"></a>
 52 | **Forgotten Tales** | <a href="https://open.spotify.com/artist/3niOQpmJ6z4tSZVDeWm2f7" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02637d7135f59a4086c390c72a" height="100" width="auto" style="border-radius:50%"></a>
 53 | **Freedom Call** | <a href="https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F" target="_blank"><img src="https://i.scdn.co/image/758a720b665e57c7ca8f583895afc9186ff84611" height="100" width="auto" style="border-radius:50%"></a>
 54 | **Freternia** | <a href="https://open.spotify.com/artist/3wC7pylKGkRfULq94XNTcr?si=pRZj_gSGSf6qpTZGrowSWw" target="_blank"><img src="https://i.scdn.co/image/b8996dd464867a939828ea718f513e2790ba4b00" height="100" width="auto" style="border-radius:50%"></a>

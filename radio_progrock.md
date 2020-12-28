@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg)
 
-<a href="https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731f7e267179c3c6a4a1c7c9fbab67616d0000b27352e82b08be5a68d827261d5eab67616d0000b2737d36d5b25cacb9187209b28aab67616d0000b273abd4ca9fc7d1112010fb0247" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732a4170a3c82f76916ab234f0ab67616d0000b2733c6e84c323fd27921ec41066ab67616d0000b2734b289dfddb41495e4245da7bab67616d0000b273cfede8cbe562a4351072a94e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -84,7 +84,7 @@ No. | Band | Avatar
 49 | **Rocket Scientists** | <a href="https://open.spotify.com/artist/3cOczMBbwR9ANxjDHpnkBJ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021c7e64b35b48dbbdc00d54d2" height="100" width="auto" style="border-radius:50%"></a>
 50 | **Roine Stolt** | <a href="https://open.spotify.com/artist/3evVjC5a6WGD0HMOFH6iCt" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026a9d06ce81d1a5be04cffdbe" height="100" width="auto" style="border-radius:50%"></a>
 51 | **Saga** | <a href="https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF" target="_blank"><img src="https://i.scdn.co/image/bb88af1aca84f3c15b7b224785400d60892579c6" height="100" width="auto" style="border-radius:50%"></a>
-52 | **Scale The Summit** | <a href="https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb?si=BBuRhHx_TSmnZZA2lIai1Q" target="_blank"><img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%"></a>
+52 | **Scale The Summit** | <a href="https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb" target="_blank"><img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%"></a>
 53 | **Seventh Wonder** | <a href="https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0?si=TQbCim5sRa6cWR6LHmJPqA" target="_blank"><img src="https://i.scdn.co/image/bf3618688d96e1004dfa98f5cbe12a9418cc7167" height="100" width="auto" style="border-radius:50%"></a>
 54 | **Soen** | <a href="https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW" target="_blank"><img src="https://i.scdn.co/image/b45a541361df3efa184622c0b658ce78a3dc9971" height="100" width="auto" style="border-radius:50%"></a>
 55 | **Sons Of Apollo** | <a href="https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f" target="_blank"><img src="https://i.scdn.co/image/a8919cf2441d50d54932967caa10e457995bb1ce" height="100" width="auto" style="border-radius:50%"></a>

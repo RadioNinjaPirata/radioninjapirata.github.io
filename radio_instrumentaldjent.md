@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1WsT43p9i7ktcndqMrucy7?si=Op9lb2vTQ-atGvi0NEkFvg)
 
-<a href="https://open.spotify.com/playlist/1WsT43p9i7ktcndqMrucy7?si=Op9lb2vTQ-atGvi0NEkFvg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27328e32ee7aa94ac26ba6cf004ab67616d0000b273b4bde135cd7ee6f3074503c4ab67616d0000b273de6d56aa399bc27411451976ab67616d0000b273edcfe7514cdd89aa95339b8c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1WsT43p9i7ktcndqMrucy7?si=Op9lb2vTQ-atGvi0NEkFvg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27339d11d87457d7145cf6860eaab67616d0000b2733adee86138146c1facf0e88cab67616d0000b273d5375b68e6d08c88b7738e8cab67616d0000b273e39e9df0353185c4ebe196d6" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -51,7 +51,7 @@ No. | Band | Avatar
 16 | **Olympus Lenticular** | <a href="https://open.spotify.com/artist/0gwVjuAqUxB1TnugpYRqty" target="_blank"><img src="https://i.scdn.co/image/60a8d0b3e0b1c532d8c1546b2d1e28767ead65f4" height="100" width="auto" style="border-radius:50%"></a>
 17 | **Plini** | <a href="https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic" target="_blank"><img src="https://i.scdn.co/image/e65d808483f7676c4e49348c28fc04a959fb311a" height="100" width="auto" style="border-radius:50%"></a>
 18 | **Pomegranate Tiger** | <a href="https://open.spotify.com/artist/30T39voTL4EiHKGNE0mQxO?si=qbLFKxsJSrirxKSTZur5eQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02aa103d933c6c6dfac60bbed6" height="100" width="auto" style="border-radius:50%"></a>
-19 | **Scale The Summit** | <a href="https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb?si=BBuRhHx_TSmnZZA2lIai1Q" target="_blank"><img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%"></a>
+19 | **Scale The Summit** | <a href="https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb" target="_blank"><img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Sithu Aye** | <a href="https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh" target="_blank"><img src="https://i.scdn.co/image/46fcbeed941b9c16d48649a04d2ab0a3a3373003" height="100" width="auto" style="border-radius:50%"></a>
 21 | **The Algorithm** | <a href="https://open.spotify.com/artist/14u4KXVp0iXQil79EpxXGc?si=MPAapKW-Qdezkg6hsAsHTg" target="_blank"><img src="https://i.scdn.co/image/c8a1da0965c9476f37134884d4a50af825fd494d" height="100" width="auto" style="border-radius:50%"></a>
 22 | **The Arbitrary** | <a href="https://open.spotify.com/artist/2a4UGVfNuNA24qJkBO5KTe" target="_blank"><img src="https://i.scdn.co/image/ea9b364cb38fba1a3ca1112fc3ee1183cccf9164" height="100" width="auto" style="border-radius:50%"></a>
