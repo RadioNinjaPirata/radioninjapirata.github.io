@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q)
 
-<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273088ccaa335086c2bed1dcce5ab67616d0000b273104e95e913ffb7cca55919f9ab67616d0000b2736c315b01df6dc46d0f917a9aab67616d0000b273de233b9d3abc07db24cb39b5" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302d7e71a09f17e3f917e0c59ab67616d0000b27392ca2ac1156dd7a7e09d9532ab67616d0000b273ae434f75e910a94198d3997bab67616d0000b273fe2e6dd6c1511a1d1c9259c3" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -78,8 +78,8 @@ No. | Band | Avatar
 43 | **Edguy** | <a href="https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac3ec078670d746fddbe7674e78" height="100" width="auto" style="border-radius:50%"></a>
 44 | **Elvenking** | <a href="https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB?si=NE3V060DQ0egx5N4qkNadg" target="_blank"><img src="https://i.scdn.co/image/5efd756ab2de73c9203efd4712e96c1f60c77a4b" height="100" width="auto" style="border-radius:50%"></a>
 45 | **Emerald Sun** | <a href="https://open.spotify.com/artist/5fru1490qqho8UXLmoEJBI" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0269cf50adafe8c59b9e2a8214" height="100" width="auto" style="border-radius:50%"></a>
-46 | **Ensiferum** | <a href="https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH?si=3_S0nLwMS0qv_x90efa00g" target="_blank"><img src="https://i.scdn.co/image/b513ad18e11d9b07546b23e9f3f7b1892ae0f573" height="100" width="auto" style="border-radius:50%"></a>
-47 | **Equilibrium** | <a href="https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2?si=N3EX13vHR3WIeeAyi_H-Ow" target="_blank"><img src="https://i.scdn.co/image/7a0e52051e31ab81d6afca3c495f60337f103b27" height="100" width="auto" style="border-radius:50%"></a>
+46 | **Ensiferum** | <a href="https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH" target="_blank"><img src="https://i.scdn.co/image/b513ad18e11d9b07546b23e9f3f7b1892ae0f573" height="100" width="auto" style="border-radius:50%"></a>
+47 | **Equilibrium** | <a href="https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2" target="_blank"><img src="https://i.scdn.co/image/7a0e52051e31ab81d6afca3c495f60337f103b27" height="100" width="auto" style="border-radius:50%"></a>
 48 | **Eternity'S End** | <a href="https://open.spotify.com/artist/5PAcjzv61saCV1tQAG7Upu?si=APpSW6qaRoGLRbU07M7Ccw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b3358b43c2860113d28aab5c" height="100" width="auto" style="border-radius:50%"></a>
 49 | **Excalion** | <a href="https://open.spotify.com/artist/72AisxxoPQu3Q0K5UgvQew" target="_blank"><img src="https://i.scdn.co/image/a399565e901f2de8f60056942c8033b24013435f" height="100" width="auto" style="border-radius:50%"></a>
 50 | **Fairyland** | <a href="https://open.spotify.com/artist/7rPnZRgv1UGUDzmNBIe5QJ?si=l5xyzaLeT92DBQ5y6cjQ1g" target="_blank"><img src="https://i.scdn.co/image/7ef07c1c542a775e1ff67903f937ac937478ef1c" height="100" width="auto" style="border-radius:50%"></a>
@@ -90,7 +90,7 @@ No. | Band | Avatar
 55 | **Frozen Crown** | <a href="https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E?si=cXYZBrl7RZOtqeBPRfsoBQ" target="_blank"><img src="https://i.scdn.co/image/1188049451fb8339bdfcea2c54b965e04c375762" height="100" width="auto" style="border-radius:50%"></a>
 56 | **Frozen Land** | <a href="https://open.spotify.com/artist/3D5YAQD9yRu8ohjM9SW948?si=P6qOV7HPRhemOXLRTqUrTQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029ef089bc3cce356e961228e4" height="100" width="auto" style="border-radius:50%"></a>
 57 | **Fugatta** | <a href="https://open.spotify.com/artist/2fzZgGz19IqLpG8wqqalVV?si=k_MOX6btSDOMX7c9u3ZMQA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02832ed473c66d36bf75771f88" height="100" width="auto" style="border-radius:50%"></a>
-58 | **Gloryhammer** | <a href="spotify:artist:7dkEByOe0oHqc54qU4hwzV" target="_blank"><img src="https://i.scdn.co/image/f154d9725d35cf800cd128c156eb1249119db0ce" height="100" width="auto" style="border-radius:50%"></a>
+58 | **Gloryhammer** | <a href="https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV" target="_blank"><img src="https://i.scdn.co/image/f154d9725d35cf800cd128c156eb1249119db0ce" height="100" width="auto" style="border-radius:50%"></a>
 59 | **Grailknights** | <a href="https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR?si=GCDGfPJkSCym741nOeLqyQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02745dbd632b3f8ff4ac5817cc" height="100" width="auto" style="border-radius:50%"></a>
 60 | **Guardians Of Time** | <a href="https://open.spotify.com/artist/6LNXFKWGaitZ3ZGLq7JMB6?si=eEXXg-RiRyeeyuWQgQY6Ww" target="_blank"><img src="https://i.scdn.co/image/2fbd40fddddeaf74b95f29c098d615e539948504" height="100" width="auto" style="border-radius:50%"></a>
 61 | **Hammerfall** | <a href="spotify:artist:2o18h28enlHxj887tATc58" target="_blank"><img src="https://i.scdn.co/image/a5738859a69fa1f00368f8bee2fb2a3ac26f31f7" height="100" width="auto" style="border-radius:50%"></a>
@@ -195,7 +195,7 @@ No. | Band | Avatar
 160 | **Visions Of Atlantis** | <a href="https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x" target="_blank"><img src="https://i.scdn.co/image/1d1b97839b0d42b27f509410ebfcb6f29e7398e0" height="100" width="auto" style="border-radius:50%"></a>
 161 | **Volbeat** | <a href="https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT?si=6bLvvVQpStq4L7Yw-ua1Ew" target="_blank"><img src="https://i.scdn.co/image/887ba4446fd2aea19507acc9e088398ffff85bfa" height="100" width="auto" style="border-radius:50%"></a>
 162 | **Warkings** | <a href="https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E?si=Uy0FbvkUR8yXtTnc-B6xBQ" target="_blank"><img src="https://i.scdn.co/image/8943e373554c6108620596ae4dc6e7ade222a152" height="100" width="auto" style="border-radius:50%"></a>
-163 | **Wind Rose** | <a href="https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz?si=aNcjtTzDR_CPVKgVT0qkKw" target="_blank"><img src="https://i.scdn.co/image/8ff4497c0527c80eb08c37ab188042e310a2c5c7" height="100" width="auto" style="border-radius:50%"></a>
+163 | **Wind Rose** | <a href="https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz" target="_blank"><img src="https://i.scdn.co/image/8ff4497c0527c80eb08c37ab188042e310a2c5c7" height="100" width="auto" style="border-radius:50%"></a>
 164 | **Wisdom** | <a href="https://open.spotify.com/artist/2Uvj75EFUSbO45dqL4SDpw?si=JW6kAnhnS1Scw4tRjLtZQQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02abbff3dbe239ec15626948b6" height="100" width="auto" style="border-radius:50%"></a>
 165 | **Yngwie Malmsteen** | <a href="https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG" target="_blank"><img src="https://i.scdn.co/image/039549007849ef5a78344fc6346090d902c2e4a2" height="100" width="auto" style="border-radius:50%"></a>
 166 | **Zonata** | <a href="https://open.spotify.com/artist/6EiP4zf8DuisqFZFtoXS49" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02fa058f37514193a8e266d189" height="100" width="auto" style="border-radius:50%"></a>

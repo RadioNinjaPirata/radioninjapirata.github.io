@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw)
 
-<a href="https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27307beb25e5d0c07e73f22a0ffab67616d0000b27383f69ee828823d76966a50a5ab67616d0000b273a1fc1e3e4a7fc8842199cec2ab67616d0000b273b67b2d1fe68153791bd45298" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2737de1b01ede9c1597fb47fe32ab67616d0000b273c26d2af0025667f9939e505cab67616d0000b273c451f95cdb6003bf3a1fac43ab67616d0000b273f0956a76ad0e242a688655a4" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -64,7 +64,7 @@ No. | Band | Avatar
 29 | **Dol Ammad** | <a href="https://open.spotify.com/artist/0KNzvJOFUEtF5VvpEXoGMZ?si=KaTTbU5iQ6CGM4I2SFdGBQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b3ace00e2da3b9da3d023ccc" height="100" width="auto" style="border-radius:50%"></a>
 30 | **Ecliptyka** | <a href="https://open.spotify.com/artist/3SPYi5RNx66dEoece0zPBU" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c0a6f2fc50294692ec64718" height="100" width="auto" style="border-radius:50%"></a>
 31 | **Edenbridge** | <a href="https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ?si=6kz-huIpTqy7OfcSAFnfag" target="_blank"><img src="https://i.scdn.co/image/07baf129408e40d3493060db8effea7164432d83" height="100" width="auto" style="border-radius:50%"></a>
-32 | **Eluveitie** | <a href="https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT?si=3Yv4GdiRQIWpIxRXj-XiXA" target="_blank"><img src="https://i.scdn.co/image/ddf0debf9857d12855f44287829ceca0e8fd4d62" height="100" width="auto" style="border-radius:50%"></a>
+32 | **Eluveitie** | <a href="https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT" target="_blank"><img src="https://i.scdn.co/image/ddf0debf9857d12855f44287829ceca0e8fd4d62" height="100" width="auto" style="border-radius:50%"></a>
 33 | **Epica** | <a href="https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp?si=q8MlSjrLQn6GS11aSdD6Ow" target="_blank"><img src="https://i.scdn.co/image/f92856918ff9e5b0be2f092d074cc297fff25f14" height="100" width="auto" style="border-radius:50%"></a>
 34 | **Estatic Fear** | <a href="https://open.spotify.com/artist/4Mocb7ciPTl2KmMS6QtM2p?si=3WsyXDM1So6zMzzDRDQAdw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d05873093ea49b9be73c19a2" height="100" width="auto" style="border-radius:50%"></a>
 35 | **Evanescence** | <a href="https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c?si=yebWt8GqRWymoQG_Bf0Nlg" target="_blank"><img src="https://i.scdn.co/image/f0493213ea76e7a4c9c8bb54a423c5840e4cbb24" height="100" width="auto" style="border-radius:50%"></a>
