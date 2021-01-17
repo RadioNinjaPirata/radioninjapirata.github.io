@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q)
 
-<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27370984b9de986743c272648c5ab67616d0000b2738af2e298415ecd4403085827ab67616d0000b273c097a06bab3b8045b498e28cab67616d0000b273c40a560615dd649d747a9cb1" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732b1e90bc58b35f45cc3e6e10ab67616d0000b2739c23f674a7d5494c50cca8e7ab67616d0000b273dc7c3404e9322da5d0f5c46cab67616d0000b273ee9aee3b970d560a646b5076" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -33,7 +33,7 @@ We are building daily! Stay tuned for updates. :-)
 
 No. | Band | Avatar
 --- | ---- | ------
-1 | **A Sound Of Thunder** | <a href="https://open.spotify.com/artist/571SRwCkLqVygKpejWCR0v?si=EtHOHl6GTqS8rIFoQYbUrA" target="_blank"><img src="https://i.scdn.co/image/2b1d75991693fa12e86608713e78f8c6d252ecec" height="100" width="auto" style="border-radius:50%"></a>
+1 | **A Sound Of Thunder** | <a href="https://open.spotify.com/artist/571SRwCkLqVygKpejWCR0v" target="_blank"><img src="https://i.scdn.co/image/2b1d75991693fa12e86608713e78f8c6d252ecec" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Aetherna** | <a href="https://open.spotify.com/artist/4ngLZUcoE3BmCb3NtihSI5" target="_blank"><img src="https://i.scdn.co/image/234ffcd82bb18c6016affeeeb2bd0d2664e148b8" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Aldious** | <a href="https://open.spotify.com/artist/58BNa2XSCHkchphUFCdgb3" target="_blank"><img src="https://i.scdn.co/image/84c355057bbe2c61f4d8a52f4724a4381a57b284" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Alhambra** | <a href="https://open.spotify.com/artist/58gUQh3y2hWWAUSqmngZdt" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0299ba4d133c001e5d86d7ac7a" height="100" width="auto" style="border-radius:50%"></a>
