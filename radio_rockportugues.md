@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0zj9qrqdnstTv94duCWR1I?si=T_eParrsSpOjmnfKXlmtNg)
 
-<a href="https://open.spotify.com/playlist/0zj9qrqdnstTv94duCWR1I?si=T_eParrsSpOjmnfKXlmtNg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732947ad3049c0ccd870c47701ab67616d0000b27350cf7df9bb6fcd5b93aab21fab67616d0000b2736d9a7ce66f233766878ab32dab67616d0000b273df0e3446be2b963bce22d4e2" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0zj9qrqdnstTv94duCWR1I?si=T_eParrsSpOjmnfKXlmtNg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27350cf7df9bb6fcd5b93aab21fab67616d0000b2737f8a1afb6899c537bbfe68dcab67616d0000b273ebbb5a632a647b8c30b33398ab67616d0000b273eedc2ceec9cf7f7bcde10f0c" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -76,7 +76,7 @@ No. | Band | Avatar
 41 | **Pólo Norte** | <a href="https://open.spotify.com/artist/3aKuNNMF9DsJRA5nsmDDXn?si=s4XdTejUQieJSZ5Wa37tYA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02571e96669285689d25378da9" height="100" width="auto" style="border-radius:50%"></a>
 42 | **Rádio Macau** | <a href="https://open.spotify.com/artist/5QhwQ7uDkf7l0WGis7CRNq?si=saTVXiNFTC2Jl_oLtnjsNA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025133bfeac6777bbabba75de2" height="100" width="auto" style="border-radius:50%"></a>
 43 | **Samuel Uria** | <a href="https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg?si=-uKX2C2HTqGhlakuvLuzcA" target="_blank"><img src="https://i.scdn.co/image/7a718d4e38c82a09b875c6d680c019db591ae3b8" height="100" width="auto" style="border-radius:50%"></a>
-44 | **Sergio Godinho** | <a href="https://open.spotify.com/artist/2q9ET2kJQY4J3bGaIWt6Uz?si=0MV87PSNRB6kB6FoqqgtUA" target="_blank"><img src="https://i.scdn.co/image/7f87bd45a275e81b0ac87d823425a92782ca71af" height="100" width="auto" style="border-radius:50%"></a>
+44 | **Sergio Godinho** | <a href="https://open.spotify.com/artist/2q9ET2kJQY4J3bGaIWt6Uz" target="_blank"><img src="https://i.scdn.co/image/7f87bd45a275e81b0ac87d823425a92782ca71af" height="100" width="auto" style="border-radius:50%"></a>
 45 | **Silence 4** | <a href="https://open.spotify.com/artist/0e9RLmSxqXyKSokDJ9Nh96?si=MddOCP9WQDiux9BcBFV4pw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024c84d295ddc8310611fa9e64" height="100" width="auto" style="border-radius:50%"></a>
 46 | **Sétima Legião** | <a href="https://open.spotify.com/artist/13DulgdvfJaeXyxAqGzfb4?si=vXFzUSV1QV2H7s744lzFvA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02769ea2878e1d960de4bd601c" height="100" width="auto" style="border-radius:50%"></a>
 47 | **Tara Perdida** | <a href="https://open.spotify.com/artist/2JDzHpbTcm5cu8Ne2SDYo4?si=ye4tNz8ESL2rx2P1SQpmpg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02683d2ae0815c9f7d3308768e" height="100" width="auto" style="border-radius:50%"></a>

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/4kJ3sT4A74vTqaPOi6N9ZX?si=LpoqpqfSST-giD2x1-L8qw)
 
-<a href="https://open.spotify.com/playlist/4kJ3sT4A74vTqaPOi6N9ZX?si=LpoqpqfSST-giD2x1-L8qw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735d5cf4c4bbb31650627b3f6fab67616d0000b2738ed57af4a560f42a80651b17ab67616d0000b273b880d9d4d5101a5d8ed3e8adab67616d0000b273cd6ce9f6394ca1e08a6d014a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/4kJ3sT4A74vTqaPOi6N9ZX?si=LpoqpqfSST-giD2x1-L8qw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736633e5bf0ebec06276b4a72aab67616d0000b273af0941363b92109e6c8814bfab67616d0000b273df601cdc18de885b8470e460ab67616d0000b273fb3376764e886718d89f3d56" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -57,4 +57,5 @@ No. | Band | Avatar
 22 | **Maria Da Fé** | <a href="https://open.spotify.com/artist/1E1nxTeifXX0k9YC2PYiI4?si=hR7f7KzcQeCfNXBfWrPGkA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c75cc1a7b61d6c6ad3e24626" height="100" width="auto" style="border-radius:50%"></a>
 23 | **Mariza** | <a href="https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN?si=EsE3fCJUSZmP6hNLfDEXkg" target="_blank"><img src="https://i.scdn.co/image/11272c9b5a47051f2786d8bde0b514192fc94bbb" height="100" width="auto" style="border-radius:50%"></a>
 24 | **Rodrigo** | <a href="https://open.spotify.com/artist/7rhgfesI6of8OQXFPDikXs?si=gdHwIuvGSvmabZHzxEVfiw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020e2c426d878243e128e5c885" height="100" width="auto" style="border-radius:50%"></a>
-25 | **Tristão Da Silva** | <a href="https://open.spotify.com/artist/3gB2JJH9WdMmt5Frtf8UnH?si=hPF3hIR6SISL0YOvWVcoTA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02801fb766386a5a5019c2d334" height="100" width="auto" style="border-radius:50%"></a>
+25 | **Sergio Godinho** | <a href="https://open.spotify.com/artist/2q9ET2kJQY4J3bGaIWt6Uz" target="_blank"><img src="https://i.scdn.co/image/7f87bd45a275e81b0ac87d823425a92782ca71af" height="100" width="auto" style="border-radius:50%"></a>
+26 | **Tristão Da Silva** | <a href="https://open.spotify.com/artist/3gB2JJH9WdMmt5Frtf8UnH?si=hPF3hIR6SISL0YOvWVcoTA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02801fb766386a5a5019c2d334" height="100" width="auto" style="border-radius:50%"></a>
