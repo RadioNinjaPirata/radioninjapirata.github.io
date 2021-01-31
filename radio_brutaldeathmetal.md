@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA)
 
-<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b2732bd186a5fb10c476791d89dcab67616d0000b2737864c768fb45850b56906afdab67616d0000b273cb6a82347f0b20f40995fa39" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b27312ae6ffad89c22a3c5e82612ab67616d0000b273ad5c5f921683cb2fd182fbebab67616d0000b273eb2496525e4f89c113dfedb5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -39,8 +39,10 @@ No. | Band | Avatar
 4 | **Deprecated** | <a href="https://open.spotify.com/artist/5N8I1vHNZN9y2XcapxgwUw" target="_blank"><img src="https://i.scdn.co/image/e9e0454899c29c42d83fe81cb9596a9fe8ed95b7" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Eradication Of The Unworthy Infants** | <a href="https://open.spotify.com/artist/3XPPF14T6t0cHbYxxWccjg" target="_blank"><img src="https://i.scdn.co/image/c4adc221bacdf83d127fe509cea98e6c9abae979" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Geostygma** | <a href="https://open.spotify.com/artist/3gVcHU2lxiEBQvTAlkrCL5?si=yM_bK2XdRBapjkLNKlD2QQ" target="_blank"><img src="https://i.scdn.co/image/1885db84f035e7b7ecd9423c550744dc162dc66a" height="100" width="auto" style="border-radius:50%"></a>
-7 | **Inferi** | <a href="https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A" target="_blank"><img src="https://i.scdn.co/image/75fefed8ff01487e668f5fc9ad3ac36d56f7ccb7" height="100" width="auto" style="border-radius:50%"></a>
-8 | **Kataplexia** | <a href="https://open.spotify.com/artist/6zFsJ5GuKCs2VmM3rZdewA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eb2496525e4f89c113dfedb5" height="100" width="auto" style="border-radius:50%"></a>
-9 | **Krocophile** | <a href="https://open.spotify.com/artist/0ishqPiqbZigIQxS3bjfq9" target="_blank"><img src="https://i.scdn.co/image/74053b0c3111bc418375740323f7cec02dbf10f8" height="100" width="auto" style="border-radius:50%"></a>
-10 | **Mastectomy** | <a href="https://open.spotify.com/artist/0MqU9WAUQLHKxAnpZASYtE" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022bd186a5fb10c476791d89dc" height="100" width="auto" style="border-radius:50%"></a>
-11 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
+7 | **Human Waste** | <a href="https://open.spotify.com/artist/4l8par9n5QsC2fEYO8blOh" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027303ee9e31a69edac9d29097" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Inferi** | <a href="https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A" target="_blank"><img src="https://i.scdn.co/image/75fefed8ff01487e668f5fc9ad3ac36d56f7ccb7" height="100" width="auto" style="border-radius:50%"></a>
+9 | **Kataplexia** | <a href="https://open.spotify.com/artist/6zFsJ5GuKCs2VmM3rZdewA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eb2496525e4f89c113dfedb5" height="100" width="auto" style="border-radius:50%"></a>
+10 | **Krocophile** | <a href="https://open.spotify.com/artist/0ishqPiqbZigIQxS3bjfq9" target="_blank"><img src="https://i.scdn.co/image/74053b0c3111bc418375740323f7cec02dbf10f8" height="100" width="auto" style="border-radius:50%"></a>
+11 | **Mastectomy** | <a href="https://open.spotify.com/artist/0MqU9WAUQLHKxAnpZASYtE" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022bd186a5fb10c476791d89dc" height="100" width="auto" style="border-radius:50%"></a>
+12 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
+13 | **Wormed** | <a href="https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk" target="_blank"><img src="https://i.scdn.co/image/d47feaf702c14f5f58e679e5483387418786bc1e" height="100" width="auto" style="border-radius:50%"></a>
