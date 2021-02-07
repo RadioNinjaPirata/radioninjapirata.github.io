@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw)
 
-<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731b25066b6bba8a693b3d4e12ab67616d0000b27346d56ab07e7518ecb56307ffab67616d0000b27363374d1e9e7e0d1df12ccbc2ab67616d0000b273dfb5f1dac58279f347ff1182" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273480043e1d88336dff647c88bab67616d0000b273601263ecbe7a709252c37a25ab67616d0000b273681ed14028c0fb38b4d09308ab67616d0000b273da3c736003293501c9940424" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -419,7 +419,7 @@ No. | Band | Avatar
 384 | **Moody Good** | <a href="https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH" target="_blank"><img src="https://i.scdn.co/image/bdfce962d5db21d931ffde7bc6b8ef5d84f49bc0" height="100" width="auto" style="border-radius:50%"></a>
 385 | **Moon Frog** | <a href="https://open.spotify.com/artist/1Sr3gDKAizarqCgvyR0PEL" target="_blank"><img src="https://i.scdn.co/image/2b76f4bffe95a8736ca2321e6e3d28669ea4fc64" height="100" width="auto" style="border-radius:50%"></a>
 386 | **Moon:And:6** | <a href="https://open.spotify.com/artist/2y7LZ3jMHqVYZPGSDPV2ZV" target="_blank"><img src="https://i.scdn.co/image/0684965b5d16bc081c51bb9ef5ecb506abbee283" height="100" width="auto" style="border-radius:50%"></a>
-387 | **Morcheeba** | <a href="https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd" target="_blank"><img src="https://i.scdn.co/image/7f6cc11ff42300ac4f2272b29a5aee422bb643d4" height="100" width="auto" style="border-radius:50%"></a>
+387 | **Morcheeba** | <a href="https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd" target="_blank"><img src="https://i.scdn.co/image/3dc9531ee88f64168fb27ac406b60df140e823ce" height="100" width="auto" style="border-radius:50%"></a>
 388 | **Mr Cooper** | <a href="https://open.spotify.com/artist/6oaMspYBRXyUjRvLGUvnKP" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02868b8812a92d60ad68dd82ad" height="100" width="auto" style="border-radius:50%"></a>
 389 | **Mr Little Jeans** | <a href="https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf" target="_blank"><img src="https://i.scdn.co/image/0776df831ba6247c1c63b782d83996e32c389795" height="100" width="auto" style="border-radius:50%"></a>
 390 | **Mr. Carmack** | <a href="https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn?si=Xug3U09IRMyj7UQGZkSx_Q" target="_blank"><img src="https://i.scdn.co/image/300333e0bb071871b75919f6925a05e6d0a12c11" height="100" width="auto" style="border-radius:50%"></a>

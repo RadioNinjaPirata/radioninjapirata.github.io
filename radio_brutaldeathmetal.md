@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA)
 
-<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b27312ae6ffad89c22a3c5e82612ab67616d0000b273ad5c5f921683cb2fd182fbebab67616d0000b273eb2496525e4f89c113dfedb5" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b273111d5c71d481880030266ac5ab67616d0000b2737303ee9e31a69edac9d29097ab67616d0000b2738a402e8d2ff56f1f0c9f2f20" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -44,5 +44,7 @@ No. | Band | Avatar
 9 | **Kataplexia** | <a href="https://open.spotify.com/artist/6zFsJ5GuKCs2VmM3rZdewA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eb2496525e4f89c113dfedb5" height="100" width="auto" style="border-radius:50%"></a>
 10 | **Krocophile** | <a href="https://open.spotify.com/artist/0ishqPiqbZigIQxS3bjfq9" target="_blank"><img src="https://i.scdn.co/image/74053b0c3111bc418375740323f7cec02dbf10f8" height="100" width="auto" style="border-radius:50%"></a>
 11 | **Mastectomy** | <a href="https://open.spotify.com/artist/0MqU9WAUQLHKxAnpZASYtE" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022bd186a5fb10c476791d89dc" height="100" width="auto" style="border-radius:50%"></a>
-12 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
-13 | **Wormed** | <a href="https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk" target="_blank"><img src="https://i.scdn.co/image/d47feaf702c14f5f58e679e5483387418786bc1e" height="100" width="auto" style="border-radius:50%"></a>
+12 | **Mephistopheles** | <a href="https://open.spotify.com/artist/0xPzTEnYwtgYO5mR3piRkc" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0224359b261c2f03f66dbf71a7" height="100" width="auto" style="border-radius:50%"></a>
+13 | **Nyctalopia** | <a href="https://open.spotify.com/artist/52SzRgSMBvRISstc14aAIA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028a402e8d2ff56f1f0c9f2f20" height="100" width="auto" style="border-radius:50%"></a>
+14 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
+15 | **Wormed** | <a href="https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk" target="_blank"><img src="https://i.scdn.co/image/d47feaf702c14f5f58e679e5483387418786bc1e" height="100" width="auto" style="border-radius:50%"></a>
