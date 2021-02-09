@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA)
 
-<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27301c9bb8f9e0f255b5ecbd300ab67616d0000b2731db688fa28427f05608b00aeab67616d0000b27395a13499ff1dea593450d15bab67616d0000b273a67dfc3bee87adb8f8163213" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27331af24b8ebbe7a420f601913ab67616d0000b273885f831e389dc69c69b60b74ab67616d0000b27398163b3b50a5df153a05c649ab67616d0000b273cec541f4e53b9e30dfe6101f" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -44,12 +44,13 @@ No. | Band | Avatar
 9 | **Girlschool** | <a href="https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8" target="_blank"><img src="https://i.scdn.co/image/4527d13777772fc716bee3e4a2c0221c7c6d7db0" height="100" width="auto" style="border-radius:50%"></a>
 10 | **Halford** | <a href="https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026b2a999f8885eda0e3b240d9" height="100" width="auto" style="border-radius:50%"></a>
 11 | **Iron Maiden** | <a href="https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao" target="_blank"><img src="https://i.scdn.co/image/a6e9ed559db89eaa89de1684eea49547128d598a" height="100" width="auto" style="border-radius:50%"></a>
-12 | **Judas Priest** | <a href="https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I" target="_blank"><img src="https://i.scdn.co/image/69fe1c19436a4fd4a786f9ca313bc33adcd6ec34" height="100" width="auto" style="border-radius:50%"></a>
-13 | **Motörhead** | <a href="https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M" target="_blank"><img src="https://i.scdn.co/image/1d4d3589606e06c992f45279a584f8dd5fe2ad13" height="100" width="auto" style="border-radius:50%"></a>
-14 | **Rainbow** | <a href="https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m" target="_blank"><img src="https://i.scdn.co/image/402ab270e0754615887a261047f7db4596c1ffda" height="100" width="auto" style="border-radius:50%"></a>
-15 | **Raven** | <a href="https://open.spotify.com/artist/1EH9eSje47IiRyVsq3gfkl" target="_blank"><img src="https://i.scdn.co/image/ab9e9d5f86ab4342765acfe77264d3f9c0848450" height="100" width="auto" style="border-radius:50%"></a>
-16 | **Rock Goddess** | <a href="https://open.spotify.com/artist/5IRiDFbQACzuEriYUoGBIK" target="_blank"><img src="https://i.scdn.co/image/ffa95b275729de0b6c3a603099e97a39a54d9ee2" height="100" width="auto" style="border-radius:50%"></a>
-17 | **Satan'S Fall** | <a href="https://open.spotify.com/artist/2UAI07YLI30I3lZN91lqbO" target="_blank"><img src="https://i.scdn.co/image/e66b8bdc0b2eec94031b32af27aff8447def6f2e" height="100" width="auto" style="border-radius:50%"></a>
-18 | **Saxon** | <a href="https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU" target="_blank"><img src="https://i.scdn.co/image/ff107ac12bab4f9b6362c89dc203ec7b37a58bbe" height="100" width="auto" style="border-radius:50%"></a>
-19 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
-20 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>
+12 | **Jetter** | <a href="https://open.spotify.com/artist/7iZ5suIeUNMwow5scWXlaa" target="_blank"><img src="https://i.scdn.co/image/f4dc7ff615675979f8807432199bbded6821135d" height="100" width="auto" style="border-radius:50%"></a>
+13 | **Judas Priest** | <a href="https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I" target="_blank"><img src="https://i.scdn.co/image/69fe1c19436a4fd4a786f9ca313bc33adcd6ec34" height="100" width="auto" style="border-radius:50%"></a>
+14 | **Motörhead** | <a href="https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M" target="_blank"><img src="https://i.scdn.co/image/1d4d3589606e06c992f45279a584f8dd5fe2ad13" height="100" width="auto" style="border-radius:50%"></a>
+15 | **Rainbow** | <a href="https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m" target="_blank"><img src="https://i.scdn.co/image/402ab270e0754615887a261047f7db4596c1ffda" height="100" width="auto" style="border-radius:50%"></a>
+16 | **Raven** | <a href="https://open.spotify.com/artist/1EH9eSje47IiRyVsq3gfkl" target="_blank"><img src="https://i.scdn.co/image/ab9e9d5f86ab4342765acfe77264d3f9c0848450" height="100" width="auto" style="border-radius:50%"></a>
+17 | **Rock Goddess** | <a href="https://open.spotify.com/artist/5IRiDFbQACzuEriYUoGBIK" target="_blank"><img src="https://i.scdn.co/image/ffa95b275729de0b6c3a603099e97a39a54d9ee2" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Satan'S Fall** | <a href="https://open.spotify.com/artist/2UAI07YLI30I3lZN91lqbO" target="_blank"><img src="https://i.scdn.co/image/e66b8bdc0b2eec94031b32af27aff8447def6f2e" height="100" width="auto" style="border-radius:50%"></a>
+19 | **Saxon** | <a href="https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU" target="_blank"><img src="https://i.scdn.co/image/ff107ac12bab4f9b6362c89dc203ec7b37a58bbe" height="100" width="auto" style="border-radius:50%"></a>
+20 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
+21 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>

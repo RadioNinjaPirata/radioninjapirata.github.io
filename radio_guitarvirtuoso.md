@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5q4L4mVP3iLP7blZFqdPx4?si=7AaZg-sjQOChZSioVAX7WA)
 
-<a href="https://open.spotify.com/playlist/5q4L4mVP3iLP7blZFqdPx4?si=7AaZg-sjQOChZSioVAX7WA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730e8868b88fb9ce2f3119aa33ab67616d0000b273675038571389ed8d2ac76a3fab67616d0000b2737c8335e7d18e7a7403a71f5fab67616d0000b273967eafef902af8977a535ae8" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5q4L4mVP3iLP7blZFqdPx4?si=7AaZg-sjQOChZSioVAX7WA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2737eabdfdebee84ce17685c8fcab67616d0000b273a118cccd1f1836e51addebc7ab67616d0000b273a344d0bdbe9d7988e62758ccab67616d0000b273c11094a7fe88eaae4c102ae5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -148,8 +148,8 @@ No. | Band | Avatar
 113 | **Mcrocklin** | <a href="https://open.spotify.com/artist/3ajU0FztvIxRclcrrq3LR5" target="_blank"><img src="https://i.scdn.co/image/fc2010e63e8d0804ef42ea988be12ecc8d4e6514" height="100" width="auto" style="border-radius:50%"></a>
 114 | **Michael Abdow** | <a href="https://open.spotify.com/artist/2xf1kIzT3xqWYqdspKB55l" target="_blank"><img src="https://i.scdn.co/image/34db3a4e542debe5c6c2e9a241bb1ae712675a82" height="100" width="auto" style="border-radius:50%"></a>
 115 | **Michael Angelo Batio** | <a href="https://open.spotify.com/artist/6yX3wacPyKAueKwOAjKT0i" target="_blank"><img src="https://i.scdn.co/image/6df8e31e9b844da8dfe2f3f7715df0067dc248a4" height="100" width="auto" style="border-radius:50%"></a>
-116 | **Michael Harris** | <a href="https://open.spotify.com/artist/2KWxgWEAt6Sw2yoR5M7ANV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c76cb834da62f4cfcbd698d8" height="100" width="auto" style="border-radius:50%"></a>
-117 | **Michael Harris** | <a href="https://open.spotify.com/artist/5ofZ15S8lDwRMjkUTqSxGN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02903eca341efac8ecd2a1812c" height="100" width="auto" style="border-radius:50%"></a>
+116 | **Michael Harris** | <a href="https://open.spotify.com/artist/5ofZ15S8lDwRMjkUTqSxGN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02903eca341efac8ecd2a1812c" height="100" width="auto" style="border-radius:50%"></a>
+117 | **Michael Harris** | <a href="https://open.spotify.com/artist/2KWxgWEAt6Sw2yoR5M7ANV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c76cb834da62f4cfcbd698d8" height="100" width="auto" style="border-radius:50%"></a>
 118 | **Michael Lee Firkins** | <a href="https://open.spotify.com/artist/7hDSpyE3c2yq9LUeJuY8xC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023b102c16431a52d600c64109" height="100" width="auto" style="border-radius:50%"></a>
 119 | **Michael Romeo** | <a href="https://open.spotify.com/artist/1u13Ufesdz3aVSYpL1bFue" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027a705472e46737f5d3d63a79" height="100" width="auto" style="border-radius:50%"></a>
 120 | **Mikael Nilsson** | <a href="https://open.spotify.com/artist/6QrDYDPw8RShdR8ks5hEfc" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a118cccd1f1836e51addebc7" height="100" width="auto" style="border-radius:50%"></a>
@@ -181,7 +181,7 @@ No. | Band | Avatar
 146 | **Rick Graham** | <a href="https://open.spotify.com/artist/0aI3oF2tA7iwYKn9S7qkAL" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eab0d629c125fee2396a1c39" height="100" width="auto" style="border-radius:50%"></a>
 147 | **Rob Balducci** | <a href="https://open.spotify.com/artist/0tLOjsNBZA1dyytGYhgflu" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d14bc76ffd5da0961ea8655c" height="100" width="auto" style="border-radius:50%"></a>
 148 | **Rob Johnson** | <a href="https://open.spotify.com/artist/5Q7N6PNy73P0G9J3Z2YH5B" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e70716bdc3792c999cfe99bf" height="100" width="auto" style="border-radius:50%"></a>
-149 | **Robyn Ferguson** | <a href="https://open.spotify.com/artist/00147tpTlsA5XELYX03vuO" target="_blank"><img src="https://i.scdn.co/image/dad2f948e2fcc8263ec4f8e0b969ea2424a74b02" height="100" width="auto" style="border-radius:50%"></a>
+149 | **Robyn Ferguson** | <a href="https://open.spotify.com/artist/00147tpTlsA5XELYX03vuO" target="_blank"><img src="https://i.scdn.co/image/b3d9221d4962487f461e3ba7b13120d1723a1104" height="100" width="auto" style="border-radius:50%"></a>
 150 | **Ron Bumblefoot Thal** | <a href="https://open.spotify.com/artist/1pfObbpsH1DmojbIUv2qfs" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022f10cc3c7b50507e1de86929" height="100" width="auto" style="border-radius:50%"></a>
 151 | **Rusty Cooley** | <a href="https://open.spotify.com/artist/6V1sfVg2rbu16kLYo7n4mq" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02085657327e58625eded5d6c7" height="100" width="auto" style="border-radius:50%"></a>
 152 | **Scale The Summit** | <a href="https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb" target="_blank"><img src="https://i.scdn.co/image/b279b0c4f982f187e9121a2f4f49a5207ce2a0ed" height="100" width="auto" style="border-radius:50%"></a>
