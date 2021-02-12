@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A)
 
-<a href="https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273553119cd73519f18e88b6670ab67616d0000b273bb56a8567e66c561498c91d5ab67616d0000b273e3a70a1af2e3a3b31ccc30bdab67616d0000b273f7f6722e594987a42fae365f" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734d1a8e88439c3be779df2768ab67616d0000b27398f4ed3728c9689bab5a66f0ab67616d0000b2739b070ffe8271161efd84bb76ab67616d0000b273e322065e11f23990ec50de9f" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -50,7 +50,7 @@ No. | Band | Avatar
 15 | **Archgoat** | <a href="https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c9200c4e5646945c61c233b" height="100" width="auto" style="border-radius:50%"></a>
 16 | **Arcturus** | <a href="https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z" target="_blank"><img src="https://i.scdn.co/image/330fdb658490b11a5a4ecd068c35e1dd07582e56" height="100" width="auto" style="border-radius:50%"></a>
 17 | **Ars Magna Umbrae** | <a href="https://open.spotify.com/artist/4ZQP6y6wXUNq2nsp54qUv4?si=i-5s3nUhRde988gbZ1ClTA" target="_blank"><img src="https://i.scdn.co/image/2c56be4df2301073575c7174094cade4a1e788b7" height="100" width="auto" style="border-radius:50%"></a>
-18 | **Asagraum** | <a href="https://open.spotify.com/artist/0vYB7kRlczfzsOnK49N7D2?si=t6TbMLEpQq2FDjJowomuiA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028521e9d9c1749056281ee52d" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Asagraum** | <a href="https://open.spotify.com/artist/0vYB7kRlczfzsOnK49N7D2" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028521e9d9c1749056281ee52d" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Astarte** | <a href="https://open.spotify.com/artist/0X8Pi1W40bewq0jRQ7o3VJ" target="_blank"><img src="https://i.scdn.co/image/b634afe8053465814d846578d877321f92e94ac9" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Atrexial** | <a href="https://open.spotify.com/artist/5ckGWWp9bsGasq2w0SBR8B" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02406936848f5c755cfb768e1e" height="100" width="auto" style="border-radius:50%"></a>
 21 | **Aura Noir** | <a href="https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6" target="_blank"><img src="https://i.scdn.co/image/ce2daa43e49ca1aec76d029ae6112c31aef56146" height="100" width="auto" style="border-radius:50%"></a>
@@ -78,7 +78,7 @@ No. | Band | Avatar
 43 | **Daemonarch** | <a href="https://open.spotify.com/artist/1GKXGc0ZZYszuzdtLFNGKV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c0f6ce12e79c7fa17298d59f" height="100" width="auto" style="border-radius:50%"></a>
 44 | **Dark Fortress** | <a href="https://open.spotify.com/artist/0hiccXRDVXl9sOZ4R7aNry" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac3a4fe736ac3cee20df557bc28" height="100" width="auto" style="border-radius:50%"></a>
 45 | **Dark Funeral** | <a href="https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE" target="_blank"><img src="https://i.scdn.co/image/5bd81c4363d9c4424c4c8fed886916f72d092791" height="100" width="auto" style="border-radius:50%"></a>
-46 | **Darkened Nocturn Slaughtercult** | <a href="https://open.spotify.com/artist/17pXjDaTNZzOvwk8ELJm7Q?si=J8q7kYAjRdyHqWAZFokO9w" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c5ccea1978d3134a9faef451" height="100" width="auto" style="border-radius:50%"></a>
+46 | **Darkened Nocturn Slaughtercult** | <a href="https://open.spotify.com/artist/17pXjDaTNZzOvwk8ELJm7Q" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0240d9c294ac3b68f451eeaf70" height="100" width="auto" style="border-radius:50%"></a>
 47 | **Darkthrone** | <a href="https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV" target="_blank"><img src="https://i.scdn.co/image/5ef21ae9abfb3bbfd62b4a2e7a7c15f6b086f9f1" height="100" width="auto" style="border-radius:50%"></a>
 48 | **Deathspell Omega** | <a href="https://open.spotify.com/artist/4pP3Gtdmwp2cHtz736pyGI?si=TCrHyJqwQ7uvvQ-kAzHkhw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e8c5dd1a7476258e2446e5b1" height="100" width="auto" style="border-radius:50%"></a>
 49 | **Deströyer 666** | <a href="https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK" target="_blank"><img src="https://i.scdn.co/image/98544f21df2932ffbe948d01f25bec01759710b4" height="100" width="auto" style="border-radius:50%"></a>

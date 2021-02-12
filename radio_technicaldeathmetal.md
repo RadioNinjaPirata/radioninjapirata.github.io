@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5mlLo3TCjN7wSqZACeu5Tx?si=YdSYNWAhQaqdTOAMQvsQGQ)
 
-<a href="https://open.spotify.com/playlist/5mlLo3TCjN7wSqZACeu5Tx?si=YdSYNWAhQaqdTOAMQvsQGQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27323382a11d2c2fb2def8d5309ab67616d0000b273e2f0729c16bc423927647d66ab67616d0000b273f5738330acb56a830ef02fb5ab67616d0000b273f6ef89beb0e1d6c74a684e34" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5mlLo3TCjN7wSqZACeu5Tx?si=YdSYNWAhQaqdTOAMQvsQGQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273028b37fe1f2108e798064553ab67616d0000b2736a07cdeab4c96e1ebcfadc08ab67616d0000b2737c5aa4e80d1d0c1a5b08ca6aab67616d0000b2738299feb84841066c89bc933e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -35,7 +35,7 @@ No. | Band | Avatar
 --- | ---- | ------
 1 | **A Loathing Requiem** | <a href="https://open.spotify.com/artist/3nJxgLMUAuJX4ovwESqyct" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c8adf926337fc03140f8b8d9" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Abhorrent Decimation** | <a href="https://open.spotify.com/artist/0E9FMsXhEIhozPgvmLNrGY" target="_blank"><img src="https://i.scdn.co/image/f204895d7966199a4afb296bb2d03285633bdbe0" height="100" width="auto" style="border-radius:50%"></a>
-3 | **Abiotic** | <a href="https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cb60e93b599d395930afcdea" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Abiotic** | <a href="https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe" target="_blank"><img src="https://i.scdn.co/image/ececd5b4471a32d5d939243c3ceed47971810aba" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Abnormality** | <a href="https://open.spotify.com/artist/3G6H6ma3AVOx4Wu9J6IIPp" target="_blank"><img src="https://i.scdn.co/image/1c5aac479bc80474cdf966980e58099a8c6cb49b" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Aborted** | <a href="https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR" target="_blank"><img src="https://i.scdn.co/image/24ff53b066723870e04e5e1d69b93f39be2add7e" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Abysmal Dawn** | <a href="https://open.spotify.com/artist/2h7HrMDoZpWxx3uAuJxyj9" target="_blank"><img src="https://i.scdn.co/image/41c6118f44a46806c6eb55de3c83015de0804fcc" height="100" width="auto" style="border-radius:50%"></a>
