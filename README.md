@@ -6,11 +6,11 @@ Welcome to the website of the **Radio Ninja Pirata** project.
 
 Surely many of you are wondering, what on earth is Radio Ninja Pirata - yet another radio? Not at all! Our concept is an entirely different one. Stay tuned and read bellow our philosophy:
 
-**Our motivation:** We are sick and tired of the “best songs”, “the most popular” from the 10 most known artists; web radios radios and broadcasted radios are always like this. Here we are developing a radio project where every artist has the same chance to be played, and their whole discography is considered, no privileges are given, **a genuinely egalitarian radio**. In other words, more than radio statios, our streams are dynamic playlists!
+**Our motivation:** We are sick and tired radios and playlists out there feature only the “best songs” from the 10 most known artists. Very few web and regular radios allow space for unknown artists or "not favorite songs". In **Radio Ninja Piarata**, we are developing a radio project where every artist has the same chance to be played, and their whole discography is considered, no privileges are given, **a genuinely egalitarian radio**. In other words, more than radio stations, our streams are dynamic playlists!
 
 It’s time to explore more music, it is time to explore infinity!
 
-Click bellow to see the our complete catalog of stations:
+Click the banner bellow to see the our complete catalog of stations:
 
 <a href="radios.html"><img src="assets/radios_button.png" alt="radiobutton" /></a>
 
@@ -22,15 +22,15 @@ Find us:
 
 # How does it work?
 
-To listen to our radios is very easy, you just need a [Spotify account](https://www.spotify.com). Why Spotify? We are not supported by Spotify whatsoever. Simply, we have used the platform for many years, so why not continue with it? We are considering in the future to expand to other platforms as well. Would you support us on that?
+To listen to our radios is very easy, you just need a [Spotify account](https://www.spotify.com). Why Spotify? We are not supported by Spotify whatsoever. Simply, we have used the platform for many years, so why not continue with it?
 
-**Let us explain the project:** Notice that our radios are actual playlists on Spotify; you can follow and organize them like any other playlist.
+**Our playlists:** Notice that our radio stations are actual playlists on Spotify; you can follow and organize them like any other playlist.
 
-**How do these playlists work as radios?** Radio Ninja Pirata's stations are dynamic playlists that self regenerate with 40 new songs every 2 hours. Previous songs disappear, and new ones come in. When a list regenerates, what happens to the current playing song? Nothing, songs continue playing without stopping, resulting in an infinite playing loop, 24/7, providing you a radio experience. You just have to play it, and it will go non-stop. You can think of our playlists are pure radio stations that feature artists' complete discographies, not only "best-of" songs.
+**How do these playlists work as radios?** Radio Ninja Pirata's stations are dynamic playlists that self regenerate with 40 different songs every 2 hours. Previous songs disappear, and new ones come in. What happens to the current playing song when a list regenerates? Nothing, tracks will continue to play non-stop while the list regenerates, resulting in an infinite playing loop, 24/7, providing you a radio experience. You can think of our playlists as pure radio stations that feature artists' complete discographies, not only "best-of" songs.
 
-**Which stations are available?** We are developing stations based on themes and music styles. Our aim is that listening to a station for hours long provides a seamless sound experience without unexpected jumps on form and rhythm. The artists that play on each radio are selected based on the radio theme. We try to gather as many artists as possible and as many styles as possible, not only those most famous but also those not under the lights of big fame. Our aim is to get people to know more music.
+**Which stations are available?** We are developing stations based on themes and music styles. Our aim is to provide a seamless listening experience without unexpected jumps on form and rhythm. The artists that play on each radio are selected based on the radio theme. We try to gather as many artists as possible within each music genre or subgenre. We want to give visibility to all those less known artists as well.
 
-**How are the songs selected?** To select a song, we first randomly choose an author of the authors' catalog that constitute the station. After that, we randomly select a track from the whole artist's catalog on Spotify. This process is repeated for every song added to the radio station. Therefore, all artists have the same probability of being played at each song selection. And, believe us, some times random creates very nice musical connections ;-)
+**How are the songs selected?** To select a song, we first randomly choose an author from the authors' catalog of each station. After that, we randomly select a track from the whole artist's catalog on Spotify. This process is repeated for every song added to the radio station. Therefore, all artists have the same probability of being played at each song selection. Artists are not repeated until all artists in the station have been selected. Likewise, songs are not repeated until all songs of an artist have played. This gives us quite a crazy random experience ;-)
 
 We are in active development, some radios are experimental, others are nicely established. Have a look, and stay tuned! ;-)
 
