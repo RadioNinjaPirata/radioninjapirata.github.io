@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw)
 
-<a href="https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273196d3326e65d894f44d4657eab67616d0000b2731aaaf074b06f369efd55d451ab67616d0000b2734a2303a23458e252fd297194ab67616d0000b273890627b101cbb301db5d5f37" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5XsgEbN8F05vzwVSUJr0RU?si=-0y-ZI0tRpmLAbzTIFV5Vw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730b32ee718e99b65e1a74bc3eab67616d0000b2732965da9852cf213146bab823ab67616d0000b2734bde49656ea866bf506e0474ab67616d0000b273c70dd3946fe82a95d03db1ae" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -53,7 +53,7 @@ No. | Band | Avatar
 18 | **Battlelore** | <a href="https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02140d4917719522ace7f06b4e" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Beyond The Black** | <a href="https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf" target="_blank"><img src="https://i.scdn.co/image/257c943e77fc8b448ed7a0b4f7bb6e3ad1d35230" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Blind Guardian** | <a href="https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6?si=NEJlXS5NRD-dltJ1jcCfag" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac3131ce8946cbe55c7585aa60f" height="100" width="auto" style="border-radius:50%"></a>
-21 | **Carolina Iv** | <a href="https://open.spotify.com/artist/1Rv3lyVxne70ReQKMotgAf?si=q_MLU3sQQkS9itmAzApgJw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02365ce26e16cebf46bdbc9000" height="100" width="auto" style="border-radius:50%"></a>
+21 | **Carolina Iv** | <a href="https://open.spotify.com/artist/1Rv3lyVxne70ReQKMotgAf" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02365ce26e16cebf46bdbc9000" height="100" width="auto" style="border-radius:50%"></a>
 22 | **Cellar Darling** | <a href="https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR" target="_blank"><img src="https://i.scdn.co/image/c940e98a25a833c54453034fd2deca3899c9b03a" height="100" width="auto" style="border-radius:50%"></a>
 23 | **Chaos Magic** | <a href="https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC" target="_blank"><img src="https://i.scdn.co/image/86cbf69134e5b82d37fc29f1ecb302108453d6f8" height="100" width="auto" style="border-radius:50%"></a>
 24 | **Collibus** | <a href="https://open.spotify.com/artist/601WQxqnQGlIOMs47mVuME" target="_blank"><img src="https://i.scdn.co/image/2049ace4f94e125d2e127758702bba389d21781e" height="100" width="auto" style="border-radius:50%"></a>

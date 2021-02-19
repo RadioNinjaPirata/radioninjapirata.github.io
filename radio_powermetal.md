@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q)
 
-<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733a477e978a14dfdba82b33c4ab67616d0000b27347054eab49e25495ea30c6c0ab67616d0000b27375f59a6c8a7b66af89cb288dab67616d0000b27389e56d5f1838cc8ff422cbb4" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27301b104a29c20847d2b2f17f5ab67616d0000b273335e6ac809fe9b2bf8351f8aab67616d0000b2737d84f25f4e94c1658c03c3f1ab67616d0000b2739626a23818da759740c0dbb1" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -199,5 +199,6 @@ No. | Band | Avatar
 164 | **Warkings** | <a href="https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E?si=Uy0FbvkUR8yXtTnc-B6xBQ" target="_blank"><img src="https://i.scdn.co/image/8943e373554c6108620596ae4dc6e7ade222a152" height="100" width="auto" style="border-radius:50%"></a>
 165 | **Wind Rose** | <a href="https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz" target="_blank"><img src="https://i.scdn.co/image/8ff4497c0527c80eb08c37ab188042e310a2c5c7" height="100" width="auto" style="border-radius:50%"></a>
 166 | **Wisdom** | <a href="https://open.spotify.com/artist/2Uvj75EFUSbO45dqL4SDpw?si=JW6kAnhnS1Scw4tRjLtZQQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02abbff3dbe239ec15626948b6" height="100" width="auto" style="border-radius:50%"></a>
-167 | **Yngwie Malmsteen** | <a href="https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG" target="_blank"><img src="https://i.scdn.co/image/039549007849ef5a78344fc6346090d902c2e4a2" height="100" width="auto" style="border-radius:50%"></a>
-168 | **Zonata** | <a href="https://open.spotify.com/artist/6EiP4zf8DuisqFZFtoXS49" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02fa058f37514193a8e266d189" height="100" width="auto" style="border-radius:50%"></a>
+167 | **Wizard** | <a href="https://open.spotify.com/artist/6lJSdRmKUvUiYE0VABLpYy" target="_blank"><img src="https://i.scdn.co/image/d928a2d776eac377fdf454aebf2cf7f67d609687" height="100" width="auto" style="border-radius:50%"></a>
+168 | **Yngwie Malmsteen** | <a href="https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG" target="_blank"><img src="https://i.scdn.co/image/039549007849ef5a78344fc6346090d902c2e4a2" height="100" width="auto" style="border-radius:50%"></a>
+169 | **Zonata** | <a href="https://open.spotify.com/artist/6EiP4zf8DuisqFZFtoXS49" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02fa058f37514193a8e266d189" height="100" width="auto" style="border-radius:50%"></a>
