@@ -1,11 +1,11 @@
-# Brutal / Slam / Technical Death Metal
+# Brutal / Slam / Death Metal
 
 **40 different tracks every 2 hours!**
 
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA)
 
-<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302feb7306e5877c5666bea3dab67616d0000b27326b0124c3210c94a84367f3aab67616d0000b2737864c768fb45850b56906afdab67616d0000b273ad5c5f921683cb2fd182fbeb" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735909381da88b7ba928cd30e3ab67616d0000b273a977b5232b154ddf1ec8973eab67616d0000b273ad5c5f921683cb2fd182fbebab67616d0000b273eb2496525e4f89c113dfedb5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
