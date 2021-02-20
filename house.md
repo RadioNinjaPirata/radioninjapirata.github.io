@@ -34,4 +34,7 @@ We are building daily! Stay tuned for updates. :-)
 No. | Band | Avatar
 --- | ---- | ------
 1 | **House Of Seb** | <a href="https://open.spotify.com/artist/1wrPeAhOfPQlWbFkz9LtIV" target="_blank"><img src="https://i.scdn.co/image/2bdb1a0a30be9f4a90b05949afbbb256a421c41e" height="100" width="auto" style="border-radius:50%"></a>
-2 | **Music Container** | <a href="https://open.spotify.com/artist/5Cf4LFut4EXRqOMYlaSM5w" target="_blank"><img src="https://i.scdn.co/image/ac766e6feb758c6803ebefc9b099a039999f888f" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Jed Elno** | <a href="https://open.spotify.com/artist/1LEpTdEV0lU4ehvoNTfDON" target="_blank"><img src="https://i.scdn.co/image/467e26b616c952043925a95e58f8adefb38d888b" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Music Container** | <a href="https://open.spotify.com/artist/5Cf4LFut4EXRqOMYlaSM5w" target="_blank"><img src="https://i.scdn.co/image/ac766e6feb758c6803ebefc9b099a039999f888f" height="100" width="auto" style="border-radius:50%"></a>
+4 | **Nicky Roland** | <a href="https://open.spotify.com/artist/5FAertl0i2uL8lZCszx6RF" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025199b17c441bc87888f5aa3d" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Zegae** | <a href="https://open.spotify.com/artist/5lw9eePetxTZwWvGhnLuqX" target="_blank"><img src="https://i.scdn.co/image/e0ca611af39af03469a688fc3496abb0d6b01107" height="100" width="auto" style="border-radius:50%"></a>
