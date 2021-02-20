@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w)
 
-<a href="https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273239c62e47d46964ae91303a9ab67616d0000b27347c0731df0f3b7fc2d08f7e5ab67616d0000b2738d2f70792b45fe47aa18df9cab67616d0000b273ec2b360057db9762699beed1" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5dzRcQXqgJxHQG47pe7DlZ?si=QNSqryiMRfensr4zPNEC7w" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27313a2fe95c5c203e63289ac35ab67616d0000b2733cbd59e652a1500575428dcdab67616d0000b27346ec152bdfa335d6f1465234ab67616d0000b27357d33926628b7288e606ec99" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -86,7 +86,7 @@ No. | Band | Avatar
 51 | **Periphery** | <a href="https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc" target="_blank"><img src="https://i.scdn.co/image/8b3664cc8856127eb63184838e5b5fd8b5344d74" height="100" width="auto" style="border-radius:50%"></a>
 52 | **Prospective** | <a href="https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS" target="_blank"><img src="https://i.scdn.co/image/af1e08640e7fe54d3003d0e50bb38ff25d448777" height="100" width="auto" style="border-radius:50%"></a>
 53 | **Quietkind** | <a href="https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr" target="_blank"><img src="https://i.scdn.co/image/9360810a6afc2b80707a4ef8c655dc0a6275c8f7" height="100" width="auto" style="border-radius:50%"></a>
-54 | **Red Handed Denial** | <a href="https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7" target="_blank"><img src="https://i.scdn.co/image/242c4017914f9e0c9d8e5b9a8c3821a2b26f8672" height="100" width="auto" style="border-radius:50%"></a>
+54 | **Red Handed Denial** | <a href="https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7" target="_blank"><img src="https://i.scdn.co/image/99fb251987aa9cdf672ac71f31664464f62b22d4" height="100" width="auto" style="border-radius:50%"></a>
 55 | **Rejectionary Art** | <a href="https://open.spotify.com/artist/5eiOkQJXehgauC4po4nupp" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024ec5401645e2b4301eb732d0" height="100" width="auto" style="border-radius:50%"></a>
 56 | **Returning We Hear The Larks** | <a href="https://open.spotify.com/artist/2g5SOob5tmBbErT2JNY4fh" target="_blank"><img src="https://i.scdn.co/image/a3681b22f69df98e94c2a98778a01bfe820d55a0" height="100" width="auto" style="border-radius:50%"></a>
 57 | **Rogue** | <a href="https://open.spotify.com/artist/0dOZLZTANQlLMsenyYc1O6" target="_blank"><img src="https://i.scdn.co/image/e4c868a9a4cd83cd23d7997d7453e6d0bcae82b6" height="100" width="auto" style="border-radius:50%"></a>

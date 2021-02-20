@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg)
 
-<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2736c2592f5519816e6a63c4207ab67616d0000b273e206d98bb8bafb2004f08a0fab67616d0000b273eb28a5114c19b47f1d6238b2ab67616d0000b273f1e31155cd9bb6c175cc7f6a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27366bfa50add637d25f978260eab67616d0000b2737e27eb4e7c0acfdf418d668aab67616d0000b273bd6b43cd2ef9f7d093f71663ab67616d0000b273c28e1fe6d855a00301e8344e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -34,7 +34,7 @@ We are building daily! Stay tuned for updates. :-)
 No. | Band | Avatar
 --- | ---- | ------
 1 | **6Th Awakening** | <a href="https://open.spotify.com/artist/13CDCuJ0fA3tcMP6RvLehK" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0249ba52bff2d203a7fb230a57" height="100" width="auto" style="border-radius:50%"></a>
-2 | **Aeternam** | <a href="https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s?si=LayfpOEnTWOtyMdsc8R92A" target="_blank"><img src="https://i.scdn.co/image/50cf15ae90350f40b5243d260217616fa1f77251" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Aeternam** | <a href="https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s" target="_blank"><img src="https://i.scdn.co/image/50cf15ae90350f40b5243d260217616fa1f77251" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Apotheus** | <a href="https://open.spotify.com/artist/5a0LCnLC3U4CFpS794sqVv" target="_blank"><img src="https://i.scdn.co/image/954764fdf1781ccb5d540aea981251643d2d985e" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Black Like Vengeance** | <a href="https://open.spotify.com/artist/7aaT80OFrOsHlbQm2fKbaP" target="_blank"><img src="https://i.scdn.co/image/ff40ae308af2f3c5279d008df27bab12a3bf8bfc" height="100" width="auto" style="border-radius:50%"></a>
@@ -50,7 +50,7 @@ No. | Band | Avatar
 15 | **Exhumation** | <a href="https://open.spotify.com/artist/52lGWY47cz7PrnYJdWkPWJ" target="_blank"><img src="https://i.scdn.co/image/165918d0da50a5b0c73a247ecc809e2265eb15bc" height="100" width="auto" style="border-radius:50%"></a>
 16 | **Fall Of The Leafe** | <a href="https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn?si=TGUER7bBTAiP_I9MO24Mlw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ed11278f2d1ee36117e8de41" height="100" width="auto" style="border-radius:50%"></a>
 17 | **Fires In The Distance** | <a href="https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw" target="_blank"><img src="https://i.scdn.co/image/bec24b9776dc6015f806b6fc7dcef4d7ed7a399c" height="100" width="auto" style="border-radius:50%"></a>
-18 | **Foredoomed** | <a href="https://open.spotify.com/artist/0XGMZjc0FWuQm1dzb2yKUi?si=KquoVESISF2ITJWbWDo4Bg" target="_blank"><img src="https://i.scdn.co/image/0da272ffc7e3d95c7d78b3961b2ce7ee9ff8d93e" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Foredoomed** | <a href="https://open.spotify.com/artist/0XGMZjc0FWuQm1dzb2yKUi" target="_blank"><img src="https://i.scdn.co/image/0da272ffc7e3d95c7d78b3961b2ce7ee9ff8d93e" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Frantic Amber** | <a href="https://open.spotify.com/artist/35ExNkMZGn1aQd0WkgsRjo" target="_blank"><img src="https://i.scdn.co/image/7d82c4d30dd509bce04da9951b0fca6559468bb6" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Garden Of Shadows** | <a href="https://open.spotify.com/artist/4iqNfe8W0nP9pEjLjljqEV?si=u6k9E2Z8Qni65IoqEIgmpw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02122513d73dc3659c8b6626f1" height="100" width="auto" style="border-radius:50%"></a>
 21 | **Healing Harm** | <a href="https://open.spotify.com/artist/5U3hWIUobhzov9jCpmmQq4" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020764a93d97acc1de13179c9f" height="100" width="auto" style="border-radius:50%"></a>

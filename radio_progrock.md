@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg)
 
-<a href="https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27348e94c4532c72f7a56282818ab67616d0000b2734b289dfddb41495e4245da7bab67616d0000b273d88601ed869a074f20010424ab67616d0000b273ffb919c08489d7288ab6d694" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/7fKNWDYkGCJYf7IC0sQjNT?si=Tx40BvKtQgK4f7-g_u4Tsg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27388d4e7b06aaf363f85a95e8cab67616d0000b273b3693fe5c0bbdf57f3a25341ab67616d0000b273c8a7d94776e5831d73c37c75ab67616d0000b273ccd0f3e49d4a0f30a630b246" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -89,7 +89,7 @@ No. | Band | Avatar
 54 | **Porcupine Tree** | <a href="https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0" target="_blank"><img src="https://i.scdn.co/image/6992c0c104a9805d410ec2e7db3330467f9d4b54" height="100" width="auto" style="border-radius:50%"></a>
 55 | **Psychotic Waltz** | <a href="https://open.spotify.com/artist/2dOv4EhVP0W9QU8irQJEld" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0267a0189f698d536a59591aea" height="100" width="auto" style="border-radius:50%"></a>
 56 | **Pyramaze** | <a href="https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK" target="_blank"><img src="https://i.scdn.co/image/36fd35a29cc3ceb7f37938309aea0e718458194f" height="100" width="auto" style="border-radius:50%"></a>
-57 | **Riverside** | <a href="https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT" target="_blank"><img src="https://i.scdn.co/image/54fd4643dc7abdcf91fba3b74c929f395954b31a" height="100" width="auto" style="border-radius:50%"></a>
+57 | **Riverside** | <a href="https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT" target="_blank"><img src="https://i.scdn.co/image/f3b9a54a82f111848d7553f1dfcb17914bc9dc6b" height="100" width="auto" style="border-radius:50%"></a>
 58 | **Rocket Scientists** | <a href="https://open.spotify.com/artist/3cOczMBbwR9ANxjDHpnkBJ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021c7e64b35b48dbbdc00d54d2" height="100" width="auto" style="border-radius:50%"></a>
 59 | **Roine Stolt** | <a href="https://open.spotify.com/artist/3evVjC5a6WGD0HMOFH6iCt" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026a9d06ce81d1a5be04cffdbe" height="100" width="auto" style="border-radius:50%"></a>
 60 | **Saga** | <a href="https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF" target="_blank"><img src="https://i.scdn.co/image/bb88af1aca84f3c15b7b224785400d60892579c6" height="100" width="auto" style="border-radius:50%"></a>
