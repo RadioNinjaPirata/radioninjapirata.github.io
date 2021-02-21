@@ -1,0 +1,48 @@
+# We are on the air!
+
+Welcome to the website of the **Radio Ninja Pirata** project.
+
+**Radio Ninja Pirata streams dynamic playlists on Spotify**.
+
+Surely many of you are wondering, what on earth is Radio Ninja Pirata - yet another radio? Not at all! Our concept is an entirely different one. Stay tuned and read bellow our philosophy:
+
+**Our motivation:** We are sick and tired radios and playlists out there feature only the “best songs” from the 10 most known artists. Very few web and regular radios allow space for unknown artists or "not favorite songs". In **Radio Ninja Piarata**, we are developing a radio project where every artist has the same chance to be played, and their whole discography is considered, no privileges are given, **a genuinely egalitarian radio**. In other words, more than radio stations, our streams are dynamic playlists!
+
+It’s time to explore more music, it is time to explore infinity!
+
+Click the banner bellow to see the our complete catalog of stations:
+
+<a href="radios.html"><img src="assets/radios_button.png" alt="radiobutton" /></a>
+
+# Social
+
+Find us:
+
+<a href="https://twitter.com/RNinjaPirata" target="_blank"><img src="assets/twitter_button.png" alt="twitter" height="50" width="50" /></a> <a href="https://open.spotify.com/user/pagbz485dhfowwiza5wc9cwh8?si=XVuH5a3NQ8Ohft-yPC5XBA" target="_blank"><img src="assets/spotify_button.png" alt="spotify" height="50" width="50" /></a>
+
+# How does it work?
+
+To listen to our radios is very easy, you just need a [Spotify account](https://www.spotify.com). Why Spotify? We are not supported by Spotify whatsoever. Simply, we have used the platform for many years, so why not continue with it?
+
+**Our playlists:** Notice that our radio stations are actual playlists on Spotify; you can follow and organize them like any other playlist.
+
+**How do these playlists work as radios?** Radio Ninja Pirata's stations are dynamic playlists that self regenerate with 40 different songs every 2 hours. Previous songs disappear, and new ones come in. What happens to the current playing song when a list regenerates? Nothing, tracks will continue to play non-stop while the list regenerates, resulting in an infinite playing loop, 24/7, providing you a radio experience. You can think of our playlists as pure radio stations that feature artists' complete discographies, not only "best-of" songs.
+
+**Which stations are available?** We are developing stations based on themes and music styles. Our aim is to provide a seamless listening experience without unexpected jumps on form and rhythm. The artists that play on each radio are selected based on the radio theme. We try to gather as many artists as possible within each music genre or subgenre. We want to give visibility to all those less known artists as well.
+
+**How are the songs selected?** To select a song, we first randomly choose an author from the authors' catalog of each station. After that, we randomly select a track from the whole artist's catalog on Spotify. This process is repeated for every song added to the radio station. Therefore, all artists have the same probability of being played at each song selection. Artists are not repeated until all artists in the station have been selected. Likewise, songs are not repeated until all songs of an artist have played. This gives us quite a crazy random experience ;-)
+
+We are in active development, some radios are experimental, others are nicely established. Have a look, and stay tuned! ;-)
+
+Hey, we are under construction :-) we will continue creating more and more.
+
+If you enjoy the Radio Ninja Pirata project, consider supporting us with a small donation, we are giving our best to keep this project running! Choose your favorite donation platform bellow:
+
+ Patreon | LiberaPay | PayPal
+<a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
+
+Stay tuned!
+
+The Radio Ninja Pirata's project,
+
+Feb 2021

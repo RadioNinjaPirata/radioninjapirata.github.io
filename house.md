@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1S99ttkKRg99AVXusEAPBu?si=tcy_7HkwRzG5d9WG0U7kaw)
 
-<a href="https://open.spotify.com/playlist/1S99ttkKRg99AVXusEAPBu?si=tcy_7HkwRzG5d9WG0U7kaw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27322bd4cea50ff02d156ec8bc6ab67616d0000b273a7418a42c48355871006243bab67616d0000b273beb013040647729a2a4f8e18ab67616d0000b273eb1e5c3f4e918fca72a43c45" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1S99ttkKRg99AVXusEAPBu?si=tcy_7HkwRzG5d9WG0U7kaw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27377a60c017f9b003aff17ddc3ab67616d0000b273be07425dcdc0c0dbd53151e8ab67616d0000b273d6bebbbe549d730a35e95fefab67616d0000b273fd69b4afa7597a1e862364ce" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -37,4 +37,5 @@ No. | Band | Avatar
 2 | **Jed Elno** | <a href="https://open.spotify.com/artist/1LEpTdEV0lU4ehvoNTfDON" target="_blank"><img src="https://i.scdn.co/image/467e26b616c952043925a95e58f8adefb38d888b" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Music Container** | <a href="https://open.spotify.com/artist/5Cf4LFut4EXRqOMYlaSM5w" target="_blank"><img src="https://i.scdn.co/image/ac766e6feb758c6803ebefc9b099a039999f888f" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Nicky Roland** | <a href="https://open.spotify.com/artist/5FAertl0i2uL8lZCszx6RF" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025199b17c441bc87888f5aa3d" height="100" width="auto" style="border-radius:50%"></a>
-5 | **Zegae** | <a href="https://open.spotify.com/artist/5lw9eePetxTZwWvGhnLuqX" target="_blank"><img src="https://i.scdn.co/image/e0ca611af39af03469a688fc3496abb0d6b01107" height="100" width="auto" style="border-radius:50%"></a>
+5 | **Padre Tóxico** | <a href="https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ" target="_blank"><img src="https://i.scdn.co/image/68f259182e058b92f4299604f2079a8674885560" height="100" width="auto" style="border-radius:50%"></a>
+6 | **Zegae** | <a href="https://open.spotify.com/artist/5lw9eePetxTZwWvGhnLuqX" target="_blank"><img src="https://i.scdn.co/image/e0ca611af39af03469a688fc3496abb0d6b01107" height="100" width="auto" style="border-radius:50%"></a>

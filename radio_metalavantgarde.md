@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3gdXVWlQYcoWWC2RpLcm8B?si=cR2JwyCeShqFK__Cav97yw)
 
-<a href="https://open.spotify.com/playlist/3gdXVWlQYcoWWC2RpLcm8B?si=cR2JwyCeShqFK__Cav97yw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27330a55e1b7ea1bef709d722d6ab67616d0000b2736b3416e109e25d7157f28de8ab67616d0000b273797087715b9dca8013ff8c6eab67616d0000b273d26898dd55a1c4e64f905192" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3gdXVWlQYcoWWC2RpLcm8B?si=cR2JwyCeShqFK__Cav97yw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27353de889ab56d04fdde13219cab67616d0000b273dac7ac40a0eacd3f2cd58869ab67616d0000b273e2ad411b105f6fbc214965c1ab67616d0000b273e4ba949b9c959933efdf0108" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -39,7 +39,7 @@ No. | Band | Avatar
 4 | **A Verbal Equinox** | <a href="https://open.spotify.com/artist/6y9mM5jZYTenEm0Dve74y3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c2defa94bbe7ca22cc4bac8f" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Abbey Ov Thelema** | <a href="https://open.spotify.com/artist/270C4TxP1mnzm0K5pA6tVh" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0250dfa0fbf42b538ba6cced49" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Aberrant Vascular** | <a href="https://open.spotify.com/artist/7ehPG4NtIFxH51IL9xNJSR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e2b5c4cb01ee3b0dafc3e504" height="100" width="auto" style="border-radius:50%"></a>
-7 | **Abigor** | <a href="https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e1239b498d1842c2395fe645" height="100" width="auto" style="border-radius:50%"></a>
+7 | **Abigor** | <a href="https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026924856001ad58c79defc73e" height="100" width="auto" style="border-radius:50%"></a>
 8 | **Abruptum** | <a href="https://open.spotify.com/artist/6HTnXVZSdGiKN2MF51hpP5" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ca3b248448d2354a9c073066" height="100" width="auto" style="border-radius:50%"></a>
 9 | **Abyssal** | <a href="https://open.spotify.com/artist/1Ey4DaBUTa8vzDU25Go0w2" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021c69def4f3367729662bbee9" height="100" width="auto" style="border-radius:50%"></a>
 10 | **Ad Nauseam** | <a href="https://open.spotify.com/artist/3PX64fTi77YC2MaAs7w7SQ" target="_blank"><img src="https://i.scdn.co/image/bab68c782cfff601917ed0e447e17cacd6b6ee55" height="100" width="auto" style="border-radius:50%"></a>
@@ -51,7 +51,7 @@ No. | Band | Avatar
 16 | **Akercocke** | <a href="https://open.spotify.com/artist/0YAOC9q7XHpKplKYf7FMSp" target="_blank"><img src="https://i.scdn.co/image/28fabc658f0564c2ca94b68fd4dcf90316bfea35" height="100" width="auto" style="border-radius:50%"></a>
 17 | **Akphaezya** | <a href="https://open.spotify.com/artist/5qEqXEu8Y2jSqqsPB8tCao" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0273fbc0ee3d2c60cdacc12ff6" height="100" width="auto" style="border-radius:50%"></a>
 18 | **Albino Slug** | <a href="https://open.spotify.com/artist/6JaOEqagLNUIigqsGITy07" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02095a89c00bbdcede99a89ed3" height="100" width="auto" style="border-radius:50%"></a>
-19 | **Altar Of Plagues** | <a href="https://open.spotify.com/artist/1K4ZUQr2eaIqDLS8o5Gesh" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0285c1dcf0119009ed9efdaf5f" height="100" width="auto" style="border-radius:50%"></a>
+19 | **Altar Of Plagues** | <a href="https://open.spotify.com/artist/1K4ZUQr2eaIqDLS8o5Gesh" target="_blank"><img src="https://i.scdn.co/image/b4844301d0c4bf5fec6c18570f6655db820209c6" height="100" width="auto" style="border-radius:50%"></a>
 20 | **Anatomy Of Habit** | <a href="https://open.spotify.com/artist/25eNG0mU6r1UiaTn55Tffs" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b69e2629b4998dded7debf4a" height="100" width="auto" style="border-radius:50%"></a>
 21 | **And Harmony Dies** | <a href="https://open.spotify.com/artist/5g8IL7jsSWq2CCfWwpq8F6" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b04c086773e2e54bf44e4bbb" height="100" width="auto" style="border-radius:50%"></a>
 22 | **Andy Winter** | <a href="https://open.spotify.com/artist/4DGrAzpkaY0ZWjaJHGZDCf" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02696e72a866ffffff12392611" height="100" width="auto" style="border-radius:50%"></a>
@@ -143,7 +143,7 @@ No. | Band | Avatar
 108 | **Kunvuk** | <a href="https://open.spotify.com/artist/54mZqV4rGrZzC1H89scrHF" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0203b92111fd4fdc7d29d8df22" height="100" width="auto" style="border-radius:50%"></a>
 109 | **Kurushimi** | <a href="https://open.spotify.com/artist/1rVfmjNrZPVaib9nmqZ226" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029af19e1c2412fa81be86e4f2" height="100" width="auto" style="border-radius:50%"></a>
 110 | **Lamashtu** | <a href="https://open.spotify.com/artist/6bNLkGKw3ngp4ADYFxtBpZ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b34ca4289c4ba5db067831c9" height="100" width="auto" style="border-radius:50%"></a>
-111 | **Laster** | <a href="https://open.spotify.com/artist/67p4YunK4HWNnF2gcTLVaV" target="_blank"><img src="https://i.scdn.co/image/4c8239ecad349ee5f7473bd7f4c6fc68af55adee" height="100" width="auto" style="border-radius:50%"></a>
+111 | **Laster** | <a href="https://open.spotify.com/artist/67p4YunK4HWNnF2gcTLVaV" target="_blank"><img src="https://i.scdn.co/image/29360187b143ea05567cd430f489d8a3c6943b52" height="100" width="auto" style="border-radius:50%"></a>
 112 | **Lazer/Wulf** | <a href="https://open.spotify.com/artist/7mubprazoFnVfi2MIQXdEg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02fb70b290bacd1d7202a5fc69" height="100" width="auto" style="border-radius:50%"></a>
 113 | **Le Grand Guignol** | <a href="https://open.spotify.com/artist/1IMbt398RogiepCZy48dXi" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02883b42a64eef5812fe7af989" height="100" width="auto" style="border-radius:50%"></a>
 114 | **Left Brain** | <a href="https://open.spotify.com/artist/6jovsSSFMzcljSca2rlsZq" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eff6f8a8537aba76c9d43997" height="100" width="auto" style="border-radius:50%"></a>

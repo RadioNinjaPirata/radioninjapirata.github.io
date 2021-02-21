@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0DhVLrluzxhVok6cbH5fUp?si=Ad9wNapRQQimgyliEIHhLQ)
 
-<a href="https://open.spotify.com/playlist/0DhVLrluzxhVok6cbH5fUp?si=Ad9wNapRQQimgyliEIHhLQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302000f23be7cdc65bc61c108ab67616d0000b27358eaea1ca33ad23dcf7fdf64ab67616d0000b273b9401efd35a394002fb98a6eab67616d0000b273ced42380d4b7772abd4c631c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0DhVLrluzxhVok6cbH5fUp?si=Ad9wNapRQQimgyliEIHhLQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731cd66919fe78404f5d91f42bab67616d0000b2734a6ae07fc8be2d0693d729d6ab67616d0000b2735d687e9126344f18c3219a7cab67616d0000b273699ce2f63c39bc41a1f28f00" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -288,15 +288,16 @@ No. | Band | Avatar
 253 | **Wuf** | <a href="https://open.spotify.com/artist/3e2HPVhdESPqMSoQMCpmtq" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e1d6f7d0a99a4f83650ddcdf" height="100" width="auto" style="border-radius:50%"></a>
 254 | **Wun Two** | <a href="https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE" target="_blank"><img src="https://i.scdn.co/image/6885ebfc6a5f09b694c3410b634b54e8c03cc224" height="100" width="auto" style="border-radius:50%"></a>
 255 | **Wys** | <a href="https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f" target="_blank"><img src="https://i.scdn.co/image/03f6091e0e1dc2cb2fb91598459abaeff2d0f59d" height="100" width="auto" style="border-radius:50%"></a>
-256 | **Yasper** | <a href="https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt" target="_blank"><img src="https://i.scdn.co/image/0a333f48407c965ca10de9e22186e774718bc3d2" height="100" width="auto" style="border-radius:50%"></a>
-257 | **Yeyts.** | <a href="https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b6b4633c4c6887cea0f5d17e" height="100" width="auto" style="border-radius:50%"></a>
-258 | **Ymori** | <a href="https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK" target="_blank"><img src="https://i.scdn.co/image/ce4a59ce4f86d0ceea4f8df4b7834296b3741920" height="100" width="auto" style="border-radius:50%"></a>
-259 | **Yonderling** | <a href="https://open.spotify.com/artist/1DJqGSNUWz8NxLq39Z9UTt" target="_blank"><img src="https://i.scdn.co/image/90df89655fcda64b68e5a771c6763a7cba2e274e" height="100" width="auto" style="border-radius:50%"></a>
-260 | **Yumebeats** | <a href="https://open.spotify.com/artist/2PWwJA5KIT9DRDaemSsfo0" target="_blank"><img src="https://i.scdn.co/image/dae493a3b55fd7891009037fdcbfdf44de2d4e65" height="100" width="auto" style="border-radius:50%"></a>
-261 | **Zendr** | <a href="https://open.spotify.com/artist/71DwiHPKOnvr0mrJKovKcm" target="_blank"><img src="https://i.scdn.co/image/17a5ca832c366ce1317ee634cf21ac90eecef4a7" height="100" width="auto" style="border-radius:50%"></a>
-262 | **Zmeyev** | <a href="https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL" target="_blank"><img src="https://i.scdn.co/image/0d7dcb9664b9abca195b70c8b1670a1556880139" height="100" width="auto" style="border-radius:50%"></a>
-263 | **[Bsd.U]** | <a href="https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk" target="_blank"><img src="https://i.scdn.co/image/6fad54839d32b5bbeac47ef5c2f1cbc26bbf90fa" height="100" width="auto" style="border-radius:50%"></a>
-264 | **[Ocean Jams]** | <a href="https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B" target="_blank"><img src="https://i.scdn.co/image/e10775b43bf59e6bd12ec0d011a32ebde6c14792" height="100" width="auto" style="border-radius:50%"></a>
-265 | **_Tag** | <a href="https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi" target="_blank"><img src="https://i.scdn.co/image/4c13d91f0f68102410fe7efc963441d3854b5ec2" height="100" width="auto" style="border-radius:50%"></a>
-266 | **Önigirisu** | <a href="https://open.spotify.com/artist/2wrReMufBFCidJ3Sy1UzPe" target="_blank"><img src="https://i.scdn.co/image/d401204f7d97442e88ba915828669b184eb06cca" height="100" width="auto" style="border-radius:50%"></a>
-267 | **Ødyssee** | <a href="https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA" target="_blank"><img src="https://i.scdn.co/image/317d6ca8856b811b6fa0db6286bfe349a5fd96af" height="100" width="auto" style="border-radius:50%"></a>
+256 | **Xmouse** | <a href="https://open.spotify.com/artist/4kYUT64mIfk8mJlxExH3jC" target="_blank"><img src="https://i.scdn.co/image/914783988d2aba9d9c36cb9616f50d51b9d1f941" height="100" width="auto" style="border-radius:50%"></a>
+257 | **Yasper** | <a href="https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt" target="_blank"><img src="https://i.scdn.co/image/0a333f48407c965ca10de9e22186e774718bc3d2" height="100" width="auto" style="border-radius:50%"></a>
+258 | **Yeyts.** | <a href="https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b6b4633c4c6887cea0f5d17e" height="100" width="auto" style="border-radius:50%"></a>
+259 | **Ymori** | <a href="https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK" target="_blank"><img src="https://i.scdn.co/image/ce4a59ce4f86d0ceea4f8df4b7834296b3741920" height="100" width="auto" style="border-radius:50%"></a>
+260 | **Yonderling** | <a href="https://open.spotify.com/artist/1DJqGSNUWz8NxLq39Z9UTt" target="_blank"><img src="https://i.scdn.co/image/90df89655fcda64b68e5a771c6763a7cba2e274e" height="100" width="auto" style="border-radius:50%"></a>
+261 | **Yumebeats** | <a href="https://open.spotify.com/artist/2PWwJA5KIT9DRDaemSsfo0" target="_blank"><img src="https://i.scdn.co/image/dae493a3b55fd7891009037fdcbfdf44de2d4e65" height="100" width="auto" style="border-radius:50%"></a>
+262 | **Zendr** | <a href="https://open.spotify.com/artist/71DwiHPKOnvr0mrJKovKcm" target="_blank"><img src="https://i.scdn.co/image/17a5ca832c366ce1317ee634cf21ac90eecef4a7" height="100" width="auto" style="border-radius:50%"></a>
+263 | **Zmeyev** | <a href="https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL" target="_blank"><img src="https://i.scdn.co/image/0d7dcb9664b9abca195b70c8b1670a1556880139" height="100" width="auto" style="border-radius:50%"></a>
+264 | **[Bsd.U]** | <a href="https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk" target="_blank"><img src="https://i.scdn.co/image/6fad54839d32b5bbeac47ef5c2f1cbc26bbf90fa" height="100" width="auto" style="border-radius:50%"></a>
+265 | **[Ocean Jams]** | <a href="https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B" target="_blank"><img src="https://i.scdn.co/image/e10775b43bf59e6bd12ec0d011a32ebde6c14792" height="100" width="auto" style="border-radius:50%"></a>
+266 | **_Tag** | <a href="https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi" target="_blank"><img src="https://i.scdn.co/image/4c13d91f0f68102410fe7efc963441d3854b5ec2" height="100" width="auto" style="border-radius:50%"></a>
+267 | **Önigirisu** | <a href="https://open.spotify.com/artist/2wrReMufBFCidJ3Sy1UzPe" target="_blank"><img src="https://i.scdn.co/image/d401204f7d97442e88ba915828669b184eb06cca" height="100" width="auto" style="border-radius:50%"></a>
+268 | **Ødyssee** | <a href="https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA" target="_blank"><img src="https://i.scdn.co/image/317d6ca8856b811b6fa0db6286bfe349a5fd96af" height="100" width="auto" style="border-radius:50%"></a>
