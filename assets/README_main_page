@@ -10,10 +10,6 @@ Surely many of you are wondering, what on earth is Radio Ninja Pirata - yet anot
 
 It’s time to explore more music, it is time to explore infinity!
 
-Click the banner bellow to see the our complete catalog of stations:
-
-<a href="radios.html"><img src="assets/radios_button.png" alt="radiobutton" /></a>
-
 # Social
 
 Find us:
