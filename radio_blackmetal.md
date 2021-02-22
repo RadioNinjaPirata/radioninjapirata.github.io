@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A)
 
-<a href="https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27339aac4639c30926e1a100544ab67616d0000b273946cb01ce19e132b950409e3ab67616d0000b2739fdba61460bdae41b2f46af4ab67616d0000b273ac80fcf72483243549707693" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27307f28d0157239517e0077e73ab67616d0000b27359c334ec28224020107ede5bab67616d0000b273b990afcdf1d9e1ef0662c8d4ab67616d0000b273d164837e7d38f1553cbd77e8" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -168,10 +168,11 @@ No. | Band | Avatar
 133 | **Venom** | <a href="https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac33240dcaf6cdc08d76771553e" height="100" width="auto" style="border-radius:50%"></a>
 134 | **Vintersorg** | <a href="https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6" target="_blank"><img src="https://i.scdn.co/image/f0bed4de67fe2f46f14b55ef03fdd8976e0d191b" height="100" width="auto" style="border-radius:50%"></a>
 135 | **Vredehammer** | <a href="https://open.spotify.com/artist/5ket6f4XIg8c3nT5gjQ6Io" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0296bdfe124eeef89d9e3add44" height="100" width="auto" style="border-radius:50%"></a>
-136 | **Waldgeflüster** | <a href="https://open.spotify.com/artist/1LAUNbSi4NHJfXGvgOoBFy" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%"></a>
-137 | **Watain** | <a href="https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX" target="_blank"><img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%"></a>
-138 | **Whipstriker** | <a href="https://open.spotify.com/artist/0YnwkwC5c3EGvj9h7QLhCH" target="_blank"><img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%"></a>
-139 | **Winterfylleth** | <a href="https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5" target="_blank"><img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%"></a>
-140 | **Wodensthrone** | <a href="https://open.spotify.com/artist/13AqtEAizDfq1vVVK7MMYX" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b8f1c3e9815376f86637d665" height="100" width="auto" style="border-radius:50%"></a>
-141 | **Wolves In The Throne Room** | <a href="https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet" target="_blank"><img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%"></a>
-142 | **Äera** | <a href="https://open.spotify.com/artist/2GT3KfoCyPpJVCqu0Xpb9b" target="_blank"><img src="https://i.scdn.co/image/776ab205e7ab59ed312c7d4e7f281d9e3d2e50f1" height="100" width="auto" style="border-radius:50%"></a>
+136 | **Vultos Vocíferos** | <a href="https://open.spotify.com/artist/5zbXfSyBcZoSVU6B8OFF6O" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026f3000ebba57bc9ea06446af" height="100" width="auto" style="border-radius:50%"></a>
+137 | **Waldgeflüster** | <a href="https://open.spotify.com/artist/1LAUNbSi4NHJfXGvgOoBFy" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4c919d9f33d3f7fd43d3122" height="100" width="auto" style="border-radius:50%"></a>
+138 | **Watain** | <a href="https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX" target="_blank"><img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%"></a>
+139 | **Whipstriker** | <a href="https://open.spotify.com/artist/0YnwkwC5c3EGvj9h7QLhCH" target="_blank"><img src="https://i.scdn.co/image/8b51acdf2920d45585c0e83fdd311ddecfcbe851" height="100" width="auto" style="border-radius:50%"></a>
+140 | **Winterfylleth** | <a href="https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5" target="_blank"><img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%"></a>
+141 | **Wodensthrone** | <a href="https://open.spotify.com/artist/13AqtEAizDfq1vVVK7MMYX" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b8f1c3e9815376f86637d665" height="100" width="auto" style="border-radius:50%"></a>
+142 | **Wolves In The Throne Room** | <a href="https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet" target="_blank"><img src="https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a" height="100" width="auto" style="border-radius:50%"></a>
+143 | **Äera** | <a href="https://open.spotify.com/artist/2GT3KfoCyPpJVCqu0Xpb9b" target="_blank"><img src="https://i.scdn.co/image/776ab205e7ab59ed312c7d4e7f281d9e3d2e50f1" height="100" width="auto" style="border-radius:50%"></a>

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA)
 
-<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273422703e9657d3cfddb5d35b6ab67616d0000b2735150711e4988aa055ba9f7d8ab67616d0000b27356a30c59e8f8507eaf6ebbcbab67616d0000b273ad5c5f921683cb2fd182fbeb" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27326b0124c3210c94a84367f3aab67616d0000b2735909381da88b7ba928cd30e3ab67616d0000b2737303ee9e31a69edac9d29097ab67616d0000b273cc0e0a7afaaa65e5c391123c" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -49,8 +49,9 @@ No. | Band | Avatar
 14 | **Krocophile** | <a href="https://open.spotify.com/artist/0ishqPiqbZigIQxS3bjfq9" target="_blank"><img src="https://i.scdn.co/image/74053b0c3111bc418375740323f7cec02dbf10f8" height="100" width="auto" style="border-radius:50%"></a>
 15 | **Mastectomy** | <a href="https://open.spotify.com/artist/0MqU9WAUQLHKxAnpZASYtE" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022bd186a5fb10c476791d89dc" height="100" width="auto" style="border-radius:50%"></a>
 16 | **Mephistopheles** | <a href="https://open.spotify.com/artist/0xPzTEnYwtgYO5mR3piRkc" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0224359b261c2f03f66dbf71a7" height="100" width="auto" style="border-radius:50%"></a>
-17 | **Nyctalopia** | <a href="https://open.spotify.com/artist/52SzRgSMBvRISstc14aAIA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028a402e8d2ff56f1f0c9f2f20" height="100" width="auto" style="border-radius:50%"></a>
-18 | **Pestilectomy** | <a href="https://open.spotify.com/artist/0jvp0yRa8TnyfB8jnpZ929" target="_blank"><img src="https://i.scdn.co/image/03ecb92977234895e4cb5a319a3eb958bc93cf54" height="100" width="auto" style="border-radius:50%"></a>
-19 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
-20 | **The Impaler** | <a href="https://open.spotify.com/artist/7JcDaA5vhlbGvl4HVZDQK1" target="_blank"><img src="https://i.scdn.co/image/5f41593fde1b850608c32acf99ba5dd6a4f8518a" height="100" width="auto" style="border-radius:50%"></a>
-21 | **Wormed** | <a href="https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk" target="_blank"><img src="https://i.scdn.co/image/d47feaf702c14f5f58e679e5483387418786bc1e" height="100" width="auto" style="border-radius:50%"></a>
+17 | **Necroticgorebeast** | <a href="https://open.spotify.com/artist/59sVaiyYl0SgIKoRcETSrx" target="_blank"><img src="https://i.scdn.co/image/f8fc1132e6470e2ad6cecc56892e1fe817fb249c" height="100" width="auto" style="border-radius:50%"></a>
+18 | **Nyctalopia** | <a href="https://open.spotify.com/artist/52SzRgSMBvRISstc14aAIA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028a402e8d2ff56f1f0c9f2f20" height="100" width="auto" style="border-radius:50%"></a>
+19 | **Pestilectomy** | <a href="https://open.spotify.com/artist/0jvp0yRa8TnyfB8jnpZ929" target="_blank"><img src="https://i.scdn.co/image/03ecb92977234895e4cb5a319a3eb958bc93cf54" height="100" width="auto" style="border-radius:50%"></a>
+20 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
+21 | **The Impaler** | <a href="https://open.spotify.com/artist/7JcDaA5vhlbGvl4HVZDQK1" target="_blank"><img src="https://i.scdn.co/image/5f41593fde1b850608c32acf99ba5dd6a4f8518a" height="100" width="auto" style="border-radius:50%"></a>
+22 | **Wormed** | <a href="https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk" target="_blank"><img src="https://i.scdn.co/image/d47feaf702c14f5f58e679e5483387418786bc1e" height="100" width="auto" style="border-radius:50%"></a>
