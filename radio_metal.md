@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/4n3FlNr15ys3639iV7J2jC?si=A2f6gieiTei38WLJSxCYgQ)
 
-<a href="https://open.spotify.com/playlist/4n3FlNr15ys3639iV7J2jC?si=A2f6gieiTei38WLJSxCYgQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2737068dcfbcd8b33f1c07f48acab67616d0000b27375b9abc985d21472e3ad5482ab67616d0000b27393b72e8f98c4787a88f3d4beab67616d0000b273aafd53b1c9c9df8b26e776f3" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/4n3FlNr15ys3639iV7J2jC?si=A2f6gieiTei38WLJSxCYgQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302a1d6601e54c3011e1fb42cab67616d0000b27324f31a0a281320f0cec6f86fab67616d0000b273b2114d1096eaad976e532a53ab67616d0000b273c467ad092192eb9bccbf8122" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -75,6 +75,7 @@ No. | Band | Avatar
 40 | **Soulfly** | <a href="https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc" target="_blank"><img src="https://i.scdn.co/image/e7229014ec344f28dec4100fc4a8aebd7badd0c8" height="100" width="auto" style="border-radius:50%"></a>
 41 | **Sylosis** | <a href="https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl" target="_blank"><img src="https://i.scdn.co/image/9575da9514a8c72836d0d214552f93e8fdfa4c20" height="100" width="auto" style="border-radius:50%"></a>
 42 | **Syrebris** | <a href="https://open.spotify.com/artist/5bN8dlo6XsZVGp33DZnoor" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0263ed5d1a2f019cc1aa51077d" height="100" width="auto" style="border-radius:50%"></a>
-43 | **Them** | <a href="https://open.spotify.com/artist/5xg82WkthiNPMCiDtJrOh7" target="_blank"><img src="https://i.scdn.co/image/000f79da5ac42cca341d948a05717a4304c1aade" height="100" width="auto" style="border-radius:50%"></a>
-44 | **Threat Signal** | <a href="https://open.spotify.com/artist/12YY9wgi8ufdP5iw8RggVO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%"></a>
-45 | **Wako** | <a href="https://open.spotify.com/artist/6OssOIB77Mrm5pMBSMhHM0" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0260f2fd52c71b748238a40275" height="100" width="auto" style="border-radius:50%"></a>
+43 | **The Crown** | <a href="https://open.spotify.com/artist/76AHlOU3rj6ffoOfVPigLt" target="_blank"><img src="https://i.scdn.co/image/7a0746cadaf129760cec72b39114bbecd0d29a87" height="100" width="auto" style="border-radius:50%"></a>
+44 | **Them** | <a href="https://open.spotify.com/artist/5xg82WkthiNPMCiDtJrOh7" target="_blank"><img src="https://i.scdn.co/image/000f79da5ac42cca341d948a05717a4304c1aade" height="100" width="auto" style="border-radius:50%"></a>
+45 | **Threat Signal** | <a href="https://open.spotify.com/artist/12YY9wgi8ufdP5iw8RggVO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%"></a>
+46 | **Wako** | <a href="https://open.spotify.com/artist/6OssOIB77Mrm5pMBSMhHM0" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0260f2fd52c71b748238a40275" height="100" width="auto" style="border-radius:50%"></a>

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1nb0Y1G1b2Bujl4RajFChq?si=epss5YnJT1-No3NcVlYI5g)
 
-<a href="https://open.spotify.com/playlist/1nb0Y1G1b2Bujl4RajFChq?si=epss5YnJT1-No3NcVlYI5g" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733fc258b887912cb889a9d65fab67616d0000b2735c15fcec016df4885ff22edeab67616d0000b2739bf096e66b873335db5c8981ab67616d0000b273aef376af300b0b915bd05abb" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1nb0Y1G1b2Bujl4RajFChq?si=epss5YnJT1-No3NcVlYI5g" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273675c3687135fc325a6abc27cab67616d0000b2739c0b2d74cfb910735ca55317ab67616d0000b273f8e7b636d92c12038052dcc7ab67616d0000b273f99e29660d585bfcfa75346a" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -157,13 +157,14 @@ No. | Band | Avatar
 122 | **System Of A Down** | <a href="https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1" target="_blank"><img src="https://i.scdn.co/image/e5c92330ef4848ec70d4325a57bec3dfae5f3901" height="100" width="auto" style="border-radius:50%"></a>
 123 | **Testament** | <a href="https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg" target="_blank"><img src="https://i.scdn.co/image/7230c4074104eac00202599be1a1be16d7a3ccdc" height="100" width="auto" style="border-radius:50%"></a>
 124 | **Texas Hippie Coalition** | <a href="https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt" target="_blank"><img src="https://i.scdn.co/image/fc67052d36b44206e6621fc5403e7b1b01b7fae4" height="100" width="auto" style="border-radius:50%"></a>
-125 | **The Haunted** | <a href="https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq" target="_blank"><img src="https://i.scdn.co/image/0ab455d4a48544c9148e76d489e8cfd14f90ffa4" height="100" width="auto" style="border-radius:50%"></a>
-126 | **The Kandidate** | <a href="https://open.spotify.com/artist/56tqpenjN4Bp6LBOmxrKgt" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020b1dc6005857a42204e2d4fd" height="100" width="auto" style="border-radius:50%"></a>
-127 | **The Sign Of The Southern Cross** | <a href="https://open.spotify.com/artist/6Rt4qPeyuqsBrk7C4NkDqH" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b7395a9a3ee6f788bb7371e6" height="100" width="auto" style="border-radius:50%"></a>
-128 | **Threat Signal** | <a href="https://open.spotify.com/artist/12YY9wgi8ufdP5iw8RggVO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%"></a>
-129 | **Throwdown** | <a href="https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN" target="_blank"><img src="https://i.scdn.co/image/e51ae4d314c0ef5e3774d31a51b97a165a800c08" height="100" width="auto" style="border-radius:50%"></a>
-130 | **Trivium** | <a href="https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP" target="_blank"><img src="https://i.scdn.co/image/b490f02d539a11fc825822747d4478e0c661126c" height="100" width="auto" style="border-radius:50%"></a>
-131 | **Upon A Burning Body** | <a href="https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7" target="_blank"><img src="https://i.scdn.co/image/dddfff33f6e81834c0a681f921a3f394800e3ab9" height="100" width="auto" style="border-radius:50%"></a>
-132 | **Volbeat** | <a href="https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT" target="_blank"><img src="https://i.scdn.co/image/887ba4446fd2aea19507acc9e088398ffff85bfa" height="100" width="auto" style="border-radius:50%"></a>
-133 | **White Zombie** | <a href="https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8" target="_blank"><img src="https://i.scdn.co/image/c4f7d9af6715fdc4d18fdaf1a41b92096703a25e" height="100" width="auto" style="border-radius:50%"></a>
-134 | **Zerozonic** | <a href="https://open.spotify.com/artist/52cXJ1fE7JNEqbhSMSH3uO" target="_blank"><img src="https://i.scdn.co/image/5aa22fdc53ec17fbabe22e164ac8f27768307a1d" height="100" width="auto" style="border-radius:50%"></a>
+125 | **The Crown** | <a href="https://open.spotify.com/artist/76AHlOU3rj6ffoOfVPigLt" target="_blank"><img src="https://i.scdn.co/image/7a0746cadaf129760cec72b39114bbecd0d29a87" height="100" width="auto" style="border-radius:50%"></a>
+126 | **The Haunted** | <a href="https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq" target="_blank"><img src="https://i.scdn.co/image/0ab455d4a48544c9148e76d489e8cfd14f90ffa4" height="100" width="auto" style="border-radius:50%"></a>
+127 | **The Kandidate** | <a href="https://open.spotify.com/artist/56tqpenjN4Bp6LBOmxrKgt" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020b1dc6005857a42204e2d4fd" height="100" width="auto" style="border-radius:50%"></a>
+128 | **The Sign Of The Southern Cross** | <a href="https://open.spotify.com/artist/6Rt4qPeyuqsBrk7C4NkDqH" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b7395a9a3ee6f788bb7371e6" height="100" width="auto" style="border-radius:50%"></a>
+129 | **Threat Signal** | <a href="https://open.spotify.com/artist/12YY9wgi8ufdP5iw8RggVO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e9276619c4ba56fe010d215" height="100" width="auto" style="border-radius:50%"></a>
+130 | **Throwdown** | <a href="https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN" target="_blank"><img src="https://i.scdn.co/image/e51ae4d314c0ef5e3774d31a51b97a165a800c08" height="100" width="auto" style="border-radius:50%"></a>
+131 | **Trivium** | <a href="https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP" target="_blank"><img src="https://i.scdn.co/image/b490f02d539a11fc825822747d4478e0c661126c" height="100" width="auto" style="border-radius:50%"></a>
+132 | **Upon A Burning Body** | <a href="https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7" target="_blank"><img src="https://i.scdn.co/image/dddfff33f6e81834c0a681f921a3f394800e3ab9" height="100" width="auto" style="border-radius:50%"></a>
+133 | **Volbeat** | <a href="https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT" target="_blank"><img src="https://i.scdn.co/image/887ba4446fd2aea19507acc9e088398ffff85bfa" height="100" width="auto" style="border-radius:50%"></a>
+134 | **White Zombie** | <a href="https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8" target="_blank"><img src="https://i.scdn.co/image/c4f7d9af6715fdc4d18fdaf1a41b92096703a25e" height="100" width="auto" style="border-radius:50%"></a>
+135 | **Zerozonic** | <a href="https://open.spotify.com/artist/52cXJ1fE7JNEqbhSMSH3uO" target="_blank"><img src="https://i.scdn.co/image/5aa22fdc53ec17fbabe22e164ac8f27768307a1d" height="100" width="auto" style="border-radius:50%"></a>

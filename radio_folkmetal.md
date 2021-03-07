@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw)
 
-<a href="https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273026a2b2cb4e98b66048640e5ab67616d0000b2734d185f434bef4ca7a095e440ab67616d0000b27351fbf7a46ebbdc5de00f7b9aab67616d0000b273ce4ef09f5e36c6af62c6f8a6" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730ca6cddfcea465448a8b18d9ab67616d0000b27363757a39de7db2268a8e35f1ab67616d0000b273a4631b57433d31f698748e4aab67616d0000b273f9861db48d40d77a05504e8d" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -48,7 +48,7 @@ No. | Band | Avatar
 13 | **Dalriada** | <a href="https://open.spotify.com/artist/4mIdyUBqjS36BQHYFBbGjm" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ab21a82b59ccbe623dab5939" height="100" width="auto" style="border-radius:50%"></a>
 14 | **Dark Oath** | <a href="https://open.spotify.com/artist/3Oc3JnQKIW7ZNPXS0yf6QV" target="_blank"><img src="https://i.scdn.co/image/7ffbd89ed446db5cfab73c34846c4d15068adc11" height="100" width="auto" style="border-radius:50%"></a>
 15 | **Diablo Swing Orchestra** | <a href="https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r" target="_blank"><img src="https://i.scdn.co/image/9dab276f757a37f2e1769fbc70968786474f7e00" height="100" width="auto" style="border-radius:50%"></a>
-16 | **Einherjer** | <a href="https://open.spotify.com/artist/0iGkBvuI18nxqJR8Ipg1cu" target="_blank"><img src="https://i.scdn.co/image/6cd57e1bf274bc6fd08e064bc468c32449911ee9" height="100" width="auto" style="border-radius:50%"></a>
+16 | **Einherjer** | <a href="https://open.spotify.com/artist/0iGkBvuI18nxqJR8Ipg1cu" target="_blank"><img src="https://i.scdn.co/image/ef314b352c3a8999c794854e0789c17b125620e2" height="100" width="auto" style="border-radius:50%"></a>
 17 | **Eluveitie** | <a href="https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT" target="_blank"><img src="https://i.scdn.co/image/ddf0debf9857d12855f44287829ceca0e8fd4d62" height="100" width="auto" style="border-radius:50%"></a>
 18 | **Emerald Shine** | <a href="https://open.spotify.com/artist/0J11NRhWomvBbtnYgNlzPf" target="_blank"><img src="https://i.scdn.co/image/40c102df5456658a502da877a3bbea6cf3b4f6df" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Ensiferum** | <a href="https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH" target="_blank"><img src="https://i.scdn.co/image/b513ad18e11d9b07546b23e9f3f7b1892ae0f573" height="100" width="auto" style="border-radius:50%"></a>

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/2mBpme0q1GGhAi5iXwtQw2?si=wFgEkhvPTT2JTBRwrjQCaQ)
 
-<a href="https://open.spotify.com/playlist/2mBpme0q1GGhAi5iXwtQw2?si=wFgEkhvPTT2JTBRwrjQCaQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733b21bd04edf3faa8f352cad4ab67616d0000b2734e8592305fb3e22e6cc4f41eab67616d0000b27397807c28cd406b16abdc601dab67616d0000b273af4c78c6fb0831ca662adddc" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/2mBpme0q1GGhAi5iXwtQw2?si=wFgEkhvPTT2JTBRwrjQCaQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731e13f79b5c174b8c12278d54ab67616d0000b27358ddb7f5ed12fd2bb3dfd97eab67616d0000b273d20d9827c396df106cb130b2ab67616d0000b273e890f2027f801b1386d91d1e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -152,7 +152,7 @@ No. | Band | Avatar
 117 | **Suffocate The Skies** | <a href="https://open.spotify.com/artist/76VlbpCJNZ1tHWBXhZP0hW" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029ab0122dadbace00d1aff5eb" height="100" width="auto" style="border-radius:50%"></a>
 118 | **Surdus** | <a href="https://open.spotify.com/artist/6ogvxYaathKXSji2f6aN2M" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d2fad4a68f901042617c497c" height="100" width="auto" style="border-radius:50%"></a>
 119 | **Tartarum** | <a href="https://open.spotify.com/artist/6aNWWZxDt5BO2shHD0q5FQ" target="_blank"><img src="https://i.scdn.co/image/c29430f8c4b2c10b124881ad9594e172c2cc586a" height="100" width="auto" style="border-radius:50%"></a>
-120 | **Tethra** | <a href="https://open.spotify.com/artist/5BO4GJKBmoRm1Ejhl4ebUg" target="_blank"><img src="https://i.scdn.co/image/975d8a71377760fd77890cc8f0f47b10c63e496c" height="100" width="auto" style="border-radius:50%"></a>
+120 | **Tethra** | <a href="https://open.spotify.com/artist/5BO4GJKBmoRm1Ejhl4ebUg" target="_blank"><img src="https://i.scdn.co/image/231b1acd6e9a913ce130c17c800f8540e4e7fc7a" height="100" width="auto" style="border-radius:50%"></a>
 121 | **The Artifice Precept** | <a href="https://open.spotify.com/artist/5UKDHcyDJ7ZopDt25Buspu" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02217769623c72ee16b0428236" height="100" width="auto" style="border-radius:50%"></a>
 122 | **The Big Jazz Duo** | <a href="https://open.spotify.com/artist/3OiLSaUHnngdWnfacYwZyg" target="_blank"><img src="https://i.scdn.co/image/5009051542ae52cede4f1d6dad1bf0e66396a54e" height="100" width="auto" style="border-radius:50%"></a>
 123 | **The Head Of The Traitor** | <a href="https://open.spotify.com/artist/3RDVFHmwwn9SmFPXoyF4Rk" target="_blank"><img src="https://i.scdn.co/image/595b01dd70f7d716ba0b037676034a7111bc1203" height="100" width="auto" style="border-radius:50%"></a>
