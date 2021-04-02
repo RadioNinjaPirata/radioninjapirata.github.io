@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA)
 
-<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27312ae6ffad89c22a3c5e82612ab67616d0000b2731a8ce46ea67b46c1317ac286ab67616d0000b2732bd186a5fb10c476791d89dcab67616d0000b2739f13bd1de2605feac0253fd7" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27312ae6ffad89c22a3c5e82612ab67616d0000b2735909381da88b7ba928cd30e3ab67616d0000b273afdb6ff9c0c9bd543de709f1ab67616d0000b273ebc558d30d9a00d2749b4596" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -52,6 +52,7 @@ No. | Band | Avatar
 17 | **Necroticgorebeast** | <a href="https://open.spotify.com/artist/59sVaiyYl0SgIKoRcETSrx" target="_blank"><img src="https://i.scdn.co/image/f8fc1132e6470e2ad6cecc56892e1fe817fb249c" height="100" width="auto" style="border-radius:50%"></a>
 18 | **Nyctalopia** | <a href="https://open.spotify.com/artist/52SzRgSMBvRISstc14aAIA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028a402e8d2ff56f1f0c9f2f20" height="100" width="auto" style="border-radius:50%"></a>
 19 | **Pestilectomy** | <a href="https://open.spotify.com/artist/0jvp0yRa8TnyfB8jnpZ929" target="_blank"><img src="https://i.scdn.co/image/03ecb92977234895e4cb5a319a3eb958bc93cf54" height="100" width="auto" style="border-radius:50%"></a>
-20 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
-21 | **The Impaler** | <a href="https://open.spotify.com/artist/7JcDaA5vhlbGvl4HVZDQK1" target="_blank"><img src="https://i.scdn.co/image/5f41593fde1b850608c32acf99ba5dd6a4f8518a" height="100" width="auto" style="border-radius:50%"></a>
-22 | **Wormed** | <a href="https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk" target="_blank"><img src="https://i.scdn.co/image/d47feaf702c14f5f58e679e5483387418786bc1e" height="100" width="auto" style="border-radius:50%"></a>
+20 | **Shadow Of Intent** | <a href="https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D" target="_blank"><img src="https://i.scdn.co/image/5b1dac294ad074752e94499338789069ff659895" height="100" width="auto" style="border-radius:50%"></a>
+21 | **Skinless** | <a href="https://open.spotify.com/artist/5OLgWkV7opwcxN7zOhKb6g" target="_blank"><img src="https://i.scdn.co/image/6db4c6a1d450712b6c45b49112bb9621b34d3491" height="100" width="auto" style="border-radius:50%"></a>
+22 | **The Impaler** | <a href="https://open.spotify.com/artist/7JcDaA5vhlbGvl4HVZDQK1" target="_blank"><img src="https://i.scdn.co/image/5f41593fde1b850608c32acf99ba5dd6a4f8518a" height="100" width="auto" style="border-radius:50%"></a>
+23 | **Wormed** | <a href="https://open.spotify.com/artist/1YXwL0RvyKn9swZ6CsVDwk" target="_blank"><img src="https://i.scdn.co/image/d47feaf702c14f5f58e679e5483387418786bc1e" height="100" width="auto" style="border-radius:50%"></a>

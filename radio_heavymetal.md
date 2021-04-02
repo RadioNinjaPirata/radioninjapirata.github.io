@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA)
 
-<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27384ec5d3723de8664c0705831ab67616d0000b2738ac56da51fdd03fed84cd6b0ab67616d0000b2739eb9d7f76b05d09e8ed30ef6ab67616d0000b273d5348d8ee47e53d30241ddc8" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730eaac3908bd444ddd01f2ed4ab67616d0000b27357d01608468da826b13e775dab67616d0000b2736b6f35ce52e0a1dbcbc45497ab67616d0000b273bcb6a3894db841b4cdc7ab2d" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -63,11 +63,14 @@ No. | Band | Avatar
 28 | **Q5** | <a href="https://open.spotify.com/artist/7qgjjGFiEN45al58ZKqQ6f" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02b93446bfde6d442d95a2f56a" height="100" width="auto" style="border-radius:50%"></a>
 29 | **Rainbow** | <a href="https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m" target="_blank"><img src="https://i.scdn.co/image/402ab270e0754615887a261047f7db4596c1ffda" height="100" width="auto" style="border-radius:50%"></a>
 30 | **Raven** | <a href="https://open.spotify.com/artist/1EH9eSje47IiRyVsq3gfkl" target="_blank"><img src="https://i.scdn.co/image/ab9e9d5f86ab4342765acfe77264d3f9c0848450" height="100" width="auto" style="border-radius:50%"></a>
-31 | **Rock Goddess** | <a href="https://open.spotify.com/artist/5IRiDFbQACzuEriYUoGBIK" target="_blank"><img src="https://i.scdn.co/image/ffa95b275729de0b6c3a603099e97a39a54d9ee2" height="100" width="auto" style="border-radius:50%"></a>
-32 | **Satan'S Fall** | <a href="https://open.spotify.com/artist/2UAI07YLI30I3lZN91lqbO" target="_blank"><img src="https://i.scdn.co/image/e66b8bdc0b2eec94031b32af27aff8447def6f2e" height="100" width="auto" style="border-radius:50%"></a>
-33 | **Saxon** | <a href="https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU" target="_blank"><img src="https://i.scdn.co/image/ff107ac12bab4f9b6362c89dc203ec7b37a58bbe" height="100" width="auto" style="border-radius:50%"></a>
-34 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
-35 | **Vicious Rumors** | <a href="https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c051efcc6119828d7cb04875" height="100" width="auto" style="border-radius:50%"></a>
-36 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>
-37 | **Witchfynde** | <a href="https://open.spotify.com/artist/4sWMI7YTP9rDfT7ebSsj2S" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f282af69069013779741c318" height="100" width="auto" style="border-radius:50%"></a>
-38 | **Wizard** | <a href="https://open.spotify.com/artist/6lJSdRmKUvUiYE0VABLpYy" target="_blank"><img src="https://i.scdn.co/image/d928a2d776eac377fdf454aebf2cf7f67d609687" height="100" width="auto" style="border-radius:50%"></a>
+31 | **Riot** | <a href="https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR" target="_blank"><img src="https://i.scdn.co/image/69714bfce3a910a0693c4f4fcd2cb55c406db607" height="100" width="auto" style="border-radius:50%"></a>
+32 | **Rock Goddess** | <a href="https://open.spotify.com/artist/5IRiDFbQACzuEriYUoGBIK" target="_blank"><img src="https://i.scdn.co/image/ffa95b275729de0b6c3a603099e97a39a54d9ee2" height="100" width="auto" style="border-radius:50%"></a>
+33 | **Saber** | <a href="https://open.spotify.com/artist/1q3v4xWubR8xpsi2efZ7xQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021af48c2d31705389ece37de0" height="100" width="auto" style="border-radius:50%"></a>
+34 | **Satan'S Fall** | <a href="https://open.spotify.com/artist/2UAI07YLI30I3lZN91lqbO" target="_blank"><img src="https://i.scdn.co/image/e66b8bdc0b2eec94031b32af27aff8447def6f2e" height="100" width="auto" style="border-radius:50%"></a>
+35 | **Saxon** | <a href="https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU" target="_blank"><img src="https://i.scdn.co/image/ff107ac12bab4f9b6362c89dc203ec7b37a58bbe" height="100" width="auto" style="border-radius:50%"></a>
+36 | **Thundermother** | <a href="https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw" target="_blank"><img src="https://i.scdn.co/image/478c933cf6729f20b8def994e818af5d94f3a58a" height="100" width="auto" style="border-radius:50%"></a>
+37 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
+38 | **Vicious Rumors** | <a href="https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c051efcc6119828d7cb04875" height="100" width="auto" style="border-radius:50%"></a>
+39 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>
+40 | **Witchfynde** | <a href="https://open.spotify.com/artist/4sWMI7YTP9rDfT7ebSsj2S" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f282af69069013779741c318" height="100" width="auto" style="border-radius:50%"></a>
+41 | **Wizard** | <a href="https://open.spotify.com/artist/6lJSdRmKUvUiYE0VABLpYy" target="_blank"><img src="https://i.scdn.co/image/d928a2d776eac377fdf454aebf2cf7f67d609687" height="100" width="auto" style="border-radius:50%"></a>

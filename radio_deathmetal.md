@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/16OtLNSO3sKbXDtrQhSJk7?si=IUNX93-jTS2gC6qpevHfsQ)
 
-<a href="https://open.spotify.com/playlist/16OtLNSO3sKbXDtrQhSJk7?si=IUNX93-jTS2gC6qpevHfsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27317a9b7f6bc07aa2653ba0691ab67616d0000b2734e296fa8e577407988626dfcab67616d0000b27361fbcdc9bb6b11ba4cdfefe5ab67616d0000b2739f43b6a2fcb6f5ba0d2ebd13" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/16OtLNSO3sKbXDtrQhSJk7?si=IUNX93-jTS2gC6qpevHfsQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273196a30ebb49730c0bbdeccd8ab67616d0000b2735acdf5ddf7e346bd6b036db6ab67616d0000b273f8612923294a89a3b36c769bab67616d0000b273fa9f69703499c7a088d9a36e" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -227,10 +227,11 @@ No. | Band | Avatar
 192 | **Vale Of Pnath** | <a href="https://open.spotify.com/artist/31i0H73pagGhaNZ9YLgUYY" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02dca2a8ac23bd0932edd4a9f7" height="100" width="auto" style="border-radius:50%"></a>
 193 | **Vastum** | <a href="https://open.spotify.com/artist/1UKozzDpsuCLjwE7u5Xjdq" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c342fceca52517a4b033a3fb" height="100" width="auto" style="border-radius:50%"></a>
 194 | **Venom Prison** | <a href="https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f" target="_blank"><img src="https://i.scdn.co/image/e9a1568eb6a716c83e2fd700d3c0bee4e9270102" height="100" width="auto" style="border-radius:50%"></a>
-195 | **Vital Remains** | <a href="https://open.spotify.com/artist/6bPweC1Ugh3y4m5emo7A36" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02063eb22c331de0fcf43309d7" height="100" width="auto" style="border-radius:50%"></a>
-196 | **Void Rot** | <a href="https://open.spotify.com/artist/7KE8SfpBhltKZ2C4lzdKPf" target="_blank"><img src="https://i.scdn.co/image/58aa330ac271a444185f09852ab3f66380f0943b" height="100" width="auto" style="border-radius:50%"></a>
-197 | **Vomitory** | <a href="https://open.spotify.com/artist/67M6JBe7t7hZTDbrUsimqm" target="_blank"><img src="https://i.scdn.co/image/71347a77f7ce3ebfa9733b78948a45e8329bc9c3" height="100" width="auto" style="border-radius:50%"></a>
-198 | **Vrenth** | <a href="https://open.spotify.com/artist/4RoeUJx2BcmWEnhmIGPb5I" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0297f651817b555bd86dbdd879" height="100" width="auto" style="border-radius:50%"></a>
-199 | **Vómito Na Cruz** | <a href="https://open.spotify.com/artist/5VXFC3hXVTvfqa8ElQ41Js" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02196a30ebb49730c0bbdeccd8" height="100" width="auto" style="border-radius:50%"></a>
-200 | **Werewolves** | <a href="https://open.spotify.com/artist/5LLvF5fnwqrmYWUj07asot" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025d36489eff543aab7c1a65f1" height="100" width="auto" style="border-radius:50%"></a>
-201 | **Winter'S Burden** | <a href="https://open.spotify.com/artist/1eBLESBDD8OWvj1ObYdbF7" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%"></a>
+195 | **Vile Hex** | <a href="https://open.spotify.com/artist/3IHkbGpM8N0dlFWDOkYTks" target="_blank"><img src="https://i.scdn.co/image/282f069f9516ea18a409b2de8f7ad4a40ccfe253" height="100" width="auto" style="border-radius:50%"></a>
+196 | **Vital Remains** | <a href="https://open.spotify.com/artist/6bPweC1Ugh3y4m5emo7A36" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02063eb22c331de0fcf43309d7" height="100" width="auto" style="border-radius:50%"></a>
+197 | **Void Rot** | <a href="https://open.spotify.com/artist/7KE8SfpBhltKZ2C4lzdKPf" target="_blank"><img src="https://i.scdn.co/image/58aa330ac271a444185f09852ab3f66380f0943b" height="100" width="auto" style="border-radius:50%"></a>
+198 | **Vomitory** | <a href="https://open.spotify.com/artist/67M6JBe7t7hZTDbrUsimqm" target="_blank"><img src="https://i.scdn.co/image/71347a77f7ce3ebfa9733b78948a45e8329bc9c3" height="100" width="auto" style="border-radius:50%"></a>
+199 | **Vrenth** | <a href="https://open.spotify.com/artist/4RoeUJx2BcmWEnhmIGPb5I" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0297f651817b555bd86dbdd879" height="100" width="auto" style="border-radius:50%"></a>
+200 | **Vómito Na Cruz** | <a href="https://open.spotify.com/artist/5VXFC3hXVTvfqa8ElQ41Js" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02196a30ebb49730c0bbdeccd8" height="100" width="auto" style="border-radius:50%"></a>
+201 | **Werewolves** | <a href="https://open.spotify.com/artist/5LLvF5fnwqrmYWUj07asot" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025d36489eff543aab7c1a65f1" height="100" width="auto" style="border-radius:50%"></a>
+202 | **Winter'S Burden** | <a href="https://open.spotify.com/artist/1eBLESBDD8OWvj1ObYdbF7" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029f9bf6574ed56401ff04138f" height="100" width="auto" style="border-radius:50%"></a>
