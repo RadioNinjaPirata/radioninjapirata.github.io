@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0F7OcuamPaZgSR1Pn4Qt8o?si=ZPyiKGJrQ4KjgJNRNr90ag)
 
-<a href="https://open.spotify.com/playlist/0F7OcuamPaZgSR1Pn4Qt8o?si=ZPyiKGJrQ4KjgJNRNr90ag" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731f30e37f98d53b8c236dc728ab67616d0000b2732c88caf35ee406a532e57f4bab67616d0000b27384b81dc54093fbb414ba80a8ab67616d0000b273a3242cdc6010a4887497365e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0F7OcuamPaZgSR1Pn4Qt8o?si=ZPyiKGJrQ4KjgJNRNr90ag" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730a2c468c3fc261230974032fab67616d0000b2731a4b298c579f8426ae1b661cab67616d0000b27334b21c5d9d2714f6ba669368ab67616d0000b273978fc619834e2d051e2866fe" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -71,7 +71,7 @@ No. | Band | Avatar
 36 | **Opium Warlords** | <a href="https://open.spotify.com/artist/7sKTdlKlMNNllLWt1NOB0T" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a65a8510b2c9b1936e209ece" height="100" width="auto" style="border-radius:50%"></a>
 37 | **Pagan Altar** | <a href="https://open.spotify.com/artist/7guUH9AltTVdv1HniR7d9O" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0224df34ba88c091e46e1431f8" height="100" width="auto" style="border-radius:50%"></a>
 38 | **Pallbearer** | <a href="https://open.spotify.com/artist/2yeEmsTQMNHBlS5dhWtuD1" target="_blank"><img src="https://i.scdn.co/image/eac6f4ad2f17f745ae2cd965ba9517aa4f065bfc" height="100" width="auto" style="border-radius:50%"></a>
-39 | **Paradise Lost** | <a href="https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp" target="_blank"><img src="https://i.scdn.co/image/48c6fd0b7f750d71930eaf601a830a01c1ece14b" height="100" width="auto" style="border-radius:50%"></a>
+39 | **Paradise Lost** | <a href="https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp" target="_blank"><img src="https://i.scdn.co/image/ab67616100005174c8ac81b1e699f9bb78a5c98f" height="100" width="auto" style="border-radius:50%"></a>
 40 | **Procession** | <a href="https://open.spotify.com/artist/7u0VZPl9VSHc9PZDuI4RGJ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0290a635491c9374fb07259946" height="100" width="auto" style="border-radius:50%"></a>
 41 | **Red Moon Architect** | <a href="https://open.spotify.com/artist/6i4hfUB4ANDxB8FgXQLTTo" target="_blank"><img src="https://i.scdn.co/image/804b781781a8afb0ec069cda9d0c82c67f7071c2" height="100" width="auto" style="border-radius:50%"></a>
 42 | **Reino Ermitaño** | <a href="https://open.spotify.com/artist/7FxqC0kNJWel8iv3jvNBcz" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024e85633939aed9d6cc4f7cd3" height="100" width="auto" style="border-radius:50%"></a>

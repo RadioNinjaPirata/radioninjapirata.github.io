@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg)
 
-<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27314ab4b640fa4aef92785db7eab67616d0000b27323fb1619f88a35368bac2db7ab67616d0000b2732e41fd2df170fe62d54d5162ab67616d0000b273df641d5e50660fea109008fa" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27349ba52bff2d203a7fb230a57ab67616d0000b273bd9d83662f094acc9f1a8df5ab67616d0000b273df641d5e50660fea109008faab67616d0000b273f1e31155cd9bb6c175cc7f6a" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -35,7 +35,7 @@ No. | Band | Avatar
 --- | ---- | ------
 1 | **6Th Awakening** | <a href="https://open.spotify.com/artist/13CDCuJ0fA3tcMP6RvLehK" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0249ba52bff2d203a7fb230a57" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Aeternam** | <a href="https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s" target="_blank"><img src="https://i.scdn.co/image/50cf15ae90350f40b5243d260217616fa1f77251" height="100" width="auto" style="border-radius:50%"></a>
-3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/ab676161000051740c897e4765fc9ef41672e295" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Apotheus** | <a href="https://open.spotify.com/artist/5a0LCnLC3U4CFpS794sqVv" target="_blank"><img src="https://i.scdn.co/image/954764fdf1781ccb5d540aea981251643d2d985e" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Black Like Vengeance** | <a href="https://open.spotify.com/artist/7aaT80OFrOsHlbQm2fKbaP" target="_blank"><img src="https://i.scdn.co/image/ff40ae308af2f3c5279d008df27bab12a3bf8bfc" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Bloodhunter** | <a href="https://open.spotify.com/artist/35J5dOnnkCjaruu1oRrXuF" target="_blank"><img src="https://i.scdn.co/image/380bc2c00de84b2c73bc8a4f00401282df32fdb2" height="100" width="auto" style="border-radius:50%"></a>

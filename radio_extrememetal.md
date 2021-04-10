@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ)
 
-<a href="https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732bd186a5fb10c476791d89dcab67616d0000b27356a30c59e8f8507eaf6ebbcbab67616d0000b2738390690d5a32830e19355738ab67616d0000b273d85b48bc168b19c2fa48f4d9" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp?si=HuuNcLc-TcSPgyxSpTUFlQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303f7908e744f735d42e8b27aab67616d0000b2735288b3b514209fe3f09b73fdab67616d0000b273ca1697bd44f6d6ad17a46a77ab67616d0000b273cd0851bc0f89923a3a85718d" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -116,7 +116,7 @@ No. | Band | Avatar
 81 | **Tholing The Void** | <a href="https://open.spotify.com/artist/78Kv9omTZLKogX2yZBYTGa" target="_blank"><img src="https://i.scdn.co/image/fc88b7bdb751d25875c7981a510dc85d16240ef5" height="100" width="auto" style="border-radius:50%"></a>
 82 | **Thyrfing** | <a href="https://open.spotify.com/artist/2UGaMtxeXt8FQMCpxscnEJ" target="_blank"><img src="https://i.scdn.co/image/dcc1a0eca86b54ddcb21e05c87b2b74ee24ee264" height="100" width="auto" style="border-radius:50%"></a>
 83 | **Todestriebe** | <a href="https://open.spotify.com/artist/74tGyjffvsqsv2kTVRNXf0" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0290491ca61c263d1b5c9ea9a5" height="100" width="auto" style="border-radius:50%"></a>
-84 | **Toxaemia** | <a href="https://open.spotify.com/artist/15bWcusRsDaThBO9CRSSKO" target="_blank"><img src="https://i.scdn.co/image/678ed4c1693fb1c8a825977f8c29f0f038c191cb" height="100" width="auto" style="border-radius:50%"></a>
+84 | **Toxaemia** | <a href="https://open.spotify.com/artist/15bWcusRsDaThBO9CRSSKO" target="_blank"><img src="https://i.scdn.co/image/ab67616100005174a4043aef3b50f6dab15bc8b9" height="100" width="auto" style="border-radius:50%"></a>
 85 | **Trident** | <a href="https://open.spotify.com/artist/0ZiNRu5KFs4kyt6yClKNXr" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e1988d4c59dc6f2ab0e36755" height="100" width="auto" style="border-radius:50%"></a>
 86 | **Two Face Sinner** | <a href="https://open.spotify.com/artist/2vUfwVEeIfa29uqqMAdNhN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c063d66e98beb8f01160710" height="100" width="auto" style="border-radius:50%"></a>
 87 | **Uerberos** | <a href="https://open.spotify.com/artist/2MINq2hLIdqvO2dyllv7cz" target="_blank"><img src="https://i.scdn.co/image/b2eb6a7069bf248ba2c3ce784c6b1523ed361d35" height="100" width="auto" style="border-radius:50%"></a>

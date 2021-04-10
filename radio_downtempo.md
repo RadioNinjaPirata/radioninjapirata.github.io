@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw)
 
-<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273469e91e069e8451b70831596ab67616d0000b27399a4431ff3cb55f2ce7a7a5cab67616d0000b2739f0453b9625cc11c3875da78ab67616d0000b273ee7ce9a2ca1813dda01cc90e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27314909e4eabb92216589e2ae8ab67616d0000b2739b802e820028dfe20300c538ab67616d0000b273dfdfaaa91064567daa8ea777ab67616d0000b273f7462fe1ad4ca732b93a4dae" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -130,7 +130,7 @@ No. | Band | Avatar
 95 | **Blazo** | <a href="https://open.spotify.com/artist/089rQ02K5KBRF0XRYcQ9LX" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026b7d9181210b26d0c8c85c46" height="100" width="auto" style="border-radius:50%"></a>
 96 | **Blockhead** | <a href="https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b" target="_blank"><img src="https://i.scdn.co/image/d0c3e80cb52307b72692f0eed72cf48138e192c4" height="100" width="auto" style="border-radius:50%"></a>
 97 | **Blue States** | <a href="https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6" target="_blank"><img src="https://i.scdn.co/image/9156d65984be2e61636db138191ad76869eb56c5" height="100" width="auto" style="border-radius:50%"></a>
-98 | **Blue Wednesday** | <a href="https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U" target="_blank"><img src="https://i.scdn.co/image/554a861e1a1858bd40292fe9af51f43ea01b2673" height="100" width="auto" style="border-radius:50%"></a>
+98 | **Blue Wednesday** | <a href="https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U" target="_blank"><img src="https://i.scdn.co/image/ab67616100005174bf4b0fef139ade538de52660" height="100" width="auto" style="border-radius:50%"></a>
 99 | **Bluetech** | <a href="https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68" target="_blank"><img src="https://i.scdn.co/image/61404ab6447c076eded4fa3eb3a95f1fceb4da66" height="100" width="auto" style="border-radius:50%"></a>
 100 | **Blundetto** | <a href="https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y" target="_blank"><img src="https://i.scdn.co/image/229a4fe16d7af34f86aad2b26826b30b9ca750e9" height="100" width="auto" style="border-radius:50%"></a>
 101 | **Boards Of Canada** | <a href="https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1" target="_blank"><img src="https://i.scdn.co/image/cefe6c830485f48e0d14c9c779d7bd61c8852161" height="100" width="auto" style="border-radius:50%"></a>
@@ -255,7 +255,7 @@ No. | Band | Avatar
 220 | **Eguana** | <a href="https://open.spotify.com/artist/2nYWhMzt3fDNNW0cwPIw7V" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028f2fc0af843aa884171b6cb0" height="100" width="auto" style="border-radius:50%"></a>
 221 | **El Jazzy Chavo** | <a href="https://open.spotify.com/artist/46Pwdl99hYWTIpSLrraBet" target="_blank"><img src="https://i.scdn.co/image/425db287d9a35337f43d6c5f81237b5fdc24194a" height="100" width="auto" style="border-radius:50%"></a>
 222 | **El Michels Affair** | <a href="https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc" target="_blank"><img src="https://i.scdn.co/image/3de3fe9529da9d8edab1629be83a46f852135501" height="100" width="auto" style="border-radius:50%"></a>
-223 | **Elaquent** | <a href="https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL?si=L5nn6pMUSVSZsa3p1MxtQg" target="_blank"><img src="https://i.scdn.co/image/37df44db212c2eec270fe6c55f656afa5df99bb0" height="100" width="auto" style="border-radius:50%"></a>
+223 | **Elaquent** | <a href="https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL" target="_blank"><img src="https://i.scdn.co/image/abf7694f5659fc5f075f589b9a18064472ee0780" height="100" width="auto" style="border-radius:50%"></a>
 224 | **Elea** | <a href="https://open.spotify.com/artist/6luV2lwWVCl6XUaJBb4bpW" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023d0c8466ad55b8d482bced52" height="100" width="auto" style="border-radius:50%"></a>
 225 | **Eleven.Five** | <a href="https://open.spotify.com/artist/5atbRrm6m3IMXYe5SOPCs1" target="_blank"><img src="https://i.scdn.co/image/53aa8e6df786ffc40d1c5262c3cfc7938d485fca" height="100" width="auto" style="border-radius:50%"></a>
 226 | **Elleodin** | <a href="https://open.spotify.com/artist/2E0jW2M41ZLvdaNlg09H29" target="_blank"><img src="https://i.scdn.co/image/30a8f003ef51620155dbdfc83ab74ff49cbea5eb" height="100" width="auto" style="border-radius:50%"></a>

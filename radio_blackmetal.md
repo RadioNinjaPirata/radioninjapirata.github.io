@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A)
 
-<a href="https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730e759d03275a37cbd10fe54fab67616d0000b2731e13f79b5c174b8c12278d54ab67616d0000b2733bbbfbcdc011cf2b497a0dedab67616d0000b2736f3000ebba57bc9ea06446af" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/27ASVMGIBvWojR28VQsd9s?si=bEgRfzrDQpS7E-ebQyRg-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732c17534beed03db3804a01e5ab67616d0000b2735f2e2c02acde033b2fda82d6ab67616d0000b2738464857f5962a0efe0b78388ab67616d0000b273c0f6ce12e79c7fa17298d59f" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -75,7 +75,7 @@ No. | Band | Avatar
 40 | **Countess** | <a href="https://open.spotify.com/artist/6knDZcDZ3KR7XmO62z6Dup" target="_blank"><img src="https://i.scdn.co/image/82250aa5d99c69c8f2b843850c32d615059d22dd" height="100" width="auto" style="border-radius:50%"></a>
 41 | **Cradle Of Filth** | <a href="https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd" target="_blank"><img src="https://i.scdn.co/image/86e38eb3ea3073d7c71f5ba33c4ebcb9626f4bbb" height="100" width="auto" style="border-radius:50%"></a>
 42 | **Cult Burial** | <a href="https://open.spotify.com/artist/6OXAFCILnZJLxFE23w46my?si=1gZZXaXpSVG8du51Vr4pbg" target="_blank"><img src="https://i.scdn.co/image/bebdec59ffab92a1f0934b8dbbceb8d20c8b1210" height="100" width="auto" style="border-radius:50%"></a>
-43 | **Cultus Profano** | <a href="https://open.spotify.com/artist/0ELrHuuNV8W7im7Ydd9hIb?si=Apb3X4zNQAyOpOYutXDlpA" target="_blank"><img src="https://i.scdn.co/image/aaa6cd195d51263a764a21e7142a168e33ec0b30" height="100" width="auto" style="border-radius:50%"></a>
+43 | **Cultus Profano** | <a href="https://open.spotify.com/artist/0ELrHuuNV8W7im7Ydd9hIb" target="_blank"><img src="https://i.scdn.co/image/aaa6cd195d51263a764a21e7142a168e33ec0b30" height="100" width="auto" style="border-radius:50%"></a>
 44 | **Daemonarch** | <a href="https://open.spotify.com/artist/1GKXGc0ZZYszuzdtLFNGKV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c0f6ce12e79c7fa17298d59f" height="100" width="auto" style="border-radius:50%"></a>
 45 | **Dark Fortress** | <a href="https://open.spotify.com/artist/0hiccXRDVXl9sOZ4R7aNry" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac3a4fe736ac3cee20df557bc28" height="100" width="auto" style="border-radius:50%"></a>
 46 | **Dark Funeral** | <a href="https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE" target="_blank"><img src="https://i.scdn.co/image/5bd81c4363d9c4424c4c8fed886916f72d092791" height="100" width="auto" style="border-radius:50%"></a>

@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw)
 
-<a href="https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273346fc4688f96a2bab09c83efab67616d0000b27347a3c796b7c7827ef450741aab67616d0000b27358d65319499098d1877aeefeab67616d0000b27365c752ced373e8ebf8df549c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730b06b0b6922707c06831c3cbab67616d0000b27339df465678d21e423380148bab67616d0000b2735cfb0da4ff37f2e19c32222cab67616d0000b273fabd171aefbde42e0c7853d5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -35,7 +35,7 @@ No. | Band | Avatar
 --- | ---- | ------
 1 | **Alestorm** | <a href="https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da?si=euaNwU9OTqSwKL1pNoz_mA" target="_blank"><img src="https://i.scdn.co/image/a3f90f6f56da5c2a2a4a41b308addd8561778fcd" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Amon Amarth** | <a href="https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL" target="_blank"><img src="https://i.scdn.co/image/2b6e47010d6df6c550bf8f22d58fa70409f421e3" height="100" width="auto" style="border-radius:50%"></a>
-3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/ab676161000051740c897e4765fc9ef41672e295" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Arkona** | <a href="https://open.spotify.com/artist/6AJ9HQ2Ptp1WWEfBFvR5fF" target="_blank"><img src="https://i.scdn.co/image/1368f06ce733f53d21b1193bb828f3710dc3aa48" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Asmegin** | <a href="https://open.spotify.com/artist/61h1lCo5a5xhxavDiwVvOB" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028588c70e7564df06ba2be5a4" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Black Messiah** | <a href="https://open.spotify.com/artist/0LebUfEVJ7jmoKF5mPKlJf" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02071fc80a6852c86fd3f53cd7" height="100" width="auto" style="border-radius:50%"></a>
