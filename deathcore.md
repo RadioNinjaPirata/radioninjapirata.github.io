@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3o5uTuc6Cd9yiq2GOqyNVi?si=X_U2FGGdS-WJ-55g_0WpEQ)
 
-<a href="https://open.spotify.com/playlist/3o5uTuc6Cd9yiq2GOqyNVi?si=X_U2FGGdS-WJ-55g_0WpEQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27345895da3a4c828af52c22afcab67616d0000b2735b37bfeb089b70853a65fecdab67616d0000b273d43aee4f552dd6b253353c66ab67616d0000b273e1858da4dfe55314e8aecbd4" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3o5uTuc6Cd9yiq2GOqyNVi?si=X_U2FGGdS-WJ-55g_0WpEQ" target="_blank"><img src="https://i.scdn.co/image/ab67706c0000bebbdc88e3ba6ac54710a8d212c1" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -38,7 +38,7 @@ No. | Band | Avatar
 3 | **A Wake In Providence** | <a href="https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa" target="_blank"><img src="https://i.scdn.co/image/de639ced08cfd3ce47c79dcb7a4e35f596278f45" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Abbie Falls** | <a href="https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU" target="_blank"><img src="https://i.scdn.co/image/7872a2576eba050237cf63376e002aea431b5dcc" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Abiotic** | <a href="https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe" target="_blank"><img src="https://i.scdn.co/image/ececd5b4471a32d5d939243c3ceed47971810aba" height="100" width="auto" style="border-radius:50%"></a>
-6 | **Abominable Putridity** | <a href="https://open.spotify.com/artist/4gJMeUuNoD9eeKZkOHLWMO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0210030c03e9c9b8c69a3d31fb" height="100" width="auto" style="border-radius:50%"></a>
+6 | **Abominable Putridity** | <a href="https://open.spotify.com/artist/4gJMeUuNoD9eeKZkOHLWMO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e549aaaaea9aa9c84ec1d37c" height="100" width="auto" style="border-radius:50%"></a>
 7 | **Acrania** | <a href="https://open.spotify.com/artist/6D3PbIyyqH2NaqPZSE6X5N" target="_blank"><img src="https://i.scdn.co/image/9ca30c68d5b2fb206b03dfbc6fffae02c7c4b7c6" height="100" width="auto" style="border-radius:50%"></a>
 8 | **After The Burial** | <a href="https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en" target="_blank"><img src="https://i.scdn.co/image/8cbfddff20c3d15f02e80fdc8b48e971b6f52741" height="100" width="auto" style="border-radius:50%"></a>
 9 | **All Shall Perish** | <a href="https://open.spotify.com/artist/7GkGdNLPzWw4e6ctwKvI2x" target="_blank"><img src="https://i.scdn.co/image/507648c432dfee0372fe33d19c8ad6645760fb46" height="100" width="auto" style="border-radius:50%"></a>

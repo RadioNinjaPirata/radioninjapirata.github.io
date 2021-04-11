@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg)
 
-<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27349ba52bff2d203a7fb230a57ab67616d0000b273bd9d83662f094acc9f1a8df5ab67616d0000b273df641d5e50660fea109008faab67616d0000b273f1e31155cd9bb6c175cc7f6a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27367d34d62e2811d3c3adb0349ab67616d0000b273b26c217d59b96064b8eefbc1ab67616d0000b273e16eea4dcfb6a60d63a14180ab67616d0000b273f190d4567a3cb5e1293f7bd5" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -82,6 +82,7 @@ No. | Band | Avatar
 47 | **Synlakross** | <a href="https://open.spotify.com/artist/5C4cGwwVx56fKQECoCFljD" target="_blank"><img src="https://i.scdn.co/image/adebc118489b2d1c1bdef57b60f2b7cd7836c997" height="100" width="auto" style="border-radius:50%"></a>
 48 | **The Agonist** | <a href="https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak" target="_blank"><img src="https://i.scdn.co/image/1227f0fceb4041fe2381719293b8577f3f8306bc" height="100" width="auto" style="border-radius:50%"></a>
 49 | **Theriomorphic** | <a href="https://open.spotify.com/artist/0ej18JFQb6yHuWHP8xslmc" target="_blank"><img src="https://i.scdn.co/image/5f0c5c25363139d553c899ed6ad87b2be201c68e" height="100" width="auto" style="border-radius:50%"></a>
-50 | **Warbell** | <a href="https://open.spotify.com/artist/1bLCY4WF8uExExIt1O9w9s" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c0d65289d53a2d74905fe587" height="100" width="auto" style="border-radius:50%"></a>
-51 | **Words Of Farewell** | <a href="https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO?si=Ucx610EKTDKhIIiD5dhxGQ" target="_blank"><img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%"></a>
-52 | **Wyrmhaven** | <a href="https://open.spotify.com/artist/0iOJOCp7D35hfucHVHxPyZ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027e27eb4e7c0acfdf418d668a" height="100" width="auto" style="border-radius:50%"></a>
+50 | **Vicarivs** | <a href="https://open.spotify.com/artist/1SFDaM0S2zL7PxbaHZhYOC" target="_blank"><img src="https://i.scdn.co/image/52d811a085c906dc43c099b09d42149f131fd2dd" height="100" width="auto" style="border-radius:50%"></a>
+51 | **Warbell** | <a href="https://open.spotify.com/artist/1bLCY4WF8uExExIt1O9w9s" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c0d65289d53a2d74905fe587" height="100" width="auto" style="border-radius:50%"></a>
+52 | **Words Of Farewell** | <a href="https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO?si=Ucx610EKTDKhIIiD5dhxGQ" target="_blank"><img src="https://i.scdn.co/image/d05fdb888937973c482c3b9cd31a19212a8a06a8" height="100" width="auto" style="border-radius:50%"></a>
+53 | **Wyrmhaven** | <a href="https://open.spotify.com/artist/0iOJOCp7D35hfucHVHxPyZ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027e27eb4e7c0acfdf418d668a" height="100" width="auto" style="border-radius:50%"></a>
