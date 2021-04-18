@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw)
 
-<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27307f0f0931eff16ee621a7b0dab67616d0000b27353c9f3b4b542e416b2485252ab67616d0000b27382d8c3383fa48023d9ffdea1ab67616d0000b273ea3e79f88a276e3d380100bd" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27302a6fdf1c6a488c3a399bf02ab67616d0000b2735a211e59cfc9838354927f2dab67616d0000b2738de15dde318201b4a4e25b21ab67616d0000b273c0f985fa9c8f2d7de744cf1a" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -161,8 +161,8 @@ No. | Band | Avatar
 126 | **Cautious Clay** | <a href="https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil" target="_blank"><img src="https://i.scdn.co/image/1fcaf2277be81af04bbe0728755c075d88b9ea54" height="100" width="auto" style="border-radius:50%"></a>
 127 | **Cedric Mercute** | <a href="https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk" target="_blank"><img src="https://i.scdn.co/image/ce0f38d19d3a688cefa725ea3c4d92956e94ca51" height="100" width="auto" style="border-radius:50%"></a>
 128 | **Celestial Alignment** | <a href="https://open.spotify.com/artist/7lGQNJ5Ypof1wZrM0ysNIU" target="_blank"><img src="https://i.scdn.co/image/aac09dea2433a49badd561e4dd53fe4822fb388f" height="100" width="auto" style="border-radius:50%"></a>
-129 | **Cell** | <a href="https://open.spotify.com/artist/25vUNEWxEMHXSUqT3FuPac" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026faf19bd5f2ac94729414638" height="100" width="auto" style="border-radius:50%"></a>
-130 | **Cell** | <a href="https://open.spotify.com/artist/6nwGLbfNWg1SmPsaoYgXRA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021cdcd12abac6bbc5bfd5f90d" height="100" width="auto" style="border-radius:50%"></a>
+129 | **Cell** | <a href="https://open.spotify.com/artist/6nwGLbfNWg1SmPsaoYgXRA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021cdcd12abac6bbc5bfd5f90d" height="100" width="auto" style="border-radius:50%"></a>
+130 | **Cell** | <a href="https://open.spotify.com/artist/25vUNEWxEMHXSUqT3FuPac" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026faf19bd5f2ac94729414638" height="100" width="auto" style="border-radius:50%"></a>
 131 | **Champagne Drip** | <a href="https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f" target="_blank"><img src="https://i.scdn.co/image/b6ade6244053b2b0f7baa18ae86bb05c13aaaace" height="100" width="auto" style="border-radius:50%"></a>
 132 | **Charlesthefirst** | <a href="https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I" target="_blank"><img src="https://i.scdn.co/image/63959009c667799ebc8f24883b965625c48f6c78" height="100" width="auto" style="border-radius:50%"></a>
 133 | **Chee** | <a href="https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA" target="_blank"><img src="https://i.scdn.co/image/a5c865cd144a06c5c69881c5a9c4bf0157bee92c" height="100" width="auto" style="border-radius:50%"></a>
@@ -725,8 +725,8 @@ No. | Band | Avatar
 690 | **Syntheon** | <a href="https://open.spotify.com/artist/3nvqbcJbEIVcKkRYoEe6MB" target="_blank"><img src="https://i.scdn.co/image/71b7b844a1e17cfefdf8ef233886c9794e03c78a" height="100" width="auto" style="border-radius:50%"></a>
 691 | **Sysyphe** | <a href="https://open.spotify.com/artist/4nH29o1nHMwHAQLrp66nS5" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e43da0d1e085917bd25736a5" height="100" width="auto" style="border-radius:50%"></a>
 692 | **Taiko** | <a href="https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq" target="_blank"><img src="https://i.scdn.co/image/87a27308f307616663109e2b71620a144702b5bd" height="100" width="auto" style="border-radius:50%"></a>
-693 | **Talos** | <a href="https://open.spotify.com/artist/1cOFPHHf20vU7zghrpz1X2" target="_blank"><img src="https://i.scdn.co/image/99b22fa78ffeb491bc4f61a45339049fd5afd730" height="100" width="auto" style="border-radius:50%"></a>
-694 | **Talos** | <a href="https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc" target="_blank"><img src="https://i.scdn.co/image/26e310c5504a6b6ba15b088347dece5edae07b2e" height="100" width="auto" style="border-radius:50%"></a>
+693 | **Talos** | <a href="https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc" target="_blank"><img src="https://i.scdn.co/image/26e310c5504a6b6ba15b088347dece5edae07b2e" height="100" width="auto" style="border-radius:50%"></a>
+694 | **Talos** | <a href="https://open.spotify.com/artist/1cOFPHHf20vU7zghrpz1X2" target="_blank"><img src="https://i.scdn.co/image/99b22fa78ffeb491bc4f61a45339049fd5afd730" height="100" width="auto" style="border-radius:50%"></a>
 695 | **Taotempo** | <a href="https://open.spotify.com/artist/0F33cHkbDflU29sMMHr4vk" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025f1657fd4e764aef3486a285" height="100" width="auto" style="border-radius:50%"></a>
 696 | **Teen Daze** | <a href="https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l" target="_blank"><img src="https://i.scdn.co/image/483cbee2b63ce4c0386d8b3d106a5e985c5411d4" height="100" width="auto" style="border-radius:50%"></a>
 697 | **Telefon Tel Aviv** | <a href="https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC" target="_blank"><img src="https://i.scdn.co/image/6e6e59d355dd7ca0c1567b75908a8713eb13ac9d" height="100" width="auto" style="border-radius:50%"></a>

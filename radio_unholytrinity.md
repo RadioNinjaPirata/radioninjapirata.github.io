@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3A0Gj2gPShmHlhTEKaMwTO?si=1AGHZ8yvR9iqdwOLojGjqg)
 
-<a href="https://open.spotify.com/playlist/3A0Gj2gPShmHlhTEKaMwTO?si=1AGHZ8yvR9iqdwOLojGjqg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27359768f978821ca7b1a151c17ab67616d0000b2736e251a69eecae8feb5744ea4ab67616d0000b2737017160a6ffc1aa41c3d4a83ab67616d0000b273bad2c3c45b714a6050fda785" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3A0Gj2gPShmHlhTEKaMwTO?si=1AGHZ8yvR9iqdwOLojGjqg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273411273faf141b18444bc110dab67616d0000b2736f2f499c1df1f210c9b34b32ab67616d0000b2739683e5d7361bb80bfb00f46dab67616d0000b273a9e37e7beab1e15160f2c705" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
