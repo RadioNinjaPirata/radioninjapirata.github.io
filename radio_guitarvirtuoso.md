@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5q4L4mVP3iLP7blZFqdPx4?si=7AaZg-sjQOChZSioVAX7WA)
 
-<a href="https://open.spotify.com/playlist/5q4L4mVP3iLP7blZFqdPx4?si=7AaZg-sjQOChZSioVAX7WA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732a84c23031b72811ff7cbc15ab67616d0000b27351b3cac94fc8c2b58a84694dab67616d0000b273c7ced01b47a089ac273b9284ab67616d0000b273cf847a055460d8f2e7ed9b2d" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5q4L4mVP3iLP7blZFqdPx4?si=7AaZg-sjQOChZSioVAX7WA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731eae863833e80c28eee2d319ab67616d0000b2737eabdfdebee84ce17685c8fcab67616d0000b27381e2192012a00f28bd8d2d80ab67616d0000b2739ec42a000397c48fa8057d21" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -150,8 +150,8 @@ No. | Band | Avatar
 115 | **Mcrocklin** | <a href="https://open.spotify.com/artist/3ajU0FztvIxRclcrrq3LR5" target="_blank"><img src="https://i.scdn.co/image/fc2010e63e8d0804ef42ea988be12ecc8d4e6514" height="100" width="auto" style="border-radius:50%"></a>
 116 | **Michael Abdow** | <a href="https://open.spotify.com/artist/2xf1kIzT3xqWYqdspKB55l" target="_blank"><img src="https://i.scdn.co/image/34db3a4e542debe5c6c2e9a241bb1ae712675a82" height="100" width="auto" style="border-radius:50%"></a>
 117 | **Michael Angelo Batio** | <a href="https://open.spotify.com/artist/6yX3wacPyKAueKwOAjKT0i" target="_blank"><img src="https://i.scdn.co/image/6df8e31e9b844da8dfe2f3f7715df0067dc248a4" height="100" width="auto" style="border-radius:50%"></a>
-118 | **Michael Harris** | <a href="https://open.spotify.com/artist/2KWxgWEAt6Sw2yoR5M7ANV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c76cb834da62f4cfcbd698d8" height="100" width="auto" style="border-radius:50%"></a>
-119 | **Michael Harris** | <a href="https://open.spotify.com/artist/5ofZ15S8lDwRMjkUTqSxGN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02903eca341efac8ecd2a1812c" height="100" width="auto" style="border-radius:50%"></a>
+118 | **Michael Harris** | <a href="https://open.spotify.com/artist/5ofZ15S8lDwRMjkUTqSxGN" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02903eca341efac8ecd2a1812c" height="100" width="auto" style="border-radius:50%"></a>
+119 | **Michael Harris** | <a href="https://open.spotify.com/artist/2KWxgWEAt6Sw2yoR5M7ANV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c76cb834da62f4cfcbd698d8" height="100" width="auto" style="border-radius:50%"></a>
 120 | **Michael Lee Firkins** | <a href="https://open.spotify.com/artist/7hDSpyE3c2yq9LUeJuY8xC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023b102c16431a52d600c64109" height="100" width="auto" style="border-radius:50%"></a>
 121 | **Michael Romeo** | <a href="https://open.spotify.com/artist/1u13Ufesdz3aVSYpL1bFue" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027a705472e46737f5d3d63a79" height="100" width="auto" style="border-radius:50%"></a>
 122 | **Mikael Nilsson** | <a href="https://open.spotify.com/artist/6QrDYDPw8RShdR8ks5hEfc" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a118cccd1f1836e51addebc7" height="100" width="auto" style="border-radius:50%"></a>

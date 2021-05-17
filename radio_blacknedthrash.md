@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/7jdDqZjOFPbFCuxQPCKcID?si=zbK_9J4ERleDuY1bbC8Tgw)
 
-<a href="https://open.spotify.com/playlist/7jdDqZjOFPbFCuxQPCKcID?si=zbK_9J4ERleDuY1bbC8Tgw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27329df56f806df853bae68ca34ab67616d0000b27330c1a872c5a88d643f40fde9ab67616d0000b273b09024d5c48b2a5f6063329aab67616d0000b273f7b405f437567543887ed374" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/7jdDqZjOFPbFCuxQPCKcID?si=zbK_9J4ERleDuY1bbC8Tgw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27378de1fee51252733c2c22e2bab67616d0000b273987739d51c66e4e655c901c0ab67616d0000b273bd33cb232ae2a5f9a8d16028ab67616d0000b273bd4ba641c69674d0cbb73ead" height="300" width="auto" style="border-radius:50%"></a>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
@@ -134,8 +134,8 @@ No. | Band | Avatar
 99 | **Cruel Force** | <a href="https://open.spotify.com/artist/3K7CRDKsBBUjvIJsg6jtFn" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023a59e0dbff7704330e2d24cb" height="100" width="auto" style="border-radius:50%"></a>
 100 | **Cryptic Slaughter** | <a href="https://open.spotify.com/artist/20ml1U2ibB2HPnPpWrJIKT" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022185eddbcc350756b1455c83" height="100" width="auto" style="border-radius:50%"></a>
 101 | **Curse** | <a href="https://open.spotify.com/artist/2nU4wxmHn0enBBjRa0K7sv" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02999f2fd208c36d27dc3038f5" height="100" width="auto" style="border-radius:50%"></a>
-102 | **Dark Circles** | <a href="https://open.spotify.com/artist/43pj4N1pZ37GsqCFt1C0QV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0218047ef2ba9cae5b54655b1f" height="100" width="auto" style="border-radius:50%"></a>
-103 | **Dark Circles** | <a href="https://open.spotify.com/artist/6X9TDXdHH1GwHVNxxPOHbd" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028dd69d3be231f3ed5713009a" height="100" width="auto" style="border-radius:50%"></a>
+102 | **Dark Circles** | <a href="https://open.spotify.com/artist/6X9TDXdHH1GwHVNxxPOHbd" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028dd69d3be231f3ed5713009a" height="100" width="auto" style="border-radius:50%"></a>
+103 | **Dark Circles** | <a href="https://open.spotify.com/artist/43pj4N1pZ37GsqCFt1C0QV" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0218047ef2ba9cae5b54655b1f" height="100" width="auto" style="border-radius:50%"></a>
 104 | **Darkthrone** | <a href="https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV" target="_blank"><img src="https://i.scdn.co/image/5ef21ae9abfb3bbfd62b4a2e7a7c15f6b086f9f1" height="100" width="auto" style="border-radius:50%"></a>
 105 | **Death Side** | <a href="https://open.spotify.com/artist/0AxC6tcKCZvkRKT8ZexAaC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c7765013a08265d17b6a1602" height="100" width="auto" style="border-radius:50%"></a>
 106 | **Deathhammer** | <a href="https://open.spotify.com/artist/5mVI4OOATqklEKc0ZOFomS" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027f03aaca037163ecb7692866" height="100" width="auto" style="border-radius:50%"></a>
@@ -163,8 +163,8 @@ No. | Band | Avatar
 128 | **Disgust** | <a href="https://open.spotify.com/artist/2v3NKrkFwMSDIh3SJwIChm" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021309a2d51f7a1c69569067dd" height="100" width="auto" style="border-radius:50%"></a>
 129 | **Dishammer** | <a href="https://open.spotify.com/artist/6ejZ8FJ5Ce14GuaaVUfg4y" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ce09f7c6309b6564acd56df2" height="100" width="auto" style="border-radius:50%"></a>
 130 | **Diskonto** | <a href="https://open.spotify.com/artist/3KEz7DK9d6rR2MsZo624MU" target="_blank"><img src="https://i.scdn.co/image/056b3bf8b59fee59aa84e8dec8456ada8deeff9f" height="100" width="auto" style="border-radius:50%"></a>
-131 | **Disorder** | <a href="https://open.spotify.com/artist/3g8nZQGVKA6DXLMstj0w2p" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020bcedf5ec4edcf9a3ba4eb2b" height="100" width="auto" style="border-radius:50%"></a>
-132 | **Disorder** | <a href="https://open.spotify.com/artist/4mSQXuXsx5mXBh6Nirta33" target="_blank"><img src="https://i.scdn.co/image/87e35b8a8ef040f0c06f18cd82556a12087e2b47" height="100" width="auto" style="border-radius:50%"></a>
+131 | **Disorder** | <a href="https://open.spotify.com/artist/4mSQXuXsx5mXBh6Nirta33" target="_blank"><img src="https://i.scdn.co/image/87e35b8a8ef040f0c06f18cd82556a12087e2b47" height="100" width="auto" style="border-radius:50%"></a>
+132 | **Disorder** | <a href="https://open.spotify.com/artist/3g8nZQGVKA6DXLMstj0w2p" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020bcedf5ec4edcf9a3ba4eb2b" height="100" width="auto" style="border-radius:50%"></a>
 133 | **Dispyt** | <a href="https://open.spotify.com/artist/0YfllmFruqwOLKcKgEDm9k" target="_blank"><img src="https://i.scdn.co/image/f84360a2332014e68cc1e3933d00f0fcfe54753d" height="100" width="auto" style="border-radius:50%"></a>
 134 | **Disrupt** | <a href="https://open.spotify.com/artist/6Dh1VoXiCXoeebGBXj8a9R" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027b4482f53fde4070d2e0501f" height="100" width="auto" style="border-radius:50%"></a>
 135 | **Disthrone** | <a href="https://open.spotify.com/artist/04foxv2ZEVa0YKr4jvnJmF" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02751ad99f6f1383afb394b55e" height="100" width="auto" style="border-radius:50%"></a>
@@ -231,8 +231,8 @@ No. | Band | Avatar
 196 | **Hellcharger** | <a href="https://open.spotify.com/artist/1XykQbDg3LomELaf2CWqSB" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0286468b9d3eb2c65a537b7d57" height="100" width="auto" style="border-radius:50%"></a>
 197 | **Hellhammer** | <a href="https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0232831210ad9625dd577764b4" height="100" width="auto" style="border-radius:50%"></a>
 198 | **Hellish** | <a href="https://open.spotify.com/artist/5ZfPr7QVC2cpuRRgo0sJp8" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025b54a0eb2abb611ae2cee3a9" height="100" width="auto" style="border-radius:50%"></a>
-199 | **Hellknife** | <a href="https://open.spotify.com/artist/373fBQu5QwMq3IaNtBLKrd" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025f5c6211e76e5463f23d2ff3" height="100" width="auto" style="border-radius:50%"></a>
-200 | **Hellknife** | <a href="https://open.spotify.com/artist/1g1en05i3aYOMZkfB8Rdpb" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4ead5b49da90ecbd38eada5" height="100" width="auto" style="border-radius:50%"></a>
+199 | **Hellknife** | <a href="https://open.spotify.com/artist/1g1en05i3aYOMZkfB8Rdpb" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4ead5b49da90ecbd38eada5" height="100" width="auto" style="border-radius:50%"></a>
+200 | **Hellknife** | <a href="https://open.spotify.com/artist/373fBQu5QwMq3IaNtBLKrd" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025f5c6211e76e5463f23d2ff3" height="100" width="auto" style="border-radius:50%"></a>
 201 | **Hellkrusher** | <a href="https://open.spotify.com/artist/3dolcE9sIwQUjD3gpamFGF" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02914a6b29fe6d89fb4c1dcaae" height="100" width="auto" style="border-radius:50%"></a>
 202 | **Hellripper** | <a href="https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R" target="_blank"><img src="https://i.scdn.co/image/845c60bbc6611c1368f19a64d51c314fea4db6f2" height="100" width="auto" style="border-radius:50%"></a>
 203 | **Heresy** | <a href="https://open.spotify.com/artist/0pT4Z78fyJMkR78bFmhxIU" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029d48ab8baff98adadc11d896" height="100" width="auto" style="border-radius:50%"></a>
