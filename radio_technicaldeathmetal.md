@@ -7,7 +7,6 @@
 
 <a href="https://open.spotify.com/playlist/5mlLo3TCjN7wSqZACeu5Tx?si=YdSYNWAhQaqdTOAMQvsQGQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2731beb9565a9a6ad90174a0905ab67616d0000b2732ed6a6d86a9f7caa06cca0b0ab67616d0000b2733e0328ca9cd92d565bd413c3ab67616d0000b273a3de54490156761a7db6b67d" height="300" width="auto" style="border-radius:50%"></a>
 
-<iframe src="https://open.spotify.com/embed/playlist/5mlLo3TCjN7wSqZACeu5Tx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Do you like it? Let us know, give that radio a like. Follow us!
 
