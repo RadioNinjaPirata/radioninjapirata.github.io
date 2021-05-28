@@ -7,6 +7,8 @@
 
 <a href="https://open.spotify.com/playlist/6DSEGEYJ8INKWqPsCC1UGU?si=k8T872_qT4eHQN395Uj85Q" target="_blank"><img src="https://i.scdn.co/image/ab67706c0000bebbb518b49b7761aacee6f395eb" height="300" width="auto" style="border-radius:50%"></a>
 
+<iframe src="https://open.spotify.com/embed/playlist/6DSEGEYJ8INKWqPsCC1UGU" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 Do you like it? Let us know, give that radio a like. Follow us!
 
 
