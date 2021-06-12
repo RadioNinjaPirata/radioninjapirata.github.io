@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ)
 
-<a href="https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273205f44a68cc143184746a7b7ab67616d0000b27335501b9e6bb4153b64b76c39ab67616d0000b27374c56e24ddae8cb780de5085ab67616d0000b273abadfb35ac95e5731b9ef6fe" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303dc74090436df18026eb87aab67616d0000b273c35a499b030d1f442eb06cb7ab67616d0000b273ee99466651273c999bef61abab67616d0000b273f40dd8e363a0910fc0ea2e85" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/4ezGqch0UGNiaRjDjoTMC6" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -133,5 +133,6 @@ No. | Band | Avatar
 96 | **Watain** | <a href="https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX" target="_blank"><img src="https://i.scdn.co/image/2a64d92b87fb10a3682118405700c18e5813f3ae" height="100" width="auto" style="border-radius:50%"></a>
 97 | **Wiegedood** | <a href="https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb" target="_blank"><img src="https://i.scdn.co/image/95ca5456993554d0d2feb52a27e5ad11cfaa9d2b" height="100" width="auto" style="border-radius:50%"></a>
 98 | **Windfaerer** | <a href="https://open.spotify.com/artist/0DAhyEPV1p73X2DJEc8ChM" target="_blank"><img src="https://i.scdn.co/image/2b24d9c4fc1bc4b10239f1e504d05174b3d47417" height="100" width="auto" style="border-radius:50%"></a>
-99 | **Winterfylleth** | <a href="https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5" target="_blank"><img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%"></a>
-100 | **Wormwood** | <a href="https://open.spotify.com/artist/2CltEmcrT4ypj6WxaBej5c" target="_blank"><img src="https://i.scdn.co/image/7da77b2821190f21939ecf6035b975636c14a13b" height="100" width="auto" style="border-radius:50%"></a>
+99 | **Winter Eternal** | <a href="https://open.spotify.com/artist/5OCMMNLai8moSjljFM5tcw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023a561690ecee6d3a04abddd5" height="100" width="auto" style="border-radius:50%"></a>
+100 | **Winterfylleth** | <a href="https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5" target="_blank"><img src="https://i.scdn.co/image/049415b5e577a527b4ac8830ba1d0b9e96102b39" height="100" width="auto" style="border-radius:50%"></a>
+101 | **Wormwood** | <a href="https://open.spotify.com/artist/2CltEmcrT4ypj6WxaBej5c" target="_blank"><img src="https://i.scdn.co/image/7da77b2821190f21939ecf6035b975636c14a13b" height="100" width="auto" style="border-radius:50%"></a>

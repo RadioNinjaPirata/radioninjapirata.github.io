@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA)
 
-<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2733650423f2721e406a60a3bc5ab67616d0000b2733eeb6f5ae6cc9af63a8c0ac6ab67616d0000b2734caa2dbc0f82a388518f8c2aab67616d0000b27399644e0a7122d8521ac5f90c" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0LZ1t5fCPaA6Uue8IRGwgB?si=JB8UEBsoQHidTabtjJcrBA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734a235feb64bcb5aa520a095cab67616d0000b2734caa2dbc0f82a388518f8c2aab67616d0000b273e885896f74db16a08ddc911eab67616d0000b273f0ba1fa621597f0560ba729b" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/0LZ1t5fCPaA6Uue8IRGwgB" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -71,9 +71,10 @@ No. | Band | Avatar
 34 | **Saber** | <a href="https://open.spotify.com/artist/1q3v4xWubR8xpsi2efZ7xQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021af48c2d31705389ece37de0" height="100" width="auto" style="border-radius:50%"></a>
 35 | **Satan'S Fall** | <a href="https://open.spotify.com/artist/2UAI07YLI30I3lZN91lqbO" target="_blank"><img src="https://i.scdn.co/image/e66b8bdc0b2eec94031b32af27aff8447def6f2e" height="100" width="auto" style="border-radius:50%"></a>
 36 | **Saxon** | <a href="https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU" target="_blank"><img src="https://i.scdn.co/image/ff107ac12bab4f9b6362c89dc203ec7b37a58bbe" height="100" width="auto" style="border-radius:50%"></a>
-37 | **Thundermother** | <a href="https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw" target="_blank"><img src="https://i.scdn.co/image/478c933cf6729f20b8def994e818af5d94f3a58a" height="100" width="auto" style="border-radius:50%"></a>
-38 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
-39 | **Vicious Rumors** | <a href="https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c051efcc6119828d7cb04875" height="100" width="auto" style="border-radius:50%"></a>
-40 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>
-41 | **Witchfynde** | <a href="https://open.spotify.com/artist/4sWMI7YTP9rDfT7ebSsj2S" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f282af69069013779741c318" height="100" width="auto" style="border-radius:50%"></a>
-42 | **Wizard** | <a href="https://open.spotify.com/artist/6lJSdRmKUvUiYE0VABLpYy" target="_blank"><img src="https://i.scdn.co/image/d928a2d776eac377fdf454aebf2cf7f67d609687" height="100" width="auto" style="border-radius:50%"></a>
+37 | **Soul Grinder** | <a href="https://open.spotify.com/artist/3sJINKe7zm2O0sE4WVyHA2" target="_blank"><img src="https://i.scdn.co/image/91fd18c23873c95931e5a5514373234cf68f9fa3" height="100" width="auto" style="border-radius:50%"></a>
+38 | **Thundermother** | <a href="https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw" target="_blank"><img src="https://i.scdn.co/image/478c933cf6729f20b8def994e818af5d94f3a58a" height="100" width="auto" style="border-radius:50%"></a>
+39 | **Tytan** | <a href="https://open.spotify.com/artist/5SzxM9jZridZ5PiPbrHCdR" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024caa2dbc0f82a388518f8c2a" height="100" width="auto" style="border-radius:50%"></a>
+40 | **Vicious Rumors** | <a href="https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c051efcc6119828d7cb04875" height="100" width="auto" style="border-radius:50%"></a>
+41 | **Warlock** | <a href="https://open.spotify.com/artist/5XDeFQDarnwpR5WAfD6S0d" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02cab9802b05542534269c01a1" height="100" width="auto" style="border-radius:50%"></a>
+42 | **Witchfynde** | <a href="https://open.spotify.com/artist/4sWMI7YTP9rDfT7ebSsj2S" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f282af69069013779741c318" height="100" width="auto" style="border-radius:50%"></a>
+43 | **Wizard** | <a href="https://open.spotify.com/artist/6lJSdRmKUvUiYE0VABLpYy" target="_blank"><img src="https://i.scdn.co/image/d928a2d776eac377fdf454aebf2cf7f67d609687" height="100" width="auto" style="border-radius:50%"></a>

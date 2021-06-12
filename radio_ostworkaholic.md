@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/36kG59PQOswWlhq9ViK0am?si=mJ1ASMD3Qs2659RRC1iukQ)
 
-<a href="https://open.spotify.com/playlist/36kG59PQOswWlhq9ViK0am?si=mJ1ASMD3Qs2659RRC1iukQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2735a1df820530fe3fca165b68fab67616d0000b27371b1b5d2f76b80661d4e01c8ab67616d0000b273801dfe041e29b0c02824d6b3ab67616d0000b273aad36b64a1a78951b504bc4e" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/36kG59PQOswWlhq9ViK0am?si=mJ1ASMD3Qs2659RRC1iukQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730b93516d338c7f48152e5007ab67616d0000b2730f4bf5c96c9ee54fa00944c4ab67616d0000b2733b52f2f8d44fd7794d2fa0f9ab67616d0000b273f23747759c1a5b85f117f0ba" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/36kG59PQOswWlhq9ViK0am" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
