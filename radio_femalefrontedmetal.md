@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1sD0mWzIsuahYQ1aUlmPlR?si=ntwIlK0ITZ6i_h9PbuPc5g)
 
-<a href="https://open.spotify.com/playlist/1sD0mWzIsuahYQ1aUlmPlR?si=ntwIlK0ITZ6i_h9PbuPc5g" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27319806e1cc4d54917c8af3669ab67616d0000b273821dde7a7e24c2b9aaf30872ab67616d0000b273abdb2e17970301b68ed64be6ab67616d0000b273f88809adca531201536ab98f" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1sD0mWzIsuahYQ1aUlmPlR?si=ntwIlK0ITZ6i_h9PbuPc5g" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730a3eebfcd2b96569e410773aab67616d0000b2738740c39629044b943c0eb84aab67616d0000b273c6bd77f94aeabd33dd5e276fab67616d0000b273da6ecc0be6e98599310fea5e" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/1sD0mWzIsuahYQ1aUlmPlR" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -361,7 +361,7 @@ No. | Band | Avatar
 324 | **Darling Parade** | <a href="https://open.spotify.com/artist/2KqnJirtyXovFn8ZZYrgKs" target="_blank"><img src="https://i.scdn.co/image/341482d8d5a15faffee01ee709af08c14447a4cb" height="100" width="auto" style="border-radius:50%"></a>
 325 | **Darzamat** | <a href="https://open.spotify.com/artist/6PNz4FhmdpDw6pKATTGK3X" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0276ad0222835b0f5d8243d9e9" height="100" width="auto" style="border-radius:50%"></a>
 326 | **Dawn Of Destiny** | <a href="https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45" target="_blank"><img src="https://i.scdn.co/image/9b01071cc22bba6c4511fa677d11e462ed4f8fe4" height="100" width="auto" style="border-radius:50%"></a>
-327 | **Dawn Of Ouroboros** | <a href="https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX" target="_blank"><img src="https://i.scdn.co/image/887e066a430c8b5c941addc851190383845d7c92" height="100" width="auto" style="border-radius:50%"></a>
+327 | **Dawn Of Ouroboros** | <a href="https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX" target="_blank"><img src="https://i.scdn.co/image/e192aeea81a5880e0cc1a40306c13dc6c8ce71af" height="100" width="auto" style="border-radius:50%"></a>
 328 | **Dccm** | <a href="https://open.spotify.com/artist/2wMFibdNVlRu9xPt7bFjm0" target="_blank"><img src="https://i.scdn.co/image/cbcda40de31fe929fc62a3de727ff5d96c2c8c78" height="100" width="auto" style="border-radius:50%"></a>
 329 | **Dead Cult Diaries** | <a href="https://open.spotify.com/artist/6FhycYEKRhM2JTauuw3EgJ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029c3cc82b83a6188b4b3ebb6b" height="100" width="auto" style="border-radius:50%"></a>
 330 | **Dead Of Night** | <a href="https://open.spotify.com/artist/3J4XvLxSqVlioTJLixmscT" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e683bb422af645f4b0600e8" height="100" width="auto" style="border-radius:50%"></a>

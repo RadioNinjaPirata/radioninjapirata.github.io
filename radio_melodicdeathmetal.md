@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg)
 
-<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732e41fd2df170fe62d54d5162ab67616d0000b2736bfcb79016ecb870e257a435ab67616d0000b2737581230e7e5f78fb8489ef91ab67616d0000b273f8cb49852b28163502f2e0da" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3pTBorAd7ZzZleo4997Eki?si=J0xfBOAfTKGpHYQq78Ungg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273122513d73dc3659c8b6626f1ab67616d0000b273355c94f58aeaf0bd715d28f2ab67616d0000b273926b40f575c2cc94ead2ca8fab67616d0000b273b1ef4be8e833b2e32b1a203a" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/3pTBorAd7ZzZleo4997Eki" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -37,7 +37,7 @@ No. | Band | Avatar
 --- | ---- | ------
 1 | **6Th Awakening** | <a href="https://open.spotify.com/artist/13CDCuJ0fA3tcMP6RvLehK" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0249ba52bff2d203a7fb230a57" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Aeternam** | <a href="https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s" target="_blank"><img src="https://i.scdn.co/image/50cf15ae90350f40b5243d260217616fa1f77251" height="100" width="auto" style="border-radius:50%"></a>
-3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/ab676161000051740c897e4765fc9ef41672e295" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Apotheus** | <a href="https://open.spotify.com/artist/5a0LCnLC3U4CFpS794sqVv" target="_blank"><img src="https://i.scdn.co/image/954764fdf1781ccb5d540aea981251643d2d985e" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Black Like Vengeance** | <a href="https://open.spotify.com/artist/7aaT80OFrOsHlbQm2fKbaP" target="_blank"><img src="https://i.scdn.co/image/ff40ae308af2f3c5279d008df27bab12a3bf8bfc" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Bloodhunter** | <a href="https://open.spotify.com/artist/35J5dOnnkCjaruu1oRrXuF" target="_blank"><img src="https://i.scdn.co/image/380bc2c00de84b2c73bc8a4f00401282df32fdb2" height="100" width="auto" style="border-radius:50%"></a>
@@ -64,7 +64,7 @@ No. | Band | Avatar
 27 | **In Vein** | <a href="https://open.spotify.com/artist/01HcjOAOBBf8fJ0GcnhCDl" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0295b06018b37329e5212e0c17" height="100" width="auto" style="border-radius:50%"></a>
 28 | **Incarnia** | <a href="https://open.spotify.com/artist/4EdX0VsFpAj8iGs3HWbjcO?si=XS2A7DBzTVqhHuZtOZZEPw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e829355f39b6394a1e4481e5" height="100" width="auto" style="border-radius:50%"></a>
 29 | **Instorm** | <a href="https://open.spotify.com/artist/0kT8J7zff2NB9eIGgCIZSv" target="_blank"><img src="https://i.scdn.co/image/0093bef803134b0fc68504205602bcd3ec394324" height="100" width="auto" style="border-radius:50%"></a>
-30 | **Intestine Baalism** | <a href="https://open.spotify.com/artist/2Z9z6GKa0UMW8NLx0nER8M?si=AZz71NqgQNOYwYX-s4z5Nw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0267ce1c9cb9a53f1ebc3e9a83" height="100" width="auto" style="border-radius:50%"></a>
+30 | **Intestine Baalism** | <a href="https://open.spotify.com/artist/2Z9z6GKa0UMW8NLx0nER8M" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0267ce1c9cb9a53f1ebc3e9a83" height="100" width="auto" style="border-radius:50%"></a>
 31 | **Iotunn** | <a href="https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz" target="_blank"><img src="https://i.scdn.co/image/c09340e2001b1f34c64b6468f89fb9e7ce5b3d64" height="100" width="auto" style="border-radius:50%"></a>
 32 | **Kalmah** | <a href="https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF" target="_blank"><img src="https://i.scdn.co/image/91bba9f6fe7794c6aa89748e09266197e18b23b0" height="100" width="auto" style="border-radius:50%"></a>
 33 | **Karkaos** | <a href="https://open.spotify.com/artist/1IJOtqqfjQMJwxI3uQ7c9g" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024acd3b877db3a0cbc7888514" height="100" width="auto" style="border-radius:50%"></a>
@@ -81,7 +81,7 @@ No. | Band | Avatar
 44 | **Shadow Of Intent** | <a href="https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D" target="_blank"><img src="https://i.scdn.co/image/5b1dac294ad074752e94499338789069ff659895" height="100" width="auto" style="border-radius:50%"></a>
 45 | **Shylmagoghnar** | <a href="https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%"></a>
 46 | **Sollust** | <a href="https://open.spotify.com/artist/06TkSdzWZTCKxfViqaE1rv" target="_blank"><img src="https://i.scdn.co/image/263e554c33708ee4ddd5a97395bf3900c07e7d02" height="100" width="auto" style="border-radius:50%"></a>
-47 | **Stormlord** | <a href="https://open.spotify.com/artist/5iqk0cqsbJiSTcXQ6ljGNo?si=tTARC1xCT_64Tx2gUh-h8w" target="_blank"><img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%"></a>
+47 | **Stormlord** | <a href="https://open.spotify.com/artist/5iqk0cqsbJiSTcXQ6ljGNo" target="_blank"><img src="https://i.scdn.co/image/fecdcf7b2015b8b5cd5ca60f6e2c3b56e4fded5d" height="100" width="auto" style="border-radius:50%"></a>
 48 | **Synestesia** | <a href="https://open.spotify.com/artist/2qFjGRQKbV3SZ2uLyfe2rz?si=WkyqyqSqTGCyrj6_p-JifA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e023db4d9a26aff5413169a8c4c" height="100" width="auto" style="border-radius:50%"></a>
 49 | **Synlakross** | <a href="https://open.spotify.com/artist/5C4cGwwVx56fKQECoCFljD" target="_blank"><img src="https://i.scdn.co/image/adebc118489b2d1c1bdef57b60f2b7cd7836c997" height="100" width="auto" style="border-radius:50%"></a>
 50 | **The Agonist** | <a href="https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak" target="_blank"><img src="https://i.scdn.co/image/1227f0fceb4041fe2381719293b8577f3f8306bc" height="100" width="auto" style="border-radius:50%"></a>

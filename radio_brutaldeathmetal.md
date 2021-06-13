@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA)
 
-<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27346f08dc9170d057333b6c4ccab67616d0000b273bfd4f6e3d948613a2528e1e5ab67616d0000b273e2cf736b4f32ed84a51776dfab67616d0000b273f37ff856f91313e5eb2d5ab2" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0CFoaCcUKIRdMXSGcolCib?si=KfHC6A8QQfmufQzMs8S8hA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273188f9f170639edaa1a22852aab67616d0000b27324738473a40f21bbc1a7de9fab67616d0000b273328338eba1cf33842790c1efab67616d0000b27397dbe1c5b7973da10973c98a" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/0CFoaCcUKIRdMXSGcolCib" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -42,7 +42,7 @@ No. | Band | Avatar
 5 | **Abhorration** | <a href="https://open.spotify.com/artist/5PlA2PsV30GldSYbcu5FRx" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02283f7998d1669b8ed43926af" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Abnormality** | <a href="https://open.spotify.com/artist/3G6H6ma3AVOx4Wu9J6IIPp" target="_blank"><img src="https://i.scdn.co/image/1c5aac479bc80474cdf966980e58099a8c6cb49b" height="100" width="auto" style="border-radius:50%"></a>
 7 | **Abnormity** | <a href="https://open.spotify.com/artist/0bwbzXlghtEFzJBlD3wKyS" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ce172b25976db74c2a245734" height="100" width="auto" style="border-radius:50%"></a>
-8 | **Abominable Putridity** | <a href="https://open.spotify.com/artist/4gJMeUuNoD9eeKZkOHLWMO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e549aaaaea9aa9c84ec1d37c" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Abominable Putridity** | <a href="https://open.spotify.com/artist/4gJMeUuNoD9eeKZkOHLWMO" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0210030c03e9c9b8c69a3d31fb" height="100" width="auto" style="border-radius:50%"></a>
 9 | **Aborted** | <a href="https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR" target="_blank"><img src="https://i.scdn.co/image/24ff53b066723870e04e5e1d69b93f39be2add7e" height="100" width="auto" style="border-radius:50%"></a>
 10 | **Acranius** | <a href="https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG" target="_blank"><img src="https://i.scdn.co/image/09d5a0807723840ba0daffc1878fbae904fa0b47" height="100" width="auto" style="border-radius:50%"></a>
 11 | **Anal Fissure** | <a href="https://open.spotify.com/artist/4FzIwhFjEoFo0JJPt5TXL3" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02335cb6aa86942e9a0ce4b6ab" height="100" width="auto" style="border-radius:50%"></a>
@@ -116,7 +116,7 @@ No. | Band | Avatar
 79 | **Engutturalment Cephaloslamectomy** | <a href="https://open.spotify.com/artist/3S7Gb9yHm6H14a3j9qBJya" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0273b91124100466c2230ee88f" height="100" width="auto" style="border-radius:50%"></a>
 80 | **Enslavement** | <a href="https://open.spotify.com/artist/0eC0bDUpis2Z8zxH2raIzr" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ff8d7baeeba3738ec0e68159" height="100" width="auto" style="border-radius:50%"></a>
 81 | **Enzephalitis** | <a href="https://open.spotify.com/artist/3P9Ks8zvg3UvFfEpDUFj95" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0282e0a2454f0e15f2a5b7f6ad" height="100" width="auto" style="border-radius:50%"></a>
-82 | **Epicardiectomy** | <a href="https://open.spotify.com/artist/1JIZqDjZ1BCqZDCoVNoG8O" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e21b81bcc7c830d7d9164151" height="100" width="auto" style="border-radius:50%"></a>
+82 | **Epicardiectomy** | <a href="https://open.spotify.com/artist/1JIZqDjZ1BCqZDCoVNoG8O" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0200bd91a5483ec9cb3ec3a786" height="100" width="auto" style="border-radius:50%"></a>
 83 | **Eradication Of The Unworthy Infants** | <a href="https://open.spotify.com/artist/3XPPF14T6t0cHbYxxWccjg" target="_blank"><img src="https://i.scdn.co/image/c4adc221bacdf83d127fe509cea98e6c9abae979" height="100" width="auto" style="border-radius:50%"></a>
 84 | **Ethology** | <a href="https://open.spotify.com/artist/5jUEzLskQcALEttgwEuYv1" target="_blank"><img src="https://i.scdn.co/image/ab676161000051744dab1e571a5af6a4970c9bda" height="100" width="auto" style="border-radius:50%"></a>
 85 | **Euphoric Defilement** | <a href="https://open.spotify.com/artist/1V0Pjm396KREDqyEblHh93" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0224738473a40f21bbc1a7de9f" height="100" width="auto" style="border-radius:50%"></a>
@@ -129,7 +129,7 @@ No. | Band | Avatar
 92 | **Fetor** | <a href="https://open.spotify.com/artist/2N135odhCHVCypx2E202pC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f02f348136361adc17a11290" height="100" width="auto" style="border-radius:50%"></a>
 93 | **Flayed Alive** | <a href="https://open.spotify.com/artist/1HHOVz0gumeBpzhNfAZOA0" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d9c472cd53c96df1d11dd0ac" height="100" width="auto" style="border-radius:50%"></a>
 94 | **Flesh** | <a href="https://open.spotify.com/artist/08PLr08PK054mTVM1vSRGP" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0263d78999b358e49af571137e" height="100" width="auto" style="border-radius:50%"></a>
-95 | **Fulci** | <a href="https://open.spotify.com/artist/5rK5iEoGaC5LtoBCiXpCet" target="_blank"><img src="https://i.scdn.co/image/ab676161000051749a9744c0965ee33977699660" height="100" width="auto" style="border-radius:50%"></a>
+95 | **Fulci** | <a href="https://open.spotify.com/artist/5rK5iEoGaC5LtoBCiXpCet" target="_blank"><img src="https://i.scdn.co/image/ab6761610000517487286fe4b06f391a11efaf6f" height="100" width="auto" style="border-radius:50%"></a>
 96 | **Fumes Of Decay** | <a href="https://open.spotify.com/artist/69hkGjQLauHd5XQLmfByao" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022e1860c53cc877d1a7a1f229" height="100" width="auto" style="border-radius:50%"></a>
 97 | **Gangrenectomy** | <a href="https://open.spotify.com/artist/6yHfDluBhk1xmcgOAnGQ85" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029a6fc885dacb9bf34eb6daa5" height="100" width="auto" style="border-radius:50%"></a>
 98 | **Gaped** | <a href="https://open.spotify.com/artist/6todcob4NsIl9ZqCJO3ukQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e3d1fcada9efc2d065aff43f" height="100" width="auto" style="border-radius:50%"></a>
@@ -167,7 +167,7 @@ No. | Band | Avatar
 130 | **Intracranial Purulency** | <a href="https://open.spotify.com/artist/41rAOnZMfVlBCkOdjtIyM4" target="_blank"><img src="https://i.scdn.co/image/15cd825635c10ceeabfd49b17ede21e8036b60aa" height="100" width="auto" style="border-radius:50%"></a>
 131 | **Intricated** | <a href="https://open.spotify.com/artist/0JSkuLwd7gFRo3eQRXT7iy" target="_blank"><img src="https://i.scdn.co/image/5937eaf4eef0e24dd0c2ce1ccdf54bbd92e21e15" height="100" width="auto" style="border-radius:50%"></a>
 132 | **Kataplexia** | <a href="https://open.spotify.com/artist/6zFsJ5GuKCs2VmM3rZdewA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02eb2496525e4f89c113dfedb5" height="100" width="auto" style="border-radius:50%"></a>
-133 | **Klysma** | <a href="https://open.spotify.com/artist/3nnDA7Gztxx4QfLLOnPMey" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022c77dfa1c40962c46f37558c" height="100" width="auto" style="border-radius:50%"></a>
+133 | **Klysma** | <a href="https://open.spotify.com/artist/3nnDA7Gztxx4QfLLOnPMey" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c564c8502371a7ad68b8d9b" height="100" width="auto" style="border-radius:50%"></a>
 134 | **Korpse** | <a href="https://open.spotify.com/artist/7xvwCVgQwJRVSDou7M68J3" target="_blank"><img src="https://i.scdn.co/image/827cd256bd66608f76684817800efe5ccabdc3c7" height="100" width="auto" style="border-radius:50%"></a>
 135 | **Kraanium** | <a href="https://open.spotify.com/artist/5Gp1GsvxkVzZW7oYFRvBWw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e022ec5fb52b44db982a9afa2a0" height="100" width="auto" style="border-radius:50%"></a>
 136 | **Krocophile** | <a href="https://open.spotify.com/artist/0ishqPiqbZigIQxS3bjfq9" target="_blank"><img src="https://i.scdn.co/image/74053b0c3111bc418375740323f7cec02dbf10f8" height="100" width="auto" style="border-radius:50%"></a>

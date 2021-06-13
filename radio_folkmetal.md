@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw)
 
-<a href="https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730da4981954fecf483c2e1970ab67616d0000b2730ff31dde4357f6b8dbe19645ab67616d0000b2733bf242adcaae25c5de34d550ab67616d0000b2736f38af0fdd3980cd62fbf761" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/5Dp2Hr3omSloAG1ybVPZzM?si=ASCMvO_wSSKKLuMtIuMcxw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2739475c256cc1c99d218e13432ab67616d0000b27394c11c4451c60731208791b8ab67616d0000b273a8589d8c1c4ebf81549ad540ab67616d0000b273ca9f217c73ddf5bf69a61d30" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/5Dp2Hr3omSloAG1ybVPZzM" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -37,7 +37,7 @@ No. | Band | Avatar
 --- | ---- | ------
 1 | **Alestorm** | <a href="https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da?si=euaNwU9OTqSwKL1pNoz_mA" target="_blank"><img src="https://i.scdn.co/image/a3f90f6f56da5c2a2a4a41b308addd8561778fcd" height="100" width="auto" style="border-radius:50%"></a>
 2 | **Amon Amarth** | <a href="https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL" target="_blank"><img src="https://i.scdn.co/image/2b6e47010d6df6c550bf8f22d58fa70409f421e3" height="100" width="auto" style="border-radius:50%"></a>
-3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/ab676161000051740c897e4765fc9ef41672e295" height="100" width="auto" style="border-radius:50%"></a>
+3 | **Amorphis** | <a href="https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD" target="_blank"><img src="https://i.scdn.co/image/543b3a4898e2b562f1972e1bb21605db8ec6872a" height="100" width="auto" style="border-radius:50%"></a>
 4 | **Arkona** | <a href="https://open.spotify.com/artist/6AJ9HQ2Ptp1WWEfBFvR5fF" target="_blank"><img src="https://i.scdn.co/image/1368f06ce733f53d21b1193bb828f3710dc3aa48" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Asmegin** | <a href="https://open.spotify.com/artist/61h1lCo5a5xhxavDiwVvOB" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028588c70e7564df06ba2be5a4" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Black Messiah** | <a href="https://open.spotify.com/artist/0LebUfEVJ7jmoKF5mPKlJf" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02071fc80a6852c86fd3f53cd7" height="100" width="auto" style="border-radius:50%"></a>
@@ -104,7 +104,7 @@ No. | Band | Avatar
 67 | **The Dread Crew Of Oddwood** | <a href="https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg?si=bb5ejnZsSWmilGqzkXPfrQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020c6715a685cdb488e47b7ade" height="100" width="auto" style="border-radius:50%"></a>
 68 | **The Pirates Charles** | <a href="https://open.spotify.com/artist/0fjtn0AzKbAlIsJMC3Xmd1?si=dbyrfJUMRhSvSXqpkQicWA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e6b879fb8e52b4916d6ad0ed" height="100" width="auto" style="border-radius:50%"></a>
 69 | **The Privateer** | <a href="https://open.spotify.com/artist/3i7l7CA3ShaIfAgYfEez2M" target="_blank"><img src="https://i.scdn.co/image/a8d077faaf5d5098f06f4f3a5678a25a39ae302f" height="100" width="auto" style="border-radius:50%"></a>
-70 | **Thyrfing** | <a href="https://open.spotify.com/artist/2UGaMtxeXt8FQMCpxscnEJ" target="_blank"><img src="https://i.scdn.co/image/dcc1a0eca86b54ddcb21e05c87b2b74ee24ee264" height="100" width="auto" style="border-radius:50%"></a>
+70 | **Thyrfing** | <a href="https://open.spotify.com/artist/2UGaMtxeXt8FQMCpxscnEJ" target="_blank"><img src="https://i.scdn.co/image/3c647dcd7d26f33066ac7d118ea9c7b1894bd595" height="100" width="auto" style="border-radius:50%"></a>
 71 | **Troldhaugen** | <a href="https://open.spotify.com/artist/1QGGbVQUyQPNKGH6eZd2yG" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d39b18fa3415dd7ef62dcf8e" height="100" width="auto" style="border-radius:50%"></a>
 72 | **Trollfest** | <a href="https://open.spotify.com/artist/2GkRxQ8FEGrWxU8BjZKfmh" target="_blank"><img src="https://i.scdn.co/image/72d88ce788318d9ae072ccc91f4084ad2531fed0" height="100" width="auto" style="border-radius:50%"></a>
 73 | **Tuatha De Danann** | <a href="https://open.spotify.com/artist/13LUK4MSLSmDpI6D3lJqEn" target="_blank"><img src="https://i.scdn.co/image/e3168a21dfdef86d843df30deb9f2efc747baabe" height="100" width="auto" style="border-radius:50%"></a>

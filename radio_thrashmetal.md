@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=9wrUXIUcS_-voEEwY9L8yA)
 
-<a href="https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=9wrUXIUcS_-voEEwY9L8yA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730088db7515307a985c9e2c51ab67616d0000b273462fdbd4559dec7b591471b7ab67616d0000b27393c6e68a325c96942e720918ab67616d0000b273b38042cea61ff7a6a2da218a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/6i6Sjf3DZjHfxbmj9VMtbS?si=9wrUXIUcS_-voEEwY9L8yA" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732db96a83bcd8214eb1258b79ab67616d0000b273707446bcc9ad89a98ca33698ab67616d0000b2738a0b5f13736a03547de52a57ab67616d0000b273a3c6be15787fc84f71100c7c" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/6i6Sjf3DZjHfxbmj9VMtbS" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -42,8 +42,8 @@ No. | Band | Avatar
 5 | **Acrophet** | <a href="https://open.spotify.com/artist/0SvomPGNAfaf6FEFFgCHYy" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020fb551985dcb531dd1f252ef" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Aftermath** | <a href="https://open.spotify.com/artist/4vECIIFB2WJX6ibj0006ah?si=z2wdBI3bS-ujXMeMXDn_UQ" target="_blank"><img src="https://i.scdn.co/image/b6efb58117851b0e506e40c7004663cd788b2e3c" height="100" width="auto" style="border-radius:50%"></a>
 7 | **Agent Steel** | <a href="https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut?si=szt9R9mEQ62d7lYiIK3DDQ" target="_blank"><img src="https://i.scdn.co/image/cab80637cd48b10867b6bfd3b1a714eb553ed158" height="100" width="auto" style="border-radius:50%"></a>
-8 | **Aggression** | <a href="https://open.spotify.com/artist/3KcRUDQ45WfCzEEN2Hu6YO?si=YOwjptAsTkq2i_7CxL8UIQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024fc5570862904b3bd0ca2a92" height="100" width="auto" style="border-radius:50%"></a>
-9 | **Aggression** | <a href="https://open.spotify.com/artist/3HLksW8rlLvf3HnUsTJpIr?si=UjPt-ytETP6o7KJ3Gk_VEg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021742c4786be6b68fc5f49657" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Aggression** | <a href="https://open.spotify.com/artist/3HLksW8rlLvf3HnUsTJpIr?si=UjPt-ytETP6o7KJ3Gk_VEg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e021742c4786be6b68fc5f49657" height="100" width="auto" style="border-radius:50%"></a>
+9 | **Aggression** | <a href="https://open.spotify.com/artist/3KcRUDQ45WfCzEEN2Hu6YO?si=YOwjptAsTkq2i_7CxL8UIQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024fc5570862904b3bd0ca2a92" height="100" width="auto" style="border-radius:50%"></a>
 10 | **Alcoholator** | <a href="https://open.spotify.com/artist/7r3ExszWB6kH26LmIHHSMb" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e028542e2c4a07fd651ff4a4f38" height="100" width="auto" style="border-radius:50%"></a>
 11 | **Allegiance** | <a href="https://open.spotify.com/artist/51ylbUDe3wFjXTh64WEtmK" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0285c5ae0a20c935803cdf1c0d" height="100" width="auto" style="border-radius:50%"></a>
 12 | **Amken** | <a href="https://open.spotify.com/artist/0skGr1f0OyI4fjumVZwVkY" target="_blank"><img src="https://i.scdn.co/image/1c3334cfd6bef6526d9a8200e379f578fd379eae" height="100" width="auto" style="border-radius:50%"></a>
@@ -91,7 +91,7 @@ No. | Band | Avatar
 54 | **Death Over Threat** | <a href="https://open.spotify.com/artist/2yfQ6IUDyKxd5ouP4Wfkc6?si=FTQO2M1ISWmVUIwajbfNGA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025b84473860d9c5ce37f0d199" height="100" width="auto" style="border-radius:50%"></a>
 55 | **Deathrow** | <a href="https://open.spotify.com/artist/54yltjxvstyQlmlpjoH9yS?si=5Ke0PGcMQ5-Bxifcv6ubHg" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e026c0a8c0aeb40bf1241933ac0" height="100" width="auto" style="border-radius:50%"></a>
 56 | **Decadence** | <a href="https://open.spotify.com/artist/5IEfhxKvD9imv5cuoSeS9f" target="_blank"><img src="https://i.scdn.co/image/ca49545e0893b91c3bae90238c95d9bdd8714f12" height="100" width="auto" style="border-radius:50%"></a>
-57 | **Defleshed** | <a href="https://open.spotify.com/artist/213LVImPkyKRbtskA6q7P8?si=X51jdlXqR_KvWJ5ec0WKlQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02d2b6a43da20a70f3c07d3cf2" height="100" width="auto" style="border-radius:50%"></a>
+57 | **Defleshed** | <a href="https://open.spotify.com/artist/213LVImPkyKRbtskA6q7P8" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e020391c4f2c2969ad35de67b71" height="100" width="auto" style="border-radius:50%"></a>
 58 | **Deliverance** | <a href="https://open.spotify.com/artist/0AA0qugrTsIv7JFMEnhaqu?si=SLYOBxEAQmCvog9SVZy0JQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e029c57bbe6716ed84f6d686b88" height="100" width="auto" style="border-radius:50%"></a>
 59 | **Demiricous** | <a href="https://open.spotify.com/artist/6K9kNr9EqTnJ29HjZHNvOP?si=XL1X5vI8SfC9Ngmb_0t8nw" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02300caabb0405075a8358c9ea" height="100" width="auto" style="border-radius:50%"></a>
 60 | **Demolition Hammer** | <a href="https://open.spotify.com/artist/08f6MNQouECEKggLSLEBRQ" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e024d65fac9e8bde77ace4bf686" height="100" width="auto" style="border-radius:50%"></a>

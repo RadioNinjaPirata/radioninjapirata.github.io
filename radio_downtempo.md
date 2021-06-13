@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw)
 
-<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273172ccd2fd5760fd83309aff5ab67616d0000b27353dd39976a99c0d5da3dd2c8ab67616d0000b273817824ce84bc7b07c56f1988ab67616d0000b273b129ba321c1903f9990a2612" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/1t7HZQodmcD3jHAH6GjuuL?si=XEsCAPTVR-mRxV7Pk1OQZw" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273399c6b8f8d967a195900a06fab67616d0000b2733c152346893812aec7c00ddbab67616d0000b27364dd6214b6a9ebbedef0d607ab67616d0000b273efb6076f98b3dc02404bb69e" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/1t7HZQodmcD3jHAH6GjuuL" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -727,8 +727,8 @@ No. | Band | Avatar
 690 | **Syntheon** | <a href="https://open.spotify.com/artist/3nvqbcJbEIVcKkRYoEe6MB" target="_blank"><img src="https://i.scdn.co/image/71b7b844a1e17cfefdf8ef233886c9794e03c78a" height="100" width="auto" style="border-radius:50%"></a>
 691 | **Sysyphe** | <a href="https://open.spotify.com/artist/4nH29o1nHMwHAQLrp66nS5" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02e43da0d1e085917bd25736a5" height="100" width="auto" style="border-radius:50%"></a>
 692 | **Taiko** | <a href="https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq" target="_blank"><img src="https://i.scdn.co/image/87a27308f307616663109e2b71620a144702b5bd" height="100" width="auto" style="border-radius:50%"></a>
-693 | **Talos** | <a href="https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc" target="_blank"><img src="https://i.scdn.co/image/26e310c5504a6b6ba15b088347dece5edae07b2e" height="100" width="auto" style="border-radius:50%"></a>
-694 | **Talos** | <a href="https://open.spotify.com/artist/1cOFPHHf20vU7zghrpz1X2" target="_blank"><img src="https://i.scdn.co/image/99b22fa78ffeb491bc4f61a45339049fd5afd730" height="100" width="auto" style="border-radius:50%"></a>
+693 | **Talos** | <a href="https://open.spotify.com/artist/1cOFPHHf20vU7zghrpz1X2" target="_blank"><img src="https://i.scdn.co/image/99b22fa78ffeb491bc4f61a45339049fd5afd730" height="100" width="auto" style="border-radius:50%"></a>
+694 | **Talos** | <a href="https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc" target="_blank"><img src="https://i.scdn.co/image/26e310c5504a6b6ba15b088347dece5edae07b2e" height="100" width="auto" style="border-radius:50%"></a>
 695 | **Taotempo** | <a href="https://open.spotify.com/artist/0F33cHkbDflU29sMMHr4vk" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e025f1657fd4e764aef3486a285" height="100" width="auto" style="border-radius:50%"></a>
 696 | **Teen Daze** | <a href="https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l" target="_blank"><img src="https://i.scdn.co/image/483cbee2b63ce4c0386d8b3d106a5e985c5411d4" height="100" width="auto" style="border-radius:50%"></a>
 697 | **Telefon Tel Aviv** | <a href="https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC" target="_blank"><img src="https://i.scdn.co/image/6e6e59d355dd7ca0c1567b75908a8713eb13ac9d" height="100" width="auto" style="border-radius:50%"></a>

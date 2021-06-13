@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/2mBpme0q1GGhAi5iXwtQw2?si=wFgEkhvPTT2JTBRwrjQCaQ)
 
-<a href="https://open.spotify.com/playlist/2mBpme0q1GGhAi5iXwtQw2?si=wFgEkhvPTT2JTBRwrjQCaQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27329c4c5b4cb625c829e772adcab67616d0000b2734af0a4ab8ac2ff7c4e419dc4ab67616d0000b2737d9e33fc89c3f7e03ae5d144ab67616d0000b273c7267b1d7a982e26dd1a9820" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/2mBpme0q1GGhAi5iXwtQw2?si=wFgEkhvPTT2JTBRwrjQCaQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27309cf361a2b885b39e1695a11ab67616d0000b2730df3cea8899a75be58f1da0dab67616d0000b273ba74da23839e43991695dd37ab67616d0000b273c14a551d4cf70bbea2407e71" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/2mBpme0q1GGhAi5iXwtQw2" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -166,7 +166,7 @@ No. | Band | Avatar
 129 | **Therion** | <a href="https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi" target="_blank"><img src="https://i.scdn.co/image/da84dc41a0e162d99810f6f0a80e7737d6e49cc5" height="100" width="auto" style="border-radius:50%"></a>
 130 | **Thy Catafalque** | <a href="https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom" target="_blank"><img src="https://i.scdn.co/image/d1d5004c724772eb363f5f358afccc3417a67c1d" height="100" width="auto" style="border-radius:50%"></a>
 131 | **Unbowed** | <a href="https://open.spotify.com/artist/0QwnCrnXpVmBOI7UdUepRk" target="_blank"><img src="https://i.scdn.co/image/e6eb9da717d91398daa898af66c1555dbc979073" height="100" width="auto" style="border-radius:50%"></a>
-132 | **Varathron** | <a href="https://open.spotify.com/artist/3V9JzR4lFUlNvRgRuPO8x4" target="_blank"><img src="https://i.scdn.co/image/8503bdaee76d2fcb9b1496656918b2a27a9d172f" height="100" width="auto" style="border-radius:50%"></a>
+132 | **Varathron** | <a href="https://open.spotify.com/artist/3V9JzR4lFUlNvRgRuPO8x4" target="_blank"><img src="https://i.scdn.co/image/ab676161000051749de0472da2aa42a1460f7a59" height="100" width="auto" style="border-radius:50%"></a>
 133 | **Varus** | <a href="https://open.spotify.com/artist/5Nd8CVgeqGCum28WKlsMl2" target="_blank"><img src="https://i.scdn.co/image/05849a8e092d03c5b698d5bb307aa6acdf44c17a" height="100" width="auto" style="border-radius:50%"></a>
 134 | **Vereor Nox** | <a href="https://open.spotify.com/artist/2aik2YYHPz1g4sVvp2gzaT" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02ba88dee94ca56e69323d37da" height="100" width="auto" style="border-radius:50%"></a>
 135 | **Vesania** | <a href="https://open.spotify.com/artist/2GSRysMnNAhKgugOCZ5Th2" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02a4141c0f4fe9151807662139" height="100" width="auto" style="border-radius:50%"></a>

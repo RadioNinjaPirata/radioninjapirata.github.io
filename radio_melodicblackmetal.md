@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ)
 
-<a href="https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303dc74090436df18026eb87aab67616d0000b273c35a499b030d1f442eb06cb7ab67616d0000b273ee99466651273c999bef61abab67616d0000b273f40dd8e363a0910fc0ea2e85" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/4ezGqch0UGNiaRjDjoTMC6?si=w5Rrm2mASU2X5wPbpngdkQ" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2732024cb68fee9f89b32541e08ab67616d0000b2733c8cac9dec8d3b5a05752649ab67616d0000b273dd39c41227b4e805f5bb9192ab67616d0000b273f1617437f8072bfda8010251" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/4ezGqch0UGNiaRjDjoTMC6" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -59,7 +59,7 @@ No. | Band | Avatar
 22 | **Curse Upon A Prayer** | <a href="https://open.spotify.com/artist/5no9Bm5hDQGhQimia4dcDv" target="_blank"><img src="https://i.scdn.co/image/23af983f5216ccd7166482afc21a3f2b044f1ee5" height="100" width="auto" style="border-radius:50%"></a>
 23 | **Czort** | <a href="https://open.spotify.com/artist/4ihicgHjO5lvqOWoCvNSQI" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02af45e4e66d4632659f4b34c8" height="100" width="auto" style="border-radius:50%"></a>
 24 | **Dark Fortress** | <a href="https://open.spotify.com/artist/0hiccXRDVXl9sOZ4R7aNry" target="_blank"><img src="https://i.scdn.co/image/ab6772690000bac3a4fe736ac3cee20df557bc28" height="100" width="auto" style="border-radius:50%"></a>
-25 | **Dawn Of Ouroboros** | <a href="https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX" target="_blank"><img src="https://i.scdn.co/image/887e066a430c8b5c941addc851190383845d7c92" height="100" width="auto" style="border-radius:50%"></a>
+25 | **Dawn Of Ouroboros** | <a href="https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX" target="_blank"><img src="https://i.scdn.co/image/e192aeea81a5880e0cc1a40306c13dc6c8ce71af" height="100" width="auto" style="border-radius:50%"></a>
 26 | **Devil With No Name** | <a href="https://open.spotify.com/artist/2bS7BR9AtaGAwTHEXYqmAP" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027f433b4c4d27e332ae809a68" height="100" width="auto" style="border-radius:50%"></a>
 27 | **Dissection** | <a href="https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e0262b290dece27f8621817e9bd" height="100" width="auto" style="border-radius:50%"></a>
 28 | **Djevel** | <a href="https://open.spotify.com/artist/2eEuZMHC3LdWsxogUqlI3y" target="_blank"><img src="https://i.scdn.co/image/e6f02de6772a5536f246eb820d5d885432d955ec" height="100" width="auto" style="border-radius:50%"></a>
@@ -101,7 +101,7 @@ No. | Band | Avatar
 64 | **Nifelheim** | <a href="https://open.spotify.com/artist/7f4Agzz6Lwh1QJ0teHHpJn" target="_blank"><img src="https://i.scdn.co/image/04c5dc887d4e5003f43e2b2ebbb6d42b26681db1" height="100" width="auto" style="border-radius:50%"></a>
 65 | **Nivh** | <a href="https://open.spotify.com/artist/23jQJat222ICkrb8sB2GXs" target="_blank"><img src="https://i.scdn.co/image/526727de4103c820773d3e4618106fb611f324dc" height="100" width="auto" style="border-radius:50%"></a>
 66 | **Noctem** | <a href="https://open.spotify.com/artist/5vgKbVvFRXWortgyxWN8YW" target="_blank"><img src="https://i.scdn.co/image/731ae25b22cca9a1d9bec61d5cd5e8cf3f306a90" height="100" width="auto" style="border-radius:50%"></a>
-67 | **Nordjevel** | <a href="https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r" target="_blank"><img src="https://i.scdn.co/image/b442ba25dabf0b1c50e8aebbd0140e235c465307" height="100" width="auto" style="border-radius:50%"></a>
+67 | **Nordjevel** | <a href="https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r" target="_blank"><img src="https://i.scdn.co/image/44e0dcb2c78e55bef4b4bed79fc91bbe42f6d4e6" height="100" width="auto" style="border-radius:50%"></a>
 68 | **Norther** | <a href="https://open.spotify.com/artist/7FYqu76teK16FSlw4ZYFhW" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02f4cfd0b888bc7fd8c3cebf5f" height="100" width="auto" style="border-radius:50%"></a>
 69 | **Nosturaack** | <a href="https://open.spotify.com/artist/6jAIvWElpGvdQHkbkhP3hQ" target="_blank"><img src="https://i.scdn.co/image/3df0cc94b22df3fd09681aa24378a7541071e0d3" height="100" width="auto" style="border-radius:50%"></a>
 70 | **Numenorean** | <a href="https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc" target="_blank"><img src="https://i.scdn.co/image/e8df989fe751b65ec991b8bea8764d62004a6add" height="100" width="auto" style="border-radius:50%"></a>
@@ -113,7 +113,7 @@ No. | Band | Avatar
 76 | **Ravenstorm** | <a href="https://open.spotify.com/artist/2HwkKXjcwlmQlZ71LKyhVX" target="_blank"><img src="https://i.scdn.co/image/5048c64857880e81b16f32fad8cfebe9cce8fb07" height="100" width="auto" style="border-radius:50%"></a>
 77 | **Renunciation** | <a href="https://open.spotify.com/artist/6I6upPO89YthG7Bbvpnk3a" target="_blank"><img src="https://i.scdn.co/image/b09bf08806b67ad8cd376212f682e061ba1ae9e5" height="100" width="auto" style="border-radius:50%"></a>
 78 | **Sacrimonia** | <a href="https://open.spotify.com/artist/2MUE0kNSNVLw1troT9J1Vq" target="_blank"><img src="https://i.scdn.co/image/51e51663375d55be4898eddc4c3a4e84c89b8c76" height="100" width="auto" style="border-radius:50%"></a>
-79 | **Second To Sun** | <a href="https://open.spotify.com/artist/2Rs3MsF2y8VfkjmOVHkT5N" target="_blank"><img src="https://i.scdn.co/image/c6d8535d61a2aaa260c2133f16f2ec8308530605" height="100" width="auto" style="border-radius:50%"></a>
+79 | **Second To Sun** | <a href="https://open.spotify.com/artist/2Rs3MsF2y8VfkjmOVHkT5N" target="_blank"><img src="https://i.scdn.co/image/ab67616100005174148be77178e87c740d953b6d" height="100" width="auto" style="border-radius:50%"></a>
 80 | **Shylmagoghnar** | <a href="https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e027581230e7e5f78fb8489ef91" height="100" width="auto" style="border-radius:50%"></a>
 81 | **Skeletonwitch** | <a href="https://open.spotify.com/artist/213mmq3zkNWx7CtfzftTC5" target="_blank"><img src="https://i.scdn.co/image/2ef6b8f0e8142859cb49281179c221ca4265aec0" height="100" width="auto" style="border-radius:50%"></a>
 82 | **Soul Remnants** | <a href="https://open.spotify.com/artist/3sf9KSnWcsT162QSwtDkHn" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02883eb4305140c58360042662" height="100" width="auto" style="border-radius:50%"></a>
