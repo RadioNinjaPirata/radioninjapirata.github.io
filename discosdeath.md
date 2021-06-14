@@ -1,15 +1,17 @@
 # Metal Extremo de Reseñas @DiscosDeath
 
-**RadioNinjaPirata** y **[@DiscosDeath](https://twitter.com/DiscosDeath)** se han juntado para traeros la playlist más extrema!
+**RadioNinjaPirata** y **[@DiscosDeath](https://twitter.com/DiscosDeath)** se
+han juntado para traeros la playlist más extrema!
 
-@DiscosDeath es un hito de las reseñas del Metal Extremo. Desde ahora, compilamos todas
-las bandas reseñadas por **[@DiscosDeath](https://twitter.com/DiscosDeath)** en una radio dedicada exclusivamente a sus reseñas!
-*Nos faltan algunas bandas porque no todas están en Spotify :-(*
+**[@DiscosDeath](https://twitter.com/DiscosDeath)** es un hito de las reseñas
+del Metal Extremo. Desde ahora, compilamos todas las bandas reseñadas por
+**[@DiscosDeath](https://twitter.com/DiscosDeath)** en una radio-playlist
+exclusiva! *Nos faltan algunas bandas porque no todas están en Spotify :-(*
 
-Recuerda que nuestras playlists solamente tienen 40 canciones. Pero cada 2 horas te las
-cambiamos por outras 40 diferentes! Muestreamos discografías enteras. Así podrás escuchar
-nuestras playlists como si fuera la radio, vamos que no se acaba nunca. O, si vas de viaje, te la bajas y tienes para unas
-horas.
+Recuerda que nuestras playlists solamente tienen 40 canciones. Pero cada 2 horas
+te las cambiamos por outras 40 diferentes! Muestreamos discografías enteras. Así
+podrás escuchar nuestras playlists como si fueran la radio, vamos que no se
+acaba nunca. O, si vas de viaje, te la bajas y tienes para unas horas.
 
 ## [Escuchanos ya en Spotify](https://open.spotify.com/playlist/7tmM52xXljGGcw6Nz5GKnp)
 
