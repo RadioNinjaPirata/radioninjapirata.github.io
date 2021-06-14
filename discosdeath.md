@@ -1,7 +1,7 @@
 # Metal Extremo de Reseñas @DiscosDeath
 
 **RadioNinjaPirata** y **[@DiscosDeath](https://twitter.com/DiscosDeath)** se
-han juntado para traeros la playlist más extrema!
+han unido para traeros la playlist más extrema!
 
 **[@DiscosDeath](https://twitter.com/DiscosDeath)** es un hito de las reseñas
 del Metal Extremo. Desde ahora, compilamos todas las bandas reseñadas por
