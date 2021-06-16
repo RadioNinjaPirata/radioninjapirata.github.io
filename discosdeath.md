@@ -28,7 +28,7 @@ Siguenos y sigue también a **[@DiscosDeath](https://twitter.com/DiscosDeath)**!
 </p>
 
 RadioNinjaPirata es un proyeto personal, pero tiene sus pequeños costes para que podamos
-mantener los servidores en marcha. Si te gusta RadioNinjaPirata, disfruta y invitanos a una birra!! \m/
+mantener los servidores en marcha. Si te gusta RadioNinjaPirata, disfruta e invitanos a una birra!! \m/
 
  Patreon | LiberaPay | PayPal
 <a href="https://www.patreon.com/radioninjapirata" target="_blank"><img src="assets/patreon_black_logo_500x500.png" alt="patreon" height="45" width="45" /></a> | <a href="https://liberapay.com/RadioNinjaPirata/donate" target="_blank"><img src="assets/liberapay_logo_500x500.png" alt="liberapay" height="45" width="45" /></a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWGZ3KKDLEDUE&source=url" target="_blank"><img src="assets/paypal_black_logo_500x500.png" alt="paypal" height="45" width="45" /></a> |
