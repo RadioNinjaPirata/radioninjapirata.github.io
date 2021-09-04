@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/0tLZbuMt8NUXyNYR4NVkrJ?si=lUqmwIFRR2KJss1PmQUt-A)
 
-<a href="https://open.spotify.com/playlist/0tLZbuMt8NUXyNYR4NVkrJ?si=lUqmwIFRR2KJss1PmQUt-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27363968dd458913aee8bd800aeab67616d0000b27385547352ca6cc99e9511789cab67616d0000b27395ec3bafc1e2245c512d10c1ab67616d0000b273fed4807486ac43db6a4b89a6" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/0tLZbuMt8NUXyNYR4NVkrJ?si=lUqmwIFRR2KJss1PmQUt-A" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2734931711be21308fa8d6b0310ab67616d0000b273d1c39badb8a7e6e980f01528ab67616d0000b273d51fc76faa04160c3c1325faab67616d0000b273ed22418a6bef7950bc29b2c5" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/0tLZbuMt8NUXyNYR4NVkrJ" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -41,5 +41,6 @@ No. | Band | Avatar
 4 | **Aurora Halal** | <a href="https://open.spotify.com/artist/4I8qgsaz4mQa9ICeCPibIF?si=EVD27v4OTIO-PT9uttxxDw" target="_blank"><img src="https://i.scdn.co/image/3ebb5c56e7e0b0c8fca5b3ca2b3f607ad3ef5d14" height="100" width="auto" style="border-radius:50%"></a>
 5 | **Charlotte De Witte** | <a href="https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso?si=lngxp0BhQASOaKentfkuQw" target="_blank"><img src="https://i.scdn.co/image/49f6e21a2d8e38fd1438ad0f3bac9aad6bbcf796" height="100" width="auto" style="border-radius:50%"></a>
 6 | **Ellen Allien** | <a href="https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up?si=9LSaLjtfSt62O8EaRSJn-g" target="_blank"><img src="https://i.scdn.co/image/9c7e2f937be50c3c4ca96c41ef04792ce356f188" height="100" width="auto" style="border-radius:50%"></a>
-7 | **Helena Hauff** | <a href="https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN?si=HkmAaRG0Ska5k5AO_yKvRA" target="_blank"><img src="https://i.scdn.co/image/2eda2ab230caad70c0519e7093c06db32c90edd4" height="100" width="auto" style="border-radius:50%"></a>
-8 | **Umfang** | <a href="https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3?si=gk2VqEdjT6-sYoAGyvNS_A" target="_blank"><img src="https://i.scdn.co/image/2a39a168a021a641f82fb9f3d57bdaafb01526c8" height="100" width="auto" style="border-radius:50%"></a>
+7 | **Fatima Hajji** | <a href="https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci" target="_blank"><img src="https://i.scdn.co/image/c61c5a36fed5b42b696028ee6a3fb8b337f2d9a3" height="100" width="auto" style="border-radius:50%"></a>
+8 | **Helena Hauff** | <a href="https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN?si=HkmAaRG0Ska5k5AO_yKvRA" target="_blank"><img src="https://i.scdn.co/image/2eda2ab230caad70c0519e7093c06db32c90edd4" height="100" width="auto" style="border-radius:50%"></a>
+9 | **Umfang** | <a href="https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3?si=gk2VqEdjT6-sYoAGyvNS_A" target="_blank"><img src="https://i.scdn.co/image/2a39a168a021a641f82fb9f3d57bdaafb01526c8" height="100" width="auto" style="border-radius:50%"></a>
