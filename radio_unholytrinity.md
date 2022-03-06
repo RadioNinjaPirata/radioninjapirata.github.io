@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/3A0Gj2gPShmHlhTEKaMwTO?si=1AGHZ8yvR9iqdwOLojGjqg)
 
-<a href="https://open.spotify.com/playlist/3A0Gj2gPShmHlhTEKaMwTO?si=1AGHZ8yvR9iqdwOLojGjqg" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b2730c045342c0a7e4f1bc5c6ee3ab67616d0000b2733c5d0c9655047523aeb56af9ab67616d0000b273c77c73285cc5cb64d97e1b0fab67616d0000b273db2d60598b32de96a6c38a3a" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/3A0Gj2gPShmHlhTEKaMwTO?si=1AGHZ8yvR9iqdwOLojGjqg" target="_blank"><img src="https://i.scdn.co/image/ab67706c0000bebb3793351f977b2b2ebf711315" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/3A0Gj2gPShmHlhTEKaMwTO" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -36,5 +36,5 @@ We are building daily! Stay tuned for updates. :-)
 No. | Band | Avatar
 --- | ---- | ------
 1 | **Black Sabbath** | <a href="https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ" target="_blank"><img src="https://i.scdn.co/image/6f37a1025ba3f8e2dbb3b15cf30016ff728ba51d" height="100" width="auto" style="border-radius:50%"></a>
-2 | **Deep Purple** | <a href="https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf" target="_blank"><img src="https://i.scdn.co/image/ca83593d28fb361d10519fbb60f62d923f3381be" height="100" width="auto" style="border-radius:50%"></a>
+2 | **Deep Purple** | <a href="https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf" target="_blank"><img src="https://i.scdn.co/image/ab6761610000517423a7b4c49d285729a974d6dd" height="100" width="auto" style="border-radius:50%"></a>
 3 | **Led Zeppelin** | <a href="https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp" target="_blank"><img src="https://i.scdn.co/image/b0248a44865493e6a03832aa89854ada16ff07a8" height="100" width="auto" style="border-radius:50%"></a>

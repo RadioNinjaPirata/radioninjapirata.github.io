@@ -5,7 +5,7 @@
 
 ## [Listen to our 40'2 radio on Spotify](https://open.spotify.com/playlist/24cx5mvh0elqPsuZIvTAdz?si=OsTlfgX5SRyP05Dspjz3ug)
 
-<a href="https://open.spotify.com/playlist/24cx5mvh0elqPsuZIvTAdz?si=OsTlfgX5SRyP05Dspjz3ug" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b27303c100a7bac95d341797f8a6ab67616d0000b2732b3550a1ac7f8ab92dfa94f3ab67616d0000b273c1e0f68665632d6953f11e9cab67616d0000b273d0187aa32b14750e052653ec" height="300" width="auto" style="border-radius:50%"></a>
+<a href="https://open.spotify.com/playlist/24cx5mvh0elqPsuZIvTAdz?si=OsTlfgX5SRyP05Dspjz3ug" target="_blank"><img src="https://mosaic.scdn.co/640/ab67616d0000b273ab76e532fa011e617a8f29feab67616d0000b273b2c37b66924bba03fd77d558ab67616d0000b273d8df62dd4bc86e9e94abb0f0ab67616d0000b273da35291803d174568b398b68" height="300" width="auto" style="border-radius:50%"></a>
 
 <iframe src="https://open.spotify.com/embed/playlist/24cx5mvh0elqPsuZIvTAdz" width="300" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -86,13 +86,13 @@ No. | Band | Avatar
 49 | **Howlin' Wolf** | <a href="https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR" target="_blank"><img src="https://i.scdn.co/image/d436651ba6b691a4b1bf631e1020d04967c16089" height="100" width="auto" style="border-radius:50%"></a>
 50 | **Janis Joplin** | <a href="https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC" target="_blank"><img src="https://i.scdn.co/image/f2ee86bfb2bf2bb2a1951dea0d0c6daaf7f78d56" height="100" width="auto" style="border-radius:50%"></a>
 51 | **Jeff Beck** | <a href="https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl" target="_blank"><img src="https://i.scdn.co/image/3248e1b9aa107aba3fda7eda239d5fe581bc0092" height="100" width="auto" style="border-radius:50%"></a>
-52 | **Jimi Hendrix** | <a href="https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4" target="_blank"><img src="https://i.scdn.co/image/4b558965f7e515f73d68964b7ca364c950a0b815" height="100" width="auto" style="border-radius:50%"></a>
+52 | **Jimi Hendrix** | <a href="https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4" target="_blank"><img src="https://i.scdn.co/image/ab6761610000517431f6ab67e6025de876475814" height="100" width="auto" style="border-radius:50%"></a>
 53 | **Jimmie Vaughan** | <a href="https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae" target="_blank"><img src="https://i.scdn.co/image/8c24d74e65ceb596d274b0411d3042470975db7e" height="100" width="auto" style="border-radius:50%"></a>
 54 | **Jimmy Dawkins** | <a href="https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc" target="_blank"><img src="https://i.scdn.co/image/583d9c1d0845d9e5a6a7c1d5a3b60727fc241093" height="100" width="auto" style="border-radius:50%"></a>
 55 | **Jimmy Reed** | <a href="https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV" target="_blank"><img src="https://i.scdn.co/image/ccaa66f1390cd7f0fbbae411bbf25517cbb071ee" height="100" width="auto" style="border-radius:50%"></a>
 56 | **Jimmy Rogers** | <a href="https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0" target="_blank"><img src="https://i.scdn.co/image/0257d4de509cbe85686ec6f9a99c02a85e64cd52" height="100" width="auto" style="border-radius:50%"></a>
 57 | **Joanne Shaw Taylor** | <a href="https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7" target="_blank"><img src="https://i.scdn.co/image/57bbbdb33d6fd5ea0bf4d0a39d78c3f8d1d70b9b" height="100" width="auto" style="border-radius:50%"></a>
-58 | **Joe Bonamassa** | <a href="https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ" target="_blank"><img src="https://i.scdn.co/image/0523f9572c24072b7204d9fc5973c70080fcd167" height="100" width="auto" style="border-radius:50%"></a>
+58 | **Joe Bonamassa** | <a href="https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ" target="_blank"><img src="https://i.scdn.co/image/ab67616100005174ec33bd8fc7f83b842c5d08a8" height="100" width="auto" style="border-radius:50%"></a>
 59 | **John Lee Hooker** | <a href="https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x" target="_blank"><img src="https://i.scdn.co/image/cf841663e2a09d52308cb7f4c9672b8689f6c775" height="100" width="auto" style="border-radius:50%"></a>
 60 | **John Mayall & The Bluesbreakers** | <a href="https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC" target="_blank"><img src="https://i.scdn.co/image/ab67616d00001e02c40ff56a16cebb8f30af1f66" height="100" width="auto" style="border-radius:50%"></a>
 61 | **Johnny "Guitar" Watson** | <a href="https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl" target="_blank"><img src="https://i.scdn.co/image/7acca838c6efc28b1c138720e79f8fb81fcd91f2" height="100" width="auto" style="border-radius:50%"></a>
