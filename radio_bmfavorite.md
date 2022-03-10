@@ -1,4 +1,4 @@
-# BM Favorite
+# Our favorite Black Metal
 
 **40 different tracks every 2 hours!**
 
